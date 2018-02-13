@@ -1,0 +1,2 @@
+Working_directory	Annotation_table	Mapper_file
+C:/Users/HDHARURI/Desktop/SVN_Harish2/CDISC_conversion/TCGA-related_resources/To Convert/cqcf	nationwidechildrens.org_clinical_cqcf_luad.txt	cqcfMapper.txt
