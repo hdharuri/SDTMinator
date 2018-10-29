@@ -1,0 +1,183 @@
+STUDYID	DOMAIN	USUBJID	RSSEQ	RSGRPID	RSREFID	RSSPID	RSLNKID	RSLNKGRP	RSTESTCD	RSTEST	RSCAT	RSORRES	RSSTRESC	RSSTAT	RSREASND	RSNAM	RSEVAL	RSEVALID	RSACPTFL	VISITNUM	VISIT	VISITDY	EPOCH	RSDTC	RSDY	RSMODIFY	RSTSTDTL	RSSCAT	RSPOS	RSBODSYS	RSORRESU	RSORNRLO	RSORNRHI	RSSTRESN	RSSTRESU	RSRESCAT	RSSTNRLO	RSSTNRHI	RSSTNRC	RSNRIND	RSXFN	RSLOINC	RSSPEC	RSANTREG	RSSPCCND	RSSPCUFL	RSLOC	RSLAT	RSDIR	RSPORTOT	RSMETHOD	RSRUNID	RSANMETH	RSLEAD	RSCSTATE	RSFAST	RSBLFL	RSDRVFL	RSTOX	RSTOXGR	RSSEV	RSDTHREL	RSLLOQ	RSULOQ	RSENDTC	RSRFTDTC	RSTPT	RSTPTNUM	RSELTM	RSTPTREF	RSEVLINT	RSSTINT	RSENINT	RSEXCLFL	RSREASEX	POOLID	SPDEVID	TAETORD	RSSTDTC	RSSTDY	RSENDY	RSDUR	RSEVINTX	RSSTRTPT	RSSTTPT	RSENRTPT	RSENTPT
+GSE23597	RS	IBD-00124	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00124	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00125	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00125	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00126	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00126	2						THERRESP	Therapy Response		No Clinical Response	No Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00127	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00127	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+E-MTAB-331	RS	IBD-00550	1						ITHERRES	Initial Therapy Response		Partial Response	Partial Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-00550	2						FTHERRES	Follow-Up Therapy Response		Complete Remission	Complete Response																																																																										
+GSE21231	RS	IBD-00554	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00555	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00556	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00557	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00558	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00559	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00560	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00561	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00562	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00563	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00564	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00565	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00566	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00567	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00568	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00569	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00570	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00571	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00572	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00573	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00574	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00575	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00576	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00577	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00578	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00579	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00580	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00581	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00582	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00583	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00584	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00585	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00586	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00587	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00588	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00589	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00590	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00591	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00592	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE21231	RS	IBD-00593	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE23597	RS	IBD-00859	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00859	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00860	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00860	2						THERRESP	Therapy Response		No Clinical Response	No Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00861	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00861	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00862	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00862	2						THERRESP	Therapy Response		No Clinical Response	No Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00863	1						THERRESP	Therapy Response		No Clinical Response	No Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00863	2						THERRESP	Therapy Response		No Clinical Response	No Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00864	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00864	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00865	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00865	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00866	1						THERRESP	Therapy Response		No Clinical Response	No Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00866	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00867	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00867	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00868	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00868	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00869	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00869	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00870	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00870	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00871	1						THERRESP	Therapy Response		No Clinical Response	No Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00871	2						THERRESP	Therapy Response		No Clinical Response	No Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00872	1						THERRESP	Therapy Response		No Clinical Response	No Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00872	2						THERRESP	Therapy Response		No Clinical Response	No Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00873	1						THERRESP	Therapy Response		No Clinical Response	No Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00873	2						THERRESP	Therapy Response		No Clinical Response	No Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00874	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00874	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00875	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00875	2						THERRESP	Therapy Response		No Clinical Response	No Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00876	1						THERRESP	Therapy Response		No Clinical Response	No Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00876	2						THERRESP	Therapy Response		No Clinical Response	No Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00877	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00877	2						THERRESP	Therapy Response		No Clinical Response	No Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00878	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00878	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00879	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00879	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00880	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00880	2						THERRESP	Therapy Response		No Clinical Response	No Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00881	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00881	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00882	1						THERRESP	Therapy Response		No Clinical Response	No Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00882	2						THERRESP	Therapy Response		No Clinical Response	No Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00883	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00883	2						THERRESP	Therapy Response		No Clinical Response	No Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00884	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00884	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00885	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00885	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00886	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00886	2						THERRESP	Therapy Response		No Clinical Response	No Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00887	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00887	2						THERRESP	Therapy Response		No Clinical Response	No Response												211																										MULTIPLE																																				
+GSE23597	RS	IBD-00888	1						THERRESP	Therapy Response		Clinical Response	Response												57																										MULTIPLE																																				
+GSE23597	RS	IBD-00888	2						THERRESP	Therapy Response		Clinical Response	Response												211																										MULTIPLE																																				
+GSE16879	RS	IBD-00921	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00922	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00924	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00926	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00927	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00928	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00929	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00930	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00932	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00933	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00935	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00936	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00937	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00938	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00939	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00940	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00941	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00942	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00944	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00945	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00946	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00947	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00948	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+GSE16879	RS	IBD-00949	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01028	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01030	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01031	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01031	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01033	1						ITHERRES	Initial Therapy Response		No Response	No Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01033	2						FTHERRES	Follow-Up Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01033	3						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01034	1						ITHERRES	Initial Therapy Response		Partial Response	Partial Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01034	2						FTHERRES	Follow-Up Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01034	3						FTHERRES	Follow-Up Therapy Response		Partial Response	Partial Response																																																																										
+E-MTAB-331	RS	IBD-01036	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01037	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01039	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01039	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01040	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01040	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01042	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01043	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01045	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01047	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01048	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01050	1						ITHERRES	Initial Therapy Response		Partial Remission	Partial Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01050	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01051	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01053	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01053	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01054	1						ITHERRES	Initial Therapy Response		Partial Response	Partial Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01054	2						FTHERRES	Follow-Up Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01056	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01056	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01057	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01059	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01059	2						FTHERRES	Follow-Up Therapy Response		Failed to Respond	No Response																																																																										
+E-MTAB-331	RS	IBD-01059	3						FTHERRES	Follow-Up Therapy Response		Completely Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01059	4						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01060	1						ITHERRES	Initial Therapy Response		Complete Response	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01060	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01062	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01062	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01063	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01065	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01066	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01067	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01068	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01068	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01069	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01070	1						ITHERRES	Initial Therapy Response		Complete Response	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
+E-MTAB-331	RS	IBD-01075	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																						4-6 WEEKS	3	P4W/P6W	FIRST INFLIXIMAB INFUSION																	
