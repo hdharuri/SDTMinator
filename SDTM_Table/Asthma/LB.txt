@@ -1,0 +1,730 @@
+STUDYID	DOMAIN	USUBJID	LBSEQ	LBGRPID	LBREFID	LBSPID	LBTESTCD	LBTEST	LBCAT	LBSCAT	LBORRES	LBORRESU	LBORNRLO	LBORNRHI	LBSTRESC	LBSTRESN	LBSTRESU	LBSTNRLO	LBSTNRHI	LBSTNRC	LBNRIND	LBSTAT	LBREASND	LBNAM	LBLOINC	LBSPEC	LBSPCCND	LBMETHOD	LBBLFL	LBFAST	LBDRVFL	LBTOX	LBTOXGR	VISITNUM	VISIT	VISITDY	LBDTC	LBENDTC	LBDY	LBTPT	LBTPTNUM	LBELTM	LBTPTREF	LBRFTDTC	LBLNKID	LBLNKGRP	LBMODIFY	LBTSTDTL	LBPOS	LBBODSYS	LBRESCAT	LBXFN	LBANTREG	LBSPCUFL	LBLOC	LBLAT	LBDIR	LBPORTOT	LBRUNID	LBANMETH	LBLEAD	LBCSTATE	LBEVAL	LBEVALID	LBACPTFL	LBSEV	LBDTHREL	LBLLOQ	LBULOQ	EPOCH	LBRFTDTC	LBEVLINT	LBSTINT	LBENINT	LBEXCLFL	LBREASEX	POOLID	SPDEVID	TAETORD	LBSTDTC	LBSTDY	LBENDY	LBDUR	LBEVINTX	LBSTRTPT	LBSTTPT	LBENRTPT	LBENTPT
+GSE19301	LB	AST-00001	1				MONOLY	Monocytes/Lymphocytes			0.1843													AARI						Y				20	Quiet (no asthma attack)		2/27/2003		1																																																	
+GSE19301	LB	AST-00001	2				MONOLY	Monocytes/Lymphocytes			0.1068													AARI						Y				30	Quiet (no asthma attack)		5/19/2003		82																																																	
+GSE19301	LB	AST-00001	3				MONOLY	Monocytes/Lymphocytes			0.1299													AARI						Y				40	Exacerbation (asthma symptoms during 14d window)		7/28/2003		152																																																	
+GSE19301	LB	AST-00001	4				MONOLY	Monocytes/Lymphocytes			0.1169													AARI						Y				41	Follow-up (within 14days after asthma symptoms ended)		8/6/2003		161																																																	
+GSE19301	LB	AST-00001	5				MONOLY	Monocytes/Lymphocytes			0.1884													AARI						Y				50	Quiet (no asthma attack)		11/26/2003		273																																																	
+GSE19301	LB	AST-00001	6				MONOLY	Monocytes/Lymphocytes			0.1667													AARI						Y				60	Quiet (no asthma attack)		2/25/2004		364																																																	
+GSE19301	LB	AST-00002	1				MONOLY	Monocytes/Lymphocytes			0.1899													AARI						Y				20	Quiet (no asthma attack)		2/27/2003		1																																																	
+GSE19301	LB	AST-00002	2				MONOLY	Monocytes/Lymphocytes			0.134													AARI						Y				30	Quiet (no asthma attack)		5/20/2003		83																																																	
+GSE19301	LB	AST-00002	3				MONOLY	Monocytes/Lymphocytes			0.1344													AARI						N				40	Quiet (no asthma attack)		7/21/2003		145																																																	
+GSE19301	LB	AST-00002	4				MONOLY	Monocytes/Lymphocytes			0.1895													AARI						Y				50	Exacerbation (asthma symptoms during 14d window)		11/5/2003		252																																																	
+GSE19301	LB	AST-00002	5				MONOLY	Monocytes/Lymphocytes			0.1492													AARI						N				60	Quiet (no asthma attack)		2/9/2004		348																																																	
+GSE19301	LB	AST-00003	1				MONOLY	Monocytes/Lymphocytes			0.1688													AARI						Y				30	Quiet (no asthma attack)		5/27/2003		1																																																	
+GSE19301	LB	AST-00003	2				MONOLY	Monocytes/Lymphocytes			0.242													AARI						Y				40	Quiet (no asthma attack)		8/19/2003		85																																																	
+GSE19301	LB	AST-00003	3				MONOLY	Monocytes/Lymphocytes			0.4227													AARI						Y				50	Exacerbation (asthma symptoms during 14d window)		10/8/2003		135																																																	
+GSE19301	LB	AST-00003	4				MONOLY	Monocytes/Lymphocytes			0.2171													AARI						Y				60	Quiet (no asthma attack)		2/12/2004		262																																																	
+GSE19301	LB	AST-00004	1				MONOLY	Monocytes/Lymphocytes			0.1434													AARI						Y				20	Quiet (no asthma attack)		3/19/2003		1																																																	
+GSE19301	LB	AST-00004	2				MONOLY	Monocytes/Lymphocytes			0.2121													AARI						Y				30	Quiet (no asthma attack)		4/28/2003		41																																																	
+GSE19301	LB	AST-00004	3				MONOLY	Monocytes/Lymphocytes			0.1937													AARI						Y				40	Quiet (no asthma attack)		7/14/2003		118																																																	
+GSE19301	LB	AST-00004	4				MONOLY	Monocytes/Lymphocytes			0.2632													AARI						Y				50	Exacerbation (asthma symptoms during 14d window)		11/17/2003		244																																																	
+GSE19301	LB	AST-00004	5				MONOLY	Monocytes/Lymphocytes			0.251													AARI						Y				51	Follow-up (within 14days after asthma symptoms ended)		12/1/2003		258																																																	
+GSE19301	LB	AST-00004	6				MONOLY	Monocytes/Lymphocytes			0.1784													AARI						Y				60	Quiet (no asthma attack)		2/23/2004		342																																																	
+GSE19301	LB	AST-00005	1				MONOLY	Monocytes/Lymphocytes			0.122													AARI						Y				20	Quiet (no asthma attack)		3/18/2003		1																																																	
+GSE19301	LB	AST-00005	2				MONOLY	Monocytes/Lymphocytes			0.1423													AARI						Y				30	Quiet (no asthma attack)		6/10/2003		85																																																	
+GSE19301	LB	AST-00005	3				MONOLY	Monocytes/Lymphocytes			0.1667													AARI						Y				40	Exacerbation (asthma symptoms during 14d window)		7/14/2003		119																																																	
+GSE19301	LB	AST-00005	4				MONOLY	Monocytes/Lymphocytes			0.1314													AARI						Y				41	Follow-up (within 14days after asthma symptoms ended)		7/29/2003		134																																																	
+GSE19301	LB	AST-00005	5				MONOLY	Monocytes/Lymphocytes			0.1163													AARI						Y				50	Quiet (no asthma attack)		11/18/2003		246																																																	
+GSE19301	LB	AST-00005	6				MONOLY	Monocytes/Lymphocytes			0.1085													AARI						Y				60	Quiet (no asthma attack)		3/4/2004		353																																																	
+GSE19301	LB	AST-00006	1				MONOLY	Monocytes/Lymphocytes			0.2934													AARI						Y				20	Quiet (no asthma attack)		3/24/2003		1																																																	
+GSE19301	LB	AST-00006	2				MONOLY	Monocytes/Lymphocytes			0.3025													AARI						Y				40	Quiet (no asthma attack)		8/12/2003		142																																																	
+GSE19301	LB	AST-00006	3				MONOLY	Monocytes/Lymphocytes			0.4345													AARI						Y				50	Exacerbation (asthma symptoms during 14d window)		12/8/2003		260																																																	
+GSE19301	LB	AST-00006	4				MONOLY	Monocytes/Lymphocytes			0.4772													AARI						Y				51	Follow-up (within 14days after asthma symptoms ended)		12/18/2003		270																																																	
+GSE19301	LB	AST-00006	5				MONOLY	Monocytes/Lymphocytes			0.3319													AARI						Y				60	Quiet (no asthma attack)		3/16/2004		359																																																	
+GSE19301	LB	AST-00007	1				MONOLY	Monocytes/Lymphocytes			0.148													AARI						Y				20	Quiet (no asthma attack)		4/22/2003		1																																																	
+GSE19301	LB	AST-00007	2				MONOLY	Monocytes/Lymphocytes			0.2059													AARI						N				30	Quiet (no asthma attack)		7/17/2003		87																																																	
+GSE19301	LB	AST-00007	3				MONOLY	Monocytes/Lymphocytes			0.5612													AARI						Y				40	Exacerbation (asthma symptoms during 14d window)		10/16/2003		178																																																	
+GSE19301	LB	AST-00007	4				MONOLY	Monocytes/Lymphocytes			0.1854													AARI						Y				51	Exacerbation (asthma symptoms during 14d window)		11/11/2003		204																																																	
+GSE19301	LB	AST-00008	1				MONOLY	Monocytes/Lymphocytes			0.0462													AARI						Y				20	Quiet (no asthma attack)		5/5/2003		1																																																	
+GSE19301	LB	AST-00008	2				MONOLY	Monocytes/Lymphocytes			0.0303													AARI						Y				30	Exacerbation (asthma symptoms during 14d window)		5/29/2003		25																																																	
+GSE19301	LB	AST-00008	3				MONOLY	Monocytes/Lymphocytes			0.3524													AARI						Y				31	Follow-up (within 14days after asthma symptoms ended)		6/11/2003		38																																																	
+GSE19301	LB	AST-00008	4				MONOLY	Monocytes/Lymphocytes			0.3784													AARI						Y				40	Quiet (no asthma attack)		10/27/2003		176																																																	
+GSE19301	LB	AST-00008	5				MONOLY	Monocytes/Lymphocytes			0.4359													AARI						N				50	Quiet (no asthma attack)		1/12/2004		253																																																	
+GSE19301	LB	AST-00008	6				MONOLY	Monocytes/Lymphocytes			0.3158													AARI						Y				60	Quiet (no asthma attack)		5/3/2004		365																																																	
+GSE19301	LB	AST-00009	1				MONOLY	Monocytes/Lymphocytes			0.1483													AARI						Y				30	Quiet (no asthma attack)		6/25/2003		1																																																	
+GSE19301	LB	AST-00009	2				MONOLY	Monocytes/Lymphocytes			0.1429													AARI						Y				40	Quiet (no asthma attack)		8/27/2003		64																																																	
+GSE19301	LB	AST-00009	3				MONOLY	Monocytes/Lymphocytes			0.2009													AARI						Y				50	Quiet (no asthma attack)		1/21/2004		211																																																	
+GSE19301	LB	AST-00009	4				MONOLY	Monocytes/Lymphocytes			0.2064													AARI						Y				60	Exacerbation (asthma symptoms during 14d window)		5/25/2004		336																																																	
+GSE19301	LB	AST-00009	5				MONOLY	Monocytes/Lymphocytes			0.2205													AARI						Y				61	Follow-up (within 14days after asthma symptoms ended)		6/8/2004		350																																																	
+GSE19301	LB	AST-00010	1				MONOLY	Monocytes/Lymphocytes			0.25													AARI						Y				20	Quiet (no asthma attack)		6/18/2003		1																																																	
+GSE19301	LB	AST-00010	2				MONOLY	Monocytes/Lymphocytes			0.3191													AARI						Y				30	Exacerbation (asthma symptoms during 14d window)		7/23/2003		36																																																	
+GSE19301	LB	AST-00010	3				MONOLY	Monocytes/Lymphocytes			0.3935													AARI						Y				40	Quiet (no asthma attack)		11/6/2003		142																																																	
+GSE19301	LB	AST-00010	4				MONOLY	Monocytes/Lymphocytes			0.4566													AARI						Y				50	Quiet (no asthma attack)		2/4/2004		232																																																	
+GSE19301	LB	AST-00010	5				MONOLY	Monocytes/Lymphocytes			0.2598													AARI						Y				60	Exacerbation (asthma symptoms during 14d window)		4/7/2004		295																																																	
+GSE19301	LB	AST-00010	6				MONOLY	Monocytes/Lymphocytes			0.3188													AARI						N				61	Follow-up (within 14days after asthma symptoms ended)		4/22/2004		310																																																	
+GSE19301	LB	AST-00011	1				MONOLY	Monocytes/Lymphocytes			0.2246													AARI						Y				20	Quiet (no asthma attack)		6/23/2003		1																																																	
+GSE19301	LB	AST-00011	2				MONOLY	Monocytes/Lymphocytes			0.1591													AARI						Y				30	Quiet (no asthma attack)		9/10/2003		80																																																	
+GSE19301	LB	AST-00011	3				MONOLY	Monocytes/Lymphocytes			0.5536													AARI						N				40	Exacerbation (asthma symptoms during 14d window)		10/14/2003		114																																																	
+GSE19301	LB	AST-00011	4				MONOLY	Monocytes/Lymphocytes			0.1452													AARI						Y				41	Follow-up (within 14days after asthma symptoms ended)		10/22/2003		122																																																	
+GSE19301	LB	AST-00011	5				MONOLY	Monocytes/Lymphocytes			0.2117													AARI						Y				50	Quiet (no asthma attack)		1/15/2004		207																																																	
+GSE19301	LB	AST-00011	6				MONOLY	Monocytes/Lymphocytes			0.3375													AARI						N				60	Exacerbation (asthma symptoms during 14d window)		5/19/2004		332																																																	
+GSE19301	LB	AST-00012	1				MONOLY	Monocytes/Lymphocytes			0.115													AARI						Y				20	Quiet (no asthma attack)		7/24/2003		1																																																	
+GSE19301	LB	AST-00012	2				MONOLY	Monocytes/Lymphocytes			0.1784													AARI						Y				30	Exacerbation (asthma symptoms during 14d window)		10/16/2003		85																																																	
+GSE19301	LB	AST-00012	3				MONOLY	Monocytes/Lymphocytes			0.1559													AARI						Y				40	Follow-up (within 14days after asthma symptoms ended)		10/30/2003		99																																																	
+GSE19301	LB	AST-00012	4				MONOLY	Monocytes/Lymphocytes			0.1264													AARI						Y				50	Quiet (no asthma attack)		2/5/2004		197																																																	
+GSE19301	LB	AST-00012	5				MONOLY	Monocytes/Lymphocytes			0.2169													AARI						N				60	Quiet (no asthma attack)		6/24/2004		337																																																	
+GSE19301	LB	AST-00013	1				MONOLY	Monocytes/Lymphocytes			0.177													AARI						Y				20	Quiet (no asthma attack)		8/7/2003		1																																																	
+GSE19301	LB	AST-00013	2				MONOLY	Monocytes/Lymphocytes			0.2011													AARI						Y				30	Exacerbation (asthma symptoms during 14d window)		10/27/2003		82																																																	
+GSE19301	LB	AST-00013	3				MONOLY	Monocytes/Lymphocytes			0.3103													AARI						N				40	Follow-up (within 14days after asthma symptoms ended)		11/20/2003		106																																																	
+GSE19301	LB	AST-00013	4				MONOLY	Monocytes/Lymphocytes			0.2273													AARI						Y				50	Quiet (no asthma attack)		2/19/2004		197																																																	
+GSE19301	LB	AST-00013	5				MONOLY	Monocytes/Lymphocytes			0.2164													AARI						Y				60	Quiet (no asthma attack)		8/3/2004		363																																																	
+GSE19301	LB	AST-00014	1				MONOLY	Monocytes/Lymphocytes			0.1484													AARI						Y				30	Quiet (no asthma attack)		5/20/2003		1																																																	
+GSE19301	LB	AST-00014	2				MONOLY	Monocytes/Lymphocytes			0.1412													AARI						N				51	Exacerbation (asthma symptoms during 14d window)		11/19/2003		184																																																	
+GSE19301	LB	AST-00015	1				MONOLY	Monocytes/Lymphocytes			0.1468													AARI						N				30	Quiet (no asthma attack)		6/17/2003		1																																																	
+GSE19301	LB	AST-00015	2				MONOLY	Monocytes/Lymphocytes			0.1483													AARI						Y				40	Exacerbation (asthma symptoms during 14d window)		9/3/2003		79																																																	
+GSE19301	LB	AST-00015	3				MONOLY	Monocytes/Lymphocytes			0													AARI						Y				41	Follow-up (within 14days after asthma symptoms ended)		9/17/2003		93																																																	
+GSE19301	LB	AST-00015	4				MONOLY	Monocytes/Lymphocytes			0.0496													AARI						N				50	Quiet (no asthma attack)		11/11/2003		148																																																	
+GSE19301	LB	AST-00016	1				MONOLY	Monocytes/Lymphocytes			0.1762													AARI						N				20	Quiet (no asthma attack)		4/16/2003		1																																																	
+GSE19301	LB	AST-00016	2				MONOLY	Monocytes/Lymphocytes			0.2414													AARI						N				40	Exacerbation (asthma symptoms during 14d window)		8/12/2003		119																																																	
+GSE19301	LB	AST-00016	3				MONOLY	Monocytes/Lymphocytes			0.1716													AARI						N				41	Follow-up (within 14days after asthma symptoms ended)		8/19/2003		126																																																	
+GSE19301	LB	AST-00016	4				MONOLY	Monocytes/Lymphocytes			0.3945													AARI						N				50	Quiet (no asthma attack)		1/6/2004		266																																																	
+GSE19301	LB	AST-00016	5				MONOLY	Monocytes/Lymphocytes			0.3238													AARI						N				60	Quiet (no asthma attack)		3/26/2004		346																																																	
+GSE19301	LB	AST-00016	6				MONOLY	Monocytes/Lymphocytes			0.4976													AARI						N				61	Exacerbation (asthma symptoms during 14d window)		4/16/2004		367																																																	
+GSE19301	LB	AST-00016	7				MONOLY	Monocytes/Lymphocytes			0.4333													AARI						N				62	Follow-up (within 14days after asthma symptoms ended)		5/4/2004		385																																																	
+GSE19301	LB	AST-00017	1				MONOLY	Monocytes/Lymphocytes			0.3125													AARI						N				20	Quiet (no asthma attack)		4/30/2003		1																																																	
+GSE19301	LB	AST-00017	2				MONOLY	Monocytes/Lymphocytes			0.3636													AARI						N				30	Quiet (no asthma attack)		7/23/2003		85																																																	
+GSE19301	LB	AST-00017	3				MONOLY	Monocytes/Lymphocytes			0.3224													AARI						N				40	Quiet (no asthma attack)		10/1/2003		155																																																	
+GSE19301	LB	AST-00017	4				MONOLY	Monocytes/Lymphocytes			0.2407													AARI						N				41	Exacerbation (asthma symptoms during 14d window)		10/27/2003		181																																																	
+GSE19301	LB	AST-00017	5				MONOLY	Monocytes/Lymphocytes			0.2819													AARI						N				50	Follow-up (within 14days after asthma symptoms ended)		11/5/2003		190																																																	
+GSE19301	LB	AST-00018	1				MONOLY	Monocytes/Lymphocytes			0.1709													AARI						Y				20	Quiet (no asthma attack)		5/8/2003		1																																																	
+GSE19301	LB	AST-00018	2				MONOLY	Monocytes/Lymphocytes			0.1348													AARI						N				30	Quiet (no asthma attack)		8/4/2003		89																																																	
+GSE19301	LB	AST-00018	3				MONOLY	Monocytes/Lymphocytes			0.1799													AARI						N				40	Exacerbation (asthma symptoms during 14d window)		10/27/2003		173																																																	
+GSE19301	LB	AST-00018	4				MONOLY	Monocytes/Lymphocytes			0.2759													AARI						N				50	Follow-up (within 14days after asthma symptoms ended)		11/18/2003		195																																																	
+GSE19301	LB	AST-00018	5				MONOLY	Monocytes/Lymphocytes			0.1915													AARI						N				60	Quiet (no asthma attack)		4/5/2004		334																																																	
+GSE19301	LB	AST-00019	1				MONOLY	Monocytes/Lymphocytes			0.2324													AARI						N				20	Quiet (no asthma attack)		6/17/2003		1																																																	
+GSE19301	LB	AST-00019	2				MONOLY	Monocytes/Lymphocytes			0.1145													AARI						N				30	Quiet (no asthma attack)		8/13/2003		58																																																	
+GSE19301	LB	AST-00019	3				MONOLY	Monocytes/Lymphocytes			0.1135													AARI						N				31	Exacerbation (asthma symptoms during 14d window)		9/4/2003		80																																																	
+GSE19301	LB	AST-00019	4				MONOLY	Monocytes/Lymphocytes			0.1136													AARI						N				40	Follow-up (within 14days after asthma symptoms ended)		9/17/2003		93																																																	
+GSE19301	LB	AST-00019	5				MONOLY	Monocytes/Lymphocytes			0.1135													AARI						N				50	Quiet (no asthma attack)		2/25/2004		254																																																	
+GSE19301	LB	AST-00019	6				MONOLY	Monocytes/Lymphocytes			0.1189													AARI						N				60	Quiet (no asthma attack)		6/16/2004		366																																																	
+GSE19301	LB	AST-00020	1				MONOLY	Monocytes/Lymphocytes			0.3521													AARI						Y				30	Quiet (no asthma attack)		9/19/2003		1																																																	
+GSE19301	LB	AST-00020	2				MONOLY	Monocytes/Lymphocytes			0.4375													AARI						N				40	Exacerbation (asthma symptoms during 14d window)		10/20/2003		32																																																	
+GSE19301	LB	AST-00020	3				MONOLY	Monocytes/Lymphocytes			0.0341													AARI						N				60	Quiet (no asthma attack)		5/19/2004		244																																																	
+GSE19301	LB	AST-00021	1				MONOLY	Monocytes/Lymphocytes			0.1484													AARI						N				20	Quiet (no asthma attack)		7/17/2003		1																																																	
+GSE19301	LB	AST-00021	2				MONOLY	Monocytes/Lymphocytes			0.1563													AARI						N				30	Quiet (no asthma attack)		10/8/2003		84																																																	
+GSE19301	LB	AST-00021	3				MONOLY	Monocytes/Lymphocytes			0.1676													AARI						N				40	Quiet (no asthma attack)		1/7/2004		175																																																	
+GSE19301	LB	AST-00021	4				MONOLY	Monocytes/Lymphocytes			0.1089													AARI						Y				50	Exacerbation (asthma symptoms during 14d window)		3/16/2004		244																																																	
+GSE19301	LB	AST-00021	5				MONOLY	Monocytes/Lymphocytes			0.1366													AARI						N				51	Follow-up (within 14days after asthma symptoms ended)		3/29/2004		257																																																	
+GSE19301	LB	AST-00021	6				MONOLY	Monocytes/Lymphocytes			0.1209													AARI						N				60	Quiet (no asthma attack)		6/16/2004		336																																																	
+GSE19301	LB	AST-00022	1				MONOLY	Monocytes/Lymphocytes			0.1463													ICON-F						Not available				30	Exacerbation (asthma symptoms during 14d window)		4/15/2003		1																																																	
+GSE19301	LB	AST-00022	2				MONOLY	Monocytes/Lymphocytes			0.1433													ICON-F						N				31	Follow-up (within 14days after asthma symptoms ended)		4/24/2003		10																																																	
+GSE19301	LB	AST-00022	3				MONOLY	Monocytes/Lymphocytes			0.3													ICON-F						Y				40	Quiet (no asthma attack)		7/15/2003		92																																																	
+GSE19301	LB	AST-00022	4				MONOLY	Monocytes/Lymphocytes			0.184													ICON-F						Y				50	Quiet (no asthma attack)		9/16/2003		155																																																	
+GSE19301	LB	AST-00022	5				MONOLY	Monocytes/Lymphocytes			0.1801													ICON-F						Y				60	Quiet (no asthma attack)		12/9/2003		239																																																	
+GSE19301	LB	AST-00022	6				IgE	Immunoglobulin E			318													ICON-F						Not available				30	Exacerbation (asthma symptoms during 14d window)		4/15/2003		1																																																	
+GSE19301	LB	AST-00023	1				MONOLY	Monocytes/Lymphocytes			0.1411													ICON-F						Not available				20	Quiet (no asthma attack)		4/9/2003		1																																																	
+GSE19301	LB	AST-00023	2				MONOLY	Monocytes/Lymphocytes			0.1129													ICON-F						Y				30	Quiet (no asthma attack)		6/9/2003		62																																																	
+GSE19301	LB	AST-00023	3				MONOLY	Monocytes/Lymphocytes			0.1598													ICON-F						Y				50	Quiet (no asthma attack)		10/27/2003		202																																																	
+GSE19301	LB	AST-00023	4				MONOLY	Monocytes/Lymphocytes			0.1774													ICON-F						Y				51	Exacerbation (asthma symptoms during 14d window)		12/9/2003		245																																																	
+GSE19301	LB	AST-00023	5				MONOLY	Monocytes/Lymphocytes			0.1728													ICON-F						Y				52	Follow-up (within 14days after asthma symptoms ended)		12/23/2003		259																																																	
+GSE19301	LB	AST-00023	6				MONOLY	Monocytes/Lymphocytes			0.1472													ICON-F						N				60	Quiet (no asthma attack)		3/22/2004		349																																																	
+GSE19301	LB	AST-00023	7				IgE	Immunoglobulin E			213													ICON-F						Y				51	Exacerbation (asthma symptoms during 14d window)		12/9/2003		245																																																	
+GSE19301	LB	AST-00024	1				MONOLY	Monocytes/Lymphocytes			0.1958													ICON-F						Y				20	Quiet (no asthma attack)		8/5/2003		1																																																	
+GSE19301	LB	AST-00024	2				MONOLY	Monocytes/Lymphocytes			0.1859													ICON-F						Y				30	Quiet (no asthma attack)		9/30/2003		57																																																	
+GSE19301	LB	AST-00024	3				MONOLY	Monocytes/Lymphocytes			0.1581													ICON-F						Y				40	Quiet (no asthma attack)		12/9/2003		127																																																	
+GSE19301	LB	AST-00024	4				MONOLY	Monocytes/Lymphocytes			0.3724													ICON-F						Y				41	Exacerbation (asthma symptoms during 14d window)		12/30/2003		148																																																	
+GSE19301	LB	AST-00024	5				MONOLY	Monocytes/Lymphocytes			0.1905													ICON-F						Y				50	Quiet (no asthma attack)		3/9/2004		218																																																	
+GSE19301	LB	AST-00024	6				MONOLY	Monocytes/Lymphocytes			0.1667													ICON-F						Y				60	Quiet (no asthma attack)		5/13/2004		283																																																	
+GSE19301	LB	AST-00024	7				IgE	Immunoglobulin E			77													ICON-F						Y				41	Exacerbation (asthma symptoms during 14d window)		12/30/2003		148																																																	
+GSE19301	LB	AST-00025	1				MONOLY	Monocytes/Lymphocytes			0.1742													ICON-F						N				30	Quiet (no asthma attack)		6/9/2003		1																																																	
+GSE19301	LB	AST-00025	2				MONOLY	Monocytes/Lymphocytes			0.2222													ICON-F						N				40	Exacerbation (asthma symptoms during 14d window)		7/14/2003		36																																																	
+GSE19301	LB	AST-00025	3				MONOLY	Monocytes/Lymphocytes			0.2086													ICON-F						N				42	Exacerbation (asthma symptoms during 14d window)		8/25/2003		78																																																	
+GSE19301	LB	AST-00025	4				MONOLY	Monocytes/Lymphocytes			0.2207													ICON-F						N				43	Follow-up (within 14days after asthma symptoms ended)		9/8/2003		92																																																	
+GSE19301	LB	AST-00025	5				MONOLY	Monocytes/Lymphocytes			0.2982													ICON-F						N				50	Exacerbation (asthma symptoms during 14d window)		12/1/2003		176																																																	
+GSE19301	LB	AST-00025	6				MONOLY	Monocytes/Lymphocytes			0.2308													ICON-F						N				60	Quiet (no asthma attack)		2/23/2004		260																																																	
+GSE19301	LB	AST-00025	7				IgE	Immunoglobulin E			127													ICON-F						N				40	Exacerbation (asthma symptoms during 14d window)		7/14/2003		36																																																	
+GSE19301	LB	AST-00025	8				IgE	Immunoglobulin E			60													ICON-F						N				42	Exacerbation (asthma symptoms during 14d window)		8/25/2003		78																																																	
+GSE19301	LB	AST-00025	9				IgE	Immunoglobulin E			139													ICON-F						N				50	Exacerbation (asthma symptoms during 14d window)		12/1/2003		176																																																	
+GSE19301	LB	AST-00026	1				MONOLY	Monocytes/Lymphocytes			0.2131													ICON-F						Not available				30	Exacerbation (asthma symptoms during 14d window)		4/8/2003		1																																																	
+GSE19301	LB	AST-00026	2				MONOLY	Monocytes/Lymphocytes			0.2133													ICON-F						N				50	Exacerbation (asthma symptoms during 14d window)		10/17/2003		193																																																	
+GSE19301	LB	AST-00026	3				MONOLY	Monocytes/Lymphocytes			0.4234													ICON-F						N				60	Quiet (no asthma attack)		1/5/2004		273																																																	
+GSE19301	LB	AST-00026	4				IgE	Immunoglobulin E			75													ICON-F						Not available				30	Exacerbation (asthma symptoms during 14d window)		4/8/2003		1																																																	
+GSE19301	LB	AST-00026	5				IgE	Immunoglobulin E			119													ICON-F						N				50	Exacerbation (asthma symptoms during 14d window)		10/17/2003		193																																																	
+GSE19301	LB	AST-00027	1				MONOLY	Monocytes/Lymphocytes			0.1443													ICON-F						Not available				20	Quiet (no asthma attack)		3/24/2003		1																																																	
+GSE19301	LB	AST-00027	2				MONOLY	Monocytes/Lymphocytes			0.1464													ICON-F						Not available				30	Exacerbation (asthma symptoms during 14d window)		5/19/2003		57																																																	
+GSE19301	LB	AST-00027	3				MONOLY	Monocytes/Lymphocytes			0.1443													ICON-F						N				31	Follow-up (within 14days after asthma symptoms ended)		6/4/2003		73																																																	
+GSE19301	LB	AST-00027	4				MONOLY	Monocytes/Lymphocytes			0.1467													ICON-F						N				40	Quiet (no asthma attack)		10/9/2003		200																																																	
+GSE19301	LB	AST-00027	5				MONOLY	Monocytes/Lymphocytes			0.1852													ICON-F						N				50	Quiet (no asthma attack)		12/18/2003		270																																																	
+GSE19301	LB	AST-00027	6				MONOLY	Monocytes/Lymphocytes			0.1849													ICON-F						N				60	Quiet (no asthma attack)		12/29/2003		281																																																	
+GSE19301	LB	AST-00027	7				IgE	Immunoglobulin E			50													ICON-F						Not available				30	Exacerbation (asthma symptoms during 14d window)		5/19/2003		57																																																	
+GSE19301	LB	AST-00028	1				MONOLY	Monocytes/Lymphocytes			0.1043													ICON-F						Not available				20	Quiet (no asthma attack)		3/26/2003		1																																																	
+GSE19301	LB	AST-00028	2				MONOLY	Monocytes/Lymphocytes			0.0966													ICON-F						N				30	Quiet (no asthma attack)		6/18/2003		85																																																	
+GSE19301	LB	AST-00028	3				MONOLY	Monocytes/Lymphocytes			0.1223													ICON-F						N				40	Quiet (no asthma attack)		9/10/2003		169																																																	
+GSE19301	LB	AST-00028	4				MONOLY	Monocytes/Lymphocytes			0.1053													ICON-F						N				50	Quiet (no asthma attack)		12/2/2003		252																																																	
+GSE19301	LB	AST-00028	5				MONOLY	Monocytes/Lymphocytes			0.156													ICON-F						N				51	Exacerbation (asthma symptoms during 14d window)		12/9/2003		259																																																	
+GSE19301	LB	AST-00028	6				MONOLY	Monocytes/Lymphocytes			0.1504													ICON-F						N				52	Follow-up (within 14days after asthma symptoms ended)		12/22/2003		272																																																	
+GSE19301	LB	AST-00028	7				MONOLY	Monocytes/Lymphocytes			0.1176													ICON-F						N				60	Quiet (no asthma attack)		2/16/2004		328																																																	
+GSE19301	LB	AST-00028	8				IgE	Immunoglobulin E			79													ICON-F						N				51	Exacerbation (asthma symptoms during 14d window)		12/9/2003		259																																																	
+GSE19301	LB	AST-00029	1				MONOLY	Monocytes/Lymphocytes			0.133													ICON-F						Not available				20	Quiet (no asthma attack)		4/2/2003		1																																																	
+GSE19301	LB	AST-00029	2				MONOLY	Monocytes/Lymphocytes			0.1369													ICON-F						N				40	Quiet (no asthma attack)		7/17/2003		107																																																	
+GSE19301	LB	AST-00029	3				MONOLY	Monocytes/Lymphocytes			0.2586													ICON-F						Y				41	Exacerbation (asthma symptoms during 14d window)		9/15/2003		167																																																	
+GSE19301	LB	AST-00029	4				MONOLY	Monocytes/Lymphocytes			0.1317													ICON-F						Y				50	Quiet (no asthma attack)		12/8/2003		251																																																	
+GSE19301	LB	AST-00029	5				MONOLY	Monocytes/Lymphocytes			0.1447													ICON-F						N				60	Exacerbation (asthma symptoms during 14d window)		1/14/2004		288																																																	
+GSE19301	LB	AST-00030	1				MONOLY	Monocytes/Lymphocytes			0.2037													ICON-F						N				30	Quiet (no asthma attack)		7/24/2003		1																																																	
+GSE19301	LB	AST-00030	2				MONOLY	Monocytes/Lymphocytes			0.262													ICON-F						N				40	Quiet (no asthma attack)		9/29/2003		68																																																	
+GSE19301	LB	AST-00030	3				MONOLY	Monocytes/Lymphocytes			0.3961													ICON-F						N				41	Exacerbation (asthma symptoms during 14d window)		10/16/2003		85																																																	
+GSE19301	LB	AST-00030	4				MONOLY	Monocytes/Lymphocytes			0.1754													ICON-F						N				42	Follow-up (within 14days after asthma symptoms ended)		11/5/2003		105																																																	
+GSE19301	LB	AST-00030	5				MONOLY	Monocytes/Lymphocytes			0.1961													ICON-F						Y				50	Quiet (no asthma attack)		1/13/2004		174																																																	
+GSE19301	LB	AST-00030	6				MONOLY	Monocytes/Lymphocytes			0.1696													ICON-F						N				60	Quiet (no asthma attack)		2/4/2004		196																																																	
+GSE19301	LB	AST-00030	7				IgE	Immunoglobulin E			58													ICON-F						N				41	Exacerbation (asthma symptoms during 14d window)		10/16/2003		85																																																	
+GSE19301	LB	AST-00031	1				MONOLY	Monocytes/Lymphocytes			0.2371													ICON-F						N				30	Quiet (no asthma attack)		10/21/2003		1																																																	
+GSE19301	LB	AST-00031	2				MONOLY	Monocytes/Lymphocytes			0.1547													ICON-F						N				40	Exacerbation (asthma symptoms during 14d window)		11/10/2003		21																																																	
+GSE19301	LB	AST-00031	3				MONOLY	Monocytes/Lymphocytes			0.2655													ICON-F						N				41	Follow-up (within 14days after asthma symptoms ended)		11/24/2003		35																																																	
+GSE19301	LB	AST-00031	4				MONOLY	Monocytes/Lymphocytes			0.1818													ICON-F						N				50	Quiet (no asthma attack)		3/11/2004		143																																																	
+GSE19301	LB	AST-00031	5				IgE	Immunoglobulin E			53													ICON-F						N				40	Exacerbation (asthma symptoms during 14d window)		11/10/2003		21																																																	
+GSE19301	LB	AST-00032	1				MONOLY	Monocytes/Lymphocytes			0.0977													ICON-F						N				20	Quiet (no asthma attack)		8/18/2003		1																																																	
+GSE19301	LB	AST-00032	2				MONOLY	Monocytes/Lymphocytes			0.2083													ICON-F						N				30	Quiet (no asthma attack)		11/5/2003		80																																																	
+GSE19301	LB	AST-00032	3				MONOLY	Monocytes/Lymphocytes			0.1455													ICON-F						N				40	Exacerbation (asthma symptoms during 14d window)		11/25/2003		100																																																	
+GSE19301	LB	AST-00032	4				MONOLY	Monocytes/Lymphocytes			0.1022													ICON-F						N				41	Follow-up (within 14days after asthma symptoms ended)		12/9/2003		114																																																	
+GSE19301	LB	AST-00032	5				MONOLY	Monocytes/Lymphocytes			0.08													ICON-F						N				50	Quiet (no asthma attack)		2/18/2004		185																																																	
+GSE19301	LB	AST-00032	6				MONOLY	Monocytes/Lymphocytes			0.15													ICON-F						N				60	Quiet (no asthma attack)		5/19/2004		276																																																	
+GSE19301	LB	AST-00032	7				IgE	Immunoglobulin E			107													ICON-F						N				40	Exacerbation (asthma symptoms during 14d window)		11/25/2003		100																																																	
+GSE19301	LB	AST-00033	1				MONOLY	Monocytes/Lymphocytes			0.0791													ICON-F						N				20	Quiet (no asthma attack)		8/29/2003		1																																																	
+GSE19301	LB	AST-00033	2				MONOLY	Monocytes/Lymphocytes			0.1103													ICON-F						N				30	Quiet (no asthma attack)		11/6/2003		70																																																	
+GSE19301	LB	AST-00033	3				MONOLY	Monocytes/Lymphocytes			0.1101													ICON-F						N				31	Exacerbation (asthma symptoms during 14d window)		11/25/2003		89																																																	
+GSE19301	LB	AST-00033	4				MONOLY	Monocytes/Lymphocytes			0.1085													ICON-F						Y				40	Follow-up (within 14days after asthma symptoms ended)		12/12/2003		106																																																	
+GSE19301	LB	AST-00033	5				MONOLY	Monocytes/Lymphocytes			0.0476													ICON-F						N				60	Quiet (no asthma attack)		6/2/2004		279																																																	
+GSE19301	LB	AST-00033	6				IgE	Immunoglobulin E			189													ICON-F						N				31	Exacerbation (asthma symptoms during 14d window)		11/25/2003		89																																																	
+GSE19301	LB	AST-00034	1				MONOLY	Monocytes/Lymphocytes			0.2593													ICON-F						Not available				20	Quiet (no asthma attack)		3/25/2003		1																																																	
+GSE19301	LB	AST-00034	2				MONOLY	Monocytes/Lymphocytes			0.1947													ICON-F						Not available				30	Exacerbation (asthma symptoms during 14d window)		4/24/2003		31																																																	
+GSE19301	LB	AST-00034	3				MONOLY	Monocytes/Lymphocytes			0.2053													ICON-F						Y				31	Follow-up (within 14days after asthma symptoms ended)		5/8/2003		45																																																	
+GSE19301	LB	AST-00034	4				MONOLY	Monocytes/Lymphocytes			0.2143													ICON-F						N				32	Exacerbation (asthma symptoms during 14d window)		6/10/2003		78																																																	
+GSE19301	LB	AST-00034	5				MONOLY	Monocytes/Lymphocytes			0.2249													ICON-F						N				33	Follow-up (within 14days after asthma symptoms ended)		6/16/2003		84																																																	
+GSE19301	LB	AST-00034	6				MONOLY	Monocytes/Lymphocytes			0.5065													ICON-F						Y				50	Quiet (no asthma attack)		10/2/2003		192																																																	
+GSE19301	LB	AST-00034	7				MONOLY	Monocytes/Lymphocytes			0.3538													ICON-F						Y				60	Quiet (no asthma attack)		1/5/2004		287																																																	
+GSE19301	LB	AST-00035	1				MONOLY	Monocytes/Lymphocytes			0.3223													ICON-F						Not available				20	Quiet (no asthma attack)		4/3/2003		1																																																	
+GSE19301	LB	AST-00035	2				MONOLY	Monocytes/Lymphocytes			0.4254													ICON-F						Not available				30	Exacerbation (asthma symptoms during 14d window)		4/28/2003		26																																																	
+GSE19301	LB	AST-00035	3				MONOLY	Monocytes/Lymphocytes			0.4													ICON-F						N				31	Follow-up (within 14days after asthma symptoms ended)		5/13/2003		41																																																	
+GSE19301	LB	AST-00035	4				MONOLY	Monocytes/Lymphocytes			0.3261													ICON-F						Y				40	Quiet (no asthma attack)		8/19/2003		139																																																	
+GSE19301	LB	AST-00035	5				MONOLY	Monocytes/Lymphocytes			0.2													ICON-F						N				60	Quiet (no asthma attack)		3/3/2004		336																																																	
+GSE19301	LB	AST-00035	6				IgE	Immunoglobulin E			2480													ICON-F						Not available				30	Exacerbation (asthma symptoms during 14d window)		4/28/2003		26																																																	
+GSE19301	LB	AST-00036	1				MONOLY	Monocytes/Lymphocytes			0.0806													ICON-F						Y				30	Exacerbation (asthma symptoms during 14d window)		8/21/2003		1																																																	
+GSE19301	LB	AST-00036	2				MONOLY	Monocytes/Lymphocytes			0.105													ICON-F						Y				31	Follow-up (within 14days after asthma symptoms ended)		9/2/2003		13																																																	
+GSE19301	LB	AST-00036	3				MONOLY	Monocytes/Lymphocytes			0.1214													ICON-F						Y				40	Quiet (no asthma attack)		12/15/2003		117																																																	
+GSE19301	LB	AST-00036	4				MONOLY	Monocytes/Lymphocytes			0.0769													ICON-F						N				50	Exacerbation (asthma symptoms during 14d window)		2/17/2004		181																																																	
+GSE19301	LB	AST-00036	5				MONOLY	Monocytes/Lymphocytes			0.1053													ICON-F						Y				51	Follow-up (within 14days after asthma symptoms ended)		2/26/2004		190																																																	
+GSE19301	LB	AST-00036	6				MONOLY	Monocytes/Lymphocytes			0.1111													ICON-F						N				60	Quiet (no asthma attack)		6/22/2004		307																																																	
+GSE19301	LB	AST-00036	7				IgE	Immunoglobulin E			16													ICON-F						Y				30	Exacerbation (asthma symptoms during 14d window)		8/21/2003		1																																																	
+GSE19301	LB	AST-00036	8				IgE	Immunoglobulin E			10													ICON-F						N				50	Exacerbation (asthma symptoms during 14d window)		2/17/2004		181																																																	
+GSE19301	LB	AST-00037	1				MONOLY	Monocytes/Lymphocytes			0.1779													ICON-F						Y				20	Quiet (no asthma attack)		5/7/2003		1																																																	
+GSE19301	LB	AST-00037	2				MONOLY	Monocytes/Lymphocytes			0.218													ICON-F						Y				30	Quiet (no asthma attack)		7/25/2003		80																																																	
+GSE19301	LB	AST-00037	3				MONOLY	Monocytes/Lymphocytes			0.2148													ICON-F						Y				40	Quiet (no asthma attack)		10/15/2003		162																																																	
+GSE19301	LB	AST-00037	4				MONOLY	Monocytes/Lymphocytes			0.2619													ICON-F						N				41	Exacerbation (asthma symptoms during 14d window)		10/22/2003		169																																																	
+GSE19301	LB	AST-00037	5				MONOLY	Monocytes/Lymphocytes			0.2194													ICON-F						Y				50	Quiet (no asthma attack)		1/7/2004		246																																																	
+GSE19301	LB	AST-00037	6				MONOLY	Monocytes/Lymphocytes			0.2667													ICON-F						Y				60	Quiet (no asthma attack)		5/4/2004		364																																																	
+GSE19301	LB	AST-00038	1				MONOLY	Monocytes/Lymphocytes			0.0759													ICON-F						Y				20	Quiet (no asthma attack)		5/8/2003		1																																																	
+GSE19301	LB	AST-00038	2				MONOLY	Monocytes/Lymphocytes			0.2517													ICON-F						Y				30	Quiet (no asthma attack)		7/24/2003		78																																																	
+GSE19301	LB	AST-00038	3				MONOLY	Monocytes/Lymphocytes			0.3063													ICON-F						N				31	Exacerbation (asthma symptoms during 14d window)		7/25/2003		79																																																	
+GSE19301	LB	AST-00038	4				MONOLY	Monocytes/Lymphocytes			0.1488													ICON-F						Y				32	Follow-up (within 14days after asthma symptoms ended)		8/8/2003		93																																																	
+GSE19301	LB	AST-00038	5				MONOLY	Monocytes/Lymphocytes			0.1571													ICON-F						Y				40	Quiet (no asthma attack)		10/28/2003		174																																																	
+GSE19301	LB	AST-00038	6				IgE	Immunoglobulin E			34													ICON-F						N				31	Exacerbation (asthma symptoms during 14d window)		7/25/2003		79																																																	
+GSE19301	LB	AST-00039	1				MONOLY	Monocytes/Lymphocytes			0.1447													ICON-F						Y				20	Quiet (no asthma attack)		6/9/2003		1																																																	
+GSE19301	LB	AST-00039	2				MONOLY	Monocytes/Lymphocytes			0.1818													ICON-F						N				30	Exacerbation (asthma symptoms during 14d window)		7/10/2003		32																																																	
+GSE19301	LB	AST-00039	3				MONOLY	Monocytes/Lymphocytes			0.1071													ICON-F						N				31	Follow-up (within 14days after asthma symptoms ended)		7/15/2003		37																																																	
+GSE19301	LB	AST-00039	4				MONOLY	Monocytes/Lymphocytes			0.1538													ICON-F						Y				50	Quiet (no asthma attack)		3/2/2004		268																																																	
+GSE19301	LB	AST-00039	5				MONOLY	Monocytes/Lymphocytes			0.2174													ICON-F						Y				60	Quiet (no asthma attack)		6/8/2004		366																																																	
+GSE19301	LB	AST-00039	6				IgE	Immunoglobulin E			94													ICON-F						N				30	Exacerbation (asthma symptoms during 14d window)		7/10/2003		32																																																	
+GSE19301	LB	AST-00040	1				MONOLY	Monocytes/Lymphocytes			0.159													ICON-F						Y				20	Quiet (no asthma attack)		6/10/2003		1																																																	
+GSE19301	LB	AST-00040	2				MONOLY	Monocytes/Lymphocytes			0.1698													ICON-F						Y				30	Quiet (no asthma attack)		9/4/2003		87																																																	
+GSE19301	LB	AST-00040	3				MONOLY	Monocytes/Lymphocytes			0.1322													ICON-F						Y				40	Quiet (no asthma attack)		11/4/2003		148																																																	
+GSE19301	LB	AST-00040	4				MONOLY	Monocytes/Lymphocytes			0.3889													ICON-F						Y				60	Exacerbation (asthma symptoms during 14d window)		4/2/2004		298																																																	
+GSE19301	LB	AST-00041	1				MONOLY	Monocytes/Lymphocytes			0.2414													ICON-F						Y				20	Quiet (no asthma attack)		6/16/2003		1																																																	
+GSE19301	LB	AST-00041	2				MONOLY	Monocytes/Lymphocytes			0.2075													ICON-F						Y				30	Quiet (no asthma attack)		9/9/2003		86																																																	
+GSE19301	LB	AST-00041	3				MONOLY	Monocytes/Lymphocytes			0.3353													ICON-F						N				42	Exacerbation (asthma symptoms during 14d window)		11/13/2003		151																																																	
+GSE19301	LB	AST-00041	4				MONOLY	Monocytes/Lymphocytes			0.2893													ICON-F						N				43	Follow-up (within 14days after asthma symptoms ended)		11/25/2003		163																																																	
+GSE19301	LB	AST-00041	5				MONOLY	Monocytes/Lymphocytes			0.44													ICON-F						N				44	Exacerbation (asthma symptoms during 14d window)		12/1/2003		169																																																	
+GSE19301	LB	AST-00041	6				MONOLY	Monocytes/Lymphocytes			0.1739													ICON-F						Y				51	Quiet (no asthma attack)		3/9/2004		268																																																	
+GSE19301	LB	AST-00041	7				MONOLY	Monocytes/Lymphocytes			0.0667													ICON-F						Y				60	Quiet (no asthma attack)		6/1/2004		352																																																	
+GSE19301	LB	AST-00041	8				IgE	Immunoglobulin E			880													ICON-F						N				42	Exacerbation (asthma symptoms during 14d window)		11/13/2003		151																																																	
+GSE19301	LB	AST-00041	9				IgE	Immunoglobulin E			855													ICON-F						N				44	Exacerbation (asthma symptoms during 14d window)		12/1/2003		169																																																	
+GSE19301	LB	AST-00042	1				MONOLY	Monocytes/Lymphocytes			0.2752													ICON-F						Y				20	Quiet (no asthma attack)		6/18/2003		1																																																	
+GSE19301	LB	AST-00042	2				MONOLY	Monocytes/Lymphocytes			0.3636													ICON-F						N				30	Exacerbation (asthma symptoms during 14d window)		7/2/2003		15																																																	
+GSE19301	LB	AST-00042	3				MONOLY	Monocytes/Lymphocytes			0.2222													ICON-F						N				31	Follow-up (within 14days after asthma symptoms ended)		7/16/2003		29																																																	
+GSE19301	LB	AST-00042	4				MONOLY	Monocytes/Lymphocytes			0.28													ICON-F						Y				40	Quiet (no asthma attack)		9/30/2003		105																																																	
+GSE19301	LB	AST-00042	5				MONOLY	Monocytes/Lymphocytes			0.3571													ICON-F						Y				50	Quiet (no asthma attack)		3/9/2004		266																																																	
+GSE19301	LB	AST-00042	6				MONOLY	Monocytes/Lymphocytes			0.2													ICON-F						Y				60	Quiet (no asthma attack)		6/8/2004		357																																																	
+GSE19301	LB	AST-00042	7				IgE	Immunoglobulin E			155													ICON-F						N				30	Exacerbation (asthma symptoms during 14d window)		7/2/2003		15																																																	
+GSE19301	LB	AST-00043	1				MONOLY	Monocytes/Lymphocytes			0.125													ICON-F						Y				20	Quiet (no asthma attack)		7/15/2003		1																																																	
+GSE19301	LB	AST-00043	2				MONOLY	Monocytes/Lymphocytes			0.2126													ICON-F						Y				40	Quiet (no asthma attack)		11/18/2003		127																																																	
+GSE19301	LB	AST-00043	3				MONOLY	Monocytes/Lymphocytes			0.1818													ICON-F						N				50	Quiet (no asthma attack)		2/24/2004		225																																																	
+GSE19301	LB	AST-00043	4				MONOLY	Monocytes/Lymphocytes			0.3077													ICON-F						N				60	Exacerbation (asthma symptoms during 14d window)		4/22/2004		283																																																	
+GSE19301	LB	AST-00043	5				MONOLY	Monocytes/Lymphocytes			0.125													ICON-F						N				61	Follow-up (within 14days after asthma symptoms ended)		5/4/2004		295																																																	
+GSE19301	LB	AST-00043	6				IgE	Immunoglobulin E			1150													ICON-F						N				60	Exacerbation (asthma symptoms during 14d window)		4/22/2004		283																																																	
+GSE19301	LB	AST-00044	1				MONOLY	Monocytes/Lymphocytes			0.1307													ICON-F						Y				20	Quiet (no asthma attack)		7/31/2003		1																																																	
+GSE19301	LB	AST-00044	2				MONOLY	Monocytes/Lymphocytes			0.1505													ICON-F						Y				30	Quiet (no asthma attack)		10/28/2003		90																																																	
+GSE19301	LB	AST-00044	3				MONOLY	Monocytes/Lymphocytes			0.1733													ICON-F						Y				40	Exacerbation (asthma symptoms during 14d window)		11/18/2003		111																																																	
+GSE19301	LB	AST-00044	4				MONOLY	Monocytes/Lymphocytes			0.2335													ICON-F						Y				41	Follow-up (within 14days after asthma symptoms ended)		12/2/2003		125																																																	
+GSE19301	LB	AST-00044	5				MONOLY	Monocytes/Lymphocytes			0.3													ICON-F						Not available				60	Quiet (no asthma attack)		7/27/2004		363																																																	
+GSE19301	LB	AST-00044	6				IgE	Immunoglobulin E			18													ICON-F						Y				40	Exacerbation (asthma symptoms during 14d window)		11/18/2003		111																																																	
+GSE19301	LB	AST-00045	1				MONOLY	Monocytes/Lymphocytes			0.1373													ICON-F						Y				20	Quiet (no asthma attack)		8/5/2003		1																																																	
+GSE19301	LB	AST-00045	2				MONOLY	Monocytes/Lymphocytes			0.1594													ICON-F						Y				30	Quiet (no asthma attack)		10/28/2003		85																																																	
+GSE19301	LB	AST-00045	3				MONOLY	Monocytes/Lymphocytes			0.2262													ICON-F						N				40	Quiet (no asthma attack)		1/2/2004		151																																																	
+GSE19301	LB	AST-00045	4				MONOLY	Monocytes/Lymphocytes			0.1364													ICON-F						N				52	Exacerbation (asthma symptoms during 14d window)		5/4/2004		274																																																	
+GSE19301	LB	AST-00045	5				MONOLY	Monocytes/Lymphocytes			0.1379													ICON-F						N				60	Follow-up (within 14days after asthma symptoms ended)		5/11/2004		281																																																	
+GSE19301	LB	AST-00045	6				MONOLY	Monocytes/Lymphocytes			0.1905													ICON-F						N				61	Exacerbation (asthma symptoms during 14d window)		5/18/2004		288																																																	
+GSE19301	LB	AST-00045	7				MONOLY	Monocytes/Lymphocytes			0.1667													ICON-F						N				62	Follow-up (within 14days after asthma symptoms ended)		5/28/2004		298																																																	
+GSE19301	LB	AST-00046	1				MONOLY	Monocytes/Lymphocytes			0.2739													ICON-F						Y				20	Quiet (no asthma attack)		8/11/2003		1																																																	
+GSE19301	LB	AST-00046	2				MONOLY	Monocytes/Lymphocytes			0.2569													ICON-F						N				40	Exacerbation (asthma symptoms during 14d window)		1/13/2004		156																																																	
+GSE19301	LB	AST-00046	3				MONOLY	Monocytes/Lymphocytes			0.189													ICON-F						N				41	Follow-up (within 14days after asthma symptoms ended)		1/20/2004		163																																																	
+GSE19301	LB	AST-00046	4				MONOLY	Monocytes/Lymphocytes			0.2667													ICON-F						N				50	Exacerbation (asthma symptoms during 14d window)		3/2/2004		205																																																	
+GSE19301	LB	AST-00046	5				MONOLY	Monocytes/Lymphocytes			0.2483													ICON-F						N				51	Follow-up (within 14days after asthma symptoms ended)		3/16/2004		219																																																	
+GSE19301	LB	AST-00046	6				MONOLY	Monocytes/Lymphocytes			0.2667													ICON-F						Y				60	Quiet (no asthma attack)		7/27/2004		352																																																	
+GSE19301	LB	AST-00046	7				IgE	Immunoglobulin E			64													ICON-F						N				40	Exacerbation (asthma symptoms during 14d window)		1/13/2004		156																																																	
+GSE19301	LB	AST-00047	1				MONOLY	Monocytes/Lymphocytes			0.193													ICON-F						Y				20	Quiet (no asthma attack)		8/12/2003		1																																																	
+GSE19301	LB	AST-00047	2				MONOLY	Monocytes/Lymphocytes			0.2222													ICON-F						Y				30	Quiet (no asthma attack)		11/4/2003		85																																																	
+GSE19301	LB	AST-00047	3				MONOLY	Monocytes/Lymphocytes			0.2277													ICON-F						Y				40	Quiet (no asthma attack)		1/27/2004		169																																																	
+GSE19301	LB	AST-00047	4				MONOLY	Monocytes/Lymphocytes			0.3636													ICON-F						N				50	Exacerbation (asthma symptoms during 14d window)		2/18/2004		191																																																	
+GSE19301	LB	AST-00047	5				MONOLY	Monocytes/Lymphocytes			0.25													ICON-F						Y				51	Follow-up (within 14days after asthma symptoms ended)		3/2/2004		204																																																	
+GSE19301	LB	AST-00047	6				MONOLY	Monocytes/Lymphocytes			0.25													ICON-F						Y				60	Quiet (no asthma attack)		7/13/2004		337																																																	
+GSE19301	LB	AST-00047	7				IgE	Immunoglobulin E			24													ICON-F						N				50	Exacerbation (asthma symptoms during 14d window)		2/18/2004		191																																																	
+GSE19301	LB	AST-00048	1				MONOLY	Monocytes/Lymphocytes			0.1481													ICON-F						N				20	Quiet (no asthma attack)		8/20/2003		1																																																	
+GSE19301	LB	AST-00048	2				MONOLY	Monocytes/Lymphocytes			0.105													ICON-F						Y				30	Quiet (no asthma attack)		11/11/2003		84																																																	
+GSE19301	LB	AST-00048	3				MONOLY	Monocytes/Lymphocytes			0.1623													ICON-F						N				40	Exacerbation (asthma symptoms during 14d window)		11/25/2003		98																																																	
+GSE19301	LB	AST-00048	4				MONOLY	Monocytes/Lymphocytes			0.119													ICON-F						N				41	Follow-up (within 14days after asthma symptoms ended)		12/2/2003		105																																																	
+GSE19301	LB	AST-00048	5				MONOLY	Monocytes/Lymphocytes			0.1304													ICON-F						Y				50	Quiet (no asthma attack)		2/24/2004		189																																																	
+GSE19301	LB	AST-00048	6				MONOLY	Monocytes/Lymphocytes			0.1364													ICON-F						N				60	Quiet (no asthma attack)		8/3/2004		350																																																	
+GSE19301	LB	AST-00048	7				IgE	Immunoglobulin E			234													ICON-F						N				40	Exacerbation (asthma symptoms during 14d window)		11/25/2003		98																																																	
+GSE19301	LB	AST-00049	1				MONOLY	Monocytes/Lymphocytes			0.2462													ICON-F						N				20	Quiet (no asthma attack)		8/29/2003		1																																																	
+GSE19301	LB	AST-00049	2				MONOLY	Monocytes/Lymphocytes			0.1756													ICON-F						Y				31	Exacerbation (asthma symptoms during 14d window)		10/13/2003		46																																																	
+GSE19301	LB	AST-00049	3				MONOLY	Monocytes/Lymphocytes			0.2087													ICON-F						N				32	Exacerbation (asthma symptoms during 14d window)		10/31/2003		64																																																	
+GSE19301	LB	AST-00049	4				MONOLY	Monocytes/Lymphocytes			0.1321													ICON-F						N				33	Exacerbation (asthma symptoms during 14d window)		11/4/2003		68																																																	
+GSE19301	LB	AST-00049	5				MONOLY	Monocytes/Lymphocytes			0.1478													ICON-F						Y				34	Follow-up (within 14days after asthma symptoms ended)		11/11/2003		75																																																	
+GSE19301	LB	AST-00049	6				MONOLY	Monocytes/Lymphocytes			0.4563													ICON-F						N				40	Exacerbation (asthma symptoms during 14d window)		12/16/2003		110																																																	
+GSE19301	LB	AST-00049	7				MONOLY	Monocytes/Lymphocytes			0.1091													ICON-F						N				41	Follow-up (within 14days after asthma symptoms ended)		12/22/2003		116																																																	
+GSE19301	LB	AST-00049	8				MONOLY	Monocytes/Lymphocytes			0.1561													ICON-F						N				50	Quiet (no asthma attack)		3/16/2004		201																																																	
+GSE19301	LB	AST-00049	9				MONOLY	Monocytes/Lymphocytes			0.1364													ICON-F						N				60	Exacerbation (asthma symptoms during 14d window)		6/2/2004		279																																																	
+GSE19301	LB	AST-00049	10				IgE	Immunoglobulin E			10													ICON-F						Y				31	Exacerbation (asthma symptoms during 14d window)		10/13/2003		46																																																	
+GSE19301	LB	AST-00049	11				IgE	Immunoglobulin E			27													ICON-F						N				32	Exacerbation (asthma symptoms during 14d window)		10/31/2003		64																																																	
+GSE19301	LB	AST-00049	12				IgE	Immunoglobulin E			65													ICON-F						N				33	Exacerbation (asthma symptoms during 14d window)		11/4/2003		68																																																	
+GSE19301	LB	AST-00049	13				IgE	Immunoglobulin E			10													ICON-F						N				40	Exacerbation (asthma symptoms during 14d window)		12/16/2003		110																																																	
+GSE19301	LB	AST-00050	1				MONOLY	Monocytes/Lymphocytes			0.1529													ICON-F						Not available				30	Quiet (no asthma attack)		3/19/2003		1																																																	
+GSE19301	LB	AST-00050	2				MONOLY	Monocytes/Lymphocytes			0.1278													ICON-F						N				40	Exacerbation (asthma symptoms during 14d window)		5/22/2003		65																																																	
+GSE19301	LB	AST-00050	3				MONOLY	Monocytes/Lymphocytes			0.1395													ICON-F						Y				41	Follow-up (within 14days after asthma symptoms ended)		6/5/2003		79																																																	
+GSE19301	LB	AST-00050	4				MONOLY	Monocytes/Lymphocytes			0.1263													ICON-F						N				42	Quiet (no asthma attack)		8/7/2003		142																																																	
+GSE19301	LB	AST-00050	5				MONOLY	Monocytes/Lymphocytes			0.2096													ICON-F						N				50	Exacerbation (asthma symptoms during 14d window)		8/21/2003		156																																																	
+GSE19301	LB	AST-00050	6				MONOLY	Monocytes/Lymphocytes			0.1424													ICON-F						N				51	Follow-up (within 14days after asthma symptoms ended)		9/3/2003		169																																																	
+GSE19301	LB	AST-00050	7				IgE	Immunoglobulin E			877													ICON-F						N				40	Exacerbation (asthma symptoms during 14d window)		5/22/2003		65																																																	
+GSE19301	LB	AST-00051	1				MONOLY	Monocytes/Lymphocytes			0.322													ICON-F						Not available				30	Exacerbation (asthma symptoms during 14d window)		4/2/2003		1																																																	
+GSE19301	LB	AST-00051	2				MONOLY	Monocytes/Lymphocytes			0.2958													ICON-F						Y				31	Follow-up (within 14days after asthma symptoms ended)		4/16/2003		15																																																	
+GSE19301	LB	AST-00051	3				MONOLY	Monocytes/Lymphocytes			0.3121													ICON-F						N				40	Quiet (no asthma attack)		6/4/2003		64																																																	
+GSE19301	LB	AST-00051	4				MONOLY	Monocytes/Lymphocytes			0.1718													ICON-F						N				41	Quiet (no asthma attack)		8/6/2003		127																																																	
+GSE19301	LB	AST-00051	5				MONOLY	Monocytes/Lymphocytes			0.3294													ICON-F						N				50	Quiet (no asthma attack)		9/3/2003		155																																																	
+GSE19301	LB	AST-00051	6				MONOLY	Monocytes/Lymphocytes			0.439													ICON-F						Y				60	Quiet (no asthma attack)		12/23/2003		266																																																	
+GSE19301	LB	AST-00051	7				IgE	Immunoglobulin E			992													ICON-F						Not available				30	Exacerbation (asthma symptoms during 14d window)		4/2/2003		1																																																	
+GSE19301	LB	AST-00052	1				MONOLY	Monocytes/Lymphocytes			0.1871													ICON-F						Not available				20	Quiet (no asthma attack)		3/5/2003		1																																																	
+GSE19301	LB	AST-00052	2				MONOLY	Monocytes/Lymphocytes			0.1959													ICON-F						Not available				30	Exacerbation (asthma symptoms during 14d window)		5/6/2003		63																																																	
+GSE19301	LB	AST-00052	3				MONOLY	Monocytes/Lymphocytes			0.1784													ICON-F						N				31	Follow-up (within 14days after asthma symptoms ended)		5/21/2003		78																																																	
+GSE19301	LB	AST-00052	4				MONOLY	Monocytes/Lymphocytes			0.1846													ICON-F						Y				40	Quiet (no asthma attack)		7/29/2003		147																																																	
+GSE19301	LB	AST-00052	5				MONOLY	Monocytes/Lymphocytes			0.2222													ICON-F						Y				50	Quiet (no asthma attack)		10/8/2003		218																																																	
+GSE19301	LB	AST-00052	6				MONOLY	Monocytes/Lymphocytes			0.1875													ICON-F						Y				60	Exacerbation (asthma symptoms during 14d window)		12/11/2003		282																																																	
+GSE19301	LB	AST-00052	7				MONOLY	Monocytes/Lymphocytes			0.225													ICON-F						N				61	Follow-up (within 14days after asthma symptoms ended)		12/18/2003		289																																																	
+GSE19301	LB	AST-00052	8				IgE	Immunoglobulin E			85													ICON-F						Y				60	Exacerbation (asthma symptoms during 14d window)		12/11/2003		282																																																	
+GSE19301	LB	AST-00053	1				MONOLY	Monocytes/Lymphocytes			0.25													ICON-F						Not available				20	Quiet (no asthma attack)		3/19/2003		1																																																	
+GSE19301	LB	AST-00053	2				MONOLY	Monocytes/Lymphocytes			0.1865													ICON-F						N				30	Quiet (no asthma attack)		6/10/2003		84																																																	
+GSE19301	LB	AST-00053	3				MONOLY	Monocytes/Lymphocytes			0.2511													ICON-F						N				40	Quiet (no asthma attack)		7/8/2003		112																																																	
+GSE19301	LB	AST-00053	4				MONOLY	Monocytes/Lymphocytes			0.2098													ICON-F						N				50	Quiet (no asthma attack)		9/23/2003		189																																																	
+GSE19301	LB	AST-00053	5				MONOLY	Monocytes/Lymphocytes			0.2576													ICON-F						N				51	Exacerbation (asthma symptoms during 14d window)		10/27/2003		223																																																	
+GSE19301	LB	AST-00053	6				MONOLY	Monocytes/Lymphocytes			0.2574													ICON-F						N				60	Quiet (no asthma attack)		1/21/2004		309																																																	
+GSE19301	LB	AST-00053	7				IgE	Immunoglobulin E			126													ICON-F						N				51	Exacerbation (asthma symptoms during 14d window)		10/27/2003		223																																																	
+GSE19301	LB	AST-00054	1				MONOLY	Monocytes/Lymphocytes			0.1395													ICON-F						Y				20	Quiet (no asthma attack)		5/28/2003		1																																																	
+GSE19301	LB	AST-00054	2				MONOLY	Monocytes/Lymphocytes			0.103													ICON-F						Y				30	Quiet (no asthma attack)		7/1/2003		35																																																	
+GSE19301	LB	AST-00054	3				MONOLY	Monocytes/Lymphocytes			0.106													ICON-F						Y				40	Quiet (no asthma attack)		8/12/2003		77																																																	
+GSE19301	LB	AST-00054	4				MONOLY	Monocytes/Lymphocytes			0.1538													ICON-F						N				50	Exacerbation (asthma symptoms during 14d window)		12/15/2003		202																																																	
+GSE19301	LB	AST-00054	5				MONOLY	Monocytes/Lymphocytes			0.1463													ICON-F						N				51	Follow-up (within 14days after asthma symptoms ended)		1/5/2004		223																																																	
+GSE19301	LB	AST-00054	6				MONOLY	Monocytes/Lymphocytes			0.1667													ICON-F						N				60	Quiet (no asthma attack)		3/1/2004		279																																																	
+GSE19301	LB	AST-00054	7				IgE	Immunoglobulin E			64													ICON-F						N				50	Exacerbation (asthma symptoms during 14d window)		12/15/2003		202																																																	
+GSE19301	LB	AST-00055	1				MONOLY	Monocytes/Lymphocytes			0.14													ICON-F						N				20	Quiet (no asthma attack)		8/8/2003		1																																																	
+GSE19301	LB	AST-00055	2				MONOLY	Monocytes/Lymphocytes			0.1957													ICON-F						N				30	Quiet (no asthma attack)		11/4/2003		89																																																	
+GSE19301	LB	AST-00055	3				MONOLY	Monocytes/Lymphocytes			0.3708													ICON-F						Y				40	Exacerbation (asthma symptoms during 14d window)		12/19/2003		134																																																	
+GSE19301	LB	AST-00055	4				MONOLY	Monocytes/Lymphocytes			0.1892													ICON-F						N				41	Follow-up (within 14days after asthma symptoms ended)		1/8/2004		154																																																	
+GSE19301	LB	AST-00055	5				MONOLY	Monocytes/Lymphocytes			0.2222													ICON-F						N				50	Quiet (no asthma attack)		3/9/2004		215																																																	
+GSE19301	LB	AST-00055	6				IgE	Immunoglobulin E			1500													ICON-F						Y				40	Exacerbation (asthma symptoms during 14d window)		12/19/2003		134																																																	
+GSE19301	LB	AST-00056	1				MONOLY	Monocytes/Lymphocytes			0.2738													AARI						Y				20	Quiet (no asthma attack)		2/24/2003		1																																																	
+GSE19301	LB	AST-00056	2				MONOLY	Monocytes/Lymphocytes			0.2584													AARI						N				30	Quiet (no asthma attack)		5/19/2003		85																																																	
+GSE19301	LB	AST-00056	3				MONOLY	Monocytes/Lymphocytes			0.2266													AARI						Y				50	Quiet (no asthma attack)		8/26/2003		184																																																	
+GSE19301	LB	AST-00056	4				MONOLY	Monocytes/Lymphocytes			0.3767													AARI						N				51	Exacerbation (asthma symptoms during 14d window)		8/29/2003		187																																																	
+GSE19301	LB	AST-00056	5				MONOLY	Monocytes/Lymphocytes			0.123													AARI						N				52	Follow-up (within 14days after asthma symptoms ended)		9/11/2003		200																																																	
+GSE19301	LB	AST-00056	6				MONOLY	Monocytes/Lymphocytes			0.1947													AARI						N				60	Quiet (no asthma attack)		12/9/2003		289																																																	
+GSE19301	LB	AST-00057	1				MONOLY	Monocytes/Lymphocytes			0													AARI						N				20	Quiet (no asthma attack)		3/20/2003		1																																																	
+GSE19301	LB	AST-00057	2				MONOLY	Monocytes/Lymphocytes			0.3889													AARI						N				30	Quiet (no asthma attack)		6/5/2003		78																																																	
+GSE19301	LB	AST-00057	3				MONOLY	Monocytes/Lymphocytes			0.1489													AARI						N				40	Exacerbation (asthma symptoms during 14d window)		8/1/2003		135																																																	
+GSE19301	LB	AST-00057	4				MONOLY	Monocytes/Lymphocytes			0.1761													AARI						N				41	Follow-up (within 14days after asthma symptoms ended)		8/15/2003		149																																																	
+GSE19301	LB	AST-00057	5				MONOLY	Monocytes/Lymphocytes			0.4859													AARI						N				42	Quiet (no asthma attack)		9/12/2003		177																																																	
+GSE19301	LB	AST-00057	6				MONOLY	Monocytes/Lymphocytes			0.1959													AARI						Y				50	Quiet (no asthma attack)		11/26/2003		252																																																	
+GSE19301	LB	AST-00057	7				MONOLY	Monocytes/Lymphocytes			0.1472													AARI						N				60	Quiet (no asthma attack)		3/3/2004		350																																																	
+GSE19301	LB	AST-00058	1				MONOLY	Monocytes/Lymphocytes			0.2871													ICON-F						Not available				20	Quiet (no asthma attack)		4/16/2003		1																																																	
+GSE19301	LB	AST-00058	2				MONOLY	Monocytes/Lymphocytes			0.5083													ICON-F						N				41	Exacerbation (asthma symptoms during 14d window)		10/2/2003		170																																																	
+GSE19301	LB	AST-00058	3				MONOLY	Monocytes/Lymphocytes			0.3274													ICON-F						N				42	Follow-up (within 14days after asthma symptoms ended)		10/15/2003		183																																																	
+GSE19301	LB	AST-00058	4				MONOLY	Monocytes/Lymphocytes			0.3404													ICON-F						Y				50	Quiet (no asthma attack)		12/2/2003		231																																																	
+GSE19301	LB	AST-00058	5				MONOLY	Monocytes/Lymphocytes			1.2857													ICON-F						Y				60	Quiet (no asthma attack)		2/17/2004		308																																																	
+GSE19301	LB	AST-00058	6				IgE	Immunoglobulin E			153													ICON-F						N				41	Exacerbation (asthma symptoms during 14d window)		10/2/2003		170																																																	
+GSE19301	LB	AST-00059	1				MONOLY	Monocytes/Lymphocytes			0.1225													ICON-F						N				20	Quiet (no asthma attack)		5/20/2003		1																																																	
+GSE19301	LB	AST-00059	2				MONOLY	Monocytes/Lymphocytes			0.1241													ICON-F						Y				40	Quiet (no asthma attack)		10/20/2003		154																																																	
+GSE19301	LB	AST-00059	3				MONOLY	Monocytes/Lymphocytes			0.5763													ICON-F						N				50	Exacerbation (asthma symptoms during 14d window)		1/20/2004		246																																																	
+GSE19301	LB	AST-00059	4				MONOLY	Monocytes/Lymphocytes			0.2424													ICON-F						N				51	Follow-up (within 14days after asthma symptoms ended)		2/2/2004		259																																																	
+GSE19301	LB	AST-00059	5				MONOLY	Monocytes/Lymphocytes			0.25													ICON-F						Y				52	Quiet (no asthma attack)		2/18/2004		275																																																	
+GSE19301	LB	AST-00059	6				MONOLY	Monocytes/Lymphocytes			0.1875													ICON-F						Y				60	Quiet (no asthma attack)		5/10/2004		357																																																	
+GSE19301	LB	AST-00060	1				MONOLY	Monocytes/Lymphocytes			0.1583													AARI						Y				20	Quiet (no asthma attack)		3/26/2003		1																																																	
+GSE19301	LB	AST-00060	2				MONOLY	Monocytes/Lymphocytes			0.1164													AARI						N				30	Exacerbation (asthma symptoms during 14d window)		6/18/2003		85																																																	
+GSE19301	LB	AST-00060	3				MONOLY	Monocytes/Lymphocytes			0.1529													AARI						N				31	Follow-up (within 14days after asthma symptoms ended)		7/2/2003		99																																																	
+GSE19301	LB	AST-00060	4				MONOLY	Monocytes/Lymphocytes			0.1158													AARI						N				40	Quiet (no asthma attack)		9/11/2003		170																																																	
+GSE19301	LB	AST-00060	5				MONOLY	Monocytes/Lymphocytes			0.2714													AARI						Y				50	Quiet (no asthma attack)		12/11/2003		261																																																	
+GSE19301	LB	AST-00060	6				MONOLY	Monocytes/Lymphocytes			0.1565													AARI						N				60	Quiet (no asthma attack)		2/23/2004		335																																																	
+GSE19301	LB	AST-00061	1				MONOLY	Monocytes/Lymphocytes			0.1622													AARI						Y				20	Quiet (no asthma attack)		4/1/2003		1																																																	
+GSE19301	LB	AST-00061	2				MONOLY	Monocytes/Lymphocytes			0.2055													AARI						Y				30	Quiet (no asthma attack)		6/24/2003		85																																																	
+GSE19301	LB	AST-00061	3				MONOLY	Monocytes/Lymphocytes			0.29													AARI						N				40	Exacerbation (asthma symptoms during 14d window)		8/15/2003		137																																																	
+GSE19301	LB	AST-00061	4				MONOLY	Monocytes/Lymphocytes			0.5455													AARI						N				41	Follow-up (within 14days after asthma symptoms ended)		8/27/2003		149																																																	
+GSE19301	LB	AST-00061	5				MONOLY	Monocytes/Lymphocytes			0.3015													AARI						N				50	Quiet (no asthma attack)		11/17/2003		231																																																	
+GSE19301	LB	AST-00061	6				MONOLY	Monocytes/Lymphocytes			0.1646													AARI						N				60	Quiet (no asthma attack)		3/15/2004		350																																																	
+GSE19301	LB	AST-00062	1				MONOLY	Monocytes/Lymphocytes			0.3984													ICON-D						Not available				20	Quiet (no asthma attack)		3/3/2003		1																																																	
+GSE19301	LB	AST-00062	2				MONOLY	Monocytes/Lymphocytes			0.2169													ICON-D						Not available				30	Quiet (no asthma attack)		5/6/2003		65																																																	
+GSE19301	LB	AST-00062	3				MONOLY	Monocytes/Lymphocytes			0.3256													ICON-D						Y				40	Quiet (no asthma attack)		7/7/2003		127																																																	
+GSE19301	LB	AST-00062	4				MONOLY	Monocytes/Lymphocytes			0.4114													ICON-D						N				50	Exacerbation (asthma symptoms during 14d window)		9/17/2003		199																																																	
+GSE19301	LB	AST-00062	5				MONOLY	Monocytes/Lymphocytes			1.1316													ICON-D						N				52	Exacerbation (asthma symptoms during 14d window)		10/6/2003		218																																																	
+GSE19301	LB	AST-00062	6				MONOLY	Monocytes/Lymphocytes			0.1481													ICON-D						N				53	Follow-up (within 14days after asthma symptoms ended)		10/13/2003		225																																																	
+GSE19301	LB	AST-00062	7				MONOLY	Monocytes/Lymphocytes			0.1509													ICON-D						N				54	Exacerbation (asthma symptoms during 14d window)		11/24/2003		267																																																	
+GSE19301	LB	AST-00062	8				MONOLY	Monocytes/Lymphocytes			0.2537													ICON-D						Y				55	Follow-up (within 14days after asthma symptoms ended)		12/10/2003		283																																																	
+GSE19301	LB	AST-00062	9				MONOLY	Monocytes/Lymphocytes			0.2565													ICON-D						N				60	Quiet (no asthma attack)		3/1/2004		365																																																	
+GSE19301	LB	AST-00063	1				MONOLY	Monocytes/Lymphocytes			0.2625													ICON-D						Not available				20	Quiet (no asthma attack)		3/3/2003		1																																																	
+GSE19301	LB	AST-00063	2				MONOLY	Monocytes/Lymphocytes			0.2041													ICON-D						N				40	Exacerbation (asthma symptoms during 14d window)		8/5/2003		156																																																	
+GSE19301	LB	AST-00063	3				MONOLY	Monocytes/Lymphocytes			0.2487													ICON-D						N				50	Exacerbation (asthma symptoms during 14d window)		10/20/2003		232																																																	
+GSE19301	LB	AST-00063	4				MONOLY	Monocytes/Lymphocytes			0.3333													ICON-D						Y				51	Follow-up (within 14days after asthma symptoms ended)		10/30/2003		242																																																	
+GSE19301	LB	AST-00063	5				MONOLY	Monocytes/Lymphocytes			0.2049													ICON-D						Y				60	Exacerbation (asthma symptoms during 14d window)		1/19/2004		323																																																	
+GSE19301	LB	AST-00063	6				IgE	Immunoglobulin E			47													ICON-D						N				40	Exacerbation (asthma symptoms during 14d window)		8/5/2003		156																																																	
+GSE19301	LB	AST-00063	7				IgE	Immunoglobulin E			44													ICON-D						N				50	Exacerbation (asthma symptoms during 14d window)		10/20/2003		232																																																	
+GSE19301	LB	AST-00063	8				IgE	Immunoglobulin E			30													ICON-D						Y				60	Exacerbation (asthma symptoms during 14d window)		1/19/2004		323																																																	
+GSE19301	LB	AST-00064	1				MONOLY	Monocytes/Lymphocytes			0.2782													ICON-D						Not available				20	Quiet (no asthma attack)		3/6/2003		1																																																	
+GSE19301	LB	AST-00064	2				MONOLY	Monocytes/Lymphocytes			0.3981													ICON-D						Y				31	Exacerbation (asthma symptoms during 14d window)		6/4/2003		91																																																	
+GSE19301	LB	AST-00064	3				MONOLY	Monocytes/Lymphocytes			0.3287													ICON-D						Y				32	Follow-up (within 14days after asthma symptoms ended)		6/16/2003		103																																																	
+GSE19301	LB	AST-00064	4				MONOLY	Monocytes/Lymphocytes			0.3016													ICON-D						Y				40	Quiet (no asthma attack)		8/18/2003		166																																																	
+GSE19301	LB	AST-00064	5				MONOLY	Monocytes/Lymphocytes			0.3417													ICON-D						N				50	Quiet (no asthma attack)		11/3/2003		243																																																	
+GSE19301	LB	AST-00064	6				MONOLY	Monocytes/Lymphocytes			0.3386													ICON-D						Y				60	Quiet (no asthma attack)		1/26/2004		327																																																	
+GSE19301	LB	AST-00065	1				MONOLY	Monocytes/Lymphocytes			0.2138													ICON-D						Not available				20	Quiet (no asthma attack)		3/3/2003		1																																																	
+GSE19301	LB	AST-00065	2				MONOLY	Monocytes/Lymphocytes			0.2239													ICON-D						Not available				30	Quiet (no asthma attack)		5/12/2003		71																																																	
+GSE19301	LB	AST-00065	3				MONOLY	Monocytes/Lymphocytes			0.1984													ICON-D						Y				40	Exacerbation (asthma symptoms during 14d window)		8/11/2003		162																																																	
+GSE19301	LB	AST-00065	4				MONOLY	Monocytes/Lymphocytes			0.2086													ICON-D						N				41	Follow-up (within 14days after asthma symptoms ended)		8/18/2003		169																																																	
+GSE19301	LB	AST-00065	5				MONOLY	Monocytes/Lymphocytes			0.2315													ICON-D						Y				50	Quiet (no asthma attack)		10/30/2003		242																																																	
+GSE19301	LB	AST-00065	6				MONOLY	Monocytes/Lymphocytes			0.5125													ICON-D						N				51	Exacerbation (asthma symptoms during 14d window)		12/17/2003		290																																																	
+GSE19301	LB	AST-00065	7				MONOLY	Monocytes/Lymphocytes			0.1345													ICON-D						N				52	Follow-up (within 14days after asthma symptoms ended)		12/23/2003		296																																																	
+GSE19301	LB	AST-00065	8				MONOLY	Monocytes/Lymphocytes			0.1855													ICON-D						Y				60	Quiet (no asthma attack)		2/23/2004		358																																																	
+GSE19301	LB	AST-00065	9				MONOLY	Monocytes/Lymphocytes			0.3025													ICON-D						N				61	Exacerbation (asthma symptoms during 14d window)		3/10/2004		374																																																	
+GSE19301	LB	AST-00065	10				MONOLY	Monocytes/Lymphocytes			0.1985													ICON-D						N				62	Follow-up (within 14days after asthma symptoms ended)		3/18/2004		382																																																	
+GSE19301	LB	AST-00065	11				IgE	Immunoglobulin E			33													ICON-D						Y				40	Exacerbation (asthma symptoms during 14d window)		8/11/2003		162																																																	
+GSE19301	LB	AST-00065	12				IgE	Immunoglobulin E			42													ICON-D						N				51	Exacerbation (asthma symptoms during 14d window)		12/17/2003		290																																																	
+GSE19301	LB	AST-00066	1				MONOLY	Monocytes/Lymphocytes			0.2143													ICON-D						Not available				20	Quiet (no asthma attack)		3/6/2003		1																																																	
+GSE19301	LB	AST-00066	2				MONOLY	Monocytes/Lymphocytes			0.2584													ICON-D						Not available				30	Exacerbation (asthma symptoms during 14d window)		3/31/2003		26																																																	
+GSE19301	LB	AST-00066	3				MONOLY	Monocytes/Lymphocytes			0.1724													ICON-D						Not available				31	Follow-up (within 14days after asthma symptoms ended)		4/8/2003		34																																																	
+GSE19301	LB	AST-00066	4				MONOLY	Monocytes/Lymphocytes			0.2424													ICON-D						Y				40	Quiet (no asthma attack)		8/11/2003		159																																																	
+GSE19301	LB	AST-00066	5				MONOLY	Monocytes/Lymphocytes			0.3307													ICON-D						N				50	Exacerbation (asthma symptoms during 14d window)		10/1/2003		210																																																	
+GSE19301	LB	AST-00066	6				MONOLY	Monocytes/Lymphocytes			0.2823													ICON-D						N				51	Follow-up (within 14days after asthma symptoms ended)		10/13/2003		222																																																	
+GSE19301	LB	AST-00066	7				MONOLY	Monocytes/Lymphocytes			0.2484													ICON-D						N				60	Quiet (no asthma attack)		3/1/2004		362																																																	
+GSE19301	LB	AST-00066	8				MONOLY	Monocytes/Lymphocytes			0.2848													ICON-D						N				61	Exacerbation (asthma symptoms during 14d window)		3/8/2004		369																																																	
+GSE19301	LB	AST-00066	9				MONOLY	Monocytes/Lymphocytes			0.2429													ICON-D						N				62	Follow-up (within 14days after asthma symptoms ended)		3/19/2004		380																																																	
+GSE19301	LB	AST-00066	10				IgE	Immunoglobulin E			368													ICON-D						Not available				30	Exacerbation (asthma symptoms during 14d window)		3/31/2003		26																																																	
+GSE19301	LB	AST-00067	1				MONOLY	Monocytes/Lymphocytes			0.1795													AARI						N				20	Quiet (no asthma attack)		5/26/2003		1																																																	
+GSE19301	LB	AST-00067	2				MONOLY	Monocytes/Lymphocytes			0.3166													AARI						N				30	Exacerbation (asthma symptoms during 14d window)		6/4/2003		10																																																	
+GSE19301	LB	AST-00067	3				MONOLY	Monocytes/Lymphocytes			0.2313													AARI						N				31	Follow-up (within 14days after asthma symptoms ended)		6/18/2003		24																																																	
+GSE19301	LB	AST-00067	4				MONOLY	Monocytes/Lymphocytes			0.2062													AARI						N				40	Quiet (no asthma attack)		8/25/2003		92																																																	
+GSE19301	LB	AST-00067	5				MONOLY	Monocytes/Lymphocytes			0.1799													AARI						N				50	Quiet (no asthma attack)		12/11/2003		200																																																	
+GSE19301	LB	AST-00067	6				MONOLY	Monocytes/Lymphocytes			0.1462													AARI						N				60	Exacerbation (asthma symptoms during 14d window)		4/13/2004		324																																																	
+GSE19301	LB	AST-00067	7				MONOLY	Monocytes/Lymphocytes			0.1524													AARI						N				62	Follow-up (within 14days after asthma symptoms ended)		4/28/2004		339																																																	
+GSE19301	LB	AST-00068	1				MONOLY	Monocytes/Lymphocytes			0.1908													ICON-D						Not available				20	Quiet (no asthma attack)		5/8/2003		1																																																	
+GSE19301	LB	AST-00068	2				MONOLY	Monocytes/Lymphocytes			0.2556													ICON-D						Y				30	Quiet (no asthma attack)		7/10/2003		64																																																	
+GSE19301	LB	AST-00068	3				MONOLY	Monocytes/Lymphocytes			0.236													ICON-D						N				31	Exacerbation (asthma symptoms during 14d window)		7/24/2003		78																																																	
+GSE19301	LB	AST-00068	4				MONOLY	Monocytes/Lymphocytes			0.2552													ICON-D						N				32	Follow-up (within 14days after asthma symptoms ended)		8/7/2003		92																																																	
+GSE19301	LB	AST-00068	5				MONOLY	Monocytes/Lymphocytes			0.2465													ICON-D						Y				40	Quiet (no asthma attack)		10/15/2003		161																																																	
+GSE19301	LB	AST-00068	6				MONOLY	Monocytes/Lymphocytes			0.2244													ICON-D						Y				50	Quiet (no asthma attack)		12/18/2003		225																																																	
+GSE19301	LB	AST-00068	7				MONOLY	Monocytes/Lymphocytes			0.2361													ICON-D						N				51	Exacerbation (asthma symptoms during 14d window)		1/5/2004		243																																																	
+GSE19301	LB	AST-00068	8				MONOLY	Monocytes/Lymphocytes			0.2453													ICON-D						N				52	Follow-up (within 14days after asthma symptoms ended)		1/12/2004		250																																																	
+GSE19301	LB	AST-00068	9				MONOLY	Monocytes/Lymphocytes			0.2552													ICON-D						Y				60	Quiet (no asthma attack)		5/10/2004		369																																																	
+GSE19301	LB	AST-00069	1				MONOLY	Monocytes/Lymphocytes			0.1429													ICON-D						Not available				20	Quiet (no asthma attack)		6/5/2003		1																																																	
+GSE19301	LB	AST-00069	2				MONOLY	Monocytes/Lymphocytes			0.1391													ICON-D						Y				30	Quiet (no asthma attack)		8/18/2003		75																																																	
+GSE19301	LB	AST-00069	3				MONOLY	Monocytes/Lymphocytes			0.1429													ICON-D						N				40	Quiet (no asthma attack)		12/1/2003		180																																																	
+GSE19301	LB	AST-00069	4				MONOLY	Monocytes/Lymphocytes			0.1905													ICON-D						N				50	Exacerbation (asthma symptoms during 14d window)		2/11/2004		252																																																	
+GSE19301	LB	AST-00069	5				MONOLY	Monocytes/Lymphocytes			0.1039													ICON-D						N				51	Follow-up (within 14days after asthma symptoms ended)		2/20/2004		261																																																	
+GSE19301	LB	AST-00069	6				MONOLY	Monocytes/Lymphocytes			0.1212													ICON-D						Y				60	Quiet (no asthma attack)		5/5/2004		336																																																	
+GSE19301	LB	AST-00070	1				MONOLY	Monocytes/Lymphocytes			0.3551													ICON-D						Y				20	Quiet (no asthma attack)		6/18/2003		1																																																	
+GSE19301	LB	AST-00070	2				MONOLY	Monocytes/Lymphocytes			0.3636													ICON-D						Y				41	Exacerbation (asthma symptoms during 14d window)		12/4/2003		170																																																	
+GSE19301	LB	AST-00070	3				MONOLY	Monocytes/Lymphocytes			0.3037													ICON-D						Y				42	Follow-up (within 14days after asthma symptoms ended)		12/17/2003		183																																																	
+GSE19301	LB	AST-00070	4				MONOLY	Monocytes/Lymphocytes			0.4286													ICON-D						Y				50	Exacerbation (asthma symptoms during 14d window)		1/7/2004		204																																																	
+GSE19301	LB	AST-00070	5				MONOLY	Monocytes/Lymphocytes			0.25													ICON-D						N				51	Follow-up (within 14days after asthma symptoms ended)		1/14/2004		211																																																	
+GSE19301	LB	AST-00070	6				MONOLY	Monocytes/Lymphocytes			0.2636													ICON-D						Y				60	Quiet (no asthma attack)		4/15/2004		303																																																	
+GSE19301	LB	AST-00070	7				IgE	Immunoglobulin E			40													ICON-D						Y				41	Exacerbation (asthma symptoms during 14d window)		12/4/2003		170																																																	
+GSE19301	LB	AST-00071	1				MONOLY	Monocytes/Lymphocytes			0.1845													ICON-D						Y				20	Quiet (no asthma attack)		7/14/2003		1																																																	
+GSE19301	LB	AST-00071	2				MONOLY	Monocytes/Lymphocytes			0.1965													ICON-D						Y				30	Quiet (no asthma attack)		9/24/2003		73																																																	
+GSE19301	LB	AST-00071	3				MONOLY	Monocytes/Lymphocytes			0.1256													ICON-D						Y				40	Quiet (no asthma attack)		12/18/2003		158																																																	
+GSE19301	LB	AST-00071	4				MONOLY	Monocytes/Lymphocytes			0.2176													ICON-D						N				50	Exacerbation (asthma symptoms during 14d window)		3/4/2004		235																																																	
+GSE19301	LB	AST-00071	5				MONOLY	Monocytes/Lymphocytes			0.1637													ICON-D						Y				51	Follow-up (within 14days after asthma symptoms ended)		3/25/2004		256																																																	
+GSE19301	LB	AST-00071	6				MONOLY	Monocytes/Lymphocytes			0.1471													ICON-D						Y				60	Quiet (no asthma attack)		6/3/2004		326																																																	
+GSE19301	LB	AST-00072	1				MONOLY	Monocytes/Lymphocytes			0.1279													ICON-D						Y				20	Quiet (no asthma attack)		7/21/2003		1																																																	
+GSE19301	LB	AST-00072	2				MONOLY	Monocytes/Lymphocytes			0.1506													ICON-D						Y				30	Quiet (no asthma attack)		9/22/2003		64																																																	
+GSE19301	LB	AST-00072	3				MONOLY	Monocytes/Lymphocytes			0.1346													ICON-D						N				40	Quiet (no asthma attack)		1/12/2004		176																																																	
+GSE19301	LB	AST-00072	4				MONOLY	Monocytes/Lymphocytes			0.1611													ICON-D						N				41	Exacerbation (asthma symptoms during 14d window)		1/26/2004		190																																																	
+GSE19301	LB	AST-00072	5				MONOLY	Monocytes/Lymphocytes			0.1457													ICON-D						N				42	Follow-up (within 14days after asthma symptoms ended)		2/5/2004		200																																																	
+GSE19301	LB	AST-00072	6				MONOLY	Monocytes/Lymphocytes			0.1523													ICON-D						N				50	Exacerbation (asthma symptoms during 14d window)		3/29/2004		253																																																	
+GSE19301	LB	AST-00072	7				MONOLY	Monocytes/Lymphocytes			0.1115													ICON-D						N				51	Follow-up (within 14days after asthma symptoms ended)		4/8/2004		263																																																	
+GSE19301	LB	AST-00072	8				MONOLY	Monocytes/Lymphocytes			0.152													ICON-D						N				60	Quiet (no asthma attack)		6/14/2004		330																																																	
+GSE19301	LB	AST-00073	1				MONOLY	Monocytes/Lymphocytes			0.1959													ICON-D						Not available				20	Quiet (no asthma attack)		2/12/2003		1																																																	
+GSE19301	LB	AST-00073	2				MONOLY	Monocytes/Lymphocytes			0.1241													ICON-D						Not available				30	Exacerbation (asthma symptoms during 14d window)		3/19/2003		36																																																	
+GSE19301	LB	AST-00073	3				MONOLY	Monocytes/Lymphocytes			0.1848													ICON-D						N				31	Follow-up (within 14days after asthma symptoms ended)		4/3/2003		51																																																	
+GSE19301	LB	AST-00073	4				MONOLY	Monocytes/Lymphocytes			0.1206													ICON-D						N				40	Quiet (no asthma attack)		7/8/2003		147																																																	
+GSE19301	LB	AST-00073	5				MONOLY	Monocytes/Lymphocytes			0.1598													ICON-D						N				50	Quiet (no asthma attack)		10/8/2003		239																																																	
+GSE19301	LB	AST-00073	6				MONOLY	Monocytes/Lymphocytes			0.1441													ICON-D						Y				60	Quiet (no asthma attack)		1/7/2004		330																																																	
+GSE19301	LB	AST-00073	7				IgE	Immunoglobulin E			53													ICON-D						Not available				30	Exacerbation (asthma symptoms during 14d window)		3/19/2003		36																																																	
+GSE19301	LB	AST-00074	1				MONOLY	Monocytes/Lymphocytes			0.2229													ICON-D						Not available				20	Quiet (no asthma attack)		3/21/2003		1																																																	
+GSE19301	LB	AST-00074	2				MONOLY	Monocytes/Lymphocytes			0.142													ICON-D						N				30	Exacerbation (asthma symptoms during 14d window)		6/2/2003		74																																																	
+GSE19301	LB	AST-00074	3				MONOLY	Monocytes/Lymphocytes			0.1755													ICON-D						N				31	Follow-up (within 14days after asthma symptoms ended)		6/17/2003		89																																																	
+GSE19301	LB	AST-00074	4				MONOLY	Monocytes/Lymphocytes			0.1183													ICON-D						Y				40	Quiet (no asthma attack)		9/4/2003		168																																																	
+GSE19301	LB	AST-00074	5				MONOLY	Monocytes/Lymphocytes			0.1504													ICON-D						Y				60	Quiet (no asthma attack)		12/1/2003		256																																																	
+GSE19301	LB	AST-00074	6				IgE	Immunoglobulin E			15													ICON-D						N				30	Exacerbation (asthma symptoms during 14d window)		6/2/2003		74																																																	
+GSE19301	LB	AST-00075	1				MONOLY	Monocytes/Lymphocytes			0.1667													ICON-D						N				20	Quiet (no asthma attack)		7/21/2003		1																																																	
+GSE19301	LB	AST-00075	2				MONOLY	Monocytes/Lymphocytes			0.1934													ICON-D						N				30	Exacerbation (asthma symptoms during 14d window)		9/5/2003		47																																																	
+GSE19301	LB	AST-00075	3				MONOLY	Monocytes/Lymphocytes			0.2832													ICON-D						Y				31	Follow-up (within 14days after asthma symptoms ended)		9/19/2003		61																																																	
+GSE19301	LB	AST-00075	4				MONOLY	Monocytes/Lymphocytes			0.2562													ICON-D						Y				40	Quiet (no asthma attack)		11/20/2003		123																																																	
+GSE19301	LB	AST-00075	5				MONOLY	Monocytes/Lymphocytes			0.1598													ICON-D						Y				50	Quiet (no asthma attack)		2/17/2004		212																																																	
+GSE19301	LB	AST-00075	6				MONOLY	Monocytes/Lymphocytes			0.1615													ICON-D						N				60	Quiet (no asthma attack)		5/18/2004		303																																																	
+GSE19301	LB	AST-00076	1				MONOLY	Monocytes/Lymphocytes			0.1714													ICON-D						Not available				20	Quiet (no asthma attack)		4/23/2003		1																																																	
+GSE19301	LB	AST-00076	2				MONOLY	Monocytes/Lymphocytes			0.2653													ICON-D						Not available				30	Exacerbation (asthma symptoms during 14d window)		5/20/2003		28																																																	
+GSE19301	LB	AST-00076	3				MONOLY	Monocytes/Lymphocytes			0.0714													ICON-D						Not available				31	Follow-up (within 14days after asthma symptoms ended)		6/4/2003		43																																																	
+GSE19301	LB	AST-00076	4				MONOLY	Monocytes/Lymphocytes			0.12													ICON-D						Y				40	Quiet (no asthma attack)		9/2/2003		133																																																	
+GSE19301	LB	AST-00076	5				MONOLY	Monocytes/Lymphocytes			0.152													ICON-D						N				60	Quiet (no asthma attack)		2/11/2004		295																																																	
+GSE19301	LB	AST-00076	6				IgE	Immunoglobulin E			193													ICON-D						Not available				30	Exacerbation (asthma symptoms during 14d window)		5/20/2003		28																																																	
+GSE19301	LB	AST-00077	1				MONOLY	Monocytes/Lymphocytes			0.2269													ICON-D						Not available				20	Quiet (no asthma attack)		5/16/2003		1																																																	
+GSE19301	LB	AST-00077	2				MONOLY	Monocytes/Lymphocytes			0.2213													ICON-D						Y				30	Quiet (no asthma attack)		8/7/2003		84																																																	
+GSE19301	LB	AST-00077	3				MONOLY	Monocytes/Lymphocytes			0.2258													ICON-D						N				40	Exacerbation (asthma symptoms during 14d window)		9/29/2003		137																																																	
+GSE19301	LB	AST-00077	4				MONOLY	Monocytes/Lymphocytes			0.2174													ICON-D						Y				41	Follow-up (within 14days after asthma symptoms ended)		10/9/2003		147																																																	
+GSE19301	LB	AST-00077	5				MONOLY	Monocytes/Lymphocytes			0.1869													ICON-D						Y				60	Quiet (no asthma attack)		5/12/2004		363																																																	
+GSE19301	LB	AST-00078	1				MONOLY	Monocytes/Lymphocytes			0.1395													ICON-D						Not available				20	Quiet (no asthma attack)		5/23/2003		1																																																	
+GSE19301	LB	AST-00078	2				MONOLY	Monocytes/Lymphocytes			0.1477													ICON-D						N				30	Exacerbation (asthma symptoms during 14d window)		5/28/2003		6																																																	
+GSE19301	LB	AST-00078	3				MONOLY	Monocytes/Lymphocytes			0.215													ICON-D						N				31	Follow-up (within 14days after asthma symptoms ended)		6/11/2003		20																																																	
+GSE19301	LB	AST-00078	4				MONOLY	Monocytes/Lymphocytes			0.1333													ICON-D						N				32	Exacerbation (asthma symptoms during 14d window)		6/20/2003		29																																																	
+GSE19301	LB	AST-00078	5				MONOLY	Monocytes/Lymphocytes			0.2206													ICON-D						Y				33	Follow-up (within 14days after asthma symptoms ended)		7/17/2003		56																																																	
+GSE19301	LB	AST-00078	6				MONOLY	Monocytes/Lymphocytes			0.1799													ICON-D						Y				50	Quiet (no asthma attack)		12/18/2003		210																																																	
+GSE19301	LB	AST-00078	7				MONOLY	Monocytes/Lymphocytes			0.1369													ICON-D						Y				60	Quiet (no asthma attack)		3/18/2004		301																																																	
+GSE19301	LB	AST-00078	8				IgE	Immunoglobulin E			326													ICON-D						N				30	Exacerbation (asthma symptoms during 14d window)		5/28/2003		6																																																	
+GSE19301	LB	AST-00079	1				MONOLY	Monocytes/Lymphocytes			0.3311													ICON-D						N				30	Exacerbation (asthma symptoms during 14d window)		8/15/2003		1																																																	
+GSE19301	LB	AST-00079	2				MONOLY	Monocytes/Lymphocytes			0.2697													ICON-D						Y				31	Follow-up (within 14days after asthma symptoms ended)		8/29/2003		15																																																	
+GSE19301	LB	AST-00079	3				MONOLY	Monocytes/Lymphocytes			0.3333													ICON-D						Y				40	Quiet (no asthma attack)		11/7/2003		85																																																	
+GSE19301	LB	AST-00079	4				MONOLY	Monocytes/Lymphocytes			0.2294													ICON-D						Y				50	Quiet (no asthma attack)		2/20/2004		190																																																	
+GSE19301	LB	AST-00079	5				MONOLY	Monocytes/Lymphocytes			0.281													ICON-D						Y				60	Exacerbation (asthma symptoms during 14d window)		3/19/2004		218																																																	
+GSE19301	LB	AST-00079	6				MONOLY	Monocytes/Lymphocytes			0.2036													ICON-D						Y				61	Follow-up (within 14days after asthma symptoms ended)		4/2/2004		232																																																	
+GSE19301	LB	AST-00079	7				IgE	Immunoglobulin E			43													ICON-D						N				30	Exacerbation (asthma symptoms during 14d window)		8/15/2003		1																																																	
+GSE19301	LB	AST-00080	1				MONOLY	Monocytes/Lymphocytes			0.3402													ICON-D						Y				20	Quiet (no asthma attack)		6/20/2003		1																																																	
+GSE19301	LB	AST-00080	2				MONOLY	Monocytes/Lymphocytes			0.3125													ICON-D						Y				40	Exacerbation (asthma symptoms during 14d window)		9/29/2003		102																																																	
+GSE19301	LB	AST-00080	3				MONOLY	Monocytes/Lymphocytes			0.3846													ICON-D						Y				41	Follow-up (within 14days after asthma symptoms ended)		10/20/2003		123																																																	
+GSE19301	LB	AST-00080	4				MONOLY	Monocytes/Lymphocytes			0.3295													ICON-D						Y				50	Quiet (no asthma attack)		1/5/2004		200																																																	
+GSE19301	LB	AST-00080	5				MONOLY	Monocytes/Lymphocytes			0.3464													ICON-D						Y				60	Quiet (no asthma attack)		5/4/2004		320																																																	
+GSE19301	LB	AST-00080	6				IgE	Immunoglobulin E			211													ICON-D						Y				40	Exacerbation (asthma symptoms during 14d window)		9/29/2003		102																																																	
+GSE19301	LB	AST-00081	1				MONOLY	Monocytes/Lymphocytes			0.3507													ICON-D						Y				20	Exacerbation (asthma symptoms during 14d window)		6/30/2003		1																																																	
+GSE19301	LB	AST-00081	2				MONOLY	Monocytes/Lymphocytes			0.2697													ICON-D						Y				40	Quiet (no asthma attack)		10/3/2003		96																																																	
+GSE19301	LB	AST-00081	3				MONOLY	Monocytes/Lymphocytes			0.2881													ICON-D						N				50	Quiet (no asthma attack)		3/19/2004		264																																																	
+GSE19301	LB	AST-00081	4				MONOLY	Monocytes/Lymphocytes			0.2189													ICON-D						Y				60	Quiet (no asthma attack)		6/4/2004		341																																																	
+GSE19301	LB	AST-00082	1				MONOLY	Monocytes/Lymphocytes			0.2136													ICON-D						Y				20	Quiet (no asthma attack)		7/11/2003		1																																																	
+GSE19301	LB	AST-00082	2				MONOLY	Monocytes/Lymphocytes			0.2814													ICON-D						Y				30	Exacerbation (asthma symptoms during 14d window)		7/22/2003		12																																																	
+GSE19301	LB	AST-00082	3				MONOLY	Monocytes/Lymphocytes			0.197													ICON-D						Y				31	Follow-up (within 14days after asthma symptoms ended)		8/1/2003		22																																																	
+GSE19301	LB	AST-00082	4				MONOLY	Monocytes/Lymphocytes			0.2903													ICON-D						N				40	Quiet (no asthma attack)		11/21/2003		134																																																	
+GSE19301	LB	AST-00082	5				MONOLY	Monocytes/Lymphocytes			0.3056													ICON-D						N				50	Quiet (no asthma attack)		1/30/2004		204																																																	
+GSE19301	LB	AST-00082	6				MONOLY	Monocytes/Lymphocytes			0.2526													ICON-D						N				60	Quiet (no asthma attack)		4/30/2004		295																																																	
+GSE19301	LB	AST-00082	7				IgE	Immunoglobulin E			107													ICON-D						Y				30	Exacerbation (asthma symptoms during 14d window)		7/22/2003		12																																																	
+GSE19301	LB	AST-00083	1				MONOLY	Monocytes/Lymphocytes			0.1746													ICON-D						Y				30	Quiet (no asthma attack)		8/19/2003		1																																																	
+GSE19301	LB	AST-00083	2				MONOLY	Monocytes/Lymphocytes			0.175													ICON-D						Y				40	Exacerbation (asthma symptoms during 14d window)		11/7/2003		81																																																	
+GSE19301	LB	AST-00083	3				MONOLY	Monocytes/Lymphocytes			0.1392													ICON-D						Y				41	Follow-up (within 14days after asthma symptoms ended)		11/25/2003		99																																																	
+GSE19301	LB	AST-00084	1				MONOLY	Monocytes/Lymphocytes			0.219													ICON-D						Y				20	Quiet (no asthma attack)		7/15/2003		1																																																	
+GSE19301	LB	AST-00084	2				MONOLY	Monocytes/Lymphocytes			0.28													ICON-D						N				30	Quiet (no asthma attack)		9/23/2003		71																																																	
+GSE19301	LB	AST-00084	3				MONOLY	Monocytes/Lymphocytes			0.2835													ICON-D						Y				40	Quiet (no asthma attack)		12/16/2003		155																																																	
+GSE19301	LB	AST-00084	4				MONOLY	Monocytes/Lymphocytes			0.2621													ICON-D						Y				50	Exacerbation (asthma symptoms during 14d window)		1/22/2004		192																																																	
+GSE19301	LB	AST-00084	5				MONOLY	Monocytes/Lymphocytes			0.1854													ICON-D						Y				51	Follow-up (within 14days after asthma symptoms ended)		2/9/2004		210																																																	
+GSE19301	LB	AST-00084	6				MONOLY	Monocytes/Lymphocytes			0.2598													ICON-D						Y				60	Quiet (no asthma attack)		5/11/2004		302																																																	
+GSE19301	LB	AST-00085	1				MONOLY	Monocytes/Lymphocytes			0.0971													ICON-D						Y				20	Quiet (no asthma attack)		7/29/2003		1																																																	
+GSE19301	LB	AST-00085	2				MONOLY	Monocytes/Lymphocytes			0.089													ICON-D						Y				30	Exacerbation (asthma symptoms during 14d window)		10/16/2003		80																																																	
+GSE19301	LB	AST-00085	3				MONOLY	Monocytes/Lymphocytes			0.122													ICON-D						Y				40	Quiet (no asthma attack)		12/19/2003		144																																																	
+GSE19301	LB	AST-00085	4				MONOLY	Monocytes/Lymphocytes			0.1187													ICON-D						Y				51	Follow-up (within 14days after asthma symptoms ended)		2/19/2004		206																																																	
+GSE19301	LB	AST-00085	5				MONOLY	Monocytes/Lymphocytes			0.0743													ICON-D						Y				60	Quiet (no asthma attack)		6/3/2004		311																																																	
+GSE19301	LB	AST-00085	6				IgE	Immunoglobulin E			10													ICON-D						Y				30	Exacerbation (asthma symptoms during 14d window)		10/16/2003		80																																																	
+GSE19301	LB	AST-00086	1				MONOLY	Monocytes/Lymphocytes			0.1217													ICON-D						Y				20	Quiet (no asthma attack)		8/6/2003		1																																																	
+GSE19301	LB	AST-00086	2				MONOLY	Monocytes/Lymphocytes			0.1194													ICON-D						Y				30	Quiet (no asthma attack)		9/12/2003		38																																																	
+GSE19301	LB	AST-00086	3				MONOLY	Monocytes/Lymphocytes			0.1082													ICON-D						Y				31	Exacerbation (asthma symptoms during 14d window)		10/14/2003		70																																																	
+GSE19301	LB	AST-00086	4				MONOLY	Monocytes/Lymphocytes			0.1617													ICON-D						Y				32	Follow-up (within 14days after asthma symptoms ended)		10/24/2003		80																																																	
+GSE19301	LB	AST-00086	5				MONOLY	Monocytes/Lymphocytes			0.1448													ICON-D						Y				40	Quiet (no asthma attack)		1/30/2004		178																																																	
+GSE19301	LB	AST-00086	6				MONOLY	Monocytes/Lymphocytes			0.1014													ICON-D						N				50	Quiet (no asthma attack)		5/7/2004		276																																																	
+GSE19301	LB	AST-00087	1				MONOLY	Monocytes/Lymphocytes			0.1714													ICON-D						Y				20	Quiet (no asthma attack)		7/31/2003		1																																																	
+GSE19301	LB	AST-00087	2				MONOLY	Monocytes/Lymphocytes			0.144													ICON-D						N				30	Quiet (no asthma attack)		9/15/2003		47																																																	
+GSE19301	LB	AST-00087	3				MONOLY	Monocytes/Lymphocytes			0.1796													ICON-D						N				40	Quiet (no asthma attack)		11/3/2003		96																																																	
+GSE19301	LB	AST-00087	4				MONOLY	Monocytes/Lymphocytes			0.2237													ICON-D						N				41	Exacerbation (asthma symptoms during 14d window)		1/23/2004		177																																																	
+GSE19301	LB	AST-00087	5				MONOLY	Monocytes/Lymphocytes			0.203													ICON-D						N				50	Follow-up (within 14days after asthma symptoms ended)		2/6/2004		191																																																	
+GSE19301	LB	AST-00087	6				MONOLY	Monocytes/Lymphocytes			0.1484													ICON-D						Not available				60	Exacerbation (asthma symptoms during 14d window)		5/6/2004		281																																																	
+GSE19301	LB	AST-00087	7				MONOLY	Monocytes/Lymphocytes			0.2061													ICON-D						N				61	Follow-up (within 14days after asthma symptoms ended)		5/20/2004		295																																																	
+GSE19301	LB	AST-00087	8				IgE	Immunoglobulin E			45													ICON-D						Not available				60	Exacerbation (asthma symptoms during 14d window)		5/6/2004		281																																																	
+GSE19301	LB	AST-00088	1				MONOLY	Monocytes/Lymphocytes			0.1845													ICON-D						Y				20	Quiet (no asthma attack)		9/1/2003		1																																																	
+GSE19301	LB	AST-00088	2				MONOLY	Monocytes/Lymphocytes			0.2													ICON-D						Y				30	Quiet (no asthma attack)		11/4/2003		65																																																	
+GSE19301	LB	AST-00088	3				MONOLY	Monocytes/Lymphocytes			0.1503													ICON-D						Y				31	Exacerbation (asthma symptoms during 14d window)		11/28/2003		89																																																	
+GSE19301	LB	AST-00088	4				MONOLY	Monocytes/Lymphocytes			0.2015													ICON-D						Y				50	Quiet (no asthma attack)		3/9/2004		191																																																	
+GSE19301	LB	AST-00089	1				MONOLY	Monocytes/Lymphocytes			0.1283													DeCODE						N				30	Quiet (no asthma attack)		4/28/2003		1																																																	
+GSE19301	LB	AST-00089	2				MONOLY	Monocytes/Lymphocytes			0.136													DeCODE						N				40	Quiet (no asthma attack)		7/21/2003		85																																																	
+GSE19301	LB	AST-00089	3				MONOLY	Monocytes/Lymphocytes			0.1909													DeCODE						Y				41	Exacerbation (asthma symptoms during 14d window)		8/12/2003		107																																																	
+GSE19301	LB	AST-00089	4				MONOLY	Monocytes/Lymphocytes			0.1421													DeCODE						N				42	Follow-up (within 14days after asthma symptoms ended)		8/19/2003		114																																																	
+GSE19301	LB	AST-00089	5				MONOLY	Monocytes/Lymphocytes			0.1382													DeCODE						N				50	Quiet (no asthma attack)		9/15/2003		141																																																	
+GSE19301	LB	AST-00089	6				MONOLY	Monocytes/Lymphocytes			0.036													DeCODE						N				60	Quiet (no asthma attack)		12/2/2003		219																																																	
+GSE19301	LB	AST-00090	1				MONOLY	Monocytes/Lymphocytes			0.1538													DeCODE						N				20	Quiet (no asthma attack)		3/3/2003		1																																																	
+GSE19301	LB	AST-00090	2				MONOLY	Monocytes/Lymphocytes			0.3462													DeCODE						N				30	Exacerbation (asthma symptoms during 14d window)		3/25/2003		23																																																	
+GSE19301	LB	AST-00090	3				MONOLY	Monocytes/Lymphocytes			0.1523													DeCODE						N				31	Follow-up (within 14days after asthma symptoms ended)		4/1/2003		30																																																	
+GSE19301	LB	AST-00090	4				MONOLY	Monocytes/Lymphocytes			0.2071													DeCODE						N				50	Quiet (no asthma attack)		9/15/2003		197																																																	
+GSE19301	LB	AST-00090	5				MONOLY	Monocytes/Lymphocytes			0.2154													DeCODE						N				60	Quiet (no asthma attack)		12/8/2003		281																																																	
+GSE19301	LB	AST-00090	6				MONOLY	Monocytes/Lymphocytes			0.4271													DeCODE						N				63	Exacerbation (asthma symptoms during 14d window)		1/28/2004		332																																																	
+GSE19301	LB	AST-00091	1				MONOLY	Monocytes/Lymphocytes			0.1905													DeCODE						N				20	Quiet (no asthma attack)		3/3/2003		1																																																	
+GSE19301	LB	AST-00091	2				MONOLY	Monocytes/Lymphocytes			0.12													DeCODE						N				30	Exacerbation (asthma symptoms during 14d window)		4/28/2003		57																																																	
+GSE19301	LB	AST-00091	3				MONOLY	Monocytes/Lymphocytes			0.1538													DeCODE						N				31	Follow-up (within 14days after asthma symptoms ended)		5/6/2003		65																																																	
+GSE19301	LB	AST-00091	4				MONOLY	Monocytes/Lymphocytes			0.1046													DeCODE						N				40	Quiet (no asthma attack)		9/1/2003		183																																																	
+GSE19301	LB	AST-00091	5				MONOLY	Monocytes/Lymphocytes			0.1361													DeCODE						N				50	Quiet (no asthma attack)		12/1/2003		274																																																	
+GSE19301	LB	AST-00091	6				MONOLY	Monocytes/Lymphocytes			0.1779													DeCODE						N				60	Quiet (no asthma attack)		1/12/2004		316																																																	
+GSE19301	LB	AST-00092	1				MONOLY	Monocytes/Lymphocytes			0.1558													DeCODE						N				20	Quiet (no asthma attack)		3/3/2003		1																																																	
+GSE19301	LB	AST-00092	2				MONOLY	Monocytes/Lymphocytes			0.0676													DeCODE						N				30	Quiet (no asthma attack)		5/12/2003		71																																																	
+GSE19301	LB	AST-00092	3				MONOLY	Monocytes/Lymphocytes			0.1439													DeCODE						N				40	Exacerbation (asthma symptoms during 14d window)		8/18/2003		169																																																	
+GSE19301	LB	AST-00092	4				MONOLY	Monocytes/Lymphocytes			0.221													DeCODE						N				60	Exacerbation (asthma symptoms during 14d window)		12/9/2003		282																																																	
+GSE19301	LB	AST-00092	5				MONOLY	Monocytes/Lymphocytes			0.1228													DeCODE						N				61	Follow-up (within 14days after asthma symptoms ended)		12/16/2003		289																																																	
+GSE19301	LB	AST-00093	1				MONOLY	Monocytes/Lymphocytes			0.0932													DeCODE						Y				20	Quiet (no asthma attack)		3/10/2003		1																																																	
+GSE19301	LB	AST-00093	2				MONOLY	Monocytes/Lymphocytes			0.1015													DeCODE						N				30	Quiet (no asthma attack)		5/27/2003		79																																																	
+GSE19301	LB	AST-00093	3				MONOLY	Monocytes/Lymphocytes			0.1284													DeCODE						Y				31	Exacerbation (asthma symptoms during 14d window)		6/4/2003		87																																																	
+GSE19301	LB	AST-00093	4				MONOLY	Monocytes/Lymphocytes			0.1257													DeCODE						Y				40	Follow-up (within 14days after asthma symptoms ended)		6/12/2003		95																																																	
+GSE19301	LB	AST-00093	5				MONOLY	Monocytes/Lymphocytes			0.0927													DeCODE						N				50	Quiet (no asthma attack)		9/16/2003		191																																																	
+GSE19301	LB	AST-00093	6				MONOLY	Monocytes/Lymphocytes			0.126													DeCODE						N				60	Quiet (no asthma attack)		12/16/2003		282																																																	
+GSE19301	LB	AST-00094	1				MONOLY	Monocytes/Lymphocytes			0.1261													DeCODE						N				20	Quiet (no asthma attack)		3/10/2003		1																																																	
+GSE19301	LB	AST-00094	2				MONOLY	Monocytes/Lymphocytes			0.1281													DeCODE						N				30	Exacerbation (asthma symptoms during 14d window)		3/17/2003		8																																																	
+GSE19301	LB	AST-00094	3				MONOLY	Monocytes/Lymphocytes			0.1377													DeCODE						Y				31	Follow-up (within 14days after asthma symptoms ended)		3/27/2003		18																																																	
+GSE19301	LB	AST-00094	4				MONOLY	Monocytes/Lymphocytes			0.1276													DeCODE						Y				40	Quiet (no asthma attack)		8/18/2003		162																																																	
+GSE19301	LB	AST-00094	5				MONOLY	Monocytes/Lymphocytes			0.1391													DeCODE						N				50	Quiet (no asthma attack)		11/3/2003		239																																																	
+GSE19301	LB	AST-00094	6				MONOLY	Monocytes/Lymphocytes			0.2317													DeCODE						N				60	Exacerbation (asthma symptoms during 14d window)		12/16/2003		282																																																	
+GSE19301	LB	AST-00094	7				MONOLY	Monocytes/Lymphocytes			0.1453													DeCODE						N				61	Follow-up (within 14days after asthma symptoms ended)		12/22/2003		288																																																	
+GSE19301	LB	AST-00095	1				MONOLY	Monocytes/Lymphocytes			0.2185													DeCODE						N				20	Quiet (no asthma attack)		3/10/2003		1																																																	
+GSE19301	LB	AST-00095	2				MONOLY	Monocytes/Lymphocytes			0.1959													DeCODE						Y				32	Exacerbation (asthma symptoms during 14d window)		4/10/2003		32																																																	
+GSE19301	LB	AST-00095	3				MONOLY	Monocytes/Lymphocytes			0.1483													DeCODE						N				34	Exacerbation (asthma symptoms during 14d window)		5/5/2003		57																																																	
+GSE19301	LB	AST-00095	4				MONOLY	Monocytes/Lymphocytes			0.325													DeCODE						N				60	Quiet (no asthma attack)		12/15/2003		281																																																	
+GSE19301	LB	AST-00096	1				MONOLY	Monocytes/Lymphocytes			0.1875													DeCODE						Y				20	Quiet (no asthma attack)		3/25/2003		1																																																	
+GSE19301	LB	AST-00096	2				MONOLY	Monocytes/Lymphocytes			0.2397													DeCODE						N				30	Quiet (no asthma attack)		6/3/2003		71																																																	
+GSE19301	LB	AST-00096	3				MONOLY	Monocytes/Lymphocytes			0.1507													DeCODE						N				50	Exacerbation (asthma symptoms during 14d window)		12/9/2003		260																																																	
+GSE19301	LB	AST-00096	4				MONOLY	Monocytes/Lymphocytes			0.1992													DeCODE						N				51	Follow-up (within 14days after asthma symptoms ended)		12/16/2003		267																																																	
+GSE19301	LB	AST-00096	5				MONOLY	Monocytes/Lymphocytes			0.1733													DeCODE						N				60	Quiet (no asthma attack)		1/5/2004		287																																																	
+GSE19301	LB	AST-00097	1				MONOLY	Monocytes/Lymphocytes			0.2222													DeCODE						N				20	Quiet (no asthma attack)		3/31/2003		1																																																	
+GSE19301	LB	AST-00097	2				MONOLY	Monocytes/Lymphocytes			0.169													DeCODE						N				30	Exacerbation (asthma symptoms during 14d window)		4/6/2003		7																																																	
+GSE19301	LB	AST-00097	3				MONOLY	Monocytes/Lymphocytes			0.2564													DeCODE						N				32	Exacerbation (asthma symptoms during 14d window)		4/22/2003		23																																																	
+GSE19301	LB	AST-00097	4				MONOLY	Monocytes/Lymphocytes			0.1988													DeCODE						N				33	Exacerbation (asthma symptoms during 14d window)		4/28/2003		29																																																	
+GSE19301	LB	AST-00097	5				MONOLY	Monocytes/Lymphocytes			0.3118													DeCODE						N				34	Follow-up (within 14days after asthma symptoms ended)		5/5/2003		36																																																	
+GSE19301	LB	AST-00097	6				MONOLY	Monocytes/Lymphocytes			0.2973													DeCODE						N				38	Exacerbation (asthma symptoms during 14d window)		5/28/2003		59																																																	
+GSE19301	LB	AST-00097	7				MONOLY	Monocytes/Lymphocytes			0.2615													DeCODE						N				40	Quiet (no asthma attack)		9/23/2003		177																																																	
+GSE19301	LB	AST-00097	8				MONOLY	Monocytes/Lymphocytes			0.2957													DeCODE						N				50	Quiet (no asthma attack)		12/1/2003		246																																																	
+GSE19301	LB	AST-00097	9				MONOLY	Monocytes/Lymphocytes			0.2857													DeCODE						N				60	Quiet (no asthma attack)		1/6/2004		282																																																	
+GSE19301	LB	AST-00098	1				MONOLY	Monocytes/Lymphocytes			0.1043													DeCODE						Y				20	Quiet (no asthma attack)		3/31/2003		1																																																	
+GSE19301	LB	AST-00098	2				MONOLY	Monocytes/Lymphocytes			0.098													DeCODE						N				30	Quiet (no asthma attack)		6/12/2003		74																																																	
+GSE19301	LB	AST-00098	3				MONOLY	Monocytes/Lymphocytes			0.1131													DeCODE						N				40	Quiet (no asthma attack)		7/28/2003		120																																																	
+GSE19301	LB	AST-00098	4				MONOLY	Monocytes/Lymphocytes			0.25													DeCODE						Y				51	Exacerbation (asthma symptoms during 14d window)		10/14/2003		198																																																	
+GSE19301	LB	AST-00098	5				MONOLY	Monocytes/Lymphocytes			0.128													DeCODE						N				60	Quiet (no asthma attack)		1/20/2004		296																																																	
+GSE19301	LB	AST-00099	1				MONOLY	Monocytes/Lymphocytes			0.1652													DeCODE						N				20	Quiet (no asthma attack)		3/31/2003		1																																																	
+GSE19301	LB	AST-00099	2				MONOLY	Monocytes/Lymphocytes			0.1727													DeCODE						N				30	Exacerbation (asthma symptoms during 14d window)		4/7/2003		8																																																	
+GSE19301	LB	AST-00099	3				MONOLY	Monocytes/Lymphocytes			0.2128													DeCODE						N				31	Follow-up (within 14days after asthma symptoms ended)		4/16/2003		17																																																	
+GSE19301	LB	AST-00099	4				MONOLY	Monocytes/Lymphocytes			0.2074													DeCODE						N				32	Exacerbation (asthma symptoms during 14d window)		4/22/2003		23																																																	
+GSE19301	LB	AST-00099	5				MONOLY	Monocytes/Lymphocytes			0.3013													DeCODE						N				40	Quiet (no asthma attack)		6/30/2003		92																																																	
+GSE19301	LB	AST-00099	6				MONOLY	Monocytes/Lymphocytes			0.2209													DeCODE						N				50	Quiet (no asthma attack)		10/7/2003		191																																																	
+GSE19301	LB	AST-00099	7				MONOLY	Monocytes/Lymphocytes			0.3032													DeCODE						N				60	Quiet (no asthma attack)		3/8/2004		344																																																	
+GSE19301	LB	AST-00100	1				MONOLY	Monocytes/Lymphocytes			0.3													DeCODE						N				20	Quiet (no asthma attack)		4/1/2003		1																																																	
+GSE19301	LB	AST-00100	2				MONOLY	Monocytes/Lymphocytes			0.3101													DeCODE						N				30	Quiet (no asthma attack)		5/6/2003		36																																																	
+GSE19301	LB	AST-00100	3				MONOLY	Monocytes/Lymphocytes			0.3059													DeCODE						N				50	Quiet (no asthma attack)		10/14/2003		197																																																	
+GSE19301	LB	AST-00100	4				MONOLY	Monocytes/Lymphocytes			0.3187													DeCODE						N				60	Quiet (no asthma attack)		1/6/2004		281																																																	
+GSE19301	LB	AST-00100	5				MONOLY	Monocytes/Lymphocytes			0.1475													DeCODE						N				62	Follow-up (within 14days after asthma symptoms ended)		3/2/2004		337																																																	
+GSE19301	LB	AST-00101	1				MONOLY	Monocytes/Lymphocytes			0.2148													DeCODE						N				20	Quiet (no asthma attack)		4/1/2003		1																																																	
+GSE19301	LB	AST-00101	2				MONOLY	Monocytes/Lymphocytes			0.1719													DeCODE						Y				30	Quiet (no asthma attack)		6/23/2003		84																																																	
+GSE19301	LB	AST-00101	3				MONOLY	Monocytes/Lymphocytes			0.2632													DeCODE						Y				40	Quiet (no asthma attack)		8/5/2003		127																																																	
+GSE19301	LB	AST-00101	4				MONOLY	Monocytes/Lymphocytes			1.0508													DeCODE						N				41	Exacerbation (asthma symptoms during 14d window)		9/22/2003		175																																																	
+GSE19301	LB	AST-00101	5				MONOLY	Monocytes/Lymphocytes			0.2148													DeCODE						N				50	Follow-up (within 14days after asthma symptoms ended)		10/6/2003		189																																																	
+GSE19301	LB	AST-00101	6				MONOLY	Monocytes/Lymphocytes			0.2967													DeCODE						N				60	Quiet (no asthma attack)		2/2/2004		308																																																	
+GSE19301	LB	AST-00102	1				MONOLY	Monocytes/Lymphocytes			0.1854													DeCODE						N				20	Quiet (no asthma attack)		4/1/2003		1																																																	
+GSE19301	LB	AST-00102	2				MONOLY	Monocytes/Lymphocytes			0.2624													DeCODE						N				30	Exacerbation (asthma symptoms during 14d window)		6/23/2003		84																																																	
+GSE19301	LB	AST-00102	3				MONOLY	Monocytes/Lymphocytes			0.3673													DeCODE						N				31	Follow-up (within 14days after asthma symptoms ended)		7/1/2003		92																																																	
+GSE19301	LB	AST-00102	4				MONOLY	Monocytes/Lymphocytes			0.2897													DeCODE						N				40	Quiet (no asthma attack)		7/29/2003		120																																																	
+GSE19301	LB	AST-00102	5				MONOLY	Monocytes/Lymphocytes			0.2478													DeCODE						N				50	Quiet (no asthma attack)		10/13/2003		196																																																	
+GSE19301	LB	AST-00103	1				MONOLY	Monocytes/Lymphocytes			0.1809													DeCODE						N				20	Quiet (no asthma attack)		4/7/2003		1																																																	
+GSE19301	LB	AST-00103	2				MONOLY	Monocytes/Lymphocytes			0.1639													DeCODE						N				50	Quiet (no asthma attack)		10/13/2003		190																																																	
+GSE19301	LB	AST-00103	3				MONOLY	Monocytes/Lymphocytes			0.1801													DeCODE						N				60	Quiet (no asthma attack)		1/19/2004		288																																																	
+GSE19301	LB	AST-00103	4				MONOLY	Monocytes/Lymphocytes			0.208													DeCODE						N				61	Exacerbation (asthma symptoms during 14d window)		3/17/2004		346																																																	
+GSE19301	LB	AST-00104	1				MONOLY	Monocytes/Lymphocytes			0.2512													DeCODE						N				20	Quiet (no asthma attack)		4/7/2003		1																																																	
+GSE19301	LB	AST-00104	2				MONOLY	Monocytes/Lymphocytes			0.1777													DeCODE						N				30	Exacerbation (asthma symptoms during 14d window)		5/6/2003		30																																																	
+GSE19301	LB	AST-00104	3				MONOLY	Monocytes/Lymphocytes			0.1441													DeCODE						N				31	Follow-up (within 14days after asthma symptoms ended)		5/19/2003		43																																																	
+GSE19301	LB	AST-00104	4				MONOLY	Monocytes/Lymphocytes			0.1813													DeCODE						N				50	Quiet (no asthma attack)		10/13/2003		190																																																	
+GSE19301	LB	AST-00104	5				MONOLY	Monocytes/Lymphocytes			0.2303													DeCODE						N				60	Quiet (no asthma attack)		1/12/2004		281																																																	
+GSE19301	LB	AST-00104	6				MONOLY	Monocytes/Lymphocytes			0.281													DeCODE						N				61	Exacerbation (asthma symptoms during 14d window)		2/10/2004		310																																																	
+GSE19301	LB	AST-00104	7				MONOLY	Monocytes/Lymphocytes			0.2473													DeCODE						N				62	Follow-up (within 14days after asthma symptoms ended)		2/25/2004		325																																																	
+GSE19301	LB	AST-00105	1				MONOLY	Monocytes/Lymphocytes			0.0892													DeCODE						N				20	Quiet (no asthma attack)		4/15/2003		1																																																	
+GSE19301	LB	AST-00105	2				MONOLY	Monocytes/Lymphocytes			0.1541													DeCODE						N				30	Quiet (no asthma attack)		4/29/2003		15																																																	
+GSE19301	LB	AST-00105	3				MONOLY	Monocytes/Lymphocytes			0.214													DeCODE						N				31	Exacerbation (asthma symptoms during 14d window)		6/6/2003		53																																																	
+GSE19301	LB	AST-00105	4				MONOLY	Monocytes/Lymphocytes			0.1788													DeCODE						N				60	Quiet (no asthma attack)		1/19/2004		280																																																	
+GSE19301	LB	AST-00106	1				MONOLY	Monocytes/Lymphocytes			0.1592													DeCODE						N				20	Quiet (no asthma attack)		4/28/2003		1																																																	
+GSE19301	LB	AST-00106	2				MONOLY	Monocytes/Lymphocytes			0.1942													DeCODE						N				30	Exacerbation (asthma symptoms during 14d window)		5/15/2003		18																																																	
+GSE19301	LB	AST-00106	3				MONOLY	Monocytes/Lymphocytes			0.1679													DeCODE						N				31	Follow-up (within 14days after asthma symptoms ended)		5/27/2003		30																																																	
+GSE19301	LB	AST-00106	4				MONOLY	Monocytes/Lymphocytes			0.1486													DeCODE						N				40	Quiet (no asthma attack)		8/26/2003		121																																																	
+GSE19301	LB	AST-00106	5				MONOLY	Monocytes/Lymphocytes			0.293													DeCODE						N				50	Exacerbation (asthma symptoms during 14d window)		11/10/2003		197																																																	
+GSE19301	LB	AST-00106	6				MONOLY	Monocytes/Lymphocytes			0.2575													DeCODE						N				51	Follow-up (within 14days after asthma symptoms ended)		11/18/2003		205																																																	
+GSE19301	LB	AST-00106	7				MONOLY	Monocytes/Lymphocytes			0.1976													DeCODE						Y				60	Quiet (no asthma attack)		2/2/2004		281																																																	
+GSE19301	LB	AST-00107	1				MONOLY	Monocytes/Lymphocytes			0.1971													DeCODE						N				20	Quiet (no asthma attack)		4/28/2003		1																																																	
+GSE19301	LB	AST-00107	2				MONOLY	Monocytes/Lymphocytes			0.3046													DeCODE						N				30	Exacerbation (asthma symptoms during 14d window)		5/7/2003		10																																																	
+GSE19301	LB	AST-00107	3				MONOLY	Monocytes/Lymphocytes			0.2704													DeCODE						N				31	Follow-up (within 14days after asthma symptoms ended)		5/19/2003		22																																																	
+GSE19301	LB	AST-00107	4				MONOLY	Monocytes/Lymphocytes			0.1971													DeCODE						N				40	Quiet (no asthma attack)		9/22/2003		148																																																	
+GSE19301	LB	AST-00107	5				MONOLY	Monocytes/Lymphocytes			0.1958													DeCODE						N				50	Quiet (no asthma attack)		11/10/2003		197																																																	
+GSE19301	LB	AST-00107	6				MONOLY	Monocytes/Lymphocytes			0.2289													DeCODE						N				60	Quiet (no asthma attack)		2/2/2004		281																																																	
+GSE19301	LB	AST-00108	1				MONOLY	Monocytes/Lymphocytes			0.1311													DeCODE						N				20	Quiet (no asthma attack)		4/28/2003		1																																																	
+GSE19301	LB	AST-00108	2				MONOLY	Monocytes/Lymphocytes			0.1496													DeCODE						N				30	Quiet (no asthma attack)		6/2/2003		36																																																	
+GSE19301	LB	AST-00108	3				MONOLY	Monocytes/Lymphocytes			0.1018													DeCODE						N				50	Quiet (no asthma attack)		11/3/2003		190																																																	
+GSE19301	LB	AST-00108	4				MONOLY	Monocytes/Lymphocytes			0.1744													DeCODE						N				60	Exacerbation (asthma symptoms during 14d window)		2/2/2004		281																																																	
+GSE19301	LB	AST-00108	5				MONOLY	Monocytes/Lymphocytes			0.2143													DeCODE						N				61	Follow-up (within 14days after asthma symptoms ended)		2/16/2004		295																																																	
+GSE19301	LB	AST-00109	1				MONOLY	Monocytes/Lymphocytes			0.2244													DeCODE						N				20	Quiet (no asthma attack)		5/5/2003		1																																																	
+GSE19301	LB	AST-00109	2				MONOLY	Monocytes/Lymphocytes			0.2558													DeCODE						N				30	Exacerbation (asthma symptoms during 14d window)		5/27/2003		23																																																	
+GSE19301	LB	AST-00109	3				MONOLY	Monocytes/Lymphocytes			0.3529													DeCODE						N				31	Follow-up (within 14days after asthma symptoms ended)		6/5/2003		32																																																	
+GSE19301	LB	AST-00109	4				MONOLY	Monocytes/Lymphocytes			0.1964													DeCODE						N				40	Quiet (no asthma attack)		9/8/2003		127																																																	
+GSE19301	LB	AST-00109	5				MONOLY	Monocytes/Lymphocytes			0.2412													DeCODE						N				50	Exacerbation (asthma symptoms during 14d window)		11/10/2003		190																																																	
+GSE19301	LB	AST-00109	6				MONOLY	Monocytes/Lymphocytes			0.2911													DeCODE						N				51	Follow-up (within 14days after asthma symptoms ended)		11/18/2003		198																																																	
+GSE19301	LB	AST-00109	7				MONOLY	Monocytes/Lymphocytes			0.3506													DeCODE						Y				60	Quiet (no asthma attack)		2/9/2004		281																																																	
+GSE19301	LB	AST-00110	1				MONOLY	Monocytes/Lymphocytes			0.197													DeCODE						N				20	Quiet (no asthma attack)		5/5/2003		1																																																	
+GSE19301	LB	AST-00110	2				MONOLY	Monocytes/Lymphocytes			0.379													DeCODE						N				50	Exacerbation (asthma symptoms during 14d window)		11/7/2003		187																																																	
+GSE19301	LB	AST-00110	3				MONOLY	Monocytes/Lymphocytes			0.312													DeCODE						N				51	Follow-up (within 14days after asthma symptoms ended)		11/18/2003		198																																																	
+GSE19301	LB	AST-00110	4				MONOLY	Monocytes/Lymphocytes			0.2486													DeCODE						N				60	Quiet (no asthma attack)		3/30/2004		331																																																	
+GSE19301	LB	AST-00111	1				MONOLY	Monocytes/Lymphocytes			0.211													DeCODE						N				20	Quiet (no asthma attack)		5/12/2003		1																																																	
+GSE19301	LB	AST-00111	2				MONOLY	Monocytes/Lymphocytes			0.2614													DeCODE						N				30	Quiet (no asthma attack)		6/10/2003		30																																																	
+GSE19301	LB	AST-00111	3				MONOLY	Monocytes/Lymphocytes			0.157													DeCODE						N				40	Quiet (no asthma attack)		8/19/2003		100																																																	
+GSE19301	LB	AST-00111	4				MONOLY	Monocytes/Lymphocytes			0.2312													DeCODE						N				50	Exacerbation (asthma symptoms during 14d window)		11/17/2003		190																																																	
+GSE19301	LB	AST-00112	1				MONOLY	Monocytes/Lymphocytes			0.4656													DeCODE						N				20	Quiet (no asthma attack)		5/13/2003		1																																																	
+GSE19301	LB	AST-00112	2				MONOLY	Monocytes/Lymphocytes			0.1404													DeCODE						N				30	Quiet (no asthma attack)		7/1/2003		50																																																	
+GSE19301	LB	AST-00112	3				MONOLY	Monocytes/Lymphocytes			0.1107													DeCODE						N				31	Exacerbation (asthma symptoms during 14d window)		8/11/2003		91																																																	
+GSE19301	LB	AST-00112	4				MONOLY	Monocytes/Lymphocytes			0.1048													DeCODE						N				40	Follow-up (within 14days after asthma symptoms ended)		8/19/2003		99																																																	
+GSE19301	LB	AST-00112	5				MONOLY	Monocytes/Lymphocytes			0.0764													DeCODE						N				43	Exacerbation (asthma symptoms during 14d window)		9/16/2003		127																																																	
+GSE19301	LB	AST-00112	6				MONOLY	Monocytes/Lymphocytes			0.1569													DeCODE						N				44	Follow-up (within 14days after asthma symptoms ended)		9/23/2003		134																																																	
+GSE19301	LB	AST-00113	1				MONOLY	Monocytes/Lymphocytes			0.1897													DeCODE						N				20	Quiet (no asthma attack)		5/19/2003		1																																																	
+GSE19301	LB	AST-00113	2				MONOLY	Monocytes/Lymphocytes			0.1768													DeCODE						N				30	Quiet (no asthma attack)		6/30/2003		43																																																	
+GSE19301	LB	AST-00113	3				MONOLY	Monocytes/Lymphocytes			0.2197													DeCODE						N				60	Quiet (no asthma attack)		2/23/2004		281																																																	
+GSE19301	LB	AST-00113	4				MONOLY	Monocytes/Lymphocytes			0.3162													DeCODE						N				61	Exacerbation (asthma symptoms during 14d window)		3/17/2004		304																																																	
+GSE19301	LB	AST-00113	5				MONOLY	Monocytes/Lymphocytes			0.2971													DeCODE						N				62	Follow-up (within 14days after asthma symptoms ended)		3/31/2004		318																																																	
+GSE19301	LB	AST-00114	1				MONOLY	Monocytes/Lymphocytes			0.3217													DeCODE						Y				20	Quiet (no asthma attack)		5/26/2003		1																																																	
+GSE19301	LB	AST-00114	2				MONOLY	Monocytes/Lymphocytes			0.2139													DeCODE						N				31	Exacerbation (asthma symptoms during 14d window)		8/12/2003		79																																																	
+GSE19301	LB	AST-00114	3				MONOLY	Monocytes/Lymphocytes			0.2035													DeCODE						N				32	Follow-up (within 14days after asthma symptoms ended)		8/19/2003		86																																																	
+GSE19301	LB	AST-00114	4				MONOLY	Monocytes/Lymphocytes			0.2174													DeCODE						N				40	Quiet (no asthma attack)		9/16/2003		114																																																	
+GSE19301	LB	AST-00114	5				MONOLY	Monocytes/Lymphocytes			0.2975													DeCODE						N				50	Quiet (no asthma attack)		12/9/2003		198																																																	
+GSE19301	LB	AST-00114	6				MONOLY	Monocytes/Lymphocytes			0.2179													DeCODE						N				60	Quiet (no asthma attack)		3/1/2004		281																																																	
+GSE19301	LB	AST-00115	1				MONOLY	Monocytes/Lymphocytes			0.2563													DeCODE						N				20	Quiet (no asthma attack)		6/2/2003		1																																																	
+GSE19301	LB	AST-00115	2				MONOLY	Monocytes/Lymphocytes			0.1953													DeCODE						N				30	Exacerbation (asthma symptoms during 14d window)		8/11/2003		71																																																	
+GSE19301	LB	AST-00115	3				MONOLY	Monocytes/Lymphocytes			0.2416													DeCODE						N				31	Follow-up (within 14days after asthma symptoms ended)		8/25/2003		85																																																	
+GSE19301	LB	AST-00115	4				MONOLY	Monocytes/Lymphocytes			0.1818													DeCODE						Y				40	Quiet (no asthma attack)		11/11/2003		163																																																	
+GSE19301	LB	AST-00115	5				MONOLY	Monocytes/Lymphocytes			0.172													DeCODE						N				60	Quiet (no asthma attack)		3/30/2004		303																																																	
+GSE19301	LB	AST-00116	1				MONOLY	Monocytes/Lymphocytes			0.2609													DeCODE						N				20	Quiet (no asthma attack)		6/5/2003		1																																																	
+GSE19301	LB	AST-00116	2				MONOLY	Monocytes/Lymphocytes			0.3596													DeCODE						N				31	Follow-up (within 14days after asthma symptoms ended)		6/30/2003		26																																																	
+GSE19301	LB	AST-00116	3				MONOLY	Monocytes/Lymphocytes			0.3697													DeCODE						N				40	Quiet (no asthma attack)		9/15/2003		103																																																	
+GSE19301	LB	AST-00116	4				MONOLY	Monocytes/Lymphocytes			0.2878													DeCODE						N				50	Quiet (no asthma attack)		12/15/2003		194																																																	
+GSE19301	LB	AST-00117	1				MONOLY	Monocytes/Lymphocytes			0.2166													DeCODE						N				20	Quiet (no asthma attack)		8/25/2003		1																																																	
+GSE19301	LB	AST-00117	2				MONOLY	Monocytes/Lymphocytes			0.1831													DeCODE						N				30	Quiet (no asthma attack)		10/13/2003		50																																																	
+GSE19301	LB	AST-00117	3				MONOLY	Monocytes/Lymphocytes			0.2349													DeCODE						N				31	Exacerbation (asthma symptoms during 14d window)		10/24/2003		61																																																	
+GSE19301	LB	AST-00117	4				MONOLY	Monocytes/Lymphocytes			0.2018													DeCODE						N				32	Follow-up (within 14days after asthma symptoms ended)		11/3/2003		71																																																	
+GSE19301	LB	AST-00117	5				MONOLY	Monocytes/Lymphocytes			0.1818													DeCODE						N				40	Exacerbation (asthma symptoms during 14d window)		1/12/2004		141																																																	
+GSE19301	LB	AST-00117	6				MONOLY	Monocytes/Lymphocytes			0.2327													DeCODE						N				50	Quiet (no asthma attack)		3/8/2004		197																																																	
+GSE19301	LB	AST-00117	7				MONOLY	Monocytes/Lymphocytes			0.2403													DeCODE						N				60	Quiet (no asthma attack)		6/7/2004		288																																																	
+GSE19301	LB	AST-00118	1				MONOLY	Monocytes/Lymphocytes			0.123													ICON-F						N				20	Quiet (no asthma attack)		8/12/2003		1																																																	
+GSE19301	LB	AST-00118	2				MONOLY	Monocytes/Lymphocytes			0.1412													ICON-F						N				30	Quiet (no asthma attack)		10/15/2003		65																																																	
+GSE19301	LB	AST-00118	3				MONOLY	Monocytes/Lymphocytes			0.1844													ICON-F						N				40	Quiet (no asthma attack)		12/18/2003		129																																																	
+GSE19301	LB	AST-00118	4				MONOLY	Monocytes/Lymphocytes			0.1081													ICON-F						N				50	Exacerbation (asthma symptoms during 14d window)		3/11/2004		213																																																	
+GSE19301	LB	AST-00118	5				MONOLY	Monocytes/Lymphocytes			0.1429													ICON-F						N				61	Quiet (no asthma attack)		7/7/2004		331																																																	
+GSE19301	LB	AST-00118	6				IgE	Immunoglobulin E			16													ICON-F						N				50	Exacerbation (asthma symptoms during 14d window)		3/11/2004		213																																																	

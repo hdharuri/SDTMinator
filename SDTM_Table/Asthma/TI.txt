@@ -1,0 +1,8 @@
+STUDYID	DOMAIN	IETESTCD	IETEST	IECAT	IESCAT	TIRL	TIVERS
+GSE19301	TI		Greater than or equal to 18 years of age	Inclusion			
+GSE19301	TI		Confirmed diagnosis of mild, moderate, or severe persistent bronchial asthma (1997 Guidelines for the Diagnosis and Management of Asthma)	Inclusion			
+GSE19301	TI		FEV1 reversibility	Exclusion			
+GSE19301	TI		Active infection	Exclusion			
+GSE19301	TI		Major intercurrent illness	Exclusion			
+GSE19301	TI		Allergen immunotherapy	Exclusion			
+GSE19301	TI		 Pregnancy or lactation	Exclusion			

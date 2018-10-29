@@ -1,0 +1,502 @@
+STUDYID	DOMAIN	USUBJID	CMSEQ	CMGRPID	CMSPID	CMTRT	CMMODIFY	CMDECOD	CMCAT	CMSCAT	CMPRESP	CMOCCUR	CMSTAT	CMREASND	CMINDC	CMCLAS	CMCLASCD	CMDOSE	CMDOSTXT	CMDOSU	CMDOSFRM	CMDOSFRQ	CMDOSTOT	CMDOSRGM	CMROUTE	CMSTDTC	CMENDTC	CMSTDY	CMENDY	CMDUR	CMSTRF	CMENRF	CMSTRTPT	CMSTTPT	CMENRTPT	CMENTPT	CMELTM	CMTPTREF	CMRFTDTC	CMREFID	CMLNKID	CMLNKGRP	CMMOOD	CMLOT	CMLOC	CMLAT	CMDIR	CMPORTOT	CMFAST	CMPSTRG	CMPSTRGU	CMADJ	EPOCH	VISITNUM	VISIT	VISITDY	CMTPT	CMTPTNUM	CMTRTV	CMVAMT	CMVAMTU	POOLID	SPDEVID	TAETORD	CMDTC	CMDY	CMEVLINT	CMEVINTX	CMSTINT	CMENINT	CMDETECT
+GSE19301	CM	AST-00001	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00001	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00001	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00001	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00002	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00002	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00002	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00002	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00003	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00003	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00003	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00003	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00004	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00004	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00004	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00004	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00005	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00005	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00005	3			CORTICOSTEROIDS						No			Asthma										NASAL																																														
+GSE19301	CM	AST-00005	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00006	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00006	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00006	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00006	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00007	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00007	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00007	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00007	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00008	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00008	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00008	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00008	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00009	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00009	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00009	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00009	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00010	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00010	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00010	3			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00010	4			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00010	5			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00011	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00011	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00011	3			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00011	4			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00011	5			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00012	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00012	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00012	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00012	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00013	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00013	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00013	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00013	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00014	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00014	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00014	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00014	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00015	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00015	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00015	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00015	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00016	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00016	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00016	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00016	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00017	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00017	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00017	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00017	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00018	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00018	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00018	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00018	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00019	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00019	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00019	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00019	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00020	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00020	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00020	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00020	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00021	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00021	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00021	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00021	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00022	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00022	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00022	3			CORTICOSTEROIDS						No			Asthma										NASAL																																														
+GSE19301	CM	AST-00022	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00023	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00023	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00023	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00023	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00024	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00024	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00024	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00024	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00025	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00025	2			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00025	3			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00025	4			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00025	5			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00025	6			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00025	7			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00026	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00026	2			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00026	3			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00026	4			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00026	5			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00026	6			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00027	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00027	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00027	3			CORTICOSTEROIDS						No			Asthma										NASAL																																														
+GSE19301	CM	AST-00027	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00028	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00028	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00028	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00028	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00029	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00029	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00029	3			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00029	4			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00029	5			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00030	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00030	2			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00030	3			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00030	4			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00030	5			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00031	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00031	2			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00031	3			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00031	4			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00031	5			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00032	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00032	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00032	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00032	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00033	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00033	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00033	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00033	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00034	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00034	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00034	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00034	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00035	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00035	2			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00035	3			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00035	4			CORTICOSTEROIDS						No			Asthma										NASAL																																														
+GSE19301	CM	AST-00035	5			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00036	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00036	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00036	3			CORTICOSTEROIDS						No			Asthma										NASAL																																														
+GSE19301	CM	AST-00036	4			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00036	5			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00037	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00037	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00037	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00037	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00038	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00038	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00038	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00038	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00039	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00039	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00039	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00039	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00040	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00040	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00040	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00040	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00041	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00041	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00041	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00041	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00042	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00042	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00042	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00042	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00043	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00043	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00043	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00043	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00044	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00044	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00044	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00044	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00045	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00045	2			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00045	3			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00045	4			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00045	5			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00045	6			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00046	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00046	2			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00046	3			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00046	4			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00046	5			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00046	6			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00047	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00047	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00047	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00047	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00048	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00048	2			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00048	3			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00048	4			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00048	5			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00049	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00049	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00049	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00049	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00050	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00050	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00050	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00050	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00051	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00051	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00051	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00051	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00052	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00052	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00052	3			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00052	4			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00052	5			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00053	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00053	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00053	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00053	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00054	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00054	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00054	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00054	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00055	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00055	2			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00055	3			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00055	4			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00055	5			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00056	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00056	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00056	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00056	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00057	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00057	2			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00057	3			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00057	4			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00057	5			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00058	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00058	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00058	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00058	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00059	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00059	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00059	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00059	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00060	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00060	2			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00060	3			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00060	4			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00060	5			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00061	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00061	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00061	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00061	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00062	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00062	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00062	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00062	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00063	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00063	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00063	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00063	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00064	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00064	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00064	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00064	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00065	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00065	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00065	3			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00065	4			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00065	5			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00066	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00066	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00066	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00066	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00067	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00067	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00067	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00067	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00068	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00068	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00068	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00068	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00069	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00069	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00069	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00069	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00070	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00070	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00070	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00070	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00071	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00071	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00071	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00071	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00072	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00072	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00072	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00072	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00073	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00073	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00073	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00073	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00074	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00074	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00074	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00074	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00075	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00075	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00075	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00075	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00076	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00076	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00076	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00076	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00077	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00077	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00077	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00077	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00078	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00078	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00078	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00078	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00079	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00079	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00079	3			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00079	4			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00079	5			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00080	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00080	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00080	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00080	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00081	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00081	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00081	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00081	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00082	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00082	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00082	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00082	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00083	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00083	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00083	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00083	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00084	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00084	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00084	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00084	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00085	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00085	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00085	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00085	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00086	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00086	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00086	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00086	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00087	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00087	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00087	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00087	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00088	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00088	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00088	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00088	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00089	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00089	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00089	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00089	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00090	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00090	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00090	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00090	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00091	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00091	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00091	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00091	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00092	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00092	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00092	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00092	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00093	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00093	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00093	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00093	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00094	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00094	2			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00094	3			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00094	4			CORTICOSTEROIDS						No			Asthma										NASAL																																														
+GSE19301	CM	AST-00094	5			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00094	6			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00095	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00095	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00095	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00095	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00096	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00096	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00096	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00096	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00097	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00097	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00097	3			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00097	4			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00097	5			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00098	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00098	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00098	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00098	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00099	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00099	2			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00099	3			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00099	4			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00099	5			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00100	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00100	2			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00100	3			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00100	4			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00100	5			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00101	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00101	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00101	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00101	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00102	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00102	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00102	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00102	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00103	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00103	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00103	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00103	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00104	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00104	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00104	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00104	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00105	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00105	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00105	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00105	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00106	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00106	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00106	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00106	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00107	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00107	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00107	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00107	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00108	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00108	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00108	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00108	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00109	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00109	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00109	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00109	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00110	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00110	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00110	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00110	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00111	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00111	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00111	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00111	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00112	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00112	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00112	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00112	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00113	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00113	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00113	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00113	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00114	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00114	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00114	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00114	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00115	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00115	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00115	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00115	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00116	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00116	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00116	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00116	4			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00117	1			Leukotriene receptor antagonist						No			Asthma																																																								
+GSE19301	CM	AST-00117	2			CORTICOSTEROIDS						No			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00117	3			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00117	4			CORTICOSTEROIDS						No			Asthma										NASAL																																														
+GSE19301	CM	AST-00117	5			CORTICOSTEROIDS						No			Asthma										SYSTEMIC																																														
+GSE19301	CM	AST-00118	1			Leukotriene receptor antagonist						Yes			Asthma																																																								
+GSE19301	CM	AST-00118	2			CORTICOSTEROIDS						Yes			Asthma										RESPIRATORY (INHALATION)																																														
+GSE19301	CM	AST-00118	3			CORTICOSTEROIDS						Yes			Asthma										NASAL																																														
+GSE19301	CM	AST-00118	4			CORTICOSTEROIDS						Yes			Asthma										SYSTEMIC																																														

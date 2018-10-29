@@ -1,0 +1,119 @@
+STUDYID	DOMAIN	USUBJID	SUBJID	RFSTDTC	RFENDTC	RFXSTDTC	RFXENDTC	RFICDTC	RFPENDTC	DTHDTC	DTHFL	SITEID	INVID	INVNAM	BRTHDTC	AGE	AGEU	SEX	RACE	ETHNIC	ARMCD	ARM	ACTARMCD	ACTARM	DMDTC	DMDY	AGETXT	SETCD	COUNTRY
+GSE19301	DM	AST-00001																	WHITE										AUS
+GSE19301	DM	AST-00002																	ASIAN										AUS
+GSE19301	DM	AST-00003																	WHITE										AUS
+GSE19301	DM	AST-00004																	WHITE										AUS
+GSE19301	DM	AST-00005																	WHITE										AUS
+GSE19301	DM	AST-00006																	WHITE										AUS
+GSE19301	DM	AST-00007																	WHITE										AUS
+GSE19301	DM	AST-00008																	WHITE										AUS
+GSE19301	DM	AST-00009																	WHITE										AUS
+GSE19301	DM	AST-00010																	WHITE										AUS
+GSE19301	DM	AST-00011																	WHITE										AUS
+GSE19301	DM	AST-00012																	ASIAN										AUS
+GSE19301	DM	AST-00013																	WHITE										AUS
+GSE19301	DM	AST-00014																	WHITE										AUS
+GSE19301	DM	AST-00015																	WHITE										AUS
+GSE19301	DM	AST-00016																	WHITE										AUS
+GSE19301	DM	AST-00017																	WHITE										AUS
+GSE19301	DM	AST-00018																	WHITE										AUS
+GSE19301	DM	AST-00019																	WHITE										AUS
+GSE19301	DM	AST-00020																	WHITE										AUS
+GSE19301	DM	AST-00021																	WHITE										AUS
+GSE19301	DM	AST-00022																	ASIAN										USA
+GSE19301	DM	AST-00023																	WHITE										USA
+GSE19301	DM	AST-00024																	WHITE										USA
+GSE19301	DM	AST-00025																	WHITE										USA
+GSE19301	DM	AST-00026																	WHITE										USA
+GSE19301	DM	AST-00027																	WHITE										USA
+GSE19301	DM	AST-00028																	AFRICAN AMERICAN										USA
+GSE19301	DM	AST-00029																	WHITE										USA
+GSE19301	DM	AST-00030																	WHITE										USA
+GSE19301	DM	AST-00031																	WHITE										USA
+GSE19301	DM	AST-00032																	WHITE										USA
+GSE19301	DM	AST-00033																	WHITE										USA
+GSE19301	DM	AST-00034																	WHITE										USA
+GSE19301	DM	AST-00035																	WHITE										USA
+GSE19301	DM	AST-00036																	AFRICAN AMERICAN										USA
+GSE19301	DM	AST-00037																	WHITE										USA
+GSE19301	DM	AST-00038																	WHITE										USA
+GSE19301	DM	AST-00039																	AFRICAN AMERICAN										USA
+GSE19301	DM	AST-00040																	AFRICAN AMERICAN										USA
+GSE19301	DM	AST-00041																	AFRICAN AMERICAN										USA
+GSE19301	DM	AST-00042																	WHITE										USA
+GSE19301	DM	AST-00043																	AFRICAN AMERICAN										USA
+GSE19301	DM	AST-00044																	AFRICAN AMERICAN										USA
+GSE19301	DM	AST-00045																	WHITE										USA
+GSE19301	DM	AST-00046																	WHITE										USA
+GSE19301	DM	AST-00047																	WHITE										USA
+GSE19301	DM	AST-00048																	AFRICAN AMERICAN										USA
+GSE19301	DM	AST-00049																	AFRICAN AMERICAN										USA
+GSE19301	DM	AST-00050																	WHITE										USA
+GSE19301	DM	AST-00051																	WHITE										USA
+GSE19301	DM	AST-00052																	WHITE										USA
+GSE19301	DM	AST-00053																	WHITE										USA
+GSE19301	DM	AST-00054																	WHITE										USA
+GSE19301	DM	AST-00055																	WHITE										USA
+GSE19301	DM	AST-00056																	WHITE										AUS
+GSE19301	DM	AST-00057																	WHITE										AUS
+GSE19301	DM	AST-00058																	WHITE										USA
+GSE19301	DM	AST-00059																	AFRICAN AMERICAN										USA
+GSE19301	DM	AST-00060																	WHITE										AUS
+GSE19301	DM	AST-00061																	WHITE										AUS
+GSE19301	DM	AST-00062																	WHITE										IRL
+GSE19301	DM	AST-00063																	WHITE										IRL
+GSE19301	DM	AST-00064																	WHITE										IRL
+GSE19301	DM	AST-00065																	WHITE										IRL
+GSE19301	DM	AST-00066																	WHITE										IRL
+GSE19301	DM	AST-00067																	ASIAN										AUS
+GSE19301	DM	AST-00068																	WHITE										IRL
+GSE19301	DM	AST-00069																	WHITE										IRL
+GSE19301	DM	AST-00070																	WHITE										IRL
+GSE19301	DM	AST-00071																	WHITE										IRL
+GSE19301	DM	AST-00072																	WHITE										IRL
+GSE19301	DM	AST-00073																	WHITE										GBR
+GSE19301	DM	AST-00074																	WHITE										GBR
+GSE19301	DM	AST-00075																	WHITE										GBR
+GSE19301	DM	AST-00076																	WHITE										GBR
+GSE19301	DM	AST-00077																	WHITE										GBR
+GSE19301	DM	AST-00078																	WHITE										GBR
+GSE19301	DM	AST-00079																	WHITE										GBR
+GSE19301	DM	AST-00080																	WHITE										GBR
+GSE19301	DM	AST-00081																	WHITE										GBR
+GSE19301	DM	AST-00082																	WHITE										GBR
+GSE19301	DM	AST-00083																	WHITE										GBR
+GSE19301	DM	AST-00084																	WHITE										GBR
+GSE19301	DM	AST-00085																	WHITE										GBR
+GSE19301	DM	AST-00086																	WHITE										GBR
+GSE19301	DM	AST-00087																	WHITE										GBR
+GSE19301	DM	AST-00088																	WHITE										GBR
+GSE19301	DM	AST-00089																	WHITE										ISL
+GSE19301	DM	AST-00090																	WHITE										ISL
+GSE19301	DM	AST-00091																	WHITE										ISL
+GSE19301	DM	AST-00092																	WHITE										ISL
+GSE19301	DM	AST-00093																	WHITE										ISL
+GSE19301	DM	AST-00094																	WHITE										ISL
+GSE19301	DM	AST-00095																	WHITE										ISL
+GSE19301	DM	AST-00096																	WHITE										ISL
+GSE19301	DM	AST-00097																	WHITE										ISL
+GSE19301	DM	AST-00098																	WHITE										ISL
+GSE19301	DM	AST-00099																	WHITE										ISL
+GSE19301	DM	AST-00100																	WHITE										ISL
+GSE19301	DM	AST-00101																	WHITE										ISL
+GSE19301	DM	AST-00102																	WHITE										ISL
+GSE19301	DM	AST-00103																	WHITE										ISL
+GSE19301	DM	AST-00104																	WHITE										ISL
+GSE19301	DM	AST-00105																	WHITE										ISL
+GSE19301	DM	AST-00106																	WHITE										ISL
+GSE19301	DM	AST-00107																	WHITE										ISL
+GSE19301	DM	AST-00108																	WHITE										ISL
+GSE19301	DM	AST-00109																	WHITE										ISL
+GSE19301	DM	AST-00110																	WHITE										ISL
+GSE19301	DM	AST-00111																	WHITE										ISL
+GSE19301	DM	AST-00112																	WHITE										ISL
+GSE19301	DM	AST-00113																	WHITE										ISL
+GSE19301	DM	AST-00114																	WHITE										ISL
+GSE19301	DM	AST-00115																	WHITE										ISL
+GSE19301	DM	AST-00116																	WHITE										ISL
+GSE19301	DM	AST-00117																	WHITE										ISL
+GSE19301	DM	AST-00118																	WHITE										USA

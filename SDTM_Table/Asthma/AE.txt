@@ -1,0 +1,188 @@
+STUDYID	DOMAIN	USUBJID	AESEQ	AEGRPID	AEREFID	AESPID	AETERM	AEMODIFY	AELLT	AELLTCD	AEDECOD	AEPTCD	AEHLT	AEHLTCD	AEHLGT	AEHLGTCD	AECAT	AESCAT	AEPRESP	AEBODSYS	AEBDSYCD	AESOC	AESOCCD	AELOC	AESEV	AESER	AEACN	AEACNOTH	AEREL	AERELNST	AEPATT	AEOUT	AESCAN	AESCONG	AESDISAB	AESDTH	AESHOSP	AESLIFE	AESOD	AESMIE	AECONTRT	AETOXGR	AESTDTC	AEENDTC	AESTDY	AEENDY	AEDUR	AEENRF	AEENRTPT	AEENTPT	AELAT	AEDIR	AEPORTOT	AEPARTY	AEPRTYID	AEACNDEV	AETOX	EPOCH	AEDTC	AESTRF	AESTRTPT	AESTTPT	POOLID	SPDEVID	AELNKID	AELNKGRP	VISITNUM	VISIT	VISITDY	TAETORD	AETPT	AETPTNUM	AEELTM	AETPTREF	AERFTDTC	AEEVLINT	AEEVINTX	AESTINT	AEENINT
+GSE19301	AE	AST-00001	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00001	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00002	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00002	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00003	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00004	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00005	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00005	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00006	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00007	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00007	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00008	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00008	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00009	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00010	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00010	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00011	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00011	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00012	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00012	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00013	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00013	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00014	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00015	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00015	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00016	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00016	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00017	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00018	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00018	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00019	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00019	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00020	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00021	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00021	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00022	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00023	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00023	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00024	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00024	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00025	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00025	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00026	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00027	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00028	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00029	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00029	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00030	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00030	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00031	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00032	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00032	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00033	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00034	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00034	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00035	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00035	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00036	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00037	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00038	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00038	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00039	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00040	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00040	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00041	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00041	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00042	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00042	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00043	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00044	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00044	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00045	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00046	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00046	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00047	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00048	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00048	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00049	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00049	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00050	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00050	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00051	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00052	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00052	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00053	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00054	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00054	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00055	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00055	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00056	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00056	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00057	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00057	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00058	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00059	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00060	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00061	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00061	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00062	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00062	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00063	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00063	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00064	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00064	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00065	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00065	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00066	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00066	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00067	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00067	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00068	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00068	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00069	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00069	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00070	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00070	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00071	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00071	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00072	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00073	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00074	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00075	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00075	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00076	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00077	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00078	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00079	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00080	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00081	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00082	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00083	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00084	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00085	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00086	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00086	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00087	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00088	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00089	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00090	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00090	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00091	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00092	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00092	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00093	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00093	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00094	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00094	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00095	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00095	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00096	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00096	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00097	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00097	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00098	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00098	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00099	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00100	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00100	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00101	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00101	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00102	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00103	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00103	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00104	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00105	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00105	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00106	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00106	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00107	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00108	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00108	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00109	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00110	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00110	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00111	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00112	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00112	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00113	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00114	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00114	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00115	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00115	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00116	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00117	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00117	2				Respiratory infections										Asthma Related																																																														
+GSE19301	AE	AST-00118	1				Increased wheezing, chest tightness, and /shortness of breath										Asthma Related																																																														
+GSE19301	AE	AST-00118	2				Respiratory infections										Asthma Related																																																														

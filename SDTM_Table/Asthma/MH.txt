@@ -1,0 +1,238 @@
+STUDYID	DOMAIN	USUBJID	MHSEQ	MHGRPID	MHREFID	MHSPID	MHTERM	MHMODIFY	MHDECOD	MHCAT	MHSCAT	MHPRESP	MHOCCUR	MHSTAT	MHREASND	MHBODSYS	MHDTC	MHSTDTC	MHENDTC	MHDY	MHENRF	MHENRTPT	MHENTPT	MHELTM	MHTPTREF	MHRFTDTC	MHLOC	MHLLT	MHLLTCD	MHPTCD	MHHLT	MHHLTCD	MHHLGT	MHHLGTCD	MHSOC	MHSOCCD	MHLAT	MHDIR	MHPORTOT	MHPARTY	MHPRTYID	MHSEV	MHSER	MHACN	MHACNOTH	MHACNDEV	MHREL	MHRELNST	MHPATT	MHOUT	MHSCAN	MHSCONG	MHSDISAB	MHSDTH	MHSHOSP	MHSLIFE	MHSOD	MHSMIE	MHCONTRT	MHTOX	MHTOXGR	EPOCH	MHSTDY	MHENDY	MHSTRF	MHDUR	MHSTTPT	POOLID	SPDEVID	MHLNKID	MHLNKGRP	VISITNUM	VISIT	VISITDY	TAETORD	MHTPT	MHTPTNUM	MHEVLINT	MHEVINTX	MHSTINT	MHENINT
+GSE19301	MH	AST-00001	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00001	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00002	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00002	2				History of acid reflux			Asthma Related			 																																																																				
+GSE19301	MH	AST-00002	3				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00003	1				Asthma						Y																													Mild																																							
+GSE19301	MH	AST-00003	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00004	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00004	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00005	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00005	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00006	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00006	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00007	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00007	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00008	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00008	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00009	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00009	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00010	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00010	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00011	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00011	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00012	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00012	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00013	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00013	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00014	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00014	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00015	1				Asthma						Y																													Mild																																							
+GSE19301	MH	AST-00015	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00016	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00016	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00017	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00017	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00018	1				Asthma						Y																													Mild																																							
+GSE19301	MH	AST-00018	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00019	1				Asthma						Y																													Mild																																							
+GSE19301	MH	AST-00019	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00020	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00020	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00021	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00021	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00022	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00022	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00023	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00023	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00024	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00024	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00025	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00025	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00026	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00026	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00027	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00027	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00028	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00028	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00029	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00029	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00030	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00030	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00031	1				Asthma						Y																													Mild																																							
+GSE19301	MH	AST-00031	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00032	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00032	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00033	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00033	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00034	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00034	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00035	1				Asthma						Y																													Mild																																							
+GSE19301	MH	AST-00035	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00036	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00036	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00037	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00037	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00038	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00038	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00039	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00039	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00040	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00040	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00041	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00041	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00042	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00042	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00043	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00043	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00044	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00044	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00045	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00045	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00046	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00046	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00047	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00047	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00048	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00048	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00049	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00049	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00050	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00050	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00051	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00051	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00052	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00052	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00053	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00053	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00054	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00054	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00055	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00055	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00056	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00056	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00057	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00057	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00058	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00058	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00059	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00059	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00060	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00060	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00061	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00061	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00062	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00062	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00063	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00063	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00064	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00064	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00065	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00065	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00066	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00066	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00067	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00067	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00068	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00068	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00069	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00069	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00070	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00070	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00071	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00071	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00072	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00072	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00073	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00073	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00074	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00074	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00075	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00075	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00076	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00076	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00077	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00077	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00078	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00078	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00079	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00079	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00080	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00080	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00081	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00081	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00082	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00082	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00083	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00083	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00084	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00084	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00085	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00085	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00086	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00086	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00087	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00087	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00088	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00088	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00089	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00089	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00090	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00090	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00091	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00091	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00092	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00092	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00093	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00093	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00094	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00094	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00095	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00095	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00096	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00096	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00097	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00097	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00098	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00098	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00099	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00099	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00100	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00100	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00101	1				Asthma						Y																													Mild																																							
+GSE19301	MH	AST-00101	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00102	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00102	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00103	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00103	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00104	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00104	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00105	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00105	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00106	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00106	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00107	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00107	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00108	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00108	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00109	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00109	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00110	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00110	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00111	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00111	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00112	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00112	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00113	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00113	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00114	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00114	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00115	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00115	2				History of acid reflux			Asthma Related			No																																																																				
+GSE19301	MH	AST-00116	1				Asthma						Y																													Moderate																																							
+GSE19301	MH	AST-00116	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00117	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00117	2				History of acid reflux			Asthma Related			Yes																																																																				
+GSE19301	MH	AST-00118	1				Asthma						Y																													Severe																																							
+GSE19301	MH	AST-00118	2				History of acid reflux			Asthma Related			No																																																																				
