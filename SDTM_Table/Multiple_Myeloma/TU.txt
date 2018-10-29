@@ -1,0 +1,864 @@
+STUDYID	DOMAIN	USUBJID	TUSEQ	TUGRPID	TUREFID	TUSPID	TULNKID	TUTESTCD	TUTEST	TUORRES	TUSTRESC	TUNAM	TULOC	TULAT	TUDIR	TUPORTOT	TUMETHOD	TUEVAL	TUEVALID	TUACPTFL	VISITNUM	VISIT	VISITDY	EPOCH	TUDTC	TUDY	TULNKGRP	TUMODIFY	TUTSTDTL	TUCAT	TUSCAT	TUPOS	TUBODSYS	TUORRESU	TUORNRLO	TUORNRHI	TUSTRESN	TUSTRESU	TURESCAT	TUSTNRLO	TUSTNRHI	TUSTNRC	TUNRIND	TUSTAT	TUREASND	TUXFN	TULOINC	TUSPEC	TUANTREG	TUSPCCND	TUSPCUFL	TURUNID	TUANMETH	TULEAD	TUCSTATE	TUFAST	TUBLFL	TUDRVFL	TUTOX	TUTOXGR	TUSEV	TUDTHREL	TULLOQ	TUULOQ	TUENDTC	TURFTDTC	TUTPT	TUTPTNUM	TUELTM	TUTPTREF	TUEVLINT	TUSTINT	TUENINT	TUEXCLFL	TUREASEX	POOLID	SPDEVID	TAETORD	TUSTDTC	TUSTDY	TUENDY	TUDUR	TUEVINTX	TUSTRTPT	TUSTTPT	TUENRTPT	TUENTPT
+GSE24080	TU	MM-00801	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00802	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-00803	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-00804	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00805	1					TUMIDENT	Tumor Identification	26							MRI																																																																						
+GSE24080	TU	MM-00806	1					TUMIDENT	Tumor Identification	13							MRI																																																																						
+GSE24080	TU	MM-00807	1					TUMIDENT	Tumor Identification	9							MRI																																																																						
+GSE24080	TU	MM-00808	1					TUMIDENT	Tumor Identification	17							MRI																																																																						
+GSE24080	TU	MM-00809	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00810	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00811	1					TUMIDENT	Tumor Identification	15							MRI																																																																						
+GSE24080	TU	MM-00812	1					TUMIDENT	Tumor Identification	29							MRI																																																																						
+GSE24080	TU	MM-00813	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-00814	1					TUMIDENT	Tumor Identification	17							MRI																																																																						
+GSE24080	TU	MM-00815	1					TUMIDENT	Tumor Identification	8							MRI																																																																						
+GSE24080	TU	MM-00816	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-00817	1					TUMIDENT	Tumor Identification	42							MRI																																																																						
+GSE24080	TU	MM-00818	1					TUMIDENT	Tumor Identification	14							MRI																																																																						
+GSE24080	TU	MM-00819	1					TUMIDENT	Tumor Identification	29							MRI																																																																						
+GSE24080	TU	MM-00820	1					TUMIDENT	Tumor Identification	5							MRI																																																																						
+GSE24080	TU	MM-00821	1					TUMIDENT	Tumor Identification	5							MRI																																																																						
+GSE24080	TU	MM-00822	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-00823	1					TUMIDENT	Tumor Identification	16							MRI																																																																						
+GSE24080	TU	MM-00824	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-00825	1					TUMIDENT	Tumor Identification	12							MRI																																																																						
+GSE24080	TU	MM-00826	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-00827	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-00828	1					TUMIDENT	Tumor Identification	15							MRI																																																																						
+GSE24080	TU	MM-00829	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-00830	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00831	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00832	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00833	1					TUMIDENT	Tumor Identification	19							MRI																																																																						
+GSE24080	TU	MM-00834	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00835	1					TUMIDENT	Tumor Identification	11							MRI																																																																						
+GSE24080	TU	MM-00836	1					TUMIDENT	Tumor Identification	10							MRI																																																																						
+GSE24080	TU	MM-00837	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-00838	1					TUMIDENT	Tumor Identification	5							MRI																																																																						
+GSE24080	TU	MM-00839	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00840	1					TUMIDENT	Tumor Identification	16							MRI																																																																						
+GSE24080	TU	MM-00841	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00842	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00843	1					TUMIDENT	Tumor Identification	5							MRI																																																																						
+GSE24080	TU	MM-00844	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00845	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00846	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00847	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-00848	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-00849	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00850	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-00851	1					TUMIDENT	Tumor Identification	7							MRI																																																																						
+GSE24080	TU	MM-00852	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00853	1					TUMIDENT	Tumor Identification	8							MRI																																																																						
+GSE24080	TU	MM-00854	1					TUMIDENT	Tumor Identification	18							MRI																																																																						
+GSE24080	TU	MM-00855	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-00856	1					TUMIDENT	Tumor Identification	10							MRI																																																																						
+GSE24080	TU	MM-00857	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00858	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00859	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00860	1					TUMIDENT	Tumor Identification	14							MRI																																																																						
+GSE24080	TU	MM-00861	1					TUMIDENT	Tumor Identification	24							MRI																																																																						
+GSE24080	TU	MM-00862	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00863	1					TUMIDENT	Tumor Identification	12							MRI																																																																						
+GSE24080	TU	MM-00864	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-00865	1					TUMIDENT	Tumor Identification	37							MRI																																																																						
+GSE24080	TU	MM-00866	1					TUMIDENT	Tumor Identification	20							MRI																																																																						
+GSE24080	TU	MM-00867	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-00868	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00869	1					TUMIDENT	Tumor Identification	15							MRI																																																																						
+GSE24080	TU	MM-00870	1					TUMIDENT	Tumor Identification	14							MRI																																																																						
+GSE24080	TU	MM-00871	1					TUMIDENT	Tumor Identification	40							MRI																																																																						
+GSE24080	TU	MM-00872	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-00873	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-00874	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-00875	1					TUMIDENT	Tumor Identification	10							MRI																																																																						
+GSE24080	TU	MM-00876	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00877	1					TUMIDENT	Tumor Identification	18							MRI																																																																						
+GSE24080	TU	MM-00878	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-00879	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00880	1					TUMIDENT	Tumor Identification	8							MRI																																																																						
+GSE24080	TU	MM-00881	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-00882	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00883	1					TUMIDENT	Tumor Identification	27							MRI																																																																						
+GSE24080	TU	MM-00884	1					TUMIDENT	Tumor Identification	27							MRI																																																																						
+GSE24080	TU	MM-00885	1					TUMIDENT	Tumor Identification	10							MRI																																																																						
+GSE24080	TU	MM-00886	1					TUMIDENT	Tumor Identification	22							MRI																																																																						
+GSE24080	TU	MM-00887	1					TUMIDENT	Tumor Identification	26							MRI																																																																						
+GSE24080	TU	MM-00888	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-00889	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00890	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00891	1					TUMIDENT	Tumor Identification	8							MRI																																																																						
+GSE24080	TU	MM-00892	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00893	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00894	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00895	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00896	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-00897	1					TUMIDENT	Tumor Identification	6							MRI																																																																						
+GSE24080	TU	MM-00898	1					TUMIDENT	Tumor Identification	66							MRI																																																																						
+GSE24080	TU	MM-00899	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-00900	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-00901	1					TUMIDENT	Tumor Identification	13							MRI																																																																						
+GSE24080	TU	MM-00902	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00903	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-00904	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00905	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00906	1					TUMIDENT	Tumor Identification	11							MRI																																																																						
+GSE24080	TU	MM-00907	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-00908	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00909	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00910	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-00911	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00912	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00913	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-00914	1					TUMIDENT	Tumor Identification	11							MRI																																																																						
+GSE24080	TU	MM-00915	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00916	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00917	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-00918	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00919	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00920	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00921	1					TUMIDENT	Tumor Identification	45							MRI																																																																						
+GSE24080	TU	MM-00922	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00923	1					TUMIDENT	Tumor Identification	32							MRI																																																																						
+GSE24080	TU	MM-00924	1					TUMIDENT	Tumor Identification	49							MRI																																																																						
+GSE24080	TU	MM-00925	1					TUMIDENT	Tumor Identification	57							MRI																																																																						
+GSE24080	TU	MM-00926	1					TUMIDENT	Tumor Identification	9							MRI																																																																						
+GSE24080	TU	MM-00927	1					TUMIDENT	Tumor Identification	46							MRI																																																																						
+GSE24080	TU	MM-00928	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00929	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00930	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00931	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00932	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-00933	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00934	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00935	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-00936	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00937	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-00938	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-00939	1					TUMIDENT	Tumor Identification	57							MRI																																																																						
+GSE24080	TU	MM-00940	1					TUMIDENT	Tumor Identification	12							MRI																																																																						
+GSE24080	TU	MM-00941	1					TUMIDENT	Tumor Identification	15							MRI																																																																						
+GSE24080	TU	MM-00942	1					TUMIDENT	Tumor Identification	12							MRI																																																																						
+GSE24080	TU	MM-00943	1					TUMIDENT	Tumor Identification	18							MRI																																																																						
+GSE24080	TU	MM-00944	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00945	1					TUMIDENT	Tumor Identification	52							MRI																																																																						
+GSE24080	TU	MM-00946	1					TUMIDENT	Tumor Identification	29							MRI																																																																						
+GSE24080	TU	MM-00947	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-00948	1					TUMIDENT	Tumor Identification	14							MRI																																																																						
+GSE24080	TU	MM-00949	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00950	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00951	1					TUMIDENT	Tumor Identification	15							MRI																																																																						
+GSE24080	TU	MM-00952	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-00953	1					TUMIDENT	Tumor Identification	39							MRI																																																																						
+GSE24080	TU	MM-00954	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00955	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00956	1					TUMIDENT	Tumor Identification	11							MRI																																																																						
+GSE24080	TU	MM-00957	1					TUMIDENT	Tumor Identification	7							MRI																																																																						
+GSE24080	TU	MM-00958	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-00959	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00960	1					TUMIDENT	Tumor Identification	6							MRI																																																																						
+GSE24080	TU	MM-00961	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00962	1					TUMIDENT	Tumor Identification	18							MRI																																																																						
+GSE24080	TU	MM-00963	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00964	1					TUMIDENT	Tumor Identification	9							MRI																																																																						
+GSE24080	TU	MM-00965	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-00966	1					TUMIDENT	Tumor Identification	6							MRI																																																																						
+GSE24080	TU	MM-00967	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00968	1					TUMIDENT	Tumor Identification	42							MRI																																																																						
+GSE24080	TU	MM-00969	1					TUMIDENT	Tumor Identification	27							MRI																																																																						
+GSE24080	TU	MM-00970	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-00971	1					TUMIDENT	Tumor Identification	5							MRI																																																																						
+GSE24080	TU	MM-00972	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00973	1					TUMIDENT	Tumor Identification	11							MRI																																																																						
+GSE24080	TU	MM-00974	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00975	1					TUMIDENT	Tumor Identification	8							MRI																																																																						
+GSE24080	TU	MM-00976	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-00977	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-00978	1					TUMIDENT	Tumor Identification	29							MRI																																																																						
+GSE24080	TU	MM-00979	1					TUMIDENT	Tumor Identification	17							MRI																																																																						
+GSE24080	TU	MM-00980	1					TUMIDENT	Tumor Identification	5							MRI																																																																						
+GSE24080	TU	MM-00981	1					TUMIDENT	Tumor Identification	11							MRI																																																																						
+GSE24080	TU	MM-00982	1					TUMIDENT	Tumor Identification	10							MRI																																																																						
+GSE24080	TU	MM-00983	1					TUMIDENT	Tumor Identification	33							MRI																																																																						
+GSE24080	TU	MM-00984	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00985	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00986	1					TUMIDENT	Tumor Identification	10							MRI																																																																						
+GSE24080	TU	MM-00987	1					TUMIDENT	Tumor Identification	7							MRI																																																																						
+GSE24080	TU	MM-00988	1					TUMIDENT	Tumor Identification	15							MRI																																																																						
+GSE24080	TU	MM-00989	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-00990	1					TUMIDENT	Tumor Identification	39							MRI																																																																						
+GSE24080	TU	MM-00991	1					TUMIDENT	Tumor Identification	13							MRI																																																																						
+GSE24080	TU	MM-00992	1					TUMIDENT	Tumor Identification	16							MRI																																																																						
+GSE24080	TU	MM-00993	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-00994	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00995	1					TUMIDENT	Tumor Identification	33							MRI																																																																						
+GSE24080	TU	MM-00996	1					TUMIDENT	Tumor Identification	7							MRI																																																																						
+GSE24080	TU	MM-00997	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-00998	1					TUMIDENT	Tumor Identification	9							MRI																																																																						
+GSE24080	TU	MM-00999	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01000	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01001	1					TUMIDENT	Tumor Identification	7							MRI																																																																						
+GSE24080	TU	MM-01002	1					TUMIDENT	Tumor Identification	22							MRI																																																																						
+GSE24080	TU	MM-01003	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-01004	1					TUMIDENT	Tumor Identification	33							MRI																																																																						
+GSE24080	TU	MM-01005	1					TUMIDENT	Tumor Identification	5							MRI																																																																						
+GSE24080	TU	MM-01006	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-01007	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01008	1					TUMIDENT	Tumor Identification	10							MRI																																																																						
+GSE24080	TU	MM-01009	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01010	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01011	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01012	1					TUMIDENT	Tumor Identification	37							MRI																																																																						
+GSE24080	TU	MM-01013	1					TUMIDENT	Tumor Identification	5							MRI																																																																						
+GSE24080	TU	MM-01014	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01015	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-01016	1					TUMIDENT	Tumor Identification	17							MRI																																																																						
+GSE24080	TU	MM-01017	1					TUMIDENT	Tumor Identification	7							MRI																																																																						
+GSE24080	TU	MM-01018	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01019	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01020	1					TUMIDENT	Tumor Identification	6							MRI																																																																						
+GSE24080	TU	MM-01021	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01022	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01023	1					TUMIDENT	Tumor Identification	26							MRI																																																																						
+GSE24080	TU	MM-01024	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01025	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01026	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01027	1					TUMIDENT	Tumor Identification	9							MRI																																																																						
+GSE24080	TU	MM-01028	1					TUMIDENT	Tumor Identification	10							MRI																																																																						
+GSE24080	TU	MM-01029	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01030	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01031	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01032	1					TUMIDENT	Tumor Identification	7							MRI																																																																						
+GSE24080	TU	MM-01033	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01034	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01035	1					TUMIDENT	Tumor Identification	24							MRI																																																																						
+GSE24080	TU	MM-01036	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01037	1					TUMIDENT	Tumor Identification	5							MRI																																																																						
+GSE24080	TU	MM-01038	1					TUMIDENT	Tumor Identification	52							MRI																																																																						
+GSE24080	TU	MM-01039	1					TUMIDENT	Tumor Identification	6							MRI																																																																						
+GSE24080	TU	MM-01040	1					TUMIDENT	Tumor Identification	6							MRI																																																																						
+GSE24080	TU	MM-01041	1					TUMIDENT	Tumor Identification	26							MRI																																																																						
+GSE24080	TU	MM-01042	1					TUMIDENT	Tumor Identification	38							MRI																																																																						
+GSE24080	TU	MM-01043	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01044	1					TUMIDENT	Tumor Identification	46							MRI																																																																						
+GSE24080	TU	MM-01045	1					TUMIDENT	Tumor Identification	50							MRI																																																																						
+GSE24080	TU	MM-01046	1					TUMIDENT	Tumor Identification	63							MRI																																																																						
+GSE24080	TU	MM-01047	1					TUMIDENT	Tumor Identification	45							MRI																																																																						
+GSE24080	TU	MM-01048	1					TUMIDENT	Tumor Identification	18							MRI																																																																						
+GSE24080	TU	MM-01049	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01050	1					TUMIDENT	Tumor Identification	14							MRI																																																																						
+GSE24080	TU	MM-01051	1					TUMIDENT	Tumor Identification	26							MRI																																																																						
+GSE24080	TU	MM-01052	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01053	1					TUMIDENT	Tumor Identification	5							MRI																																																																						
+GSE24080	TU	MM-01054	1					TUMIDENT	Tumor Identification	39							MRI																																																																						
+GSE24080	TU	MM-01055	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-01056	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01057	1					TUMIDENT	Tumor Identification	62							MRI																																																																						
+GSE24080	TU	MM-01058	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01059	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-01060	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-01061	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01062	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01063	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-01064	1					TUMIDENT	Tumor Identification	5							MRI																																																																						
+GSE24080	TU	MM-01065	1					TUMIDENT	Tumor Identification	35							MRI																																																																						
+GSE24080	TU	MM-01066	1					TUMIDENT	Tumor Identification	12							MRI																																																																						
+GSE24080	TU	MM-01067	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01068	1					TUMIDENT	Tumor Identification	30							MRI																																																																						
+GSE24080	TU	MM-01069	1					TUMIDENT	Tumor Identification	26							MRI																																																																						
+GSE24080	TU	MM-01070	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-01071	1					TUMIDENT	Tumor Identification	12							MRI																																																																						
+GSE24080	TU	MM-01072	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01073	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01074	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01075	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01076	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01077	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01078	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01079	1					TUMIDENT	Tumor Identification	16							MRI																																																																						
+GSE24080	TU	MM-01080	1					TUMIDENT	Tumor Identification	23							MRI																																																																						
+GSE24080	TU	MM-01081	1					TUMIDENT	Tumor Identification	12							MRI																																																																						
+GSE24080	TU	MM-01082	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01083	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01084	1					TUMIDENT	Tumor Identification	8							MRI																																																																						
+GSE24080	TU	MM-01085	1					TUMIDENT	Tumor Identification	20							MRI																																																																						
+GSE24080	TU	MM-01086	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01087	1					TUMIDENT	Tumor Identification	63							MRI																																																																						
+GSE24080	TU	MM-01088	1					TUMIDENT	Tumor Identification	37							MRI																																																																						
+GSE24080	TU	MM-01089	1					TUMIDENT	Tumor Identification	17							MRI																																																																						
+GSE24080	TU	MM-01090	1					TUMIDENT	Tumor Identification	13							MRI																																																																						
+GSE24080	TU	MM-01091	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01092	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01093	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01094	1					TUMIDENT	Tumor Identification	28							MRI																																																																						
+GSE24080	TU	MM-01095	1					TUMIDENT	Tumor Identification	22							MRI																																																																						
+GSE24080	TU	MM-01096	1					TUMIDENT	Tumor Identification	31							MRI																																																																						
+GSE24080	TU	MM-01097	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-01098	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-01099	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01100	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01101	1					TUMIDENT	Tumor Identification	43							MRI																																																																						
+GSE24080	TU	MM-01102	1					TUMIDENT	Tumor Identification	8							MRI																																																																						
+GSE24080	TU	MM-01103	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-01104	1					TUMIDENT	Tumor Identification	22							MRI																																																																						
+GSE24080	TU	MM-01105	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-01106	1					TUMIDENT	Tumor Identification	9							MRI																																																																						
+GSE24080	TU	MM-01107	1					TUMIDENT	Tumor Identification	10							MRI																																																																						
+GSE24080	TU	MM-01108	1					TUMIDENT	Tumor Identification	18							MRI																																																																						
+GSE24080	TU	MM-01109	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01110	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01111	1					TUMIDENT	Tumor Identification	18							MRI																																																																						
+GSE24080	TU	MM-01112	1					TUMIDENT	Tumor Identification	19							MRI																																																																						
+GSE24080	TU	MM-01113	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01114	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01115	1					TUMIDENT	Tumor Identification	57							MRI																																																																						
+GSE24080	TU	MM-01116	1					TUMIDENT	Tumor Identification	9							MRI																																																																						
+GSE24080	TU	MM-01117	1					TUMIDENT	Tumor Identification	13							MRI																																																																						
+GSE24080	TU	MM-01118	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01119	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-01120	1					TUMIDENT	Tumor Identification	34							MRI																																																																						
+GSE24080	TU	MM-01121	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01122	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01123	1					TUMIDENT	Tumor Identification	13							MRI																																																																						
+GSE24080	TU	MM-01124	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-01125	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01126	1					TUMIDENT	Tumor Identification	14							MRI																																																																						
+GSE24080	TU	MM-01127	1					TUMIDENT	Tumor Identification	6							MRI																																																																						
+GSE24080	TU	MM-01128	1					TUMIDENT	Tumor Identification	70							MRI																																																																						
+GSE24080	TU	MM-01129	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01130	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-01131	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01132	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01133	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-01134	1					TUMIDENT	Tumor Identification	35							MRI																																																																						
+GSE24080	TU	MM-01135	1					TUMIDENT	Tumor Identification	19							MRI																																																																						
+GSE24080	TU	MM-01136	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-01137	1					TUMIDENT	Tumor Identification	58							MRI																																																																						
+GSE24080	TU	MM-01138	1					TUMIDENT	Tumor Identification	20							MRI																																																																						
+GSE24080	TU	MM-01139	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-01140	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01141	1					TUMIDENT	Tumor Identification	7							MRI																																																																						
+GSE24080	TU	MM-01142	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01143	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01144	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01145	1					TUMIDENT	Tumor Identification	12							MRI																																																																						
+GSE24080	TU	MM-01146	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01147	1					TUMIDENT	Tumor Identification	72							MRI																																																																						
+GSE24080	TU	MM-01148	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01149	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01150	1					TUMIDENT	Tumor Identification	44							MRI																																																																						
+GSE24080	TU	MM-01151	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01152	1					TUMIDENT	Tumor Identification	11							MRI																																																																						
+GSE24080	TU	MM-01153	1					TUMIDENT	Tumor Identification	19							MRI																																																																						
+GSE24080	TU	MM-01154	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-01155	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01156	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-01157	1					TUMIDENT	Tumor Identification	17							MRI																																																																						
+GSE24080	TU	MM-01158	1					TUMIDENT	Tumor Identification	16							MRI																																																																						
+GSE24080	TU	MM-01159	1					TUMIDENT	Tumor Identification	16							MRI																																																																						
+GSE24080	TU	MM-01160	1					TUMIDENT	Tumor Identification	33							MRI																																																																						
+GSE24080	TU	MM-01161	1					TUMIDENT	Tumor Identification	39							MRI																																																																						
+GSE24080	TU	MM-01162	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01163	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01164	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-01165	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-01166	1					TUMIDENT	Tumor Identification	11							MRI																																																																						
+GSE24080	TU	MM-01167	1					TUMIDENT	Tumor Identification	39							MRI																																																																						
+GSE24080	TU	MM-01168	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01169	1					TUMIDENT	Tumor Identification	10							MRI																																																																						
+GSE24080	TU	MM-01170	1					TUMIDENT	Tumor Identification	5							MRI																																																																						
+GSE24080	TU	MM-01171	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01172	1					TUMIDENT	Tumor Identification	37							MRI																																																																						
+GSE24080	TU	MM-01173	1					TUMIDENT	Tumor Identification	11							MRI																																																																						
+GSE24080	TU	MM-01174	1					TUMIDENT	Tumor Identification	10							MRI																																																																						
+GSE24080	TU	MM-01175	1					TUMIDENT	Tumor Identification	8							MRI																																																																						
+GSE24080	TU	MM-01176	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01177	1					TUMIDENT	Tumor Identification	14							MRI																																																																						
+GSE24080	TU	MM-01178	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01179	1					TUMIDENT	Tumor Identification	27							MRI																																																																						
+GSE24080	TU	MM-01180	1					TUMIDENT	Tumor Identification	12							MRI																																																																						
+GSE24080	TU	MM-01181	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-01182	1					TUMIDENT	Tumor Identification	28							MRI																																																																						
+GSE24080	TU	MM-01183	1					TUMIDENT	Tumor Identification	21							MRI																																																																						
+GSE24080	TU	MM-01184	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-01185	1					TUMIDENT	Tumor Identification	7							MRI																																																																						
+GSE24080	TU	MM-01186	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01187	1					TUMIDENT	Tumor Identification	15							MRI																																																																						
+GSE24080	TU	MM-01188	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01189	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01190	1					TUMIDENT	Tumor Identification	7							MRI																																																																						
+GSE24080	TU	MM-01191	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01192	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01193	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01194	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01195	1					TUMIDENT	Tumor Identification	41							MRI																																																																						
+GSE24080	TU	MM-01196	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01197	1					TUMIDENT	Tumor Identification	52							MRI																																																																						
+GSE24080	TU	MM-01198	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01199	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01200	1					TUMIDENT	Tumor Identification	31							MRI																																																																						
+GSE24080	TU	MM-01201	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01202	1					TUMIDENT	Tumor Identification	17							MRI																																																																						
+GSE24080	TU	MM-01203	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-01204	1					TUMIDENT	Tumor Identification	24							MRI																																																																						
+GSE24080	TU	MM-01205	1					TUMIDENT	Tumor Identification	15							MRI																																																																						
+GSE24080	TU	MM-01206	1					TUMIDENT	Tumor Identification	14							MRI																																																																						
+GSE24080	TU	MM-01207	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01208	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01209	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01210	1					TUMIDENT	Tumor Identification	21							MRI																																																																						
+GSE24080	TU	MM-01211	1					TUMIDENT	Tumor Identification	11							MRI																																																																						
+GSE24080	TU	MM-01212	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01213	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01214	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01215	1					TUMIDENT	Tumor Identification	9							MRI																																																																						
+GSE24080	TU	MM-01216	1					TUMIDENT	Tumor Identification	7							MRI																																																																						
+GSE24080	TU	MM-01217	1					TUMIDENT	Tumor Identification	33							MRI																																																																						
+GSE24080	TU	MM-01218	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01219	1					TUMIDENT	Tumor Identification	5							MRI																																																																						
+GSE24080	TU	MM-01220	1					TUMIDENT	Tumor Identification	7							MRI																																																																						
+GSE24080	TU	MM-01221	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01222	1					TUMIDENT	Tumor Identification	14							MRI																																																																						
+GSE24080	TU	MM-01223	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-01224	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01225	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01226	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01227	1					TUMIDENT	Tumor Identification	12							MRI																																																																						
+GSE24080	TU	MM-01228	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-01229	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01230	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01231	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01232	1					TUMIDENT	Tumor Identification	6							MRI																																																																						
+GSE24080	TU	MM-01233	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-01234	1					TUMIDENT	Tumor Identification	45							MRI																																																																						
+GSE24080	TU	MM-01235	1					TUMIDENT	Tumor Identification	27							MRI																																																																						
+GSE24080	TU	MM-01236	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01237	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01238	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01239	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01240	1					TUMIDENT	Tumor Identification	19							MRI																																																																						
+GSE24080	TU	MM-01241	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01242	1					TUMIDENT	Tumor Identification	21							MRI																																																																						
+GSE24080	TU	MM-01243	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01244	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-01245	1					TUMIDENT	Tumor Identification	53							MRI																																																																						
+GSE24080	TU	MM-01246	1					TUMIDENT	Tumor Identification	17							MRI																																																																						
+GSE24080	TU	MM-01247	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01248	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-01249	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01250	1					TUMIDENT	Tumor Identification	10							MRI																																																																						
+GSE24080	TU	MM-01251	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-01252	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01253	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01254	1					TUMIDENT	Tumor Identification	13							MRI																																																																						
+GSE24080	TU	MM-01255	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01256	1					TUMIDENT	Tumor Identification	17							MRI																																																																						
+GSE24080	TU	MM-01257	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01258	1					TUMIDENT	Tumor Identification	24							MRI																																																																						
+GSE24080	TU	MM-01259	1					TUMIDENT	Tumor Identification	14							MRI																																																																						
+GSE24080	TU	MM-01260	1					TUMIDENT	Tumor Identification	14							MRI																																																																						
+GSE24080	TU	MM-01261	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01262	1					TUMIDENT	Tumor Identification	44							MRI																																																																						
+GSE24080	TU	MM-01263	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01264	1					TUMIDENT	Tumor Identification	24							MRI																																																																						
+GSE24080	TU	MM-01265	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-01266	1					TUMIDENT	Tumor Identification	43							MRI																																																																						
+GSE24080	TU	MM-01267	1					TUMIDENT	Tumor Identification	8							MRI																																																																						
+GSE24080	TU	MM-01268	1					TUMIDENT	Tumor Identification	6							MRI																																																																						
+GSE24080	TU	MM-01269	1					TUMIDENT	Tumor Identification	25							MRI																																																																						
+GSE24080	TU	MM-01270	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01271	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-01272	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01273	1					TUMIDENT	Tumor Identification	27							MRI																																																																						
+GSE24080	TU	MM-01274	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-01275	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01276	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01277	1					TUMIDENT	Tumor Identification	16							MRI																																																																						
+GSE24080	TU	MM-01278	1					TUMIDENT	Tumor Identification	32							MRI																																																																						
+GSE24080	TU	MM-01279	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01280	1					TUMIDENT	Tumor Identification	47							MRI																																																																						
+GSE24080	TU	MM-01281	1					TUMIDENT	Tumor Identification	12							MRI																																																																						
+GSE24080	TU	MM-01282	1					TUMIDENT	Tumor Identification	6							MRI																																																																						
+GSE24080	TU	MM-01283	1					TUMIDENT	Tumor Identification	36							MRI																																																																						
+GSE24080	TU	MM-01284	1					TUMIDENT	Tumor Identification	22							MRI																																																																						
+GSE24080	TU	MM-01285	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01286	1					TUMIDENT	Tumor Identification	11							MRI																																																																						
+GSE24080	TU	MM-01287	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01288	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01289	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01290	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01291	1					TUMIDENT	Tumor Identification	45							MRI																																																																						
+GSE24080	TU	MM-01292	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01293	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-01294	1					TUMIDENT	Tumor Identification	44							MRI																																																																						
+GSE24080	TU	MM-01295	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01296	1					TUMIDENT	Tumor Identification	38							MRI																																																																						
+GSE24080	TU	MM-01297	1					TUMIDENT	Tumor Identification	11							MRI																																																																						
+GSE24080	TU	MM-01298	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01299	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01300	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01301	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01302	1					TUMIDENT	Tumor Identification	15							MRI																																																																						
+GSE24080	TU	MM-01303	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-01304	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01305	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-01306	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01307	1					TUMIDENT	Tumor Identification	22							MRI																																																																						
+GSE24080	TU	MM-01308	1					TUMIDENT	Tumor Identification	32							MRI																																																																						
+GSE24080	TU	MM-01309	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01310	1					TUMIDENT	Tumor Identification	40							MRI																																																																						
+GSE24080	TU	MM-01311	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-01312	1					TUMIDENT	Tumor Identification	22							MRI																																																																						
+GSE24080	TU	MM-01313	1					TUMIDENT	Tumor Identification	45							MRI																																																																						
+GSE24080	TU	MM-01314	1					TUMIDENT	Tumor Identification	9							MRI																																																																						
+GSE24080	TU	MM-01315	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-01316	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01317	1					TUMIDENT	Tumor Identification	5							MRI																																																																						
+GSE24080	TU	MM-01318	1					TUMIDENT	Tumor Identification	10							MRI																																																																						
+GSE24080	TU	MM-01319	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01320	1					TUMIDENT	Tumor Identification	37							MRI																																																																						
+GSE24080	TU	MM-01321	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01322	1					TUMIDENT	Tumor Identification	5							MRI																																																																						
+GSE24080	TU	MM-01323	1					TUMIDENT	Tumor Identification	5							MRI																																																																						
+GSE24080	TU	MM-01324	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01325	1					TUMIDENT	Tumor Identification	9							MRI																																																																						
+GSE24080	TU	MM-01326	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01327	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01328	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01329	1					TUMIDENT	Tumor Identification	20							MRI																																																																						
+GSE24080	TU	MM-01330	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01331	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01332	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01333	1					TUMIDENT	Tumor Identification	5							MRI																																																																						
+GSE24080	TU	MM-01334	1					TUMIDENT	Tumor Identification	1							MRI																																																																						
+GSE24080	TU	MM-01335	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01336	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-01337	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-01338	1					TUMIDENT	Tumor Identification	7							MRI																																																																						
+GSE24080	TU	MM-01339	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01340	1					TUMIDENT	Tumor Identification	6							MRI																																																																						
+GSE24080	TU	MM-01341	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01342	1					TUMIDENT	Tumor Identification	30							MRI																																																																						
+GSE24080	TU	MM-01343	1					TUMIDENT	Tumor Identification	24							MRI																																																																						
+GSE24080	TU	MM-01344	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01345	1					TUMIDENT	Tumor Identification	12							MRI																																																																						
+GSE24080	TU	MM-01346	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01347	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE24080	TU	MM-01348	1					TUMIDENT	Tumor Identification	2							MRI																																																																						
+GSE24080	TU	MM-01349	1					TUMIDENT	Tumor Identification	29							MRI																																																																						
+GSE24080	TU	MM-01350	1					TUMIDENT	Tumor Identification	28							MRI																																																																						
+GSE24080	TU	MM-01351	1					TUMIDENT	Tumor Identification	11							MRI																																																																						
+GSE24080	TU	MM-01352	1					TUMIDENT	Tumor Identification	3							MRI																																																																						
+GSE24080	TU	MM-01353	1					TUMIDENT	Tumor Identification	23							MRI																																																																						
+GSE24080	TU	MM-01354	1					TUMIDENT	Tumor Identification	5							MRI																																																																						
+GSE24080	TU	MM-01355	1					TUMIDENT	Tumor Identification	24							MRI																																																																						
+GSE24080	TU	MM-01356	1					TUMIDENT	Tumor Identification	16							MRI																																																																						
+GSE24080	TU	MM-01357	1					TUMIDENT	Tumor Identification	16							MRI																																																																						
+GSE24080	TU	MM-01358	1					TUMIDENT	Tumor Identification	4							MRI																																																																						
+GSE24080	TU	MM-01359	1					TUMIDENT	Tumor Identification	0							MRI																																																																						
+GSE26760	TU	MM-01360	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01361	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01362	1					TUMIDENT	Tumor Identification	Not available							Not applicable																																																																						
+GSE26760	TU	MM-01363	1					TUMIDENT	Tumor Identification	No							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01364	1					TUMIDENT	Tumor Identification	Not available							Not applicable																																																																						
+GSE26760	TU	MM-01365	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01366	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01367	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01368	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01369	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01370	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01371	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01372	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01373	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01374	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01375	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01376	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01377	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01378	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01379	1					TUMIDENT	Tumor Identification	Not available							Not applicable																																																																						
+GSE26760	TU	MM-01380	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01381	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01382	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01383	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01384	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01385	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01386	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01387	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01388	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01389	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01390	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01391	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01392	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01393	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01394	1					TUMIDENT	Tumor Identification	Not available							Not applicable																																																																						
+GSE26760	TU	MM-01395	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01396	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01397	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01398	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01399	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01400	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01401	1					TUMIDENT	Tumor Identification	No							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01402	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01403	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01404	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01405	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01406	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01407	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01408	1					TUMIDENT	Tumor Identification	Not available							Not applicable																																																																						
+GSE26760	TU	MM-01409	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01410	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01411	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01412	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01413	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01414	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01415	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01416	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01417	1					TUMIDENT	Tumor Identification	No							MRI																																																																						
+GSE26760	TU	MM-01418	1					TUMIDENT	Tumor Identification	No							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01419	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01420	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01421	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01422	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01423	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01424	1					TUMIDENT	Tumor Identification	Not available							Not applicable																																																																						
+GSE26760	TU	MM-01425	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01426	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01427	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01428	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01429	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01430	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01431	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01432	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01433	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01434	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01435	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01436	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01437	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01438	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01439	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01440	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01441	1					TUMIDENT	Tumor Identification	No							MRI																																																																						
+GSE26760	TU	MM-01442	1					TUMIDENT	Tumor Identification	No							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01443	1					TUMIDENT	Tumor Identification	No							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01444	1					TUMIDENT	Tumor Identification	No							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01445	1					TUMIDENT	Tumor Identification	Not available							Not applicable																																																																						
+GSE26760	TU	MM-01446	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01447	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01448	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01449	1					TUMIDENT	Tumor Identification	No							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01450	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01451	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01452	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01453	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01454	1					TUMIDENT	Tumor Identification	Not available							Not applicable																																																																						
+GSE26760	TU	MM-01455	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01456	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01457	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01458	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01459	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01460	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01461	1					TUMIDENT	Tumor Identification	No							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01462	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01463	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01464	1					TUMIDENT	Tumor Identification	No							MRI																																																																						
+GSE26760	TU	MM-01465	1					TUMIDENT	Tumor Identification	No							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01466	1					TUMIDENT	Tumor Identification	No							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01467	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01468	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01469	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01470	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01471	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01472	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01473	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01474	1					TUMIDENT	Tumor Identification	No							MRI																																																																						
+GSE26760	TU	MM-01475	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01476	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01477	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01478	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01479	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01480	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01481	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01482	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01483	1					TUMIDENT	Tumor Identification	Not available							Not applicable																																																																						
+GSE26760	TU	MM-01484	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01485	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01486	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01487	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01488	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01489	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01490	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01491	1					TUMIDENT	Tumor Identification	Not available							Not applicable																																																																						
+GSE26760	TU	MM-01492	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01493	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01494	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01495	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01496	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01497	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01498	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01499	1					TUMIDENT	Tumor Identification	No							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01500	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01501	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01502	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01503	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01504	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01505	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01506	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01507	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01508	1					TUMIDENT	Tumor Identification	No							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01509	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01510	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01511	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01512	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01513	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01514	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01515	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01516	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01517	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01518	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01519	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01520	1					TUMIDENT	Tumor Identification	No							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01521	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01522	1					TUMIDENT	Tumor Identification	No							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01523	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01524	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01525	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01526	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01527	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01528	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01529	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01530	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01531	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01532	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01533	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01534	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01535	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01536	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01537	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01538	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01539	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01540	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01541	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01542	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01543	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01544	1					TUMIDENT	Tumor Identification	No							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01545	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01546	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01547	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01548	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01549	1					TUMIDENT	Tumor Identification	Not available							Not applicable																																																																						
+GSE26760	TU	MM-01550	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01551	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01552	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01553	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01554	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01555	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01556	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01557	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01558	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01559	1					TUMIDENT	Tumor Identification	No							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01560	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01561	1					TUMIDENT	Tumor Identification	Not available							Not applicable																																																																						
+GSE26760	TU	MM-01562	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01563	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01564	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01565	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01566	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01567	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01568	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01569	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01570	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01571	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01572	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01573	1					TUMIDENT	Tumor Identification	No							MRI																																																																						
+GSE26760	TU	MM-01574	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01575	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01576	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01577	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01578	1					TUMIDENT	Tumor Identification	Not available							Not applicable																																																																						
+GSE26760	TU	MM-01579	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01580	1					TUMIDENT	Tumor Identification	Not available							Not applicable																																																																						
+GSE26760	TU	MM-01581	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01582	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01583	1					TUMIDENT	Tumor Identification	Not available							Not applicable																																																																						
+GSE26760	TU	MM-01584	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01585	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01586	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01587	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01588	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01589	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01590	1					TUMIDENT	Tumor Identification	No							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01591	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01592	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01593	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01594	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01595	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01596	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01597	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01598	1					TUMIDENT	Tumor Identification	Not available							Not applicable																																																																						
+GSE26760	TU	MM-01599	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01600	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01601	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01602	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01603	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01604	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01605	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01606	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01607	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01608	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01609	1					TUMIDENT	Tumor Identification	Yes							MRI																																																																						
+GSE26760	TU	MM-01610	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01611	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01612	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01613	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01614	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey																																																																						
+GSE26760	TU	MM-01615	1					TUMIDENT	Tumor Identification	Yes							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01616	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01617	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01618	1					TUMIDENT	Tumor Identification	No							Skeletal survey																																																																						
+GSE26760	TU	MM-01619	1					TUMIDENT	Tumor Identification	Not available							Not applicable																																																																						
+GSE26760	TU	MM-01620	1					TUMIDENT	Tumor Identification	No							Skeletal survey/MRI																																																																						
+GSE26760	TU	MM-01621	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01622	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01623	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01624	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01625	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01626	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01627	1					TUMIDENT	Tumor Identification	Not available							Not applicable																																																																						
+GSE26760	TU	MM-01628	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01629	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01630	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01631	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01632	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01633	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01634	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01635	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01636	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01637	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01638	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01639	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01640	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01641	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01642	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01643	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01644	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01645	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01646	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01647	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01648	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01649	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01650	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01651	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01652	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01653	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01654	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01655	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01656	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01657	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01658	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01659	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01660	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01661	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01662	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						
+GSE26760	TU	MM-01663	1					TUMIDENT	Tumor Identification	Not available							Not available																																																																						

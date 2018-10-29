@@ -1,0 +1,36 @@
+STUDYID	DOMAIN	SPDEVID	DISEQ	DIPARMCD	DIPARM	DIVAL
+GSE33685	DI	GPL10152	1	MANUF	Manufacturer	Agilent Technologies
+GSE16121	DI	GPL2005	1	MANUF	Manufacturer	Affymetrix
+GSE28329	DI	GPL2873	1	MANUF	Manufacturer	Agilent Technologies
+GSE36823	DI	GPL2879	1	MANUF	Manufacturer	Agilent Technologies
+GSE15695	DI	GPL3718	1	MANUF	Manufacturer	Affymetrix
+GSE21349	DI	GPL3718	2	MANUF	Manufacturer	Affymetrix
+GSE15695	DI	GPL3720	1	MANUF	Manufacturer	Affymetrix
+GSE21349	DI	GPL3720	2	MANUF	Manufacturer	Affymetrix
+GSE29023	DI	GPL4091	1	MANUF	Manufacturer	Agilent Technologies
+GSE36822	DI	GPL4091	2	MANUF	Manufacturer	Agilent Technologies
+GSE28329	DI	GPL4091	3	MANUF	Manufacturer	Agilent Technologies
+E-GEOD-9656 | GSE9656	DI	GPL570	1	MANUF	Manufacturer	Affymetrix
+E-MTAB-363	DI	GPL570	2	MANUF	Manufacturer	Affymetrix
+GSE17306	DI	GPL570	3	MANUF	Manufacturer	Affymetrix
+GSE19784	DI	GPL570	4	MANUF	Manufacturer	Affymetrix
+GSE21349	DI	GPL570	5	MANUF	Manufacturer	Affymetrix
+GSE24080	DI	GPL570	6	MANUF	Manufacturer	Affymetrix
+GSE26760	DI	GPL570	7	MANUF	Manufacturer	Affymetrix
+GSE36824	DI	GPL570	8	MANUF	Manufacturer	Affymetrix
+GSE28326	DI	GPL570	9	MANUF	Manufacturer	Affymetrix
+GSE28327	DI	GPL570	10	MANUF	Manufacturer	Affymetrix
+GSE29023	DI	GPL570	11	MANUF	Manufacturer	Affymetrix
+GSE31504	DI	GPL570	12	MANUF	Manufacturer	Affymetrix
+E-MEXP-2360	DI	GPL570	13	MANUF	Manufacturer	Affymetrix
+GSE27838	DI	GPL570	14	MANUF	Manufacturer	Affymetrix
+E-MTAB-317	DI	GPL570	15	MANUF	Manufacturer	Affymetrix
+E-MTAB-362	DI	GPL570	16	MANUF	Manufacturer	Affymetrix
+E-MTAB-372	DI	GPL570	17	MANUF	Manufacturer	Affymetrix
+GSE31339	DI	GPL6801	1	MANUF	Manufacturer	Affymetrix
+GSE26849	DI	GPL9128	1	MANUF	Manufacturer	Agilent Technologies
+GSE13591	DI	GPL96	1	MANUF	Manufacturer	Affymetrix
+GSE6477	DI	GPL96	2	MANUF	Manufacturer	Affymetrix
+GSE14230	DI	GPL96	3	MANUF	Manufacturer	Affymetrix
+GSE8991	DI	GPL96 | GPL97	1	MANUF	Manufacturer	Affymetrix
+GSE22886	DI	GPL96 | GPL97	2	MANUF	Manufacturer	Affymetrix
