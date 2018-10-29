@@ -1,0 +1,252 @@
+STUDYID	DOMAIN	USUBJID	CCSEQ	CCGRPID	CCREFID	CCSPID	CCLNKID	CCLNKGRP	CCTESTCD	CCTEST	CCMODIFY	CCTSTDTL	CCCAT	CCSCAT	CCPOS	CCBODSYS	CCORRES	CCORRESU	CCORNRLO	CCORNRHI	CCSTRESC	CCSTRESN	CCSTRESU	CCRESCAT	CCSTNRLO	CCSTNRHI	CCSTNRC	CCNRIND	CCSTAT	CCREASND	CCXFN	CCNAM	CCLOINC	CCSPEC	CCANTREG	CCSPCCND	CCSPCUFL	CCLOC	CCLAT	CCDIR	CCPORTOT	CCMETHOD	CCRUNID	CCANMETH	CCLEAD	CCCSTATE	CCFAST	CCBLFL	CCDRVFL	CCTOX	CCTOXGR	CCEVAL	CCEVALID	CCACPTFL	CCSEV	CCDTHREL	CCLLOQ	CCULOQ	VISITNUM	VISIT	VISITDY	EPOCH	CCDTC	CCENDTC	CCRFTDTC	CCDY	CCTPT	CCTPTNUM	CCELTM	CCTPTREF	CCRFTDTC	CCEVLINT	CCSTINT	CCENINT	CCEXCLFL	CCREASEX	POOLID	SPDEVID	TAETORD	CCSTDTC	CCSTDY	CCENDY	CCDUR	CCEVINTX	CCSTRTPT	CCSTTPT	CCENRTPT	CCENTPT
+GSE12051	CC	RA-00038	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00039	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00040	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00041	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00042	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00043	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00044	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00045	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00046	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00047	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00048	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00049	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00050	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00051	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00052	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00053	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00054	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00055	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00056	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00057	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00058	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00059	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00060	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00061	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00062	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00063	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00064	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00065	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00066	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00067	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00068	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00069	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00070	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00071	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00072	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00073	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00074	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00075	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00076	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00077	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00078	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00079	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00080	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE12051	CC	RA-00081	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE15258	CC	RA-00122	1						DAS28SC	DAS28 score							4.51																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00122	2						DAS28SC	DAS28 score							1.76																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00123	1						DAS28SC	DAS28 score							6.04																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00123	2						DAS28SC	DAS28 score							5.13																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00124	1						DAS28SC	DAS28 score							5.92																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00124	2						DAS28SC	DAS28 score							5.8																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00125	1						DAS28SC	DAS28 score							4.48																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00125	2						DAS28SC	DAS28 score							3.88																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00126	1						DAS28SC	DAS28 score							6																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00126	2						DAS28SC	DAS28 score							6.13																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00127	1						DAS28SC	DAS28 score							5.2																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00127	2						DAS28SC	DAS28 score							1.73																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00128	1						DAS28SC	DAS28 score							5.39																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00128	2						DAS28SC	DAS28 score							5.23																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00129	1						DAS28SC	DAS28 score							6.24																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00129	2						DAS28SC	DAS28 score							5.28																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00130	1						DAS28SC	DAS28 score							4.85																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00130	2						DAS28SC	DAS28 score							3.8																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00131	1						DAS28SC	DAS28 score							4.96																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00131	2						DAS28SC	DAS28 score							5.99																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00132	1						DAS28SC	DAS28 score							6.37																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00132	2						DAS28SC	DAS28 score							5.78																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00133	1						DAS28SC	DAS28 score							6.04																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00133	2						DAS28SC	DAS28 score							2.59																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00134	1						DAS28SC	DAS28 score							4.06																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00134	2						DAS28SC	DAS28 score							Not available																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00135	1						DAS28SC	DAS28 score							4.63																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00135	2						DAS28SC	DAS28 score							3.69																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00136	1						DAS28SC	DAS28 score							5.1																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00136	2						DAS28SC	DAS28 score							4																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00137	1						DAS28SC	DAS28 score							3.91																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00137	2						DAS28SC	DAS28 score							4.62																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00138	1						DAS28SC	DAS28 score							5.63																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00138	2						DAS28SC	DAS28 score							4.88																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00139	1						DAS28SC	DAS28 score							6.14																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00139	2						DAS28SC	DAS28 score							2.15																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00140	1						DAS28SC	DAS28 score							6.18																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00140	2						DAS28SC	DAS28 score							6.06																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00141	1						DAS28SC	DAS28 score							2.72																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00141	2						DAS28SC	DAS28 score							4.63																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00142	1						DAS28SC	DAS28 score							4.73																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00142	2						DAS28SC	DAS28 score							4.21																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00143	1						DAS28SC	DAS28 score							7.08																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00143	2						DAS28SC	DAS28 score							5.64																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00144	1						DAS28SC	DAS28 score							5.66																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00144	2						DAS28SC	DAS28 score							6.72																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00145	1						DAS28SC	DAS28 score							Not available																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00145	2						DAS28SC	DAS28 score							Not available																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00146	1						DAS28SC	DAS28 score							3.71																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00146	2						DAS28SC	DAS28 score							Not available																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00147	1						DAS28SC	DAS28 score							5.77																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00147	2						DAS28SC	DAS28 score							3.26																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00148	1						DAS28SC	DAS28 score							4.25																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00148	2						DAS28SC	DAS28 score							2.21																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00149	1						DAS28SC	DAS28 score							6.62																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00149	2						DAS28SC	DAS28 score							4.4																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00150	1						DAS28SC	DAS28 score							4.33																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00150	2						DAS28SC	DAS28 score							2.99																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00151	1						DAS28SC	DAS28 score							5.04																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00151	2						DAS28SC	DAS28 score							3.87																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00152	1						DAS28SC	DAS28 score							5.32																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00152	2						DAS28SC	DAS28 score							3.01																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00153	1						DAS28SC	DAS28 score							6.2																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00153	2						DAS28SC	DAS28 score							5.69																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00154	1						DAS28SC	DAS28 score							Not available																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00154	2						DAS28SC	DAS28 score							Not available																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00155	1						DAS28SC	DAS28 score							Not available																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00155	2						DAS28SC	DAS28 score							Not available																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00156	1						DAS28SC	DAS28 score							Not available																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00156	2						DAS28SC	DAS28 score							3.32																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00157	1						DAS28SC	DAS28 score							5.14																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00157	2						DAS28SC	DAS28 score							3.61																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00158	1						DAS28SC	DAS28 score							4.65																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00158	2						DAS28SC	DAS28 score							3.51																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00159	1						DAS28SC	DAS28 score							4.25																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00159	2						DAS28SC	DAS28 score							3.77																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00160	1						DAS28SC	DAS28 score							5.93																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00160	2						DAS28SC	DAS28 score							1.68																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00161	1						DAS28SC	DAS28 score							5.24																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00161	2						DAS28SC	DAS28 score							4.26																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00162	1						DAS28SC	DAS28 score							6.7																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00162	2						DAS28SC	DAS28 score							5.13																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00163	1						DAS28SC	DAS28 score							4.33																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00163	2						DAS28SC	DAS28 score							4.05																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00164	1						DAS28SC	DAS28 score							Not available																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00164	2						DAS28SC	DAS28 score							Not available																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00165	1						DAS28SC	DAS28 score							3.87																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00165	2						DAS28SC	DAS28 score							5.63																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00166	1						DAS28SC	DAS28 score							5.42																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00166	2						DAS28SC	DAS28 score							3.9																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00167	1						DAS28SC	DAS28 score							5.09																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00167	2						DAS28SC	DAS28 score							4.14																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00168	1						DAS28SC	DAS28 score							4.87																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00168	2						DAS28SC	DAS28 score							2.86																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00169	1						DAS28SC	DAS28 score							5.3																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00169	2						DAS28SC	DAS28 score							6.44																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00170	1						DAS28SC	DAS28 score							4.89																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00170	2						DAS28SC	DAS28 score							3.81																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00171	1						DAS28SC	DAS28 score							4.9																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00171	2						DAS28SC	DAS28 score							4.64																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00172	1						DAS28SC	DAS28 score							6																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00172	2						DAS28SC	DAS28 score							Not available																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00173	1						DAS28SC	DAS28 score							5.28																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00173	2						DAS28SC	DAS28 score							4.97																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00174	1						DAS28SC	DAS28 score							4.06																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00174	2						DAS28SC	DAS28 score							4.45																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00175	1						DAS28SC	DAS28 score							5.52																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00175	2						DAS28SC	DAS28 score							3.3																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00176	1						DAS28SC	DAS28 score							5.52																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00176	2						DAS28SC	DAS28 score							4.26																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00177	1						DAS28SC	DAS28 score							5.08																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00177	2						DAS28SC	DAS28 score							3.65																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00178	1						DAS28SC	DAS28 score							6.21																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00178	2						DAS28SC	DAS28 score							2.31																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00179	1						DAS28SC	DAS28 score							6.28																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00179	2						DAS28SC	DAS28 score							6.83																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00180	1						DAS28SC	DAS28 score							3.89																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00180	2						DAS28SC	DAS28 score							2.62																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00181	1						DAS28SC	DAS28 score							6.81																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00181	2						DAS28SC	DAS28 score							4.55																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00182	1						DAS28SC	DAS28 score							4.19																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00182	2						DAS28SC	DAS28 score							2.34																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00183	1						DAS28SC	DAS28 score							5.38																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00183	2						DAS28SC	DAS28 score							4.06																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00184	1						DAS28SC	DAS28 score							5.61																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00184	2						DAS28SC	DAS28 score							2.94																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00185	1						DAS28SC	DAS28 score							4.84																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00185	2						DAS28SC	DAS28 score							1.52																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00186	1						DAS28SC	DAS28 score							5.82																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00186	2						DAS28SC	DAS28 score							3.87																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00187	1						DAS28SC	DAS28 score							4.45																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00187	2						DAS28SC	DAS28 score							2.61																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00188	1						DAS28SC	DAS28 score							5.59																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00188	2						DAS28SC	DAS28 score							3.18																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00189	1						DAS28SC	DAS28 score							4.31																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00189	2						DAS28SC	DAS28 score							2.39																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00190	1						DAS28SC	DAS28 score							5.92																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00190	2						DAS28SC	DAS28 score							4.54																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00191	1						DAS28SC	DAS28 score							5.72																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00191	2						DAS28SC	DAS28 score							2.71																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00192	1						DAS28SC	DAS28 score							4.42																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00192	2						DAS28SC	DAS28 score							3.84																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00193	1						DAS28SC	DAS28 score							4.6																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00193	2						DAS28SC	DAS28 score							3.05																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00194	1						DAS28SC	DAS28 score							5.18																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00194	2						DAS28SC	DAS28 score							3.92																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00195	1						DAS28SC	DAS28 score							6.12																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00195	2						DAS28SC	DAS28 score							3.41																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00196	1						DAS28SC	DAS28 score							4.92																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00196	2						DAS28SC	DAS28 score							2.73																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00197	1						DAS28SC	DAS28 score							5.07																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00197	2						DAS28SC	DAS28 score							3.69																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00198	1						DAS28SC	DAS28 score							4.16																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00198	2						DAS28SC	DAS28 score							1.64																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00199	1						DAS28SC	DAS28 score							3.92																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00199	2						DAS28SC	DAS28 score							2.08																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00200	1						DAS28SC	DAS28 score							Not available																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00200	2						DAS28SC	DAS28 score							2.85																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00201	1						DAS28SC	DAS28 score							6.03																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00201	2						DAS28SC	DAS28 score							3.26																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00202	1						DAS28SC	DAS28 score							5.22																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00202	2						DAS28SC	DAS28 score							3.46																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00203	1						DAS28SC	DAS28 score							6.32																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00203	2						DAS28SC	DAS28 score							2.55																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00204	1						DAS28SC	DAS28 score							5.68																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00204	2						DAS28SC	DAS28 score							3.37																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00205	1						DAS28SC	DAS28 score							5.15																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00205	2						DAS28SC	DAS28 score							Not available																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00206	1						DAS28SC	DAS28 score							6.04																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00206	2						DAS28SC	DAS28 score							Not available																																											Visit 3							Post-treatment																					
+GSE15258	CC	RA-00207	1						DAS28SC	DAS28 score							5.74																																											Visit 1							Pre-treatment																					
+GSE15258	CC	RA-00207	2						DAS28SC	DAS28 score							1.47																																											Visit 3							Post-treatment																					
+GSE15316	CC	RA-00208	1						DAS28SC	DAS28 score							>5.1																																																		Pre-treatment																					
+GSE15316	CC	RA-00209	1						DAS28SC	DAS28 score							>5.1																																																		Pre-treatment																					
+GSE15316	CC	RA-00210	1						DAS28SC	DAS28 score							>5.1																																																		Pre-treatment																					
+GSE15316	CC	RA-00211	1						DAS28SC	DAS28 score							>5.1																																																		Pre-treatment																					
+GSE15316	CC	RA-00212	1						DAS28SC	DAS28 score							>5.1																																																		Pre-treatment																					
+GSE15316	CC	RA-00213	1						DAS28SC	DAS28 score							>5.1																																																		Pre-treatment																					
+GSE15316	CC	RA-00214	1						DAS28SC	DAS28 score							>5.1																																																		Pre-treatment																					
+GSE15316	CC	RA-00215	1						DAS28SC	DAS28 score							>5.1																																																		Pre-treatment																					
+GSE15316	CC	RA-00216	1						DAS28SC	DAS28 score							>5.1																																																		Pre-treatment																					
+GSE37107	CC	RA-00442	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE37107	CC	RA-00443	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE37107	CC	RA-00444	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE37107	CC	RA-00445	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE37107	CC	RA-00446	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE37107	CC	RA-00447	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE37107	CC	RA-00448	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE37107	CC	RA-00449	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE37107	CC	RA-00450	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE37107	CC	RA-00451	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE37107	CC	RA-00452	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE37107	CC	RA-00453	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE37107	CC	RA-00454	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE37107	CC	RA-00455	1						DAS28SC	DAS28 score							>3.2																																																		Pre-treatment																					
+GSE38351	CC	RA-00480	1						DAS28	DAS28 score							6.33																																																																							
+GSE38351	CC	RA-00481	1						DAS28	DAS28 score							4.72																																																																							
+GSE38351	CC	RA-00482	1						DAS28	DAS28 score							5.87																																																																							
+GSE38351	CC	RA-00483	1						DAS28	DAS28 score							5.94																																																																							
+GSE38351	CC	RA-00484	1						DAS28	DAS28 score							7.07																																																																							
+GSE38351	CC	RA-00485	1						DAS28	DAS28 score							7.49																																																																							
+GSE38351	CC	RA-00486	1						DAS28	DAS28 score							4.6																																																																							
+GSE38351	CC	RA-00487	1						DAS28	DAS28 score							6.48																																																																							
+GSE38351	CC	RA-00500	1						DAS28	DAS28 score							Not available																																																																							
+GSE38351	CC	RA-00501	1						DAS28	DAS28 score							Not available																																																																							
+GSE38351	CC	RA-00502	1						DAS28	DAS28 score							Not available																																																																							
+GSE38351	CC	RA-00503	1						DAS28	DAS28 score							Not available																																																																							

@@ -1,0 +1,43 @@
+STUDYID	DOMAIN	SPDEVID	DISEQ	DIPARMCD	DIPARM	DIVAL
+GSE12051	DI	GPL2507	1	TYPE	Type of device	Array
+GSE15316	DI	GPL2507	2	TYPE	Type of device	Array
+GSE12051	DI	GPL2507	3	MANUF	Manufacturer	Illumina Inc.
+GSE15316	DI	GPL2507	4	MANUF	Manufacturer	Illumina Inc.
+GSE20690	DI	GPL4133	1	TYPE	Type of device	Array
+GSE20690	DI	GPL4133	2	MANUF	Manufacturer	Agilent Technologies
+GSE15258	DI	GPL570	1	TYPE	Type of device	Array
+GSE15602	DI	GPL570	2	TYPE	Type of device	Array
+GSE24742	DI	GPL570	3	TYPE	Type of device	Array
+GSE27390	DI	GPL570	4	TYPE	Type of device	Array
+GSE36700	DI	GPL570	5	TYPE	Type of device	Array
+GSE4588	DI	GPL570	6	TYPE	Type of device	Array
+GSE38351	DI	GPL570	7	TYPE	Type of device	Array
+GSE15258	DI	GPL570	8	MANUF	Manufacturer	Affymetrix
+GSE15602	DI	GPL570	9	MANUF	Manufacturer	Affymetrix
+GSE24742	DI	GPL570	10	MANUF	Manufacturer	Affymetrix
+GSE27390	DI	GPL570	11	MANUF	Manufacturer	Affymetrix
+GSE36700	DI	GPL570	12	MANUF	Manufacturer	Affymetrix
+GSE4588	DI	GPL570	13	MANUF	Manufacturer	Affymetrix
+GSE38351	DI	GPL570	14	MANUF	Manufacturer	Affymetrix
+GSE15573	DI	GPL6102	1	TYPE	Type of device	Array
+GSE15573	DI	GPL6102	2	MANUF	Manufacturer	Illumina Inc.
+GSE25160	DI	GPL6244	1	TYPE	Type of device	Array
+GSE25160	DI	GPL6244	2	MANUF	Manufacturer	Affymetrix
+GSE20098	DI	GPL6884	1	TYPE	Type of device	Array
+GSE20098	DI	GPL6884	2	MANUF	Manufacturer	Illumina Inc.
+GSE37107	DI	GPL6947	1	TYPE	Type of device	Array
+GSE37107	DI	GPL6947	2	MANUF	Manufacturer	Illumina Inc.
+GSE1402	DI	GPL8300	1	TYPE	Type of device	Array
+E-MTAB-11	DI	GPL8300	2	TYPE	Type of device	Array
+GSE1402	DI	GPL8300	3	MANUF	Manufacturer	Affymetrix
+E-MTAB-11	DI	GPL8300	4	MANUF	Manufacturer	Affymetrix
+E-MTAB-11	DI	GPL91	1	TYPE	Type of device	Array
+E-MTAB-11	DI	GPL91	2	MANUF	Manufacturer	Affymetrix
+GSE12021	DI	GPL96	1	TYPE	Type of device	Array
+GSE38351	DI	GPL96	2	TYPE	Type of device	Array
+E-MTAB-11	DI	GPL96	3	TYPE	Type of device	Array
+GSE12021	DI	GPL96	4	MANUF	Manufacturer	Affymetrix
+GSE38351	DI	GPL96	5	MANUF	Manufacturer	Affymetrix
+E-MTAB-11	DI	GPL96	6	MANUF	Manufacturer	Affymetrix
+GSE12021	DI	GPL97	1	TYPE	Type of device	Array
+GSE12021	DI	GPL97	2	MANUF	Manufacturer	Affymetrix

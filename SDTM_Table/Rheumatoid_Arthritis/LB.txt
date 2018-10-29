@@ -1,0 +1,259 @@
+STUDYID	DOMAIN	USUBJID	LBSEQ	LBGRPID	LBREFID	LBSPID	LBTESTCD	LBTEST	LBCAT	LBSCAT	LBORRES	LBORRESU	LBORNRLO	LBORNRHI	LBSTRESC	LBSTRESN	LBSTRESU	LBSTNRLO	LBSTNRHI	LBSTNRC	LBNRIND	LBSTAT	LBREASND	LBNAM	LBLOINC	LBSPEC	LBSPCCND	LBMETHOD	LBBLFL	LBFAST	LBDRVFL	LBTOX	LBTOXGR	VISITNUM	VISIT	VISITDY	LBDTC	LBENDTC	LBDY	LBTPT	LBTPTNUM	LBELTM	LBTPTREF	LBRFTDTC	LBLNKID	LBLNKGRP	LBMODIFY	LBTSTDTL	LBPOS	LBBODSYS	LBRESCAT	LBXFN	LBANTREG	LBSPCUFL	LBLOC	LBLAT	LBDIR	LBPORTOT	LBRUNID	LBANMETH	LBLEAD	LBCSTATE	LBEVAL	LBEVALID	LBACPTFL	LBSEV	LBDTHREL	LBLLOQ	LBULOQ	EPOCH	LBRFTDTC	LBEVLINT	LBSTINT	LBENINT	LBEXCLFL	LBREASEX	POOLID	SPDEVID	TAETORD	LBSTDTC	LBSTDY	LBENDY	LBDUR	LBEVINTX	LBSTRTPT	LBSTTPT	LBENRTPT	LBENTPT
+GSE1402	LB	RA-00082	1				ANA	Antinuclear Antibodies	Immunology		Negative																																																																													
+GSE1402	LB	RA-00082	2				RF	Rheumatoid Factor	Immunology		Negative																																																																													
+GSE1402	LB	RA-00084	1				ANA	Antinuclear Antibodies	Immunology		Negative																																																																													
+GSE1402	LB	RA-00084	2				RF	Rheumatoid Factor	Immunology		Negative																																																																													
+GSE1402	LB	RA-00085	1				ANA	Antinuclear Antibodies	Immunology		Negative																																																																													
+GSE1402	LB	RA-00085	2				RF	Rheumatoid Factor	Immunology		Negative																																																																													
+GSE1402	LB	RA-00087	1				ANA	Antinuclear Antibodies	Immunology		Positive																																																																													
+GSE1402	LB	RA-00087	2				RF	Rheumatoid Factor	Immunology		Negative																																																																													
+GSE1402	LB	RA-00088	1				ANA	Antinuclear Antibodies	Immunology		Not available																																																																													
+GSE1402	LB	RA-00088	2				RF	Rheumatoid Factor	Immunology		Not available																																																																													
+GSE1402	LB	RA-00090	1				ANA	Antinuclear Antibodies	Immunology		Not available																																																																													
+GSE1402	LB	RA-00090	2				RF	Rheumatoid Factor	Immunology		Not available																																																																													
+GSE1402	LB	RA-00091	1				ANA	Antinuclear Antibodies	Immunology		Positive																																																																													
+GSE1402	LB	RA-00091	2				RF	Rheumatoid Factor	Immunology		Negative																																																																													
+GSE1402	LB	RA-00093	1				ANA	Antinuclear Antibodies	Immunology		Not available																																																																													
+GSE1402	LB	RA-00093	2				RF	Rheumatoid Factor	Immunology		Not available																																																																													
+GSE1402	LB	RA-00095	1				ANA	Antinuclear Antibodies	Immunology		Not available																																																																													
+GSE1402	LB	RA-00095	2				RF	Rheumatoid Factor	Immunology		Not available																																																																													
+GSE1402	LB	RA-00097	1				ANA	Antinuclear Antibodies	Immunology		Positive																																																																													
+GSE1402	LB	RA-00097	2				RF	Rheumatoid Factor	Immunology		Negative																																																																													
+GSE1402	LB	RA-00099	1				ANA	Antinuclear Antibodies	Immunology		Negative																																																																													
+GSE1402	LB	RA-00099	2				RF	Rheumatoid Factor	Immunology		Positive																																																																													
+GSE1402	LB	RA-00101	1				ANA	Antinuclear Antibodies	Immunology		Not available																																																																													
+GSE1402	LB	RA-00101	2				RF	Rheumatoid Factor	Immunology		Not available																																																																													
+GSE1402	LB	RA-00114	1				ANA	Antinuclear Antibodies	Immunology		Positive																																																																													
+GSE1402	LB	RA-00114	2				RF	Rheumatoid Factor	Immunology		Negative																																																																													
+GSE1402	LB	RA-00115	1				ANA	Antinuclear Antibodies	Immunology		Negative																																																																													
+GSE1402	LB	RA-00115	2				RF	Rheumatoid Factor	Immunology		Not available																																																																													
+GSE1402	LB	RA-00116	1				ANA	Antinuclear Antibodies	Immunology		Not available																																																																													
+GSE1402	LB	RA-00116	2				RF	Rheumatoid Factor	Immunology		Not available																																																																													
+GSE1402	LB	RA-00117	1				ANA	Antinuclear Antibodies	Immunology		Negative																																																																													
+GSE1402	LB	RA-00117	2				RF	Rheumatoid Factor	Immunology		Negative																																																																													
+GSE1402	LB	RA-00118	1				ANA	Antinuclear Antibodies	Immunology		Negative																																																																													
+GSE1402	LB	RA-00118	2				RF	Rheumatoid Factor	Immunology		Not available																																																																													
+GSE1402	LB	RA-00119	1				ANA	Antinuclear Antibodies	Immunology		Positive																																																																													
+GSE1402	LB	RA-00119	2				RF	Rheumatoid Factor	Immunology		Negative																																																																													
+GSE1402	LB	RA-00120	1				ANA	Antinuclear Antibodies	Immunology		Positive																																																																													
+GSE1402	LB	RA-00120	2				RF	Rheumatoid Factor	Immunology		Negative																																																																													
+GSE1402	LB	RA-00121	1				ANA	Antinuclear Antibodies	Immunology		Negative																																																																													
+GSE1402	LB	RA-00121	2				RF	Rheumatoid Factor	Immunology		Negative																																																																													
+GSE20098	LB	RA-00261	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00262	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00263	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00264	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00265	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00266	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00267	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00268	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00269	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00270	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00271	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00272	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00273	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00274	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00275	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00276	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00277	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00278	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00279	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00280	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00281	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00282	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00283	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00284	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00285	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00286	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00287	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00288	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00289	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00290	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00291	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00292	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00293	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00294	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00295	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00296	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00297	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00298	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00299	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00300	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00301	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00302	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00303	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00304	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00305	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00306	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00307	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00308	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00309	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00310	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00311	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00312	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00313	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00314	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00315	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00316	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00317	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00318	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00319	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00320	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00321	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00322	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00323	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00324	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00325	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00326	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00327	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00328	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00329	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00330	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20098	LB	RA-00331	1				aCPA	Anti-citrullinated protein antibody			Positive																																																																													
+GSE20098	LB	RA-00332	1				aCPA	Anti-citrullinated protein antibody			Negative																																																																													
+GSE20690	LB	RA-00333	1				CRP	C Reactive Protein	Chemistry	Proteins	0.2																													Post-treatment																																																
+GSE20690	LB	RA-00334	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00335	1				CRP	C Reactive Protein	Chemistry	Proteins	0.2																													Post-treatment																																																
+GSE20690	LB	RA-00336	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00337	1				CRP	C Reactive Protein	Chemistry	Proteins	0.3																													Post-treatment																																																
+GSE20690	LB	RA-00338	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00339	1				CRP	C Reactive Protein	Chemistry	Proteins	0.2																													Post-treatment																																																
+GSE20690	LB	RA-00340	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00341	1				CRP	C Reactive Protein	Chemistry	Proteins	0.2																													Post-treatment																																																
+GSE20690	LB	RA-00342	1				CRP	C Reactive Protein	Chemistry	Proteins	0																													Post-treatment																																																
+GSE20690	LB	RA-00343	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00344	1				CRP	C Reactive Protein	Chemistry	Proteins	0.2																													Post-treatment																																																
+GSE20690	LB	RA-00345	1				CRP	C Reactive Protein	Chemistry	Proteins	0.2																													Post-treatment																																																
+GSE20690	LB	RA-00346	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00347	1				CRP	C Reactive Protein	Chemistry	Proteins	0.2																													Post-treatment																																																
+GSE20690	LB	RA-00348	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00349	1				CRP	C Reactive Protein	Chemistry	Proteins	0																													Post-treatment																																																
+GSE20690	LB	RA-00350	1				CRP	C Reactive Protein	Chemistry	Proteins	0.3																													Post-treatment																																																
+GSE20690	LB	RA-00351	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00352	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00353	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00354	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00355	1				CRP	C Reactive Protein	Chemistry	Proteins	0.3																													Post-treatment																																																
+GSE20690	LB	RA-00356	1				CRP	C Reactive Protein	Chemistry	Proteins	0.3																													Post-treatment																																																
+GSE20690	LB	RA-00357	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00358	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00359	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00360	1				CRP	C Reactive Protein	Chemistry	Proteins	0.2																													Post-treatment																																																
+GSE20690	LB	RA-00361	1				CRP	C Reactive Protein	Chemistry	Proteins	0.7																													Post-treatment																																																
+GSE20690	LB	RA-00362	1				CRP	C Reactive Protein	Chemistry	Proteins	2.4																													Post-treatment																																																
+GSE20690	LB	RA-00363	1				CRP	C Reactive Protein	Chemistry	Proteins	0.5																													Post-treatment																																																
+GSE20690	LB	RA-00364	1				CRP	C Reactive Protein	Chemistry	Proteins	0.8																													Post-treatment																																																
+GSE20690	LB	RA-00365	1				CRP	C Reactive Protein	Chemistry	Proteins	1.2																													Post-treatment																																																
+GSE20690	LB	RA-00366	1				CRP	C Reactive Protein	Chemistry	Proteins	3.2																													Post-treatment																																																
+GSE20690	LB	RA-00367	1				CRP	C Reactive Protein	Chemistry	Proteins	1.4																													Post-treatment																																																
+GSE20690	LB	RA-00368	1				CRP	C Reactive Protein	Chemistry	Proteins	0.4																													Post-treatment																																																
+GSE20690	LB	RA-00369	1				CRP	C Reactive Protein	Chemistry	Proteins	5.4																													Post-treatment																																																
+GSE20690	LB	RA-00370	1				CRP	C Reactive Protein	Chemistry	Proteins	11.6																													Post-treatment																																																
+GSE20690	LB	RA-00371	1				CRP	C Reactive Protein	Chemistry	Proteins	2.9																													Post-treatment																																																
+GSE20690	LB	RA-00372	1				CRP	C Reactive Protein	Chemistry	Proteins	1.3																													Post-treatment																																																
+GSE20690	LB	RA-00373	1				CRP	C Reactive Protein	Chemistry	Proteins	4.8																													Post-treatment																																																
+GSE20690	LB	RA-00374	1				CRP	C Reactive Protein	Chemistry	Proteins	8.6																													Post-treatment																																																
+GSE20690	LB	RA-00375	1				CRP	C Reactive Protein	Chemistry	Proteins	0.2																													Post-treatment																																																
+GSE20690	LB	RA-00376	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00377	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00378	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00379	1				CRP	C Reactive Protein	Chemistry	Proteins	0																													Post-treatment																																																
+GSE20690	LB	RA-00380	1				CRP	C Reactive Protein	Chemistry	Proteins	0																													Post-treatment																																																
+GSE20690	LB	RA-00381	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00382	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00383	1				CRP	C Reactive Protein	Chemistry	Proteins	0.2																													Post-treatment																																																
+GSE20690	LB	RA-00384	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00385	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00386	1				CRP	C Reactive Protein	Chemistry	Proteins	0.2																													Post-treatment																																																
+GSE20690	LB	RA-00387	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00388	1				CRP	C Reactive Protein	Chemistry	Proteins	0.2																													Post-treatment																																																
+GSE20690	LB	RA-00389	1				CRP	C Reactive Protein	Chemistry	Proteins	0.1																													Post-treatment																																																
+GSE20690	LB	RA-00390	1				CRP	C Reactive Protein	Chemistry	Proteins	1.2																													Post-treatment																																																
+GSE20690	LB	RA-00391	1				CRP	C Reactive Protein	Chemistry	Proteins	4.6																													Post-treatment																																																
+GSE20690	LB	RA-00392	1				CRP	C Reactive Protein	Chemistry	Proteins	7.4																													Post-treatment																																																
+GSE20690	LB	RA-00393	1				CRP	C Reactive Protein	Chemistry	Proteins	3.5																													Post-treatment																																																
+GSE20690	LB	RA-00394	1				CRP	C Reactive Protein	Chemistry	Proteins	1.7																													Post-treatment																																																
+GSE20690	LB	RA-00395	1				CRP	C Reactive Protein	Chemistry	Proteins	0.6																													Post-treatment																																																
+GSE20690	LB	RA-00396	1				CRP	C Reactive Protein	Chemistry	Proteins	1.2																													Post-treatment																																																
+GSE20690	LB	RA-00397	1				CRP	C Reactive Protein	Chemistry	Proteins	4.2																													Post-treatment																																																
+GSE20690	LB	RA-00398	1				CRP	C Reactive Protein	Chemistry	Proteins	0.4																													Post-treatment																																																
+GSE20690	LB	RA-00399	1				CRP	C Reactive Protein	Chemistry	Proteins	2.1																													Post-treatment																																																
+GSE20690	LB	RA-00400	1				CRP	C Reactive Protein	Chemistry	Proteins	3.4																													Post-treatment																																																
+GSE27390	LB	RA-00426	1				CRP	C Reactive Protein	Chemistry	Proteins	3.3																													Pre-treatment																																																
+GSE27390	LB	RA-00426	2				RF	Rheumatoid Factor	Immunology		172																																																																													
+GSE27390	LB	RA-00427	1				CRP	C Reactive Protein	Chemistry	Proteins	2																													Pre-treatment																																																
+GSE27390	LB	RA-00427	2				RF	Rheumatoid Factor	Immunology		99																																																																													
+GSE27390	LB	RA-00428	1				CRP	C Reactive Protein	Chemistry	Proteins	3.3																													Pre-treatment																																																
+GSE27390	LB	RA-00428	2				RF	Rheumatoid Factor	Immunology		507																																																																													
+GSE27390	LB	RA-00429	1				CRP	C Reactive Protein	Chemistry	Proteins	0.3																													Pre-treatment																																																
+GSE27390	LB	RA-00429	2				RF	Rheumatoid Factor	Immunology		49																																																																													
+GSE27390	LB	RA-00430	1				CRP	C Reactive Protein	Chemistry	Proteins	2.6																													Pre-treatment																																																
+GSE27390	LB	RA-00430	2				RF	Rheumatoid Factor	Immunology		324																																																																													
+GSE27390	LB	RA-00431	1				CRP	C Reactive Protein	Chemistry	Proteins	1.4																													Pre-treatment																																																
+GSE27390	LB	RA-00431	2				RF	Rheumatoid Factor	Immunology		13																																																																													
+GSE27390	LB	RA-00432	1				CRP	C Reactive Protein	Chemistry	Proteins	4.4																													Pre-treatment																																																
+GSE27390	LB	RA-00432	2				RF	Rheumatoid Factor	Immunology		242																																																																													
+GSE27390	LB	RA-00433	1				CRP	C Reactive Protein	Chemistry	Proteins	0.9																													Pre-treatment																																																
+GSE27390	LB	RA-00433	2				RF	Rheumatoid Factor	Immunology		98																																																																													
+GSE27390	LB	RA-00434	1				CRP	C Reactive Protein	Chemistry	Proteins	2.9																													Pre-treatment																																																
+GSE27390	LB	RA-00434	2				RF	Rheumatoid Factor	Immunology		40																																																																													
+GSE38351	LB	RA-00480	1				aCCP	Anti-cyclic citrullinated peptide antibody			490	units/ml																																																																												
+GSE38351	LB	RA-00480	2				ANA	Antinuclear Antibodies	Immunology		0.097222222																																																																													
+GSE38351	LB	RA-00480	3				CRP	C Reactive Protein	Chemistry	Proteins	3																													Pre-treatment																																																
+GSE38351	LB	RA-00480	4				ESR	Erythrocyte Sedimentation Rate	LB Hematology		24																																																																													
+GSE38351	LB	RA-00480	5				RF	Rheumatoid Factor	Immunology		356																																																																													
+GSE38351	LB	RA-00481	1				aCCP	Anti-cyclic citrullinated peptide antibody			Not available	units/ml																																																																												
+GSE38351	LB	RA-00481	2				ANA	Antinuclear Antibodies	Immunology		0.097222222																																																																													
+GSE38351	LB	RA-00481	3				CRP	C Reactive Protein	Chemistry	Proteins	0.2																													Pre-treatment																																																
+GSE38351	LB	RA-00481	4				ESR	Erythrocyte Sedimentation Rate	LB Hematology		18																																																																													
+GSE38351	LB	RA-00481	5				RF	Rheumatoid Factor	Immunology		405																																																																													
+GSE38351	LB	RA-00482	1				aCCP	Anti-cyclic citrullinated peptide antibody			Not available	units/ml																																																																												
+GSE38351	LB	RA-00482	2				ANA	Antinuclear Antibodies	Immunology		0.097222222																																																																													
+GSE38351	LB	RA-00482	3				CRP	C Reactive Protein	Chemistry	Proteins	8.9																													Pre-treatment																																																
+GSE38351	LB	RA-00482	4				ESR	Erythrocyte Sedimentation Rate	LB Hematology		80																																																																													
+GSE38351	LB	RA-00482	5				RF	Rheumatoid Factor	Immunology		0																																																																													
+GSE38351	LB	RA-00483	1				aCCP	Anti-cyclic citrullinated peptide antibody			Not available	units/ml																																																																												
+GSE38351	LB	RA-00483	2				ANA	Antinuclear Antibodies	Immunology		Not available																																																																													
+GSE38351	LB	RA-00483	3				CRP	C Reactive Protein	Chemistry	Proteins	Not available																													Pre-treatment																																																
+GSE38351	LB	RA-00483	4				ESR	Erythrocyte Sedimentation Rate	LB Hematology		15																																																																													
+GSE38351	LB	RA-00483	5				RF	Rheumatoid Factor	Immunology		Not available																																																																													
+GSE38351	LB	RA-00484	1				aCCP	Anti-cyclic citrullinated peptide antibody			Not available	units/ml																																																																												
+GSE38351	LB	RA-00484	2				ANA	Antinuclear Antibodies	Immunology		0.097222222																																																																													
+GSE38351	LB	RA-00484	3				CRP	C Reactive Protein	Chemistry	Proteins	14.7																													Pre-treatment																																																
+GSE38351	LB	RA-00484	4				ESR	Erythrocyte Sedimentation Rate	LB Hematology		62																																																																													
+GSE38351	LB	RA-00484	5				RF	Rheumatoid Factor	Immunology		25																																																																													
+GSE38351	LB	RA-00485	1				aCCP	Anti-cyclic citrullinated peptide antibody			Not available	units/ml																																																																												
+GSE38351	LB	RA-00485	2				ANA	Antinuclear Antibodies	Immunology		Not available																																																																													
+GSE38351	LB	RA-00485	3				CRP	C Reactive Protein	Chemistry	Proteins	6.5																													Pre-treatment																																																
+GSE38351	LB	RA-00485	4				ESR	Erythrocyte Sedimentation Rate	LB Hematology		53																																																																													
+GSE38351	LB	RA-00485	5				RF	Rheumatoid Factor	Immunology		0																																																																													
+GSE38351	LB	RA-00486	1				aCCP	Anti-cyclic citrullinated peptide antibody			25	units/ml																																																																												
+GSE38351	LB	RA-00486	2				ANA	Antinuclear Antibodies	Immunology		0.263888889																																																																													
+GSE38351	LB	RA-00486	3				CRP	C Reactive Protein	Chemistry	Proteins	0.5																													Pre-treatment																																																
+GSE38351	LB	RA-00486	4				ESR	Erythrocyte Sedimentation Rate	LB Hematology		10																																																																													
+GSE38351	LB	RA-00486	5				RF	Rheumatoid Factor	Immunology		55																																																																													
+GSE38351	LB	RA-00487	1				aCCP	Anti-cyclic citrullinated peptide antibody			0	units/ml																																																																												
+GSE38351	LB	RA-00487	2				ANA	Antinuclear Antibodies	Immunology		0.152777778																																																																													
+GSE38351	LB	RA-00487	3				CRP	C Reactive Protein	Chemistry	Proteins	1.4																													Pre-treatment																																																
+GSE38351	LB	RA-00487	4				ESR	Erythrocyte Sedimentation Rate	LB Hematology		21																																																																													
+GSE38351	LB	RA-00487	5				RF	Rheumatoid Factor	Immunology		0																																																																													
+GSE38351	LB	RA-00500	1				aCCP	Anti-cyclic citrullinated peptide antibody			Not available	units/ml																																																																												
+GSE38351	LB	RA-00500	2				ANA	Antinuclear Antibodies	Immunology		Not available																																																																													
+GSE38351	LB	RA-00500	3				CRP	C Reactive Protein	Chemistry	Proteins	6.4																													Pre-treatment																																																
+GSE38351	LB	RA-00500	4				ESR	Erythrocyte Sedimentation Rate	LB Hematology		53																																																																													
+GSE38351	LB	RA-00500	5				RF	Rheumatoid Factor	Immunology		184																																																																													
+GSE38351	LB	RA-00501	1				aCCP	Anti-cyclic citrullinated peptide antibody			Not available	units/ml																																																																												
+GSE38351	LB	RA-00501	2				ANA	Antinuclear Antibodies	Immunology		Not available																																																																													
+GSE38351	LB	RA-00501	3				CRP	C Reactive Protein	Chemistry	Proteins	0.2																													Pre-treatment																																																
+GSE38351	LB	RA-00501	4				ESR	Erythrocyte Sedimentation Rate	LB Hematology		24																																																																													
+GSE38351	LB	RA-00501	5				RF	Rheumatoid Factor	Immunology		Negative																																																																													
+GSE38351	LB	RA-00502	1				aCCP	Anti-cyclic citrullinated peptide antibody			Not available	units/ml																																																																												
+GSE38351	LB	RA-00502	2				ANA	Antinuclear Antibodies	Immunology		Not available																																																																													
+GSE38351	LB	RA-00502	3				CRP	C Reactive Protein	Chemistry	Proteins	2.9																													Pre-treatment																																																
+GSE38351	LB	RA-00502	4				ESR	Erythrocyte Sedimentation Rate	LB Hematology		28																																																																													
+GSE38351	LB	RA-00502	5				RF	Rheumatoid Factor	Immunology		Positive																																																																													
+GSE38351	LB	RA-00503	1				aCCP	Anti-cyclic citrullinated peptide antibody			Not available	units/ml																																																																												
+GSE38351	LB	RA-00503	2				ANA	Antinuclear Antibodies	Immunology		Not available																																																																													
+GSE38351	LB	RA-00503	3				CRP	C Reactive Protein	Chemistry	Proteins	0.7																													Pre-treatment																																																
+GSE38351	LB	RA-00503	4				ESR	Erythrocyte Sedimentation Rate	LB Hematology		6																																																																													
+GSE38351	LB	RA-00503	5				RF	Rheumatoid Factor	Immunology		Positive																																																																													
