@@ -1,0 +1,1078 @@
+STUDYID	DOMAIN	USUBJID	SUBJID	RFSTDTC	RFENDTC	RFXSTDTC	RFXENDTC	RFICDTC	RFPENDTC	DTHDTC	DTHFL	SITEID	INVID	INVNAM	BRTHDTC	AGE	AGEU	SEX	RACE	ETHNIC	ARMCD	ARM	ACTARMCD	ACTARM	DMDTC	DMDY	AGETXT	SETCD	COUNTRY
+GSE4183	DM	IBD-00016														16		F								1			
+GSE4183	DM	IBD-00017														26		M								1			
+GSE4183	DM	IBD-00019														23		M								1			
+GSE4183	DM	IBD-00020														26		F								1			
+GSE4183	DM	IBD-00021														37		F								1			
+GSE10714	DM	IBD-00031																											
+GSE10714	DM	IBD-00032																											
+GSE10714	DM	IBD-00033																											
+GSE10714	DM	IBD-00034																											
+GSE11499	DM	IBD-00041																											
+GSE11499	DM	IBD-00042																											
+GSE11499	DM	IBD-00043																											
+GSE11499	DM	IBD-00044																											
+GSE11499	DM	IBD-00045																											
+GSE10616	DM	IBD-00052																											
+GSE10616	DM	IBD-00053																											
+GSE10616	DM	IBD-00054																											
+GSE10616	DM	IBD-00055																											
+GSE10616	DM	IBD-00056																											
+GSE10616	DM	IBD-00057																											
+GSE10616	DM	IBD-00058																											
+GSE10616	DM	IBD-00059																											
+GSE10616	DM	IBD-00060																											
+GSE10616	DM	IBD-00061																											
+GSE10616	DM	IBD-00062																											
+GSE10616	DM	IBD-00063																											
+GSE10616	DM	IBD-00064																											
+GSE10616	DM	IBD-00065																											
+GSE6731	DM	IBD-00091														24		M								1			
+GSE6731	DM	IBD-00092														21		F								1			
+GSE6731	DM	IBD-00093														39		M								1			
+GSE6731	DM	IBD-00094														55		M								1			
+GSE6731	DM	IBD-00095														51		F								1			
+GSE6731	DM	IBD-00119														76		M								1			
+GSE10616	DM	IBD-00141																											
+GSE10616	DM	IBD-00142																											
+GSE10616	DM	IBD-00143																											
+GSE10616	DM	IBD-00144																											
+GSE10616	DM	IBD-00145																											
+GSE10616	DM	IBD-00146																											
+GSE10616	DM	IBD-00147																											
+GSE10616	DM	IBD-00148																											
+GSE10616	DM	IBD-00149																											
+GSE10616	DM	IBD-00150																											
+GSE10616	DM	IBD-00151																											
+GSE10616	DM	IBD-00152																											
+GSE10616	DM	IBD-00153																											
+GSE10616	DM	IBD-00154																											
+GSE10616	DM	IBD-00155																											
+GSE10616	DM	IBD-00156																											
+GSE10616	DM	IBD-00157																											
+GSE10616	DM	IBD-00158																											
+GSE1710	DM	IBD-00163														20		M								1			
+GSE1710	DM	IBD-00164														38		F								1			
+GSE1710	DM	IBD-00165														19		M								1			
+GSE1710	DM	IBD-00166														32		F								1			
+GSE1710	DM	IBD-00167														24		F								1			
+GSE1710	DM	IBD-00168														66		M								1			
+GSE1710	DM	IBD-00169														25		M								1			
+GSE1710	DM	IBD-00170														44		M								1			
+GSE1710	DM	IBD-00171														50		M								1			
+GSE1710	DM	IBD-00172														18		F								1			
+GSE3365	DM	IBD-00194														22		F	BLACK OR AFRICAN AMERICAN							1			
+GSE3365	DM	IBD-00195														46		F	BLACK OR AFRICAN AMERICAN							1			
+GSE3365	DM	IBD-00196														39		M	WHITE							1			
+GSE3365	DM	IBD-00197														20		M	BLACK OR AFRICAN AMERICAN							1			
+GSE3365	DM	IBD-00198														47		M	WHITE							1			
+GSE3365	DM	IBD-00199														56		M	WHITE							1			
+GSE3365	DM	IBD-00200														41		F	WHITE							1			
+GSE3365	DM	IBD-00201														21		M	WHITE							1			
+GSE3365	DM	IBD-00202														33		M	WHITE							1			
+GSE3365	DM	IBD-00203														64		F	WHITE							1			
+GSE3365	DM	IBD-00204														29		F	WHITE							1			
+GSE3365	DM	IBD-00205														42		F	BLACK OR AFRICAN AMERICAN							1			
+GSE3365	DM	IBD-00206														43		M	BLACK OR AFRICAN AMERICAN							1			
+GSE3365	DM	IBD-00207														47		F	WHITE							1			
+GSE3365	DM	IBD-00208														39		F	WHITE							1			
+GSE3365	DM	IBD-00209														33		M	WHITE							1			
+GSE3365	DM	IBD-00210														52		M	WHITE							1			
+GSE3365	DM	IBD-00211														32		M	WHITE							1			
+GSE3365	DM	IBD-00212														20		F	WHITE							1			
+GSE3365	DM	IBD-00213														27		F	WHITE							1			
+GSE3365	DM	IBD-00214														47		F	WHITE							1			
+GSE3365	DM	IBD-00215														58		F	WHITE							1			
+GSE3365	DM	IBD-00216														33		M	WHITE							1			
+GSE3365	DM	IBD-00217														65		F	WHITE							1			
+GSE3365	DM	IBD-00218														65		F	WHITE							1			
+GSE3365	DM	IBD-00219														51		F	WHITE							1			
+GSE3365	DM	IBD-00220														62		F	WHITE							1			
+GSE3365	DM	IBD-00221														50		F	WHITE							1			
+GSE3365	DM	IBD-00222														33		F	WHITE							1			
+GSE3365	DM	IBD-00223														34		F	WHITE							1			
+GSE3365	DM	IBD-00224														54		M	WHITE							1			
+GSE3365	DM	IBD-00225														56		M	WHITE							1			
+GSE3365	DM	IBD-00226														21		F	WHITE							1			
+GSE3365	DM	IBD-00227														34		F	WHITE							1			
+GSE3365	DM	IBD-00228														34		F	WHITE							1			
+GSE3365	DM	IBD-00229														47		F	WHITE							1			
+GSE3365	DM	IBD-00230														44		F		HISPANIC OR LATINO						1			
+GSE3365	DM	IBD-00231														61		M	WHITE							1			
+GSE3365	DM	IBD-00232														58		F	WHITE							1			
+GSE3365	DM	IBD-00233														56		F	WHITE							1			
+GSE3365	DM	IBD-00234														46		F	WHITE							1			
+GSE3365	DM	IBD-00235														49		F	WHITE							1			
+GSE3365	DM	IBD-00236														41		F	WHITE							1			
+GSE3365	DM	IBD-00237														43		M	WHITE							1			
+GSE3365	DM	IBD-00238														31		M	WHITE							1			
+GSE3365	DM	IBD-00239														33		F	WHITE							1			
+GSE3365	DM	IBD-00240														27		M	WHITE							1			
+GSE3365	DM	IBD-00241														46		F	BLACK OR AFRICAN AMERICAN							1			
+GSE3365	DM	IBD-00242														54		M	WHITE							1			
+GSE3365	DM	IBD-00243														34		F	WHITE							1			
+GSE3365	DM	IBD-00244														52		F	WHITE							1			
+GSE3365	DM	IBD-00245														28		M	BLACK OR AFRICAN AMERICAN							1			
+GSE3365	DM	IBD-00246														28		F	WHITE							1			
+GSE3365	DM	IBD-00247														22		F	WHITE							1			
+GSE3365	DM	IBD-00248														49		F	WHITE							1			
+GSE3365	DM	IBD-00249														31		F	WHITE							1			
+GSE3365	DM	IBD-00250														38		M	WHITE							1			
+GSE3365	DM	IBD-00251														46		F	WHITE							1			
+GSE3365	DM	IBD-00252														23		M	WHITE							1			
+E-MEXP-2083	DM	IBD-00308														33		F								1			
+E-MEXP-2083	DM	IBD-00312														35		F								1			
+E-MEXP-2083	DM	IBD-00316														32		M								1			
+GSE16879	DM	IBD-00459																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+E-MTAB-331	DM	IBD-00538														35		M								1			
+E-TABM-118	DM	IBD-00623														23		F								1			
+E-TABM-118	DM	IBD-00625														34		M								1			
+E-TABM-118	DM	IBD-00627														29		M								1			
+E-TABM-118	DM	IBD-00629														42		M								1			
+E-TABM-118	DM	IBD-00631														58		M								1			
+E-TABM-118	DM	IBD-00634														35		F								1			
+E-TABM-118	DM	IBD-00637														20		M								1			
+E-TABM-118	DM	IBD-00640														25		F								1			
+E-TABM-118	DM	IBD-00642														53		M								1			
+E-TABM-118	DM	IBD-00644														37		F								1			
+E-TABM-118	DM	IBD-00646														24		F								1			
+E-TABM-118	DM	IBD-00648														33		M								1			
+E-TABM-118	DM	IBD-00650														60		F								1			
+E-TABM-118	DM	IBD-00652														38		F								1			
+E-TABM-118	DM	IBD-00654														20		M								1			
+E-TABM-118	DM	IBD-00656														57		M								1			
+E-TABM-118	DM	IBD-00659														22		F								1			
+E-TABM-118	DM	IBD-00661														31		F								1			
+E-TABM-118	DM	IBD-00662														29		F								1			
+E-TABM-118	DM	IBD-00663														48		F								1			
+E-TABM-118	DM	IBD-00664														31		F								1			
+E-TABM-118	DM	IBD-00665														23		F								1			
+E-TABM-118	DM	IBD-00666														22		F								1			
+E-TABM-118	DM	IBD-00667														42		F								1			
+E-TABM-118	DM	IBD-00668														46		F								1			
+E-TABM-118	DM	IBD-00669														18		F								1			
+E-TABM-118	DM	IBD-00670														29		F								1			
+E-TABM-118	DM	IBD-00673														29		F								1			
+E-TABM-118	DM	IBD-00675														26		F								1			
+E-TABM-118	DM	IBD-00677														27		F								1			
+E-TABM-118	DM	IBD-00679														60		M								1			
+E-TABM-118	DM	IBD-00681																M								1			
+E-TABM-118	DM	IBD-00683														44		F								1			
+E-TABM-118	DM	IBD-00685														44		F								1			
+E-TABM-118	DM	IBD-00687														52		M								1			
+E-TABM-118	DM	IBD-00689														19		M								1			
+E-TABM-118	DM	IBD-00691														42		M								1			
+E-TABM-118	DM	IBD-00693														43		M								1			
+E-TABM-118	DM	IBD-00696														42		F								1			
+E-TABM-118	DM	IBD-00699														30		M								1			
+GSE6731	DM	IBD-00856														37		F								1			
+GSE6731	DM	IBD-00857														44		M								1			
+GSE6731	DM	IBD-00858														32		M								1			
+E-MEXP-1225	DM	IBD-00901														29		M								1			
+E-MEXP-1225	DM	IBD-00902														32		F								1			
+E-MEXP-1225	DM	IBD-00903														45		M								1			
+GSE16879	DM	IBD-00958																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00960																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00962																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00964																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00966																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00968																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00969																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00972																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00975																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00976																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00978																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00980																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00981																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00983																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00985																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00986																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00988																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00989																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+E-MTAB-331	DM	IBD-00993														29		M								1			
+E-MTAB-331	DM	IBD-00994														57		F								1			
+E-MTAB-331	DM	IBD-00995														24		F								1			
+E-MTAB-331	DM	IBD-00996														37		F								1			
+E-MTAB-331	DM	IBD-00997														18		M								1			
+E-MTAB-331	DM	IBD-00998														30		M								1			
+E-MTAB-331	DM	IBD-00999														19		F								1			
+E-MTAB-331	DM	IBD-01000														64		M								1			
+E-MTAB-331	DM	IBD-01001														22		F								1			
+E-MTAB-331	DM	IBD-01002														30		M								1			
+E-MTAB-331	DM	IBD-01003														30		F								1			
+E-MTAB-331	DM	IBD-01004														27		F								1			
+E-MTAB-331	DM	IBD-01005														47		F								1			
+E-MTAB-331	DM	IBD-01006														32		M								1			
+E-MTAB-331	DM	IBD-01007														60		F								1			
+E-MTAB-331	DM	IBD-01008														40		F								1			
+E-MTAB-331	DM	IBD-01009														26		F								1			
+E-MTAB-331	DM	IBD-01010														22		M								1			
+E-MTAB-331	DM	IBD-01011														40		F								1			
+E-MTAB-331	DM	IBD-01012														55		F								1			
+E-MTAB-331	DM	IBD-01013														23		F								1			
+GSE16879	DM	IBD-01014																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+E-MTAB-331	DM	IBD-01015														34		F								1			
+E-MTAB-331	DM	IBD-01016														40		M								1			
+GSE16879	DM	IBD-01017																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+E-MTAB-331	DM	IBD-01018														25		F								1			
+E-MTAB-331	DM	IBD-01019														35		F								1			
+GSE16879	DM	IBD-01020																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+E-MTAB-331	DM	IBD-01021														30		F								1			
+E-MTAB-331	DM	IBD-01022														28		M								1			
+GSE16879	DM	IBD-01023																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+E-MTAB-331	DM	IBD-01024														21		F								1			
+E-MTAB-331	DM	IBD-01025														41		M								1			
+GSE16879	DM	IBD-01026																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+E-MTAB-331	DM	IBD-01027														31		M								1			
+GSE16879	DM	IBD-01029																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-01032																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-01035																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-01038																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-01041																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-01044																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-01046																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-01049																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-01052																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-01055																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-01058																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-01061																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-01064																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+E-MTAB-331	DM	IBD-01071														48		M								1			
+E-MTAB-331	DM	IBD-01072														27		M								1			
+E-MTAB-331	DM	IBD-01073														27		F								1			
+E-MTAB-331	DM	IBD-01074														68		F								1			
+E-TABM-118	DM	IBD-01076																M								1			
+E-TABM-118	DM	IBD-01077																F								1			
+E-TABM-118	DM	IBD-01078																M								1			
+E-TABM-118	DM	IBD-01079																F								1			
+E-TABM-118	DM	IBD-01080																F								1			
+GSE32148	DM	IBD-01188														49		M								1			
+GSE32148	DM	IBD-01189														43		F								1			
+GSE32148	DM	IBD-01190														44		F								1			
+GSE32148	DM	IBD-01191														16		M								1			
+GSE32148	DM	IBD-01192														17		M								1			
+GSE32148	DM	IBD-01193														14		M								1			
+GSE32148	DM	IBD-01194														15		M								1			
+GSE32148	DM	IBD-01195														9		F								1			
+GSE32148	DM	IBD-01196														16		F								1			
+GSE32148	DM	IBD-01197														13		F								1			
+GSE32148	DM	IBD-01198														9		F								1			
+GSE32148	DM	IBD-01199														16		F								1			
+GSE32148	DM	IBD-01200														17		M								1			
+GSE32148	DM	IBD-01201														14		F								1			
+GSE32148	DM	IBD-01202														17		M								1			
+GSE32148	DM	IBD-01203														16		M								1			
+GSE32148	DM	IBD-01204														13		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01316														13		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01317														7		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01318														47		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01319														45		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01320														39		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01321														13		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01322														38		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01323														26		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01324														24		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01325														16		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01326														29		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01327														16		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01328														17		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01329														15		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01330														14		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01331														27		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01332														21		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01333														33		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01334														23		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01335														20		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01336														21		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01337														25		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01338														19		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01339														24		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01340														21		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01341														15		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01342														18		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01343																M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01344														29		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01345														20		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01346														23		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01347														9		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01348														14		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01349														14		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01350														13		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01351														38		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01352														33		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01353														26		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01354														17		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01355														20		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01356														23		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01357														14		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01358														22		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01359														19		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01360														20		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01361														15		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01362														20		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01363														25		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01364														43		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01365														17		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01366														20		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01367														28		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01368														21		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01369														7		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01370														28		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01371														19		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01372														36		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01373														28		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01374														14		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01375														11		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01376														15		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01377														19		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01378														58		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01379														33		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01380														17		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01381														26		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01382														16		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01383														14		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01384														18		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01385														31		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01386														27		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01387														24		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01388														25		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01389														24		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01390														11		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01391														27		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01392														28		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01393														11		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01394														19		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01395														16		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01396														25		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01397														28		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01398														25		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01399														8		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01400														17		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01401														24		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01402														41		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01403														38		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01404														15		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01405														18		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01406														20		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01407														23		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01408														10		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01409														45		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01410														19		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01411														40		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01412														36		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01413														19		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01414														22		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01415														22		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01416														17		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01417														33		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01418														23		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01419														19		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01420														29		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01421														19		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01422																M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01423														13		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01424														19		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01425														25		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01426														18		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01427														14		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01428														13		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01429														36		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01430														21		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01431														21		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01432														19		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01433														18		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01434														19		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01435														19		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01436														20		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01437														21		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01438														22		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01439														37		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01440														12		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01441														17		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01442														30		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01443														28		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01444														21		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01445														50		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01446														62		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01447														12		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01448														17		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01449														13		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01450														25		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01451														18		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01452														27		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01453														29		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01454														45		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01455														23		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01456														17		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01457														30		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01458														14		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01459														20		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01460														14		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01461														29		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01462														19		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01463														22		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01464														12		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01465														46		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01466														34		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01467														41		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01468														13		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01469														15		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01470														59		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01471														7		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01472														18		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01473														13		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01474														16		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01475														19		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01476														27		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01477																F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01478														23		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01479														10		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01480														23		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01481														45		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01482														18		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01483														22		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01484														37		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01485														34		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01486														27		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01487														18		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01488														32		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01489														13		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01490														23		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01491														23		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01492														2		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01493														8		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01494														29		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01495														10		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01496														39		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01497														46		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01498														28		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01499														17		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01500														21		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01501														37		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01502														32		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01503														25		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01504														38		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01505														13		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01506														28		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01507														45		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01508														27		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01509														30		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01510														27		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01511														12		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01512														20		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01513														9		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01514														22		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01515														10		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01516														15		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01517														43		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01518														33		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01519														25		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01520														13		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01521														25		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01522														27		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01523														22		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01524														25		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01525														14		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01526														33		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01527														10		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01528														15		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01529														28		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01530														40		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01531														15		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01532														14		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01533														38		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01534														16		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01535														38		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01536														37		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01537														21		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01538														26		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01539														12		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01540																M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01541														30		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01542														36		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01543														19		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01544														22		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01545														15		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01546														22		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01547														18		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01548														35		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01549														21		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01550														12		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01551														28		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01552														9		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01553														8		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01554														15		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01555														9		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01556														35		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01557														48		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01558														46		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01559														28		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01560														15		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01561														14		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01562														11		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01563														26		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01564														16		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01565														7		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01566														20		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01567														40		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01568														28		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01569														27		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01570														23		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01571														30		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01572																F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01573														22		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01574														25		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01575														20		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01576														27		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01577														19		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01578														23		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01579														20		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01580														28		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01581														21		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01582														19		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01583														17		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01584														33		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01585																M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01586														22		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01587														21		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01588														38		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01589														22		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01590														15		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01591														25		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01592														18		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01593														12		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01594														30		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01595														17		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01596														32		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01597														29		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01598														22		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01599														24		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01600														16		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01601														18		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01602														31		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01603														24		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01604														28		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01605														20		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01606														64		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01607														23		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01608														53		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01609														22		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01610														7		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01611														31		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01612														21		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01613														17		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01614														11		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01615														41		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01616														21		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01617														23		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01618														36		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01619														15		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01620														9		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01621														55		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01622														17		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01623														16		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01624														16		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01625														19		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01626														45		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01627														27		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01628														39		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01629														23		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01630														24		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01631														25		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01632														9		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01633														15		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01634														28		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01635														25		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01636														18		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01637														23		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01638														24		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01639														38		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01640														22		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01641														29		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01642														18		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01643														46		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01644														16		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01645														17		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01646														10		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01647														19		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01648														14		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01649														30		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01650														39		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01651														35		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01652														17		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01653														19		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01654														17		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01655														27		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01656														30		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01657														19		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01658														22		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01659														22		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01660														15		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01661														22		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01662														11		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01663														18		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01664														11		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01665														26		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01666														24		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01667														28		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01668														27		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01669														15		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01670														20		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01671														24		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01672														25		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01673														25		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01674														31		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01675														23		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01676														20		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01677														13		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01678														30		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01679														23		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01680														38		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01681														19		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01682														42		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01683														12		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01684														49		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01685														19		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01686														12		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01687														33		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01688														23		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01689														21		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01690														25		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01691														24		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01692														68		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01693														23		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01694														21		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01695																M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01696														31		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01697														28		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01698														32		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01699														15		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01700														28		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01701														14		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01702														36		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01703														14		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01704														20		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01705														44		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01706														24		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01707														39		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01708														42		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01709														19		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01710														19		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01711														13		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01712														33		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01713														10		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01714														29		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01715														18		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01716														17		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01717														19		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01718														22		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01719														22		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01720																M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01721														26		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01722														32		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01723														25		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01724														42		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01725														5		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01726														14		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01727														18		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01728														15		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01729														20		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01730														14		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01731														8		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01732														19		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01733														22		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01734														26		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01735														39		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01736														16		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01737														18		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01738														21		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01739														5		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01740														17		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01741														19		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01742														32		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01743														15		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01744														20		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01745														19		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01746														23		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01747														28		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01748														16		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01749														42		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01750																M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01751														12		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01752														15		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01753														27		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01754														12		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01755														17		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01756														30		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01757														17		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01758														8		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01759														41		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01760														25		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01761														23		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01762														21		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01763														35		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01764														36		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01765														18		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01766														18		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01767														15		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01768														65		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01769														17		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01770														20		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01771														5		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01772														41		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01773														20		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01774														19		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01775														15		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01776														15		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01777														24		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01778														8		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01779														21		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01780														19		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01781														8		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01782														26		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01783														13		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01784														18		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01785														37		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01786														7		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01787														10		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01788														45		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01789														23		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01790														15		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01791														35		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01792														63		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01793														24		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01794														26		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01795														25		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01796														31		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01797														16		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01798														11		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01799														12		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01800														15		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01801																M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01802														26		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01803														17		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01804														34		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01805														23		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01806														24		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01807														22		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01808														14		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01809														20		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01810														24		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01811														8		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01812														26		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01813														23		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01814														35		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01815														25		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01816														17		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01817														23		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01818														13		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01819														28		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01820														18		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01821														15		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01822														18		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01823														27		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01824														36		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01825														10		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01826														24		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01827														17		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01828														17		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01829														33		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01830														15		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01831														19		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01832														12		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01833														18		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01834														15		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01835														21		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01836														31		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01837														19		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01838														13		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01839														28		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01840														27		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01841														15		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01842														16		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01843														16		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01844														12		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01845														56		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01846														10		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01847														9		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01848														19		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01849														30		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01850														34		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01851														15		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01852														19		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01853														16		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01854														10		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01855														23		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01856														21		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01857														47		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01858														22		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01859														14		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01860														17		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01861														20		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01862														23		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01863														7		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01864														21		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01865														23		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01866														16		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01867														45		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01868														27		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01869														16		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01870														25		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01871														56		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01872														23		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01873														28		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01874														10		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01875														15		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01876														24		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01877														34		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01878														26		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01879														16		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01880														17		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01881																M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01882														21		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01883														43		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01884														39		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01885														26		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01886														38		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01887														17		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01888														10		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01889														27		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01890														13		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01891														28		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01892														13		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01893														14		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01894														35		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01895														20		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01896														36		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01897														23		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01898														40		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01899														19		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01900														48		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01901														17		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01902														13		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01903														23		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01904														18		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01905														19		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01906														27		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01907														15		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01908																M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01909														21		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01910														41		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01911														13		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01912														27		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01913														14		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01914														19		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01915														30		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01916														13		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01917														19		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01918														27		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01919														25		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01920														23		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01921														21		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01922														31		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01923														16		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01924														7		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01925														17		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01926														18		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01927														15		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01928														22		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01929														23		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01930														20		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01931														18		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01932														38		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01933														12		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01934														26		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01935														17		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01936														54		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01937														19		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01938														19		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01939														45		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01940														20		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01941														28		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01942														14		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01943														21		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01944														21		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01945														20		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01946														38		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01947														22		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01948														47		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01949														19		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01950														24		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01951														10		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01952														18		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01953														26		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01954														21		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01955														32		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01956														26		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01957														50		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01958														11		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01959														21		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01960														29		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01961														17		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01962																F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01963														20		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01964														18		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01965														21		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01966														18		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01967														30		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01968														13		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01969														25		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01970														9		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01971														63		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01972														18		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01973														21		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01974														36		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01975														11		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01976														8		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01977														19		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01978														31		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01979														29		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01980														21		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01981														20		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01982														18		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01983														71		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01984														35		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01985														25		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01986														23		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01987														20		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01988														26		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01989														26		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01990														36		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01991														22		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01992														10		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01993														32		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01994														24		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01995														42		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01996														19		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01997														54		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01998														37		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-01999														24		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02000														25		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02001														12		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02002														15		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02003														13		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02004														13		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02005																F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02006														11		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02007														25		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02008														16		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02009														23		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02010														20		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02011														26		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02012														48		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02013														22		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02014														15		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02015														16		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02016														17		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02017														21		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02018														31		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02019														19		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02020														18		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02021														29		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02022														27		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02023														18		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02024														32		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02025														48		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02026														47		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02027														24		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02028																M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02029														31		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02030														31		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02031														19		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02032														8		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02033														15		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02034														35		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02035														27		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02036														18		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02037														27		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02038														15		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02039														12		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02040														11		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02041														20		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02042														15		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02043														43		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02044														11		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02045														28		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02046														26		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02047														23		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02048														15		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02049														28		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02050														16		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02051														41		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02052														5		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02053														14		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02054														25		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02055														28		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02056														5		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02057														9		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02058														24		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02059														25		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02060														20		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02061														16		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02062														18		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02063														25		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02064														23		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02065														45		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02066														12		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02067														10		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02068														22		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02069														27		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02070														21		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02071														36		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02072														18		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02073														10		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02074														26		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02075														18		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02076														11		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02077														37		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02078														19		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02079														13		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02080														18		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02081														38		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02082														20		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02083														15		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02084														10		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02085														25		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02086														8		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02087														20		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02088														34		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02089														20		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02090														25		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02091														21		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02092														29		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02093														28		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02094														16		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02095														24		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02096														16		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02097																M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02098														22		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02099																F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02100														13		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02101														24		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02102														23		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02103														11		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02104														14		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02105														21		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02106														7		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02107														12		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02108														17		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02109														21		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02110														11		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02111														10		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02112														26		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02113														37		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02114														24		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02115														15		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02116														27		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02117														19		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02118														21		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02119														25		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02120														21		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02121														19		F								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02122														30		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02123														17		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02124														16		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02125														16		F	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02126														18		M	WHITE	NOT HISPANIC OR LATINO						1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02127														16		M								1			
+phs000130.v1.p1, NIDDK IBD Genetics Consortium Crohn's Disease Genome-Wide Association Study	DM	IBD-02128														24		F								1			

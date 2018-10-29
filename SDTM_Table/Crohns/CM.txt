@@ -1,0 +1,121 @@
+STUDYID	DOMAIN	USUBJID	CMSEQ	CMGRPID	CMSPID	CMTRT	CMMODIFY	CMDECOD	CMCAT	CMSCAT	CMPRESP	CMOCCUR	CMSTAT	CMREASND	CMINDC	CMCLAS	CMCLASCD	CMDOSE	CMDOSTXT	CMDOSU	CMDOSFRM	CMDOSFRQ	CMDOSTOT	CMDOSRGM	CMROUTE	CMSTDTC	CMENDTC	CMSTDY	CMENDY	CMDUR	CMSTRF	CMENRF	CMSTRTPT	CMSTTPT	CMENRTPT	CMENTPT	CMELTM	CMTPTREF	CMRFTDTC	CMREFID	CMLNKID	CMLNKGRP	CMMOOD	CMLOT	CMLOC	CMLAT	CMDIR	CMPORTOT	CMFAST	CMPSTRG	CMPSTRGU	CMADJ	EPOCH	VISITNUM	VISIT	VISITDY	CMTPT	CMTPTNUM	CMTRTV	CMVAMT	CMVAMTU	POOLID	SPDEVID	TAETORD	CMDTC	CMDY	CMEVLINT	CMEVINTX	CMSTINT	CMENINT	CMDETECT
+GSE6731	CM	IBD-00091	1			CORTICOSTEROIDS						Y																																																						1					
+GSE6731	CM	IBD-00091	2			IMMUNOMODULATOR						Y																																																						1					
+GSE6731	CM	IBD-00091	3			MESALAMINE						Y																																																						1					
+GSE6731	CM	IBD-00092	1			ANTI-BACTERIAL AGENTS						Y																																																						1					
+GSE6731	CM	IBD-00092	2			CORTICOSTEROIDS						Y																																																						1					
+GSE6731	CM	IBD-00092	3			IMMUNOMODULATOR						Y																																																						1					
+GSE6731	CM	IBD-00092	4			MESALAMINE						Y																																																						1					
+GSE6731	CM	IBD-00093	1			CORTICOSTEROIDS						Y																																																						1					
+GSE6731	CM	IBD-00093	2			MESALAMINE						Y																																																						1					
+GSE6731	CM	IBD-00094	1			CORTICOSTEROIDS						Y																																																						1					
+GSE6731	CM	IBD-00094	2			IMMUNOMODULATOR						Y																																																						1					
+GSE6731	CM	IBD-00095	1			CORTICOSTEROIDS						Y																																																						1					
+GSE6731	CM	IBD-00095	2			MESALAMINE						Y																																																						1					
+GSE6731	CM	IBD-00119	1			ANTI-BACTERIAL AGENTS						Y																																																						1					
+GSE6731	CM	IBD-00119	2			MESALAMINE						Y																																																						1					
+E-MTAB-331	CM	IBD-00538	1			PREDNISOLONE						Y																																																						1					
+E-TABM-118	CM	IBD-00623	1			CORTICOSTEROIDS						Y							30-40	mg		QD																																												1					
+E-TABM-118	CM	IBD-00629	1			CORTICOSTEROIDS						Y							30-40	mg		QD																																												1					
+E-TABM-118	CM	IBD-00631	1			AZATHIOPRINE						Y							150-200	mg		QD																																												1					
+E-TABM-118	CM	IBD-00634	1			AZATHIOPRINE						Y							150-200	mg		QD																																												1					
+E-TABM-118	CM	IBD-00637	1			MESALAMINE						Y							1.6-3.2	g		QD																																												1					
+E-TABM-118	CM	IBD-00642	1			MESALAMINE						Y							1.6-3.2	g		QD																																												1					
+E-TABM-118	CM	IBD-00644	1			AZATHIOPRINE						Y							150-200	mg		QD																																												1					
+E-TABM-118	CM	IBD-00646	1			MESALAMINE						Y							1.6-3.2	g		QD																																												1					
+E-TABM-118	CM	IBD-00652	1			METHOTREXATE						Y						15		mg		1 TIME PER WEEK																																												1					
+E-TABM-118	CM	IBD-00654	1			CORTICOSTEROIDS						Y							30-40	mg		QD																																												1					
+E-TABM-118	CM	IBD-00656	1			MESALAMINE						Y							1.6-3.2	g		QD																																												1					
+E-TABM-118	CM	IBD-00659	1			BUDESONIDE						Y						9		mg		QD																																												1					
+E-TABM-118	CM	IBD-00662	1			AZATHIOPRINE						Y							150-200	mg		QD																																												1					
+E-TABM-118	CM	IBD-00663	1			AZATHIOPRINE						Y							150-200	mg		QD																																												1					
+E-TABM-118	CM	IBD-00667	1			BUDESONIDE						Y						9		mg		QD																																												1					
+E-TABM-118	CM	IBD-00668	1			MESALAMINE						Y							1.6-3.2	g		QD																																												1					
+E-TABM-118	CM	IBD-00669	1			INFLIXIMAB						Y						5		mg/kg																																														1					
+E-TABM-118	CM	IBD-00673	1			CORTICOSTEROIDS						Y							30-40	mg		QD																																												1					
+E-TABM-118	CM	IBD-00675	1			CORTICOSTEROIDS						Y							30-40	mg		QD																																												1					
+E-TABM-118	CM	IBD-00677	1			INFLIXIMAB						Y						5		mg/kg																																														1					
+E-TABM-118	CM	IBD-00679	1			CORTICOSTEROIDS						Y							30-40	mg		QD																																												1					
+E-TABM-118	CM	IBD-00683	1			MESALAMINE						Y							1.6-3.2	g		QD																																												1					
+E-TABM-118	CM	IBD-00685	1			METHOTREXATE						Y						15		mg		1 TIME PER WEEK																																												1					
+E-TABM-118	CM	IBD-00687	1			METHOTREXATE						Y						15		mg		1 TIME PER WEEK																																												1					
+E-TABM-118	CM	IBD-00693	1			MESALAMINE						Y							1.6-3.2	g		QD																																												1					
+E-TABM-118	CM	IBD-00699	1			MESALAMINE						Y							1.6-3.2	g		QD																																												1					
+GSE6731	CM	IBD-00856	1			ANTI-BACTERIAL AGENTS						Y																																																						1					
+GSE6731	CM	IBD-00856	2			IMMUNOMODULATOR						Y																																																						1					
+GSE6731	CM	IBD-00856	3			MESALAMINE						Y																																																						1					
+GSE6731	CM	IBD-00857	1			ANTI-BACTERIAL AGENTS						Y																																																						1					
+GSE6731	CM	IBD-00857	2			MESALAMINE						Y																																																						1					
+GSE6731	CM	IBD-00858	1			MESALAMINE						Y																																																						1					
+E-MTAB-331	CM	IBD-00993	1			AZATHIOPRINE						Y																																																						1					
+E-MTAB-331	CM	IBD-00993	2			BUDESONIDE						Y																																																						1					
+E-MTAB-331	CM	IBD-00993	3			ADALIMUMAB						Y																																																						325					
+E-MTAB-331	CM	IBD-00994	1			ELEMENTAL DIET						Y																																																						1					
+E-MTAB-331	CM	IBD-00995	1			BUDESONIDE						Y																																																						1					
+E-MTAB-331	CM	IBD-00995	2			AZATHIOPRINE						Y						2		mg/kg																																														98					
+E-MTAB-331	CM	IBD-00995	3			PREDNISOLONE						Y																																																						98					
+E-MTAB-331	CM	IBD-00996	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-00997	1			BUDESONIDE						Y																																																						1					
+E-MTAB-331	CM	IBD-00997	2			BUDESONIDE						Y																																																						134					
+E-MTAB-331	CM	IBD-00998	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-00998	2			INFLIXIMAB						Y																																																						221					
+E-MTAB-331	CM	IBD-00999	1			BUDESONIDE						Y																																																						1					
+E-MTAB-331	CM	IBD-01000	1			BUDESONIDE						Y																																																						1					
+E-MTAB-331	CM	IBD-01001	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01002	1			AZATHIOPRINE						Y																																																						1					
+E-MTAB-331	CM	IBD-01002	2			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01003	1			BUDESONIDE						Y																																																						1					
+E-MTAB-331	CM	IBD-01004	1			CORTICOSTEROIDS						Y																																																						1					
+E-MTAB-331	CM	IBD-01004	2			CORTICOSTEROIDS						Y													INTRAVENOUS																																									1					
+E-MTAB-331	CM	IBD-01004	3			PREDNISOLONE						Y																																																						108					
+E-MTAB-331	CM	IBD-01004	4			AZATHIOPRINE						Y						2		mg/kg																																														108					
+E-MTAB-331	CM	IBD-01005	1			AZATHIOPRINE						Y																																																						1					
+E-MTAB-331	CM	IBD-01005	2			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01006	1			BUDESONIDE						Y																																																						1					
+E-MTAB-331	CM	IBD-01006	2			ANTI-BACTERIAL AGENTS						Y																																																						356					
+E-MTAB-331	CM	IBD-01006	3			AZATHIOPRINE						Y						2		mg/kg																																														180					
+E-MTAB-331	CM	IBD-01006	4			AZATHIOPRINE						Y						2.5		mg/kg																																														284					
+E-MTAB-331	CM	IBD-01006	5			CORTICOSTEROIDS						Y													INTRAVENOUS																																									356					
+E-MTAB-331	CM	IBD-01006	6			INFLIXIMAB						Y																																																						356					
+E-MTAB-331	CM	IBD-01006	7			PREDNISOLONE						Y																																																						284					
+E-MTAB-331	CM	IBD-01006	8			ELEMENTAL DIET						Y																																																						180					
+E-MTAB-331	CM	IBD-01007	1			BUDESONIDE						Y																																																						1					
+E-MTAB-331	CM	IBD-01007	2			ANTI-BACTERIAL AGENTS						Y																																																						351					
+E-MTAB-331	CM	IBD-01007	3			CORTICOSTEROIDS						Y													INTRAVENOUS																																									351					
+E-MTAB-331	CM	IBD-01007	4			PREDNISOLONE						Y																																																						125					
+E-MTAB-331	CM	IBD-01007	5			AZATHIOPRINE						Y						2		mg/kg																																														125					
+E-MTAB-331	CM	IBD-01008	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01008	2			PREDNISOLONE						Y																																																						578					
+E-MTAB-331	CM	IBD-01008	3			AZATHIOPRINE						Y						2		mg/kg																																														578					
+E-MTAB-331	CM	IBD-01009	1			AZATHIOPRINE						Y																																																						1					
+E-MTAB-331	CM	IBD-01009	2			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01009	3			ADALIMUMAB						Y																																																						55					
+E-MTAB-331	CM	IBD-01009	4			PREDNISOLONE						Y										1 TIME PER WEEK																																												136					
+E-MTAB-331	CM	IBD-01009	5			ADALIMUMAB						Y										1 TIME PER WEEK																																												136					
+E-MTAB-331	CM	IBD-01010	1			INFLIXIMAB						Y																																																						1					
+E-MTAB-331	CM	IBD-01011	1			TOPICAL THERAPY						Y																																																						1					
+E-MTAB-331	CM	IBD-01012	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01013	1			BUDESONIDE						Y																																																						1					
+E-MTAB-331	CM	IBD-01015	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01018	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01019	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01019	2			PREDNISOLONE						Y																																																						287					
+E-MTAB-331	CM	IBD-01019	3			AZATHIOPRINE						Y						2		mg/kg																																														287					
+E-MTAB-331	CM	IBD-01022	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01022	2			PREDNISOLONE						Y																																																						110					
+E-MTAB-331	CM	IBD-01022	3			AZATHIOPRINE						Y						2		mg/kg																																														110					
+E-MTAB-331	CM	IBD-01024	1			CORTICOSTEROIDS						Y													INTRAVENOUS																																									1					
+E-MTAB-331	CM	IBD-01024	2			PREDNISOLONE						Y																																																						94					
+E-MTAB-331	CM	IBD-01024	3			AZATHIOPRINE						Y						2		mg/kg																																														94					
+E-MTAB-331	CM	IBD-01025	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01027	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01071	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01071	2			PREDNISOLONE						Y																																																						64					
+E-MTAB-331	CM	IBD-01071	3			AZATHIOPRINE						Y						2		mg/kg																																														64					
+E-MTAB-331	CM	IBD-01072	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01072	2			PREDNISOLONE						Y																																																						259					
+E-MTAB-331	CM	IBD-01072	3			AZATHIOPRINE						Y						2		mg/kg																																														259					
+E-MTAB-331	CM	IBD-01073	1			BUDESONIDE						Y																																																						1					
+E-MTAB-331	CM	IBD-01073	2			PREDNISOLONE						Y																																																						96					
+E-MTAB-331	CM	IBD-01073	3			AZATHIOPRINE						Y						2		mg/kg																																														96					
+E-MTAB-331	CM	IBD-01074	1			TOPICAL THERAPY						Y																																																						1					

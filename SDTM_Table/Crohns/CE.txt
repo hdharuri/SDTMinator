@@ -1,0 +1,21 @@
+STUDYID	DOMAIN	USUBJID	CESEQ	CEGRPID	CEREFID	CESPID	CETERM	CEDECOD	CECAT	CESCAT	CEPRESP	CEOCCUR	CESTAT	CEREASND	CEBODSYS	CESEV	CEDTC	CESTDTC	CEENDTC	CEDY	CESTRF	CEENRF	CESTRTPT	CESTTPT	CEENRTPT	CEENTPT	CEMODIFY	CELLT	CELLTCD	CEPTCD	CEHLT	CEHLTCD	CEHLGT	CEHLGTCD	CEBDSYCD	CESOC	CESOCCD	CELOC	CELAT	CEDIR	CEPORTOT	CEPARTY	CEPRTYID	CESER	CEACN	CEACNOTH	CEACNDEV	CEREL	CERELNST	CEPATT	CEOUT	CESCAN	CESCONG	CESDISAB	CESDTH	CESHOSP	CESLIFE	CESOD	CESMIE	CECONTRT	CETOX	CETOXGR	EPOCH	CESTDY	CEENDY	CEDUR	POOLID	SPDEVID	CELNKID	CELNKGRP	VISITNUM	VISIT	VISITDY	TAETORD	CETPT	CETPTNUM	CEELTM	CETPTREF	CERFTDTC	CEEVLINT	CEEVINTX	CESTINT	CEENINT
+E-MTAB-331	CE	IBD-00993	1				CROHN'S DISEASE FLARE					Y								325																																																															
+E-MTAB-331	CE	IBD-00994	1				CROHN'S DISEASE FLARE					Y								225																																																															
+E-MTAB-331	CE	IBD-00995	1				CROHN'S DISEASE FLARE					Y								98																																																															
+E-MTAB-331	CE	IBD-00997	1				CROHN'S DISEASE FLARE					Y								134																																																															
+E-MTAB-331	CE	IBD-00998	1				CROHN'S DISEASE FLARE					Y								221																																																															
+E-MTAB-331	CE	IBD-01004	1				CROHN'S DISEASE FLARE					Y								108																																																															
+E-MTAB-331	CE	IBD-01006	1				CROHN'S DISEASE FLARE					Y								180																																																															
+E-MTAB-331	CE	IBD-01006	2				CROHN'S DISEASE FLARE					Y								284																																																															
+E-MTAB-331	CE	IBD-01006	3				CROHN'S DISEASE FLARE					Y								356																																																															
+E-MTAB-331	CE	IBD-01007	1				CROHN'S DISEASE FLARE					Y								125																																																															
+E-MTAB-331	CE	IBD-01007	2				CROHN'S DISEASE FLARE					Y								351																																																															
+E-MTAB-331	CE	IBD-01008	1				CROHN'S DISEASE FLARE					Y								578																																																															
+E-MTAB-331	CE	IBD-01009	1				CROHN'S DISEASE FLARE					Y								55																																																															
+E-MTAB-331	CE	IBD-01009	2				CROHN'S DISEASE FLARE					Y								136																																																															
+E-MTAB-331	CE	IBD-01019	1				CROHN'S DISEASE FLARE					Y								287																																																															
+E-MTAB-331	CE	IBD-01022	1				CROHN'S DISEASE FLARE					Y								110																																																															
+E-MTAB-331	CE	IBD-01024	1				CROHN'S DISEASE FLARE					Y								94																																																															
+E-MTAB-331	CE	IBD-01071	1				CROHN'S DISEASE FLARE					Y								64																																																															
+E-MTAB-331	CE	IBD-01072	1				CROHN'S DISEASE FLARE					Y								259																																																															
+E-MTAB-331	CE	IBD-01073	1				CROHN'S DISEASE FLARE					Y								96																																																															

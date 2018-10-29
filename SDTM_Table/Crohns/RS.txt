@@ -1,0 +1,85 @@
+STUDYID	DOMAIN	USUBJID	RSSEQ	RSGRPID	RSREFID	RSSPID	RSLNKID	RSLNKGRP	RSTESTCD	RSTEST	RSCAT	RSORRES	RSSTRESC	RSSTAT	RSREASND	RSNAM	RSEVAL	RSEVALID	RSACPTFL	VISITNUM	VISIT	VISITDY	EPOCH	RSDTC	RSDY	RSMODIFY	RSTSTDTL	RSSCAT	RSPOS	RSBODSYS	RSORRESU	RSORNRLO	RSORNRHI	RSSTRESN	RSSTRESU	RSRESCAT	RSSTNRLO	RSSTNRHI	RSSTNRC	RSNRIND	RSXFN	RSLOINC	RSSPEC	RSANTREG	RSSPCCND	RSSPCUFL	RSLOC	RSLAT	RSDIR	RSPORTOT	RSMETHOD	RSRUNID	RSANMETH	RSLEAD	RSCSTATE	RSFAST	RSBLFL	RSDRVFL	RSTOX	RSTOXGR	RSSEV	RSDTHREL	RSLLOQ	RSULOQ	RSENDTC	RSRFTDTC	RSTPT	RSTPTNUM	RSELTM	RSTPTREF	RSEVLINT	RSSTINT	RSENINT	RSEXCLFL	RSREASEX	POOLID	SPDEVID	TAETORD	RSSTDTC	RSSTDY	RSENDY	RSDUR	RSEVINTX	RSSTRTPT	RSSTTPT	RSENRTPT	RSENTPT
+GSE16879	RS	IBD-00459	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+E-MTAB-331	RS	IBD-00538	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+GSE16879	RS	IBD-00958	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-00960	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-00962	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-00964	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-00966	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-00968	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-00969	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-00972	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-00975	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-00976	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-00978	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-00980	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-00981	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-00983	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-00985	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-00986	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-00988	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-00989	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																																				
+E-MTAB-331	RS	IBD-00993	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-00994	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-00995	1						ITHERRES	Initial Therapy Response		Partial Response	Partial Response																																																																										
+E-MTAB-331	RS	IBD-00995	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-00996	1						ITHERRES	Initial Therapy Response		Partial Response	Partial Response																																																																										
+E-MTAB-331	RS	IBD-00997	1						ITHERRES	Initial Therapy Response		Partial Response	Partial Response																																																																										
+E-MTAB-331	RS	IBD-00997	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-00998	1						ITHERRES	Initial Therapy Response		Partial Response	Partial Response																																																																										
+E-MTAB-331	RS	IBD-00998	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-00999	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01000	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01001	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01002	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01003	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01004	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01005	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01006	1						ITHERRES	Initial Therapy Response		Partial Response	Partial Response																																																																										
+E-MTAB-331	RS	IBD-01006	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01007	1						ITHERRES	Initial Therapy Response		Partial Response	Partial Response																																																																										
+E-MTAB-331	RS	IBD-01007	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01008	1						ITHERRES	Initial Therapy Response		Partial Response Only	Partial Response																																																																										
+E-MTAB-331	RS	IBD-01008	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01009	1						ITHERRES	Initial Therapy Response		Partial Response Only	Partial Response																																																																										
+E-MTAB-331	RS	IBD-01009	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01010	1						ITHERRES	Initial Therapy Response		Partial Response Only	Partial Response																																																																										
+E-MTAB-331	RS	IBD-01011	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01012	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01013	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+GSE16879	RS	IBD-01014	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+E-MTAB-331	RS	IBD-01015	1						ITHERRES	Initial Therapy Response		Partial Response	Partial Response																																																																										
+E-MTAB-331	RS	IBD-01015	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01016	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+GSE16879	RS	IBD-01017	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+E-MTAB-331	RS	IBD-01018	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01019	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+GSE16879	RS	IBD-01020	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+E-MTAB-331	RS	IBD-01021	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01022	1						ITHERRES	Initial Therapy Response		Partial Response Only	Partial Response																																																																										
+E-MTAB-331	RS	IBD-01022	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+GSE16879	RS	IBD-01023	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+E-MTAB-331	RS	IBD-01024	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01025	1						ITHERRES	Initial Therapy Response		Partial Response	Partial Response																																																																										
+E-MTAB-331	RS	IBD-01025	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+GSE16879	RS	IBD-01026	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+E-MTAB-331	RS	IBD-01027	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+GSE16879	RS	IBD-01029	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-01032	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-01035	1						ITHERRES	Initial Therapy Response		Responder	Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-01038	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-01041	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-01044	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-01046	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-01049	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-01052	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-01055	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-01058	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-01061	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																																				
+GSE16879	RS	IBD-01064	1						ITHERRES	Initial Therapy Response		Non-Responder	No Response																																						MULTIPLE																																				
+E-MTAB-331	RS	IBD-01071	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01071	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01072	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01073	1						ITHERRES	Initial Therapy Response		Partial Response Only	Partial Response																																																																										
+E-MTAB-331	RS	IBD-01073	2						FTHERRES	Follow-Up Therapy Response		Fully Responded	Complete Response																																																																										
+E-MTAB-331	RS	IBD-01074	1						ITHERRES	Initial Therapy Response		Complete Remission	Complete Response																																																																										

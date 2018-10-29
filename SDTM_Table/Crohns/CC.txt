@@ -1,0 +1,66 @@
+STUDYID	DOMAIN	USUBJID	CCSEQ	CCGRPID	CCREFID	CCSPID	CCLNKID	CCLNKGRP	CCTESTCD	CCTEST	CCMODIFY	CCTSTDTL	CCCAT	CCSCAT	CCPOS	CCBODSYS	CCORRES	CCORRESU	CCORNRLO	CCORNRHI	CCSTRESC	CCSTRESN	CCSTRESU	CCRESCAT	CCSTNRLO	CCSTNRHI	CCSTNRC	CCNRIND	CCSTAT	CCREASND	CCXFN	CCNAM	CCLOINC	CCSPEC	CCANTREG	CCSPCCND	CCSPCUFL	CCLOC	CCLAT	CCDIR	CCPORTOT	CCMETHOD	CCRUNID	CCANMETH	CCLEAD	CCCSTATE	CCFAST	CCBLFL	CCDRVFL	CCTOX	CCTOXGR	CCEVAL	CCEVALID	CCACPTFL	CCSEV	CCDTHREL	CCLLOQ	CCULOQ	VISITNUM	VISIT	VISITDY	EPOCH	CCDTC	CCENDTC	CCRFTDTC	CCDY	CCTPT	CCTPTNUM	CCELTM	CCTPTREF	CCRFTDTC.1	CCEVLINT	CCSTINT	CCENINT	CCEXCLFL	CCREASEX	POOLID	SPDEVID	TAETORD	CCSTDTC	CCSTDY	CCENDY	CCDUR	CCEVINTX	CCSTRTPT	CCSTTPT	CCENRTPT	CCENTPT
+GSE1710	CC	IBD-00163	1						CDAI	CDAI-Crohn's Disease Activity Index			CROHN'S DISEASE ACTIVITY INDEX				418				418	418																																												1																						
+GSE1710	CC	IBD-00164	1						CDAI	CDAI-Crohn's Disease Activity Index			CROHN'S DISEASE ACTIVITY INDEX				272				272	272																																												1																						
+GSE1710	CC	IBD-00165	1						CDAI	CDAI-Crohn's Disease Activity Index			CROHN'S DISEASE ACTIVITY INDEX				284				284	284																																												1																						
+GSE1710	CC	IBD-00166	1						CDAI	CDAI-Crohn's Disease Activity Index			CROHN'S DISEASE ACTIVITY INDEX				329				329	329																																												1																						
+GSE1710	CC	IBD-00167	1						CDAI	CDAI-Crohn's Disease Activity Index			CROHN'S DISEASE ACTIVITY INDEX				386				386	386																																												1																						
+GSE1710	CC	IBD-00168	1						CDAI	CDAI-Crohn's Disease Activity Index			CROHN'S DISEASE ACTIVITY INDEX				280				280	280																																												1																						
+GSE1710	CC	IBD-00169	1						CDAI	CDAI-Crohn's Disease Activity Index			CROHN'S DISEASE ACTIVITY INDEX				372				372	372																																												1																						
+GSE1710	CC	IBD-00170	1						CDAI	CDAI-Crohn's Disease Activity Index			CROHN'S DISEASE ACTIVITY INDEX				404				404	404																																												1																						
+GSE1710	CC	IBD-00171	1						CDAI	CDAI-Crohn's Disease Activity Index			CROHN'S DISEASE ACTIVITY INDEX				286				286	286																																												1																						
+GSE1710	CC	IBD-00172	1						CDAI	CDAI-Crohn's Disease Activity Index			CROHN'S DISEASE ACTIVITY INDEX				261				261	261																																												1																						
+E-MTAB-331	CC	IBD-00538	1						HBI	HBI-Harvey-Bradshaw Index							11																																																	1																						
+E-MTAB-331	CC	IBD-00993	1						HBI	HBI-Harvey-Bradshaw Index							10																																																	1																						
+E-MTAB-331	CC	IBD-00993	2						HBI	HBI-Harvey-Bradshaw Index							10																																																	325																						
+E-MTAB-331	CC	IBD-00994	1						HBI	HBI-Harvey-Bradshaw Index							7																																																	1																						
+E-MTAB-331	CC	IBD-00994	2						HBI	HBI-Harvey-Bradshaw Index							7																																																	225																						
+E-MTAB-331	CC	IBD-00995	1						HBI	HBI-Harvey-Bradshaw Index							10																																																	1																						
+E-MTAB-331	CC	IBD-00995	2						HBI	HBI-Harvey-Bradshaw Index							9																																																	98																						
+E-MTAB-331	CC	IBD-00996	1						HBI	HBI-Harvey-Bradshaw Index							9																																																	1																						
+E-MTAB-331	CC	IBD-00997	1						HBI	HBI-Harvey-Bradshaw Index							6																																																	1																						
+E-MTAB-331	CC	IBD-00997	2						HBI	HBI-Harvey-Bradshaw Index							7																																																	134																						
+E-MTAB-331	CC	IBD-00998	1						HBI	HBI-Harvey-Bradshaw Index							11																																																	1																						
+E-MTAB-331	CC	IBD-00998	2						HBI	HBI-Harvey-Bradshaw Index							11																																																	221																						
+E-MTAB-331	CC	IBD-00999	1						HBI	HBI-Harvey-Bradshaw Index							10																																																	1																						
+E-MTAB-331	CC	IBD-01000	1						HBI	HBI-Harvey-Bradshaw Index							7																																																	1																						
+E-MTAB-331	CC	IBD-01001	1						HBI	HBI-Harvey-Bradshaw Index							12																																																	1																						
+E-MTAB-331	CC	IBD-01002	1						HBI	HBI-Harvey-Bradshaw Index							11																																																	1																						
+E-MTAB-331	CC	IBD-01003	1						HBI	HBI-Harvey-Bradshaw Index							18																																																	1																						
+E-MTAB-331	CC	IBD-01004	1						HBI	HBI-Harvey-Bradshaw Index							12																																																	1																						
+E-MTAB-331	CC	IBD-01004	2						HBI	HBI-Harvey-Bradshaw Index							10																																																	108																						
+E-MTAB-331	CC	IBD-01005	1						HBI	HBI-Harvey-Bradshaw Index							9																																																	1																						
+E-MTAB-331	CC	IBD-01006	1						HBI	HBI-Harvey-Bradshaw Index							8																																																	1																						
+E-MTAB-331	CC	IBD-01006	2						HBI	HBI-Harvey-Bradshaw Index							11																																																	180																						
+E-MTAB-331	CC	IBD-01006	3						HBI	HBI-Harvey-Bradshaw Index							10																																																	284																						
+E-MTAB-331	CC	IBD-01006	4						HBI	HBI-Harvey-Bradshaw Index							25																																																	356																						
+E-MTAB-331	CC	IBD-01007	1						HBI	HBI-Harvey-Bradshaw Index							7																																																	1																						
+E-MTAB-331	CC	IBD-01007	2						HBI	HBI-Harvey-Bradshaw Index							7																																																	125																						
+E-MTAB-331	CC	IBD-01007	3						HBI	HBI-Harvey-Bradshaw Index							22																																																	351																						
+E-MTAB-331	CC	IBD-01008	1						HBI	HBI-Harvey-Bradshaw Index							14																																																	1																						
+E-MTAB-331	CC	IBD-01008	2						HBI	HBI-Harvey-Bradshaw Index							12																																																	578																						
+E-MTAB-331	CC	IBD-01009	1						HBI	HBI-Harvey-Bradshaw Index							19																																																	1																						
+E-MTAB-331	CC	IBD-01009	2						HBI	HBI-Harvey-Bradshaw Index							14																																																	55																						
+E-MTAB-331	CC	IBD-01009	3						HBI	HBI-Harvey-Bradshaw Index							14																																																	136																						
+E-MTAB-331	CC	IBD-01010	1						HBI	HBI-Harvey-Bradshaw Index							8																																																	1																						
+E-MTAB-331	CC	IBD-01011	1						HBI	HBI-Harvey-Bradshaw Index							9																																																	1																						
+E-MTAB-331	CC	IBD-01012	1						HBI	HBI-Harvey-Bradshaw Index							20																																																	1																						
+E-MTAB-331	CC	IBD-01013	1						HBI	HBI-Harvey-Bradshaw Index							8																																																	1																						
+E-MTAB-331	CC	IBD-01015	1						HBI	HBI-Harvey-Bradshaw Index							13																																																	1																						
+E-MTAB-331	CC	IBD-01016	1						HBI	HBI-Harvey-Bradshaw Index							12																																																	1																						
+E-MTAB-331	CC	IBD-01018	1						HBI	HBI-Harvey-Bradshaw Index							22																																																	1																						
+E-MTAB-331	CC	IBD-01019	1						HBI	HBI-Harvey-Bradshaw Index							10																																																	1																						
+E-MTAB-331	CC	IBD-01019	2						HBI	HBI-Harvey-Bradshaw Index							9																																																	287																						
+E-MTAB-331	CC	IBD-01021	1						HBI	HBI-Harvey-Bradshaw Index							12																																																	1																						
+E-MTAB-331	CC	IBD-01022	1						HBI	HBI-Harvey-Bradshaw Index							9																																																	1																						
+E-MTAB-331	CC	IBD-01022	2						HBI	HBI-Harvey-Bradshaw Index							13																																																	110																						
+E-MTAB-331	CC	IBD-01024	1						HBI	HBI-Harvey-Bradshaw Index							9																																																	1																						
+E-MTAB-331	CC	IBD-01024	2						HBI	HBI-Harvey-Bradshaw Index							10																																																	94																						
+E-MTAB-331	CC	IBD-01025	1						HBI	HBI-Harvey-Bradshaw Index							8																																																	1																						
+E-MTAB-331	CC	IBD-01027	1						HBI	HBI-Harvey-Bradshaw Index							10																																																	1																						
+E-MTAB-331	CC	IBD-01071	1						HBI	HBI-Harvey-Bradshaw Index							14																																																	1																						
+E-MTAB-331	CC	IBD-01071	2						HBI	HBI-Harvey-Bradshaw Index							9																																																	64																						
+E-MTAB-331	CC	IBD-01072	1						HBI	HBI-Harvey-Bradshaw Index							9																																																	1																						
+E-MTAB-331	CC	IBD-01072	2						HBI	HBI-Harvey-Bradshaw Index							10																																																	259																						
+E-MTAB-331	CC	IBD-01073	1						HBI	HBI-Harvey-Bradshaw Index							12																																																	1																						
+E-MTAB-331	CC	IBD-01073	2						HBI	HBI-Harvey-Bradshaw Index							12																																																	96																						
+E-MTAB-331	CC	IBD-01074	1						HBI	HBI-Harvey-Bradshaw Index							7																																																	1																						
