@@ -1,0 +1,365 @@
+STUDYID	DOMAIN	USUBJID	SUBJID	RFSTDTC	RFENDTC	RFXSTDTC	RFXENDTC	RFICDTC	RFPENDTC	DTHDTC	DTHFL	SITEID	INVID	INVNAM	BRTHDTC	AGE	AGEU	SEX	RACE	ETHNIC	ARMCD	ARM	ACTARMCD	ACTARM	COUNTRY	DMDTC	DMDY	INVID	INVNAM	AGETXT	SETCD	DMXFN	COUNTRY
+GSE12021	DM	RA-00005														75	Years	Male															
+GSE12021	DM	RA-00006														79	Years	Female															
+GSE12021	DM	RA-00007														62	Years	Female															
+GSE12021	DM	RA-00008														66	Years	Female															
+GSE12021	DM	RA-00009														64	Years	Female															
+GSE12021	DM	RA-00010														63	Years	Female															
+GSE12021	DM	RA-00011														46	Years	Female															
+GSE12021	DM	RA-00012														71	Years	Female															
+GSE12021	DM	RA-00013														73	Years	Female															
+GSE12021	DM	RA-00014														47	Years	Male															
+GSE12021	DM	RA-00015														59	Years	Male															
+GSE12021	DM	RA-00016														73	Years	Female															
+GSE12021	DM	RA-00022														75	Years	Male															
+GSE12021	DM	RA-00023														79	Years	Female															
+GSE12021	DM	RA-00024														62	Years	Female															
+GSE12021	DM	RA-00025														66	Years	Female															
+GSE12021	DM	RA-00026														64	Years	Female															
+GSE12021	DM	RA-00027														63	Years	Female															
+GSE12021	DM	RA-00028														46	Years	Female															
+GSE12021	DM	RA-00029														71	Years	Female															
+GSE12021	DM	RA-00030														73	Years	Female															
+GSE12021	DM	RA-00031														47	Years	Male															
+GSE12021	DM	RA-00032														59	Years	Male															
+GSE12021	DM	RA-00033														73	Years	Female															
+GSE12051	DM	RA-00038																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00039																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00040																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00041																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00042																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00043																Male				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00044																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00045																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00046																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00047																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00048																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00049																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00050																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00051																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00052																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00053																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00054																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00055																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00056																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00057																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00058																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00059																Male				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00060																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00061																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00062																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00063																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00064																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00065																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00066																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00067																Male				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00068																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00069																Male				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00070																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00071																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00072																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00073																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00074																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00075																Male				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00076																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00077																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00078																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00079																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00080																Female				anti-TNF alpha treatment with infliximab											
+GSE12051	DM	RA-00081																Female				anti-TNF alpha treatment with infliximab											
+GSE1402	DM	RA-00082														13.7	Years	Male															
+GSE1402	DM	RA-00084														14	Years	Female															
+GSE1402	DM	RA-00085														13.6	Years	Female															
+GSE1402	DM	RA-00087														16.4	Years	Male															
+GSE1402	DM	RA-00088														19.5	Years	Female															
+GSE1402	DM	RA-00090														15.2	Years	Female															
+GSE1402	DM	RA-00091														12.8	Years	Female															
+GSE1402	DM	RA-00093														17.1	Years	Male															
+GSE1402	DM	RA-00095														26.4	Years	Male															
+GSE1402	DM	RA-00097														11.8	Years	Female															
+GSE1402	DM	RA-00099														18.5	Years	Female															
+GSE1402	DM	RA-00101														23.5	Years	Male															
+GSE1402	DM	RA-00114														8.7	Years	Female															
+GSE1402	DM	RA-00115														20.8	Years	Female															
+GSE1402	DM	RA-00116														18.9	Years	Female															
+GSE1402	DM	RA-00117														12.3	Years	Male															
+GSE1402	DM	RA-00118														9.5	Years	Female															
+GSE1402	DM	RA-00119														6.7	Years	Male															
+GSE1402	DM	RA-00120														10.3	Years	Female															
+GSE1402	DM	RA-00121														17.8	Years	Male															
+GSE15258	DM	RA-00122																				anti-TNF therapy											
+GSE15258	DM	RA-00123																				anti-TNF therapy											
+GSE15258	DM	RA-00124																				anti-TNF therapy											
+GSE15258	DM	RA-00125																				anti-TNF therapy											
+GSE15258	DM	RA-00126																				anti-TNF therapy											
+GSE15258	DM	RA-00127																				anti-TNF therapy											
+GSE15258	DM	RA-00128																				anti-TNF therapy											
+GSE15258	DM	RA-00129																				anti-TNF therapy											
+GSE15258	DM	RA-00130																				anti-TNF therapy											
+GSE15258	DM	RA-00131																				anti-TNF therapy											
+GSE15258	DM	RA-00132																				anti-TNF therapy											
+GSE15258	DM	RA-00133																				anti-TNF therapy											
+GSE15258	DM	RA-00134																				anti-TNF therapy											
+GSE15258	DM	RA-00135																				anti-TNF therapy											
+GSE15258	DM	RA-00136																				anti-TNF therapy											
+GSE15258	DM	RA-00137																				anti-TNF therapy											
+GSE15258	DM	RA-00138																				anti-TNF therapy											
+GSE15258	DM	RA-00139																				anti-TNF therapy											
+GSE15258	DM	RA-00140																				anti-TNF therapy											
+GSE15258	DM	RA-00141																				anti-TNF therapy											
+GSE15258	DM	RA-00142																				anti-TNF therapy											
+GSE15258	DM	RA-00143																				anti-TNF therapy											
+GSE15258	DM	RA-00144																				anti-TNF therapy											
+GSE15258	DM	RA-00145																				anti-TNF therapy											
+GSE15258	DM	RA-00146																				anti-TNF therapy											
+GSE15258	DM	RA-00147																				anti-TNF therapy											
+GSE15258	DM	RA-00148																				anti-TNF therapy											
+GSE15258	DM	RA-00149																				anti-TNF therapy											
+GSE15258	DM	RA-00150																				anti-TNF therapy											
+GSE15258	DM	RA-00151																				anti-TNF therapy											
+GSE15258	DM	RA-00152																				anti-TNF therapy											
+GSE15258	DM	RA-00153																				anti-TNF therapy											
+GSE15258	DM	RA-00154																				anti-TNF therapy											
+GSE15258	DM	RA-00155																				anti-TNF therapy											
+GSE15258	DM	RA-00156																				anti-TNF therapy											
+GSE15258	DM	RA-00157																				anti-TNF therapy											
+GSE15258	DM	RA-00158																				anti-TNF therapy											
+GSE15258	DM	RA-00159																				anti-TNF therapy											
+GSE15258	DM	RA-00160																				anti-TNF therapy											
+GSE15258	DM	RA-00161																				anti-TNF therapy											
+GSE15258	DM	RA-00162																				anti-TNF therapy											
+GSE15258	DM	RA-00163																				anti-TNF therapy											
+GSE15258	DM	RA-00164																				anti-TNF therapy											
+GSE15258	DM	RA-00165																				anti-TNF therapy											
+GSE15258	DM	RA-00166																				anti-TNF therapy											
+GSE15258	DM	RA-00167																				anti-TNF therapy											
+GSE15258	DM	RA-00168																				anti-TNF therapy											
+GSE15258	DM	RA-00169																				anti-TNF therapy											
+GSE15258	DM	RA-00170																				anti-TNF therapy											
+GSE15258	DM	RA-00171																				anti-TNF therapy											
+GSE15258	DM	RA-00172																				anti-TNF therapy											
+GSE15258	DM	RA-00173																				anti-TNF therapy											
+GSE15258	DM	RA-00174																				anti-TNF therapy											
+GSE15258	DM	RA-00175																				anti-TNF therapy											
+GSE15258	DM	RA-00176																				anti-TNF therapy											
+GSE15258	DM	RA-00177																				anti-TNF therapy											
+GSE15258	DM	RA-00178																				anti-TNF therapy											
+GSE15258	DM	RA-00179																				anti-TNF therapy											
+GSE15258	DM	RA-00180																				anti-TNF therapy											
+GSE15258	DM	RA-00181																				anti-TNF therapy											
+GSE15258	DM	RA-00182																				anti-TNF therapy											
+GSE15258	DM	RA-00183																				anti-TNF therapy											
+GSE15258	DM	RA-00184																				anti-TNF therapy											
+GSE15258	DM	RA-00185																				anti-TNF therapy											
+GSE15258	DM	RA-00186																				anti-TNF therapy											
+GSE15258	DM	RA-00187																				anti-TNF therapy											
+GSE15258	DM	RA-00188																				anti-TNF therapy											
+GSE15258	DM	RA-00189																				anti-TNF therapy											
+GSE15258	DM	RA-00190																				anti-TNF therapy											
+GSE15258	DM	RA-00191																				anti-TNF therapy											
+GSE15258	DM	RA-00192																				anti-TNF therapy											
+GSE15258	DM	RA-00193																				anti-TNF therapy											
+GSE15258	DM	RA-00194																				anti-TNF therapy											
+GSE15258	DM	RA-00195																				anti-TNF therapy											
+GSE15258	DM	RA-00196																				anti-TNF therapy											
+GSE15258	DM	RA-00197																				anti-TNF therapy											
+GSE15258	DM	RA-00198																				anti-TNF therapy											
+GSE15258	DM	RA-00199																				anti-TNF therapy											
+GSE15258	DM	RA-00200																				anti-TNF therapy											
+GSE15258	DM	RA-00201																				anti-TNF therapy											
+GSE15258	DM	RA-00202																				anti-TNF therapy											
+GSE15258	DM	RA-00203																				anti-TNF therapy											
+GSE15258	DM	RA-00204																				anti-TNF therapy											
+GSE15258	DM	RA-00205																				anti-TNF therapy											
+GSE15258	DM	RA-00206																				anti-TNF therapy											
+GSE15258	DM	RA-00207																				anti-TNF therapy											
+GSE15316	DM	RA-00208																Female				Rituximab therapy											
+GSE15316	DM	RA-00209																Female				Rituximab therapy											
+GSE15316	DM	RA-00210																Female				Rituximab therapy											
+GSE15316	DM	RA-00211																Female				Rituximab therapy											
+GSE15316	DM	RA-00212																Female				Rituximab therapy											
+GSE15316	DM	RA-00213																Female				Rituximab therapy											
+GSE15316	DM	RA-00214																Female				Rituximab therapy											
+GSE15316	DM	RA-00215																Female				Rituximab therapy											
+GSE15316	DM	RA-00216																Female				Rituximab therapy											
+GSE15573	DM	RA-00217														71	Years	Female	Caucasian														
+GSE15573	DM	RA-00218														72	Years	Female	Caucasian														
+GSE15573	DM	RA-00220														60	Years	Female	Caucasian														
+GSE15573	DM	RA-00222														49	Years	Male	Caucasian														
+GSE15573	DM	RA-00225														69	Years	Female	Caucasian														
+GSE15573	DM	RA-00228														52	Years	Female	Caucasian														
+GSE15573	DM	RA-00230														60	Years	Female	Caucasian														
+GSE15573	DM	RA-00231														58	Years	Female	Caucasian														
+GSE15573	DM	RA-00233														80	Years	Male	Caucasian														
+GSE15573	DM	RA-00235														62	Years	Female	Caucasian														
+GSE15573	DM	RA-00236														57	Years	Female	Caucasian														
+GSE15573	DM	RA-00238														46	Years	Female	Caucasian														
+GSE15573	DM	RA-00240														64	Years	Female	Caucasian														
+GSE15573	DM	RA-00241														52	Years	Female	Caucasian														
+GSE15573	DM	RA-00244														58	Years	Male	Caucasian														
+GSE15573	DM	RA-00245														72	Years	Male	Caucasian														
+GSE15573	DM	RA-00247														54	Years	Female	Caucasian														
+GSE15573	DM	RA-00249														63	Years	Female	Caucasian														
+GSE15602	DM	RA-00250																				Adalimumab therapy											
+GSE15602	DM	RA-00251																				Adalimumab therapy											
+GSE15602	DM	RA-00252																				Adalimumab therapy											
+GSE15602	DM	RA-00253																				Adalimumab therapy											
+GSE15602	DM	RA-00254																				Adalimumab therapy											
+GSE15602	DM	RA-00255																				Adalimumab therapy											
+GSE15602	DM	RA-00256																				Adalimumab therapy											
+GSE15602	DM	RA-00257																				Adalimumab therapy											
+GSE15602	DM	RA-00258																				Adalimumab therapy											
+GSE15602	DM	RA-00259																				Adalimumab therapy											
+GSE15602	DM	RA-00260																				Adalimumab therapy											
+GSE20690	DM	RA-00333														53	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00334														63	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00335														54	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00336														39	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00337														46	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00338														64	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00339														67	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00340														54	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00341														64	Years	Male				Infusion of Infliximab											
+GSE20690	DM	RA-00342														46	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00343														67	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00344														59	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00345														37	Years	Male				Infusion of Infliximab											
+GSE20690	DM	RA-00346														43	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00347														40	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00348														46	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00349														67	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00350														58	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00351														69	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00352														46	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00353														55	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00354														51	Years	Male				Infusion of Infliximab											
+GSE20690	DM	RA-00355														39	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00356														57	Years	Male				Infusion of Infliximab											
+GSE20690	DM	RA-00357														62	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00358														47	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00359														31	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00360														52	Years	Male				Infusion of Infliximab											
+GSE20690	DM	RA-00361														37	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00362														60	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00363														65	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00364														65	Years	Male				Infusion of Infliximab											
+GSE20690	DM	RA-00365														63	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00366														72	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00367														48	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00368														63	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00369														56	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00370														66	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00371														51	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00372														19	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00373														67	Years	Male				Infusion of Infliximab											
+GSE20690	DM	RA-00374														52	Years	Male				Infusion of Infliximab											
+GSE20690	DM	RA-00375														59	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00376														63	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00377														58	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00378														57	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00379														72	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00380														44	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00381														59	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00382														62	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00383														58	Years	Male				Infusion of Infliximab											
+GSE20690	DM	RA-00384														62	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00385														57	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00386														59	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00387														63	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00388														31	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00389														49	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00390														71	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00391														36	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00392														74	Years	Male				Infusion of Infliximab											
+GSE20690	DM	RA-00393														30	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00394														29	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00395														62	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00396														58	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00397														30	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00398														62	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00399														74	Years	Female				Infusion of Infliximab											
+GSE20690	DM	RA-00400														65	Years	Female				Infusion of Infliximab											
+GSE24742	DM	RA-00401														51	Years	Female				rituximab (1000mg IV) and methylprednisolone (125 mg IV) @t=0 and  2 weeks											
+GSE24742	DM	RA-00402														64	Years	Female				rituximab (1000mg IV) and methylprednisolone (125 mg IV) @t=0 and  2 weeks											
+GSE24742	DM	RA-00403														68	Years	Female				rituximab (1000mg IV) and methylprednisolone (125 mg IV) @t=0 and  2 weeks											
+GSE24742	DM	RA-00404														44	Years	Male				rituximab (1000mg IV) and methylprednisolone (125 mg IV) @t=0 and  2 weeks											
+GSE24742	DM	RA-00405														33	Years	Female				rituximab (1000mg IV) and methylprednisolone (125 mg IV) @t=0 and  2 weeks											
+GSE24742	DM	RA-00406														59	Years	Male				rituximab (1000mg IV) and methylprednisolone (125 mg IV) @t=0 and  2 weeks											
+GSE24742	DM	RA-00407														77	Years	Female				rituximab (1000mg IV) and methylprednisolone (125 mg IV) @t=0 and  2 weeks											
+GSE24742	DM	RA-00408														68	Years	Female				rituximab (1000mg IV) and methylprednisolone (125 mg IV) @t=0 and  2 weeks											
+GSE24742	DM	RA-00409														21	Years	Female				rituximab (1000mg IV) and methylprednisolone (125 mg IV) @t=0 and  2 weeks											
+GSE24742	DM	RA-00410														64	Years	Male				rituximab (1000mg IV) and methylprednisolone (125 mg IV) @t=0 and  2 weeks											
+GSE24742	DM	RA-00411														47	Years	Female				rituximab (1000mg IV) and methylprednisolone (125 mg IV) @t=0 and  2 weeks											
+GSE24742	DM	RA-00412														59	Years	Female				rituximab (1000mg IV) and methylprednisolone (125 mg IV) @t=0 and  2 weeks											
+GSE27390	DM	RA-00426														62	Years	Female															
+GSE27390	DM	RA-00427														41	Years	Female															
+GSE27390	DM	RA-00428														74	Years	Female															
+GSE27390	DM	RA-00429														74	Years	Female															
+GSE27390	DM	RA-00430														77	Years	Female															
+GSE27390	DM	RA-00431														54	Years	Female															
+GSE27390	DM	RA-00432														74	Years	Female															
+GSE27390	DM	RA-00433														65	Years	Female															
+GSE27390	DM	RA-00434														73	Years	Female															
+GSE36700	DM	RA-00435														52	Years	Male															
+GSE36700	DM	RA-00436														42	Years	Male															
+GSE36700	DM	RA-00437														43	Years	Female															
+GSE36700	DM	RA-00438														69	Years	Male															
+GSE36700	DM	RA-00439														55	Years	Male															
+GSE36700	DM	RA-00440														62	Years	Male															
+GSE36700	DM	RA-00441														37	Years	Female															
+GSE37107	DM	RA-00442																Female				Rituximab therapy											
+GSE37107	DM	RA-00443																Female				Rituximab therapy											
+GSE37107	DM	RA-00444																Female				Rituximab therapy											
+GSE37107	DM	RA-00445																Female				Rituximab therapy											
+GSE37107	DM	RA-00446																Female				Rituximab therapy											
+GSE37107	DM	RA-00447																Female				Rituximab therapy											
+GSE37107	DM	RA-00448																Female				Rituximab therapy											
+GSE37107	DM	RA-00449																Female				Rituximab therapy											
+GSE37107	DM	RA-00450																Male				Rituximab therapy											
+GSE37107	DM	RA-00451																Female				Rituximab therapy											
+GSE37107	DM	RA-00452																Female				Rituximab therapy											
+GSE37107	DM	RA-00453																Male				Rituximab therapy											
+GSE37107	DM	RA-00454																Female				Rituximab therapy											
+GSE37107	DM	RA-00455																Female				Rituximab therapy											
+GSE38351	DM	RA-00480														67	Years	Male															
+GSE38351	DM	RA-00481														60	Years	Female															
+GSE38351	DM	RA-00482														60	Years	Female															
+GSE38351	DM	RA-00483																Female															
+GSE38351	DM	RA-00484														22	Years	Female															
+GSE38351	DM	RA-00485														59	Years	Female															
+GSE38351	DM	RA-00486														57	Years	Female															
+GSE38351	DM	RA-00487														48	Years	Male															
+GSE38351	DM	RA-00500														59	Years	Male															
+GSE38351	DM	RA-00501														54	Years	Female															
+GSE38351	DM	RA-00502														56	Years	Female															
+GSE38351	DM	RA-00503														47	Years	Female															
+E-MTAB-11	DM	RA-00540																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00541																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00542																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00543																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00544																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00545																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00546																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00547																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00548																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00549																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00550																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00551																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00552																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00553																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00554																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00555																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00556																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00557																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00558																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00559																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00560																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00561																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00562																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00563																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00564																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00565																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00566																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00567																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00568																	Caucasian			Etanercept therapy											
+E-MTAB-11	DM	RA-00569																	Caucasian			Etanercept therapy											

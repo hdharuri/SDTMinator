@@ -1,0 +1,179 @@
+STUDYID	DOMAIN	USUBJID	CCSEQ	CCGRPID	CCREFID	CCSPID	CCLNKID	CCLNKGRP	CCTESTCD	CCTEST	CCMODIFY	CCTSTDTL	CCCAT	CCSCAT	CCPOS	CCBODSYS	CCORRES	CCORRESU	CCORNRLO	CCORNRHI	CCSTRESC	CCSTRESN	CCSTRESU	CCRESCAT	CCSTNRLO	CCSTNRHI	CCSTNRC	CCNRIND	CCSTAT	CCREASND	CCXFN	CCNAM	CCLOINC	CCSPEC	CCANTREG	CCSPCCND	CCSPCUFL	CCLOC	CCLAT	CCDIR	CCPORTOT	CCMETHOD	CCRUNID	CCANMETH	CCLEAD	CCCSTATE	CCFAST	CCBLFL	CCDRVFL	CCTOX	CCTOXGR	CCEVAL	CCEVALID	CCACPTFL	CCSEV	CCDTHREL	CCLLOQ	CCULOQ	VISITNUM	VISIT	VISITDY	EPOCH	CCDTC	CCENDTC	CCRFTDTC	CCDY	CCTPT	CCTPTNUM	CCELTM	CCTPTREF	CCRFTDTC	CCEVLINT	CCSTINT	CCENINT	CCEXCLFL	CCREASEX	POOLID	SPDEVID	TAETORD	CCSTDTC	CCSTDY	CCENDY	CCDUR	CCEVINTX	CCSTRTPT	CCSTTPT	CCENRTPT	CCENTPT
+GSE23597	CC	IBD-00124	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00125	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00126	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00127	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00128	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00129	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE1710	CC	IBD-00184	1						CAI	CAI-Clinical Activity Index			CLINICAL ACTIVITY INDEX				9				9	9																																												1																						
+GSE1710	CC	IBD-00185	1						CAI	CAI-Clinical Activity Index			CLINICAL ACTIVITY INDEX				9				9	9																																												1																						
+GSE1710	CC	IBD-00186	1						CAI	CAI-Clinical Activity Index			CLINICAL ACTIVITY INDEX				8				8	8																																												1																						
+GSE1710	CC	IBD-00187	1						CAI	CAI-Clinical Activity Index			CLINICAL ACTIVITY INDEX				8				8	8																																												1																						
+GSE1710	CC	IBD-00188	1						CAI	CAI-Clinical Activity Index			CLINICAL ACTIVITY INDEX				8				8	8																																												1																						
+GSE1710	CC	IBD-00189	1						CAI	CAI-Clinical Activity Index			CLINICAL ACTIVITY INDEX				7				7	7																																												1																						
+GSE1710	CC	IBD-00190	1						CAI	CAI-Clinical Activity Index			CLINICAL ACTIVITY INDEX				7				7	7																																												1																						
+GSE1710	CC	IBD-00191	1						CAI	CAI-Clinical Activity Index			CLINICAL ACTIVITY INDEX				8				8	8																																												1																						
+GSE1710	CC	IBD-00192	1						CAI	CAI-Clinical Activity Index			CLINICAL ACTIVITY INDEX				8				8	8																																												1																						
+GSE1710	CC	IBD-00193	1						CAI	CAI-Clinical Activity Index			CLINICAL ACTIVITY INDEX				9				9	9																																												1																						
+E-MTAB-331	CC	IBD-00550	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				14				14	14																																												1																						
+GSE21231	CC	IBD-00554	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				65				65	65																																												3																						
+GSE21231	CC	IBD-00555	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				35				35	35																																												3																						
+GSE21231	CC	IBD-00555	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				30				30	30																																												5																						
+GSE21231	CC	IBD-00556	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				15				15	15																																												3																						
+GSE21231	CC	IBD-00557	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				75				75	75																																												3																						
+GSE21231	CC	IBD-00557	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				45				45	45																																												5																						
+GSE21231	CC	IBD-00558	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				60				60	60																																												3																						
+GSE21231	CC	IBD-00558	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				30				30	30																																												5																						
+GSE21231	CC	IBD-00559	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				55				55	55																																												3																						
+GSE21231	CC	IBD-00559	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				40				40	40																																												5																						
+GSE21231	CC	IBD-00560	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				30				30	30																																												3																						
+GSE21231	CC	IBD-00561	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				65				65	65																																												3																						
+GSE21231	CC	IBD-00562	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				30				30	30																																												3																						
+GSE21231	CC	IBD-00563	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				10				10	10																																												3																						
+GSE21231	CC	IBD-00564	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				45				45	45																																												3																						
+GSE21231	CC	IBD-00565	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				45				45	45																																												3																						
+GSE21231	CC	IBD-00565	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				30				30	30																																												5																						
+GSE21231	CC	IBD-00566	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				25				25	25																																												3																						
+GSE21231	CC	IBD-00567	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				10				10	10																																												3																						
+GSE21231	CC	IBD-00568	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				40				40	40																																												3																						
+GSE21231	CC	IBD-00568	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				5				5	5																																												5																						
+GSE21231	CC	IBD-00569	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				35				35	35																																												3																						
+GSE21231	CC	IBD-00569	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				20				20	20																																												5																						
+GSE21231	CC	IBD-00570	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				30				30	30																																												3																						
+GSE21231	CC	IBD-00571	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				50				50	50																																												3																						
+GSE21231	CC	IBD-00571	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				30				30	30																																												5																						
+GSE21231	CC	IBD-00572	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				20				20	20																																												3																						
+GSE21231	CC	IBD-00573	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				40				40	40																																												3																						
+GSE21231	CC	IBD-00573	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				10				10	10																																												5																						
+GSE21231	CC	IBD-00574	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				75				75	75																																												3																						
+GSE21231	CC	IBD-00574	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				80				80	80																																												5																						
+GSE21231	CC	IBD-00575	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				60				60	60																																												3																						
+GSE21231	CC	IBD-00575	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				65				65	65																																												5																						
+GSE21231	CC	IBD-00576	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				75				75	75																																												3																						
+GSE21231	CC	IBD-00576	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				65				65	65																																												5																						
+GSE21231	CC	IBD-00577	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				50				50	50																																												3																						
+GSE21231	CC	IBD-00577	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				35				35	35																																												5																						
+GSE21231	CC	IBD-00578	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				75				75	75																																												3																						
+GSE21231	CC	IBD-00578	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				65				65	65																																												5																						
+GSE21231	CC	IBD-00579	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				70				70	70																																												3																						
+GSE21231	CC	IBD-00579	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				70				70	70																																												5																						
+GSE21231	CC	IBD-00580	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				80				80	80																																												3																						
+GSE21231	CC	IBD-00580	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				75				75	75																																												5																						
+GSE21231	CC	IBD-00581	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				80				80	80																																												3																						
+GSE21231	CC	IBD-00582	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				65				65	65																																												3																						
+GSE21231	CC	IBD-00582	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				75				75	75																																												5																						
+GSE21231	CC	IBD-00583	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				75				75	75																																												3																						
+GSE21231	CC	IBD-00583	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				75				75	75																																												5																						
+GSE21231	CC	IBD-00584	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				70				70	70																																												3																						
+GSE21231	CC	IBD-00584	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				60				60	60																																												5																						
+GSE21231	CC	IBD-00585	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				50				50	50																																												3																						
+GSE21231	CC	IBD-00585	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				30				30	30																																												5																						
+GSE21231	CC	IBD-00586	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				60				60	60																																												3																						
+GSE21231	CC	IBD-00586	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				45				45	45																																												5																						
+GSE21231	CC	IBD-00587	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				80				80	80																																												3																						
+GSE21231	CC	IBD-00587	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				50				50	50																																												5																						
+GSE21231	CC	IBD-00588	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				50				50	50																																												3																						
+GSE21231	CC	IBD-00589	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				55				55	55																																												3																						
+GSE21231	CC	IBD-00590	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				45				45	45																																												3																						
+GSE21231	CC	IBD-00590	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				50				50	50																																												5																						
+GSE21231	CC	IBD-00591	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				70				70	70																																												3																						
+GSE21231	CC	IBD-00591	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				70				70	70																																												5																						
+GSE21231	CC	IBD-00592	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				45				45	45																																												3																						
+GSE21231	CC	IBD-00592	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				45				45	45																																												5																						
+GSE21231	CC	IBD-00593	1						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				85				85	85																																												3																						
+GSE21231	CC	IBD-00593	2						PUCAI	Pediatric Ulcerative Colitis Activity			PEDIATRIC ULCERATIVE COLITIS ACTIVITY INDEX				80				80	80																																												5																						
+GSE22619	CC	IBD-00595	1						CAI	CAI-Clinical Activity Index			CLINICAL ACTIVITY INDEX				4				4	4																																												1																						
+GSE22619	CC	IBD-00597	1						CAI	CAI-Clinical Activity Index			CLINICAL ACTIVITY INDEX				6				6	6																																												1																						
+GSE22619	CC	IBD-00599	1						CAI	CAI-Clinical Activity Index			CLINICAL ACTIVITY INDEX				7				7	7																																												1																						
+GSE22619	CC	IBD-00601	1						CAI	CAI-Clinical Activity Index			CLINICAL ACTIVITY INDEX				2				2	2																																												1																						
+GSE22619	CC	IBD-00603	1						CAI	CAI-Clinical Activity Index			CLINICAL ACTIVITY INDEX				3				3	3																																												1																						
+GSE22619	CC	IBD-00605	1						CAI	CAI-Clinical Activity Index			CLINICAL ACTIVITY INDEX				3				3	3																																												1																						
+GSE22619	CC	IBD-00607	1						CAI	CAI-Clinical Activity Index			CLINICAL ACTIVITY INDEX				7				7	7																																												1																						
+GSE22619	CC	IBD-00609	1						CAI	CAI-Clinical Activity Index			CLINICAL ACTIVITY INDEX				7				7	7																																												1																						
+GSE23597	CC	IBD-00859	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00860	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00861	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00862	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00863	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00864	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00865	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00866	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00867	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00868	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00869	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00870	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00871	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00872	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00873	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00874	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00875	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00876	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00877	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00878	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00879	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00880	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00881	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00882	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00883	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00884	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00885	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00886	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00887	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00888	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00889	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00890	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00891	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00892	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00893	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00894	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00895	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00896	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00897	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00898	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00899	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+GSE23597	CC	IBD-00900	1						MAYO	Mayo Score			MAYO SCORE				6-12				6-12																																													1																						
+E-MTAB-331	CC	IBD-01028	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				13				13	13																																												1																						
+E-MTAB-331	CC	IBD-01030	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				9				9	9																																												1																						
+E-MTAB-331	CC	IBD-01031	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				6				6	6																																												1																						
+E-MTAB-331	CC	IBD-01031	2						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				12				12	12																																												78																						
+E-MTAB-331	CC	IBD-01033	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				10				10	10																																												1																						
+E-MTAB-331	CC	IBD-01033	2						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				7				7	7																																												43																						
+E-MTAB-331	CC	IBD-01034	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				7				7	7																																												1																						
+E-MTAB-331	CC	IBD-01036	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				8				8	8																																												1																						
+E-MTAB-331	CC	IBD-01037	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				11				11	11																																												1																						
+E-MTAB-331	CC	IBD-01039	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				8				8	8																																												1																						
+E-MTAB-331	CC	IBD-01039	2						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				9				9	9																																												64																						
+E-MTAB-331	CC	IBD-01039	3						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				10				10	10																																												238																						
+E-MTAB-331	CC	IBD-01040	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				10				10	10																																												1																						
+E-MTAB-331	CC	IBD-01040	2						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				11				11	11																																												212																						
+E-MTAB-331	CC	IBD-01042	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				9				9	9																																												1																						
+E-MTAB-331	CC	IBD-01043	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				7				7	7																																												1																						
+E-MTAB-331	CC	IBD-01045	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				6				6	6																																												1																						
+E-MTAB-331	CC	IBD-01047	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				6				6	6																																												1																						
+E-MTAB-331	CC	IBD-01048	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				6				6	6																																												1																						
+E-MTAB-331	CC	IBD-01050	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				8				8	8																																												1																						
+E-MTAB-331	CC	IBD-01050	2						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				12				12	12																																												403																						
+E-MTAB-331	CC	IBD-01051	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				7				7	7																																												1																						
+E-MTAB-331	CC	IBD-01053	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				11				11	11																																												1																						
+E-MTAB-331	CC	IBD-01053	2						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				7				7	7																																												127																						
+E-MTAB-331	CC	IBD-01054	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				8				8	8																																												1																						
+E-MTAB-331	CC	IBD-01056	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				8				8	8																																												1																						
+E-MTAB-331	CC	IBD-01056	2						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				8				8	8																																												373																						
+E-MTAB-331	CC	IBD-01057	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				8				8	8																																												1																						
+E-MTAB-331	CC	IBD-01059	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				11				11	11																																												1																						
+E-MTAB-331	CC	IBD-01059	2						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				8				8	8																																												124																						
+E-MTAB-331	CC	IBD-01059	3						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				12				12	12																																												404																						
+E-MTAB-331	CC	IBD-01060	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				11				11	11																																												1																						
+E-MTAB-331	CC	IBD-01060	2						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				13				13	13																																												158																						
+E-MTAB-331	CC	IBD-01062	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				8				8	8																																												1																						
+E-MTAB-331	CC	IBD-01062	2						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				8				8	8																																												96																						
+E-MTAB-331	CC	IBD-01063	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				9				9	9																																												1																						
+E-MTAB-331	CC	IBD-01065	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				10				10	10																																												1																						
+E-MTAB-331	CC	IBD-01066	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				7				7	7																																												1																						
+E-MTAB-331	CC	IBD-01067	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				11				11	11																																												1																						
+E-MTAB-331	CC	IBD-01068	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				8				8	8																																												1																						
+E-MTAB-331	CC	IBD-01068	2						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				11				11	11																																												212																						
+E-MTAB-331	CC	IBD-01068	3						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				7				7	7																																												284																						
+E-MTAB-331	CC	IBD-01069	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				8				8	8																																												1																						
+E-MTAB-331	CC	IBD-01070	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				11				11	11																																												1																						
+E-MTAB-331	CC	IBD-01075	1						SCCAI	Simple Clinical Colitis Activity Index			SIMPLE CLINICAL COLITIS ACTIVITY INDEX				6				6	6																																												1																						

@@ -1,0 +1,16 @@
+STUDYID	DOMAIN	USUBJID	CESEQ	CEGRPID	CEREFID	CESPID	CETERM	CEDECOD	CECAT	CESCAT	CEPRESP	CEOCCUR	CESTAT	CEREASND	CEBODSYS	CESEV	CEDTC	CESTDTC	CEENDTC	CEDY	CESTRF	CEENRF	CESTRTPT	CESTTPT	CEENRTPT	CEENTPT	CEMODIFY	CELLT	CELLTCD	CEPTCD	CEHLT	CEHLTCD	CEHLGT	CEHLGTCD	CEBDSYCD	CESOC	CESOCCD	CELOC	CELAT	CEDIR	CEPORTOT	CEPARTY	CEPRTYID	CESER	CEACN	CEACNOTH	CEACNDEV	CEREL	CERELNST	CEPATT	CEOUT	CESCAN	CESCONG	CESDISAB	CESDTH	CESHOSP	CESLIFE	CESOD	CESMIE	CECONTRT	CETOX	CETOXGR	EPOCH	CESTDY	CEENDY	CEDUR	POOLID	SPDEVID	CELNKID	CELNKGRP	VISITNUM	VISIT	VISITDY	TAETORD	CETPT	CETPTNUM	CEELTM	CETPTREF	CERFTDTC	CEEVLINT	CEEVINTX	CESTINT	CEENINT
+E-MTAB-331	CE	IBD-01031	1				ULCERATIVE COLITIS FLARE					Y								78																																																															
+E-MTAB-331	CE	IBD-01033	1				ULCERATIVE COLITIS FLARE					Y								43																																																															
+E-MTAB-331	CE	IBD-01039	1				ULCERATIVE COLITIS FLARE					Y								64																																																															
+E-MTAB-331	CE	IBD-01039	2				ULCERATIVE COLITIS FLARE					Y								238																																																															
+E-MTAB-331	CE	IBD-01040	1				ULCERATIVE COLITIS FLARE					Y								212																																																															
+E-MTAB-331	CE	IBD-01040	2				ULCERATIVE COLITIS FLARE					Y								463																																																															
+E-MTAB-331	CE	IBD-01050	1				ULCERATIVE COLITIS FLARE					Y								403																																																															
+E-MTAB-331	CE	IBD-01053	1				ULCERATIVE COLITIS FLARE					Y								127																																																															
+E-MTAB-331	CE	IBD-01056	1				ULCERATIVE COLITIS FLARE					Y								373																																																															
+E-MTAB-331	CE	IBD-01059	1				ULCERATIVE COLITIS FLARE					Y								124																																																															
+E-MTAB-331	CE	IBD-01059	2				ULCERATIVE COLITIS FLARE					Y								404																																																															
+E-MTAB-331	CE	IBD-01060	1				ULCERATIVE COLITIS FLARE					Y								158																																																															
+E-MTAB-331	CE	IBD-01062	1				ULCERATIVE COLITIS FLARE					Y								96																																																															
+E-MTAB-331	CE	IBD-01068	1				ULCERATIVE COLITIS FLARE					Y								212																																																															
+E-MTAB-331	CE	IBD-01068	2				ULCERATIVE COLITIS FLARE					Y								284																																																															

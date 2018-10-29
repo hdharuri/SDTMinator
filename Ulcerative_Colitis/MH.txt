@@ -1,0 +1,560 @@
+STUDYID	DOMAIN	USUBJID	MHSEQ	MHGRPID	MHREFID	MHSPID	MHTERM	MHMODIFY	MHDECOD	MHCAT	MHSCAT	MHPRESP	MHOCCUR	MHSTAT	MHREASND	MHBODSYS	MHDTC	MHSTDTC	MHENDTC	MHDY	MHENRF	MHENRTPT	MHENTPT	MHELTM	MHTPTREF	MHRFTDTC	MHLOC	MHLLT	MHLLTCD	MHPTCD	MHHLT	MHHLTCD	MHHLGT	MHHLGTCD	MHSOC	MHSOCCD	MHLAT	MHDIR	MHPORTOT	MHPARTY	MHPRTYID	MHSEV	MHSER	MHACN	MHACNOTH	MHACNDEV	MHREL	MHRELNST	MHPATT	MHOUT	MHSCAN	MHSCONG	MHSDISAB	MHSDTH	MHSHOSP	MHSLIFE	MHSOD	MHSMIE	MHCONTRT	MHTOX	MHTOXGR	EPOCH	MHSTDY	MHENDY	MHSTRF	MHDUR	MHSTTPT	POOLID	SPDEVID	MHLNKID	MHLNKGRP	VISITNUM	VISIT	VISITDY	TAETORD	MHTPT	MHTPTNUM	MHEVLINT	MHEVINTX	MHSTINT	MHENINT
+GSE22619	MH	GSE22619-IBD-03620	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE22619	MH	GSE22619-IBD-03621	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE2461	MH	IBD-00005	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE4183	MH	IBD-00022	1				ULCERATIVE PANCOLITIS						Y							1																																																													
+GSE4183	MH	IBD-00023	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE4183	MH	IBD-00024	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE4183	MH	IBD-00025	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE4183	MH	IBD-00026	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE4183	MH	IBD-00027	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE4183	MH	IBD-00028	1				ULCERATIVE PANCOLITIS						Y							1																																																													
+GSE4183	MH	IBD-00029	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE4183	MH	IBD-00030	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE10714	MH	IBD-00038	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE10714	MH	IBD-00039	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE10714	MH	IBD-00040	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE11499	MH	IBD-00046	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE11499	MH	IBD-00047	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE11499	MH	IBD-00048	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE11499	MH	IBD-00049	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE11499	MH	IBD-00050	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE11499	MH	IBD-00051	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE6731	MH	IBD-00096	1				ULCERATIVE COLITIS						Y							1																																														P15Y															
+GSE6731	MH	IBD-00096	2				FIBROSIS						Y							1							RECTUM																																																						
+GSE6731	MH	IBD-00096	3				FIBROSIS						Y							1							COLON																																																						
+GSE6731	MH	IBD-00096	4				ULCERATIVE COLITIS						Y							1							MULTIPLE																																																						
+GSE6731	MH	IBD-00097	1				ULCERATIVE COLITIS						Y							1																																														P24Y															
+GSE6731	MH	IBD-00097	2				FIBROSIS						Y							1							RECTUM																																																						
+GSE6731	MH	IBD-00097	3				FIBROSIS						N							1							COLON, ASCENDING																																																						
+GSE6731	MH	IBD-00097	4				ULCERATIVE COLITIS						Y							1							COLON																																																						
+GSE6731	MH	IBD-00098	1				ULCERATIVE COLITIS						Y							1																																														P12Y															
+GSE6731	MH	IBD-00098	2				FIBROSIS						N							1							COLON, SIGMOID																																																						
+GSE6731	MH	IBD-00098	3				FIBROSIS						N							1							COLON, ASCENDING																																																						
+GSE6731	MH	IBD-00098	4				ULCERATIVE COLITIS						Y							1							COLON																																																						
+GSE6731	MH	IBD-00099	1				ULCERATIVE COLITIS						Y							1																																														P46Y															
+GSE6731	MH	IBD-00099	2				FIBROSIS						Y							1							RECTUM																																																						
+GSE6731	MH	IBD-00099	3				FIBROSIS						N							1							HEPATIC FLEXURE COLON																																																						
+GSE6731	MH	IBD-00099	4				ULCERATIVE COLITIS						Y							1							COLON																																																						
+GSE6731	MH	IBD-00100	1				ULCERATIVE COLITIS						Y							1																																														P3Y															
+GSE6731	MH	IBD-00100	2				FIBROSIS						Y							1							COLON, SIGMOID																																																						
+GSE6731	MH	IBD-00100	3				ULCERATIVE COLITIS						Y							1							MULTIPLE																																																						
+GSE23597	MH	IBD-00124	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00125	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00126	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00127	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00128	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00129	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE1710	MH	IBD-00184	1				ULCERATIVE COLITIS						Y							1																																														P3Y															
+GSE1710	MH	IBD-00184	2				ULCERATIVE COLITIS						Y							1							COLON																																																						
+GSE1710	MH	IBD-00185	1				ULCERATIVE COLITIS						Y							1																																														P5Y															
+GSE1710	MH	IBD-00185	2				ULCERATIVE COLITIS						Y							1							COLON																																																						
+GSE1710	MH	IBD-00186	1				ULCERATIVE COLITIS						Y							1																																														P5Y															
+GSE1710	MH	IBD-00186	2				ULCERATIVE COLITIS						Y							1							COLON																																																						
+GSE1710	MH	IBD-00187	1				ULCERATIVE COLITIS						Y							1																																														P3Y															
+GSE1710	MH	IBD-00187	2				ULCERATIVE COLITIS						Y							1							COLON																																																						
+GSE1710	MH	IBD-00188	1				ULCERATIVE COLITIS						Y							1																																														P2Y															
+GSE1710	MH	IBD-00188	2				ULCERATIVE COLITIS						Y							1							COLON																																																						
+GSE1710	MH	IBD-00189	1				ULCERATIVE COLITIS						Y							1																																														P2Y															
+GSE1710	MH	IBD-00189	2				ULCERATIVE COLITIS						Y							1							MULTIPLE																																																						
+GSE1710	MH	IBD-00190	1				ULCERATIVE COLITIS						Y							1																																														P15Y															
+GSE1710	MH	IBD-00190	2				ULCERATIVE COLITIS						Y							1							COLON																																																						
+GSE1710	MH	IBD-00191	1				ULCERATIVE COLITIS						Y							1																																														P5Y															
+GSE1710	MH	IBD-00191	2				ULCERATIVE COLITIS						Y							1							MULTIPLE																																																						
+GSE1710	MH	IBD-00192	1				ULCERATIVE COLITIS						Y							1																																														P4Y															
+GSE1710	MH	IBD-00192	2				ULCERATIVE COLITIS						Y							1							COLON																																																						
+GSE1710	MH	IBD-00193	1				ULCERATIVE COLITIS						Y							1																																														P7Y															
+GSE1710	MH	IBD-00193	2				ULCERATIVE COLITIS						Y							1							COLON																																																						
+GSE3365	MH	IBD-00295	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3365	MH	IBD-00296	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3365	MH	IBD-00297	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3365	MH	IBD-00298	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3365	MH	IBD-00299	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3365	MH	IBD-00300	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3365	MH	IBD-00301	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MEXP-2083	MH	IBD-00302	1				ULCERATIVE COLITIS						Y							1																																														P10Y															
+GSE3365	MH	IBD-00303	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MEXP-2083	MH	IBD-00304	1				ULCERATIVE COLITIS						Y							1																																														P11Y															
+GSE3365	MH	IBD-00305	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MEXP-2083	MH	IBD-00306	1				ULCERATIVE COLITIS						Y							1																																														P16Y															
+GSE3365	MH	IBD-00307	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3365	MH	IBD-00309	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MEXP-2083	MH	IBD-00310	1				ULCERATIVE COLITIS						Y							1																																														P16Y															
+GSE3365	MH	IBD-00311	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3365	MH	IBD-00313	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MEXP-2083	MH	IBD-00314	1				ULCERATIVE COLITIS						Y							1																																														P6Y															
+GSE3365	MH	IBD-00315	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3365	MH	IBD-00317	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3365	MH	IBD-00319	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3365	MH	IBD-00321	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MEXP-2083	MH	IBD-00322	1				ULCERATIVE COLITIS						Y							1																																														P16Y															
+GSE3365	MH	IBD-00323	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3365	MH	IBD-00325	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3365	MH	IBD-00326	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3365	MH	IBD-00327	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3365	MH	IBD-00328	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3365	MH	IBD-00329	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00330	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00330	2				PRIMARY SCLEROSING CHOLANGITIS						Y							1																																																													
+GSE3365	MH	IBD-00331	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3365	MH	IBD-00332	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3365	MH	IBD-00333	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00334	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00334	2				PRIMARY SCLEROSING CHOLANGITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00337	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00337	2				PRIMARY SCLEROSING CHOLANGITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00342	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00342	2				PRIMARY SCLEROSING CHOLANGITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00345	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00345	2				PRIMARY SCLEROSING CHOLANGITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00406	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00409	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00410	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00411	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00412	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00413	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00414	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00415	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00416	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00417	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00418	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00419	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00420	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00421	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00422	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00423	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00424	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00425	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00427	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00429	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00431	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00434	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00436	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00437	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00438	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00439	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00440	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00441	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00442	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00443	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00444	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00445	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00446	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00447	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00448	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00449	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00450	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00451	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00452	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00453	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00454	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00455	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00456	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00457	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00458	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00460	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00461	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00462	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00463	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00464	1				ULCERATIVE PROCTITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00465	1				ULCERATIVE PROCTITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00466	1				ULCERATIVE PROCTITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00467	1				ULCERATIVE PROCTITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00468	1				ULCERATIVE PROCTITIS						Y							1																																																													
+GSE37283	MH	IBD-00469	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00470	1				ULCERATIVE PROCTITIS						Y							1																																																													
+GSE37283	MH	IBD-00471	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00472	1				ULCERATIVE PROCTITIS						Y							1																																																													
+GSE37283	MH	IBD-00473	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE37283	MH	IBD-00474	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00476	1				ULCERATIVE PROCTITIS						Y							1																																																													
+GSE37283	MH	IBD-00481	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE37283	MH	IBD-00481	2				ULCERATIVE COLITIS WITH REMOTE NEOPLASIA						Y							1							COLON OR RECTUM																																																						
+GSE37283	MH	IBD-00482	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE37283	MH	IBD-00482	2				ULCERATIVE COLITIS WITH REMOTE NEOPLASIA						Y							1							COLON OR RECTUM																																																						
+GSE37283	MH	IBD-00483	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE37283	MH	IBD-00483	2				ULCERATIVE COLITIS WITH REMOTE NEOPLASIA						Y							1							COLON OR RECTUM																																																						
+GSE37283	MH	IBD-00484	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE37283	MH	IBD-00484	2				ULCERATIVE COLITIS WITH REMOTE NEOPLASIA						Y							1							COLON OR RECTUM																																																						
+GSE37283	MH	IBD-00485	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE37283	MH	IBD-00485	2				ULCERATIVE COLITIS WITH REMOTE NEOPLASIA						Y							1							COLON OR RECTUM																																																						
+GSE37283	MH	IBD-00486	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE37283	MH	IBD-00486	2				ULCERATIVE COLITIS WITH REMOTE NEOPLASIA						Y							1							COLON OR RECTUM																																																						
+GSE37283	MH	IBD-00487	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE37283	MH	IBD-00487	2				ULCERATIVE COLITIS WITH REMOTE NEOPLASIA						Y							1							COLON OR RECTUM																																																						
+GSE37283	MH	IBD-00488	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE37283	MH	IBD-00488	2				ULCERATIVE COLITIS WITH REMOTE NEOPLASIA						Y							1							COLON OR RECTUM																																																						
+GSE37283	MH	IBD-00489	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE37283	MH	IBD-00489	2				ULCERATIVE COLITIS WITH REMOTE NEOPLASIA						Y							1							COLON OR RECTUM																																																						
+GSE37283	MH	IBD-00490	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE37283	MH	IBD-00490	2				ULCERATIVE COLITIS WITH REMOTE NEOPLASIA						Y							1							COLON OR RECTUM																																																						
+GSE37283	MH	IBD-00491	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE37283	MH	IBD-00491	2				ULCERATIVE COLITIS WITH REMOTE NEOPLASIA						Y							1							COLON OR RECTUM																																																						
+GSE3629	MH	IBD-00499	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00499	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00500	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00500	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00501	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00501	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00502	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00502	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00503	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00503	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00504	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00504	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00505	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00505	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00506	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00506	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00507	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00507	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00508	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00508	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00509	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00509	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						Y							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00510	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00510	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00511	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00511	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00512	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00512	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00513	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00513	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						Y							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00514	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00514	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						Y							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00515	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00515	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00516	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00516	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00517	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00517	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00518	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00518	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00519	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00519	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00520	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00520	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00521	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00521	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00522	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00522	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00523	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00523	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00524	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00524	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00525	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00525	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00526	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00526	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						Y							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00527	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00527	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00528	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00528	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00529	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00529	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						Y							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00530	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00530	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00531	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00531	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00532	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00532	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						Y							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00533	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00533	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00534	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00534	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00535	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00535	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00536	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00536	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00537	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00537	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						Y							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00539	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00539	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						Y							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00540	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00540	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						Y							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00541	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00541	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00542	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00542	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00543	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00543	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00544	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00544	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00545	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00545	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00546	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00546	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00547	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00547	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00548	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00548	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00549	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00549	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+E-MTAB-331	MH	IBD-00550	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00551	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00551	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00552	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00552	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						N							1							LARGE INTESTINE																																																						
+GSE3629	MH	IBD-00553	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE3629	MH	IBD-00553	2				ULCERATIVE COLITIS WITH CANCER AND/OR DYSPLASIA						Y							1							LARGE INTESTINE																																																						
+GSE21231	MH	IBD-00554	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00555	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00556	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00557	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00558	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00559	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00560	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00561	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00562	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00563	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00564	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00565	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00566	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00567	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00568	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00569	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00570	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00571	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00572	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00573	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00574	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00575	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00576	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00577	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00578	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00579	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00580	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00581	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00582	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00583	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00584	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00585	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00586	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00587	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00588	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00589	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00590	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00591	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00592	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE21231	MH	IBD-00593	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE22619	MH	IBD-00595	1				ULCERATIVE COLITIS						Y							1																																														P15Y															
+GSE22619	MH	IBD-00595	2				ULCERATIVE COLITIS						Y							1							MULTIPLE																																																						
+GSE22619	MH	IBD-00597	1				ULCERATIVE COLITIS						Y							1																																														P6Y															
+GSE22619	MH	IBD-00597	2				ULCERATIVE COLITIS						Y							1							COLON																																																						
+GSE22619	MH	IBD-00599	1				ULCERATIVE COLITIS						Y							1																																														P5Y															
+GSE22619	MH	IBD-00599	2				ULCERATIVE COLITIS						Y							1							COLON																																																						
+GSE22619	MH	IBD-00601	1				ULCERATIVE COLITIS						Y							1																																														P5Y															
+GSE22619	MH	IBD-00601	2				ULCERATIVE COLITIS						Y							1							COLON																																																						
+GSE22619	MH	IBD-00603	1				ULCERATIVE COLITIS						Y							1																																														P14Y															
+GSE22619	MH	IBD-00605	1				ULCERATIVE COLITIS						Y							1																																														P3Y															
+GSE22619	MH	IBD-00607	1				ULCERATIVE COLITIS						Y							1																																														P4Y															
+GSE22619	MH	IBD-00607	2				ULCERATIVE COLITIS						Y							1							MULTIPLE																																																						
+GSE22619	MH	IBD-00609	1				ULCERATIVE COLITIS						Y							1																																														P4Y															
+GSE22619	MH	IBD-00609	2				ULCERATIVE COLITIS						Y							1							COLON																																																						
+GSE13367	MH	IBD-00610	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE13367	MH	IBD-00611	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE13367	MH	IBD-00612	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE13367	MH	IBD-00613	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE13367	MH	IBD-00614	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE13367	MH	IBD-00615	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE13367	MH	IBD-00616	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE13367	MH	IBD-00617	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE13367	MH	IBD-00630	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE13367	MH	IBD-00632	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE13367	MH	IBD-00633	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE13367	MH	IBD-00635	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE13367	MH	IBD-00636	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE13367	MH	IBD-00638	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE13367	MH	IBD-00639	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE13367	MH	IBD-00641	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE13367	MH	IBD-00643	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE9452	MH	IBD-00672	1				ULCERATIVE COLITIS						Y							1																																														P5Y															
+GSE9452	MH	IBD-00674	1				ULCERATIVE COLITIS						Y							1																																														P0Y															
+GSE9452	MH	IBD-00676	1				ULCERATIVE COLITIS						Y							1																																														P12Y															
+GSE9452	MH	IBD-00678	1				ULCERATIVE COLITIS						Y							1																																														P9Y															
+GSE9452	MH	IBD-00680	1				ULCERATIVE COLITIS						Y							1																																														P20Y															
+GSE9452	MH	IBD-00682	1				ULCERATIVE COLITIS						Y							1																																														P20Y															
+GSE9452	MH	IBD-00684	1				ULCERATIVE COLITIS						Y							1																																														P14Y															
+GSE9452	MH	IBD-00686	1				ULCERATIVE COLITIS						Y							1																																														P2Y															
+GSE9452	MH	IBD-00688	1				ULCERATIVE COLITIS						Y							1																																														P30Y															
+GSE9452	MH	IBD-00690	1				ULCERATIVE COLITIS						Y							1																																														P12Y															
+GSE9452	MH	IBD-00692	1				ULCERATIVE COLITIS						Y							1																																														P10Y															
+GSE9452	MH	IBD-00694	1				ULCERATIVE COLITIS						Y							1																																														P20Y															
+GSE9452	MH	IBD-00695	1				ULCERATIVE COLITIS						Y							1																																														P20Y															
+GSE9452	MH	IBD-00697	1				ULCERATIVE COLITIS						Y							1																																														P14Y															
+GSE9452	MH	IBD-00698	1				ULCERATIVE COLITIS						Y							1																																														P15Y															
+GSE9452	MH	IBD-00700	1				ULCERATIVE COLITIS						Y							1																																														P1Y															
+GSE9452	MH	IBD-00701	1				ULCERATIVE COLITIS						Y							1																																														P30Y															
+GSE9452	MH	IBD-00703	1				ULCERATIVE COLITIS						Y							1																																														P9Y															
+GSE9452	MH	IBD-00705	1				ULCERATIVE COLITIS						Y							1																																														P7Y															
+GSE9452	MH	IBD-00707	1				ULCERATIVE COLITIS						Y							1																																														P1Y															
+GSE9452	MH	IBD-00709	1				ULCERATIVE COLITIS						Y							1																																														P10Y															
+GSE10616	MH	IBD-00710	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE10616	MH	IBD-00711	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE10616	MH	IBD-00713	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE10616	MH	IBD-00714	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE10616	MH	IBD-00715	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE10616	MH	IBD-00717	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE10616	MH	IBD-00718	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE10616	MH	IBD-00719	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE10616	MH	IBD-00721	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE10616	MH	IBD-00722	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE2461	MH	IBD-00830	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE2461	MH	IBD-00834	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE23597	MH	IBD-00859	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00860	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00861	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00862	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00863	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00864	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00865	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00866	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00867	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00868	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00869	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00870	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00871	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00872	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00873	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00874	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00875	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00876	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00877	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00878	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00879	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00880	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00881	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00882	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00883	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00884	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00885	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00886	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00887	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00888	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00889	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00890	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00891	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00892	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00893	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00894	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00895	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00896	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00897	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00898	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00899	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+GSE23597	MH	IBD-00900	1				ULCERATIVE COLITIS						Y							1																						MODERATE-TO-SEVERE																																							
+E-MTAB-184	MH	IBD-00904	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00904	2				PRIMARY SCLEROSING CHOLANGITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00905	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00905	2				PRIMARY SCLEROSING CHOLANGITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00906	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00906	2				PRIMARY SCLEROSING CHOLANGITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00908	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00909	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00910	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00911	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00912	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00913	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00914	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00915	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00916	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00917	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00918	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00919	1				MICROSCOPIC COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00920	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00921	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00922	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00923	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00924	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00925	1				MICROSCOPIC COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00926	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00927	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00928	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00929	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00930	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00931	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00932	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00933	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00934	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00935	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00936	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00937	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00938	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00939	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00940	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00941	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00942	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00943	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00944	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00945	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00946	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00947	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00948	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE16879	MH	IBD-00949	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00950	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00951	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00952	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00953	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00954	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00955	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00956	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00957	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00959	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00961	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00963	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00965	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00967	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00970	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00971	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00973	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00974	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00977	1				ULCERATIVE PROCTITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00979	1				ULCERATIVE PROCTITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00982	1				ULCERATIVE PROCTITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00984	1				ULCERATIVE PROCTITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00987	1				ULCERATIVE PROCTITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00990	1				ULCERATIVE PROCTITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00991	1				ULCERATIVE PROCTITIS						Y							1																																																													
+E-MTAB-184	MH	IBD-00992	1				ULCERATIVE PROCTITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01028	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01030	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01031	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01033	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01034	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01036	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01037	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01039	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01040	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01042	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01043	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01045	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01047	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01048	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01050	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01051	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01053	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01054	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01056	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01057	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01059	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01060	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01062	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01063	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01065	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01066	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01067	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01068	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01069	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01070	1				ULCERATIVE COLITIS						Y							1																																																													
+E-MTAB-331	MH	IBD-01075	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE32148	MH	IBD-01225	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE32148	MH	IBD-01226	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE32148	MH	IBD-01227	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE32148	MH	IBD-01228	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE32148	MH	IBD-01229	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE32148	MH	IBD-01230	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE32148	MH	IBD-01231	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE32148	MH	IBD-01232	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE32148	MH	IBD-01233	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE32148	MH	IBD-01234	1				ULCERATIVE COLITIS						Y							1																																																													
+GSE32148	MH	IBD-01235	1				ULCERATIVE COLITIS						Y							1																																																													

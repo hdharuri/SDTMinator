@@ -1,0 +1,503 @@
+STUDYID	DOMAIN	USUBJID	EXSEQ	EXGRPID	EXREFID	EXSPID	EXLNKID	EXLNKGRP	EXTRT	EXCAT	EXSCAT	EXDOSE	EXDOSTXT	EXDOSU	EXDOSFRM	EXDOSFRQ	EXDOSRGM	EXROUTE	EXLOT	EXLOC	EXLAT	EXDIR	EXFAST	EXADJ	EPOCH	EXSTDTC	EXENDTC	EXSTDY	EXENDY	EXDUR	EXTPT	EXTPTNUM	EXELTM	EXTPTREF	EXRFTDTC	EXMODIFY	EXDECOD	EXMOOD	EXPRESP	EXOCCUR	EXSTAT	EXREASND	EXINDC	EXCLAS	EXCLASCD	EXDOSTOT	EXPORTOT	EXPSTRG	EXPSTRGU	VISITNUM	VISIT	VISITDY	EXSTRF	EXENRF	EXSTRTPT	EXSTTPT	EXENRTPT	EXENTPT	EXTRTV	EXVAMT	EXVAMTU	POOLID	SPDEVID	TAETORD	EXDTC	EXDY	EXEVLINT	EXEVINTX	EXSTINT	EXENINT	EXDETECT
+GSE12051	EX	RA-00038	1						487061																					P14D																									1																
+GSE12051	EX	RA-00039	1						487061																					P14D																									1																
+GSE12051	EX	RA-00040	1						487061																					P14D																									1																
+GSE12051	EX	RA-00041	1						487061																					P14D																									1																
+GSE12051	EX	RA-00042	1						487061																					P14D																									1																
+GSE12051	EX	RA-00043	1						487061																					P14D																									1																
+GSE12051	EX	RA-00044	1						487061																					P14D																									1																
+GSE12051	EX	RA-00045	1						487061																					P14D																									1																
+GSE12051	EX	RA-00046	1						487061																					P14D																									1																
+GSE12051	EX	RA-00047	1						487061																					P14D																									1																
+GSE12051	EX	RA-00048	1						487061																					P14D																									1																
+GSE12051	EX	RA-00049	1						487061																					P14D																									1																
+GSE12051	EX	RA-00050	1						487061																					P14D																									1																
+GSE12051	EX	RA-00051	1						487061																					P14D																									1																
+GSE12051	EX	RA-00052	1						487061																					P14D																									1																
+GSE12051	EX	RA-00053	1						487061																					P14D																									1																
+GSE12051	EX	RA-00054	1						487061																					P14D																									1																
+GSE12051	EX	RA-00055	1						487061																					P14D																									1																
+GSE12051	EX	RA-00056	1						487061																					P14D																									1																
+GSE12051	EX	RA-00057	1						487061																					P14D																									1																
+GSE12051	EX	RA-00058	1						487061																					P14D																									1																
+GSE12051	EX	RA-00059	1						487061																					P14D																									1																
+GSE12051	EX	RA-00060	1						487061																					P14D																									1																
+GSE12051	EX	RA-00061	1						487061																					P14D																									1																
+GSE12051	EX	RA-00062	1						487061																					P14D																									1																
+GSE12051	EX	RA-00063	1						487061																					P14D																									1																
+GSE12051	EX	RA-00064	1						487061																					P14D																									1																
+GSE12051	EX	RA-00065	1						487061																					P14D																									1																
+GSE12051	EX	RA-00066	1						487061																					P14D																									1																
+GSE12051	EX	RA-00067	1						487061																					P14D																									1																
+GSE12051	EX	RA-00068	1						487061																					P14D																									1																
+GSE12051	EX	RA-00069	1						487061																					P14D																									1																
+GSE12051	EX	RA-00070	1						487061																					P14D																									1																
+GSE12051	EX	RA-00071	1						487061																					P14D																									1																
+GSE12051	EX	RA-00072	1						487061																					P14D																									1																
+GSE12051	EX	RA-00073	1						487061																					P14D																									1																
+GSE12051	EX	RA-00074	1						487061																					P14D																									1																
+GSE12051	EX	RA-00075	1						487061																					P14D																									1																
+GSE12051	EX	RA-00076	1						487061																					P14D																									1																
+GSE12051	EX	RA-00077	1						487061																					P14D																									1																
+GSE12051	EX	RA-00078	1						487061																					P14D																									1																
+GSE12051	EX	RA-00079	1						487061																					P14D																									1																
+GSE12051	EX	RA-00080	1						487061																					P14D																									1																
+GSE12051	EX	RA-00081	1						487061																					P14D																									1																
+GSE15258	EX	RA-00122	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00123	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00124	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00125	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00126	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00127	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00128	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00129	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00130	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00131	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00132	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00133	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00134	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00135	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00136	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00137	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00138	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00139	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00140	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00141	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00142	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00143	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00144	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00145	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00146	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00147	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00148	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00149	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00150	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00151	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00152	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00153	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00154	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00155	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00156	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00157	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00158	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00159	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00160	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00161	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00162	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00163	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00164	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00165	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00166	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00167	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00168	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00169	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00170	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00171	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00172	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00173	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00174	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00175	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00176	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00177	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00178	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00179	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00180	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00181	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00182	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00183	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00184	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00185	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00186	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00187	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00188	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00189	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00190	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00191	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00192	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00193	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00194	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00195	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00196	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00197	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00198	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00199	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00200	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00201	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00202	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00203	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00204	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00205	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00206	1						anti-TNF therapy, NOS																																														1																
+GSE15258	EX	RA-00207	1						anti-TNF therapy, NOS																																														1																
+GSE15316	EX	RA-00208	1						452640																																														1																
+GSE15316	EX	RA-00209	1						452640																																														1																
+GSE15316	EX	RA-00210	1						452640																																														1																
+GSE15316	EX	RA-00211	1						452640																																														1																
+GSE15316	EX	RA-00212	1						452640																																														1																
+GSE15316	EX	RA-00213	1						452640																																														1																
+GSE15316	EX	RA-00214	1						452640																																														1																
+GSE15316	EX	RA-00215	1						452640																																														1																
+GSE15316	EX	RA-00216	1						452640																																														1																
+GSE15602	EX	RA-00250	1						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									1																
+GSE15602	EX	RA-00250	2						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									14																
+GSE15602	EX	RA-00250	3						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									28																
+GSE15602	EX	RA-00250	4						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									42																
+GSE15602	EX	RA-00250	5						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									56																
+GSE15602	EX	RA-00250	6						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									70																
+GSE15602	EX	RA-00250	7						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									84																
+GSE15602	EX	RA-00251	1						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									1																
+GSE15602	EX	RA-00251	2						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									14																
+GSE15602	EX	RA-00251	3						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									28																
+GSE15602	EX	RA-00251	4						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									42																
+GSE15602	EX	RA-00251	5						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									56																
+GSE15602	EX	RA-00251	6						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									70																
+GSE15602	EX	RA-00251	7						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									84																
+GSE15602	EX	RA-00252	1						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									1																
+GSE15602	EX	RA-00252	2						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									14																
+GSE15602	EX	RA-00252	3						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									28																
+GSE15602	EX	RA-00252	4						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									42																
+GSE15602	EX	RA-00252	5						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									56																
+GSE15602	EX	RA-00252	6						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									70																
+GSE15602	EX	RA-00252	7						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									84																
+GSE15602	EX	RA-00253	1						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									1																
+GSE15602	EX	RA-00253	2						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									14																
+GSE15602	EX	RA-00253	3						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									28																
+GSE15602	EX	RA-00253	4						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									42																
+GSE15602	EX	RA-00253	5						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									56																
+GSE15602	EX	RA-00253	6						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									70																
+GSE15602	EX	RA-00253	7						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									84																
+GSE15602	EX	RA-00254	1						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									1																
+GSE15602	EX	RA-00254	2						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									14																
+GSE15602	EX	RA-00254	3						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									28																
+GSE15602	EX	RA-00254	4						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									42																
+GSE15602	EX	RA-00254	5						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									56																
+GSE15602	EX	RA-00254	6						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									70																
+GSE15602	EX	RA-00254	7						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									84																
+GSE15602	EX	RA-00255	1						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									1																
+GSE15602	EX	RA-00255	2						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									14																
+GSE15602	EX	RA-00255	3						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									28																
+GSE15602	EX	RA-00255	4						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									42																
+GSE15602	EX	RA-00255	5						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									56																
+GSE15602	EX	RA-00255	6						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									70																
+GSE15602	EX	RA-00255	7						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									84																
+GSE15602	EX	RA-00256	1						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									1																
+GSE15602	EX	RA-00256	2						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									14																
+GSE15602	EX	RA-00256	3						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									28																
+GSE15602	EX	RA-00256	4						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									42																
+GSE15602	EX	RA-00256	5						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									56																
+GSE15602	EX	RA-00256	6						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									70																
+GSE15602	EX	RA-00256	7						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									84																
+GSE15602	EX	RA-00257	1						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									1																
+GSE15602	EX	RA-00257	2						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									14																
+GSE15602	EX	RA-00257	3						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									28																
+GSE15602	EX	RA-00257	4						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									42																
+GSE15602	EX	RA-00257	5						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									56																
+GSE15602	EX	RA-00257	6						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									70																
+GSE15602	EX	RA-00257	7						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									84																
+GSE15602	EX	RA-00258	1						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									1																
+GSE15602	EX	RA-00258	2						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									14																
+GSE15602	EX	RA-00258	3						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									28																
+GSE15602	EX	RA-00258	4						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									42																
+GSE15602	EX	RA-00258	5						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									56																
+GSE15602	EX	RA-00258	6						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									70																
+GSE15602	EX	RA-00258	7						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									84																
+GSE15602	EX	RA-00259	1						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									1																
+GSE15602	EX	RA-00259	2						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									14																
+GSE15602	EX	RA-00259	3						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									28																
+GSE15602	EX	RA-00259	4						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									42																
+GSE15602	EX	RA-00259	5						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									56																
+GSE15602	EX	RA-00259	6						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									70																
+GSE15602	EX	RA-00259	7						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									84																
+GSE15602	EX	RA-00260	1						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									1																
+GSE15602	EX	RA-00260	2						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									14																
+GSE15602	EX	RA-00260	3						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									28																
+GSE15602	EX	RA-00260	4						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									42																
+GSE15602	EX	RA-00260	5						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									56																
+GSE15602	EX	RA-00260	6						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									70																
+GSE15602	EX	RA-00260	7						558088			40		mg		EVERY 2 WEEKS		SUBCUTANEOUS												P14W																									84																
+GSE20690	EX	RA-00333	1						487061																																														1																
+GSE20690	EX	RA-00334	1						487061																																														1																
+GSE20690	EX	RA-00335	1						487061																																														1																
+GSE20690	EX	RA-00336	1						487061																																														1																
+GSE20690	EX	RA-00337	1						487061																																														1																
+GSE20690	EX	RA-00338	1						487061																																														1																
+GSE20690	EX	RA-00339	1						487061																																														1																
+GSE20690	EX	RA-00340	1						487061																																														1																
+GSE20690	EX	RA-00341	1						487061																																														1																
+GSE20690	EX	RA-00342	1						487061																																														1																
+GSE20690	EX	RA-00343	1						487061																																														1																
+GSE20690	EX	RA-00344	1						487061																																														1																
+GSE20690	EX	RA-00345	1						487061																																														1																
+GSE20690	EX	RA-00346	1						487061																																														1																
+GSE20690	EX	RA-00347	1						487061																																														1																
+GSE20690	EX	RA-00348	1						487061																																														1																
+GSE20690	EX	RA-00349	1						487061																																														1																
+GSE20690	EX	RA-00350	1						487061																																														1																
+GSE20690	EX	RA-00351	1						487061																																														1																
+GSE20690	EX	RA-00352	1						487061																																														1																
+GSE20690	EX	RA-00353	1						487061																																														1																
+GSE20690	EX	RA-00354	1						487061																																														1																
+GSE20690	EX	RA-00355	1						487061																																														1																
+GSE20690	EX	RA-00356	1						487061																																														1																
+GSE20690	EX	RA-00357	1						487061																																														1																
+GSE20690	EX	RA-00358	1						487061																																														1																
+GSE20690	EX	RA-00359	1						487061																																														1																
+GSE20690	EX	RA-00360	1						487061																																														1																
+GSE20690	EX	RA-00361	1						487061																																														1																
+GSE20690	EX	RA-00362	1						487061																																														1																
+GSE20690	EX	RA-00363	1						487061																																														1																
+GSE20690	EX	RA-00364	1						487061																																														1																
+GSE20690	EX	RA-00365	1						487061																																														1																
+GSE20690	EX	RA-00366	1						487061																																														1																
+GSE20690	EX	RA-00367	1						487061																																														1																
+GSE20690	EX	RA-00368	1						487061																																														1																
+GSE20690	EX	RA-00369	1						487061																																														1																
+GSE20690	EX	RA-00370	1						487061																																														1																
+GSE20690	EX	RA-00371	1						487061																																														1																
+GSE20690	EX	RA-00372	1						487061																																														1																
+GSE20690	EX	RA-00373	1						487061																																														1																
+GSE20690	EX	RA-00374	1						487061																																														1																
+GSE20690	EX	RA-00375	1						487061																																														1																
+GSE20690	EX	RA-00376	1						487061																																														1																
+GSE20690	EX	RA-00377	1						487061																																														1																
+GSE20690	EX	RA-00378	1						487061																																														1																
+GSE20690	EX	RA-00379	1						487061																																														1																
+GSE20690	EX	RA-00380	1						487061																																														1																
+GSE20690	EX	RA-00381	1						487061																																														1																
+GSE20690	EX	RA-00382	1						487061																																														1																
+GSE20690	EX	RA-00383	1						487061																																														1																
+GSE20690	EX	RA-00384	1						487061																																														1																
+GSE20690	EX	RA-00385	1						487061																																														1																
+GSE20690	EX	RA-00386	1						487061																																														1																
+GSE20690	EX	RA-00387	1						487061																																														1																
+GSE20690	EX	RA-00388	1						487061																																														1																
+GSE20690	EX	RA-00389	1						487061																																														1																
+GSE20690	EX	RA-00390	1						487061																																														1																
+GSE20690	EX	RA-00391	1						487061																																														1																
+GSE20690	EX	RA-00392	1						487061																																														1																
+GSE20690	EX	RA-00393	1						487061																																														1																
+GSE20690	EX	RA-00394	1						487061																																														1																
+GSE20690	EX	RA-00395	1						487061																																														1																
+GSE20690	EX	RA-00396	1						487061																																														1																
+GSE20690	EX	RA-00397	1						487061																																														1																
+GSE20690	EX	RA-00398	1						487061																																														1																
+GSE20690	EX	RA-00399	1						487061																																														1																
+GSE20690	EX	RA-00400	1						487061																																														1																
+GSE24742	EX	RA-00401	1						452640			1000		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00401	2						259320			125		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00401	3						452640			1000		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00401	4						259320			125		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00402	1						452640			1000		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00402	2						259320			125		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00402	3						452640			1000		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00402	4						259320			125		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00403	1						452640			1000		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00403	2						259320			125		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00403	3						452640			1000		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00403	4						259320			125		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00404	1						452640			1000		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00404	2						259320			125		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00404	3						452640			1000		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00404	4						259320			125		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00405	1						452640			1000		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00405	2						259320			125		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00405	3						452640			1000		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00405	4						259320			125		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00406	1						452640			1000		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00406	2						259320			125		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00406	3						452640			1000		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00406	4						259320			125		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00407	1						452640			1000		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00407	2						259320			125		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00407	3						452640			1000		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00407	4						259320			125		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00408	1						452640			1000		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00408	2						259320			125		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00408	3						452640			1000		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00408	4						259320			125		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00409	1						452640			1000		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00409	2						259320			125		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00409	3						452640			1000		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00409	4						259320			125		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00410	1						452640			1000		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00410	2						259320			125		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00410	3						452640			1000		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00410	4						259320			125		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00411	1						452640			1000		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00411	2						259320			125		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00411	3						452640			1000		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00411	4						259320			125		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00412	1						452640			1000		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00412	2						259320			125		mg		QD		INTRAVENOUS																																					1																
+GSE24742	EX	RA-00412	3						452640			1000		mg		QD		INTRAVENOUS																																					14																
+GSE24742	EX	RA-00412	4						259320			125		mg		QD		INTRAVENOUS																																					14																
+GSE25160	EX	RA-00413	1						624605																																														1																
+GSE25160	EX	RA-00413	2						624605																																														28																
+GSE25160	EX	RA-00414	1						624605																																														1																
+GSE25160	EX	RA-00414	2						624605																																														28																
+GSE25160	EX	RA-00415	1						624605																																														1																
+GSE25160	EX	RA-00415	2						624605																																														28																
+GSE25160	EX	RA-00416	1						624605																																														1																
+GSE25160	EX	RA-00416	2						624605																																														28																
+GSE25160	EX	RA-00417	1						624605																																														1																
+GSE25160	EX	RA-00417	2						624605																																														28																
+GSE25160	EX	RA-00418	1						624605																																														1																
+GSE25160	EX	RA-00418	2						624605																																														28																
+GSE25160	EX	RA-00419	1						624605																																														1																
+GSE25160	EX	RA-00419	2						624605																																														28																
+GSE25160	EX	RA-00420	1						624605																																														1																
+GSE25160	EX	RA-00420	2						624605																																														28																
+GSE25160	EX	RA-00421	1						624605																																														1																
+GSE25160	EX	RA-00421	2						624605																																														28																
+GSE25160	EX	RA-00422	1						624605																																														1																
+GSE25160	EX	RA-00422	2						624605																																														28																
+GSE25160	EX	RA-00423	1						624605																																														1																
+GSE25160	EX	RA-00423	2						624605																																														28																
+GSE25160	EX	RA-00424	1						624605																																														1																
+GSE25160	EX	RA-00424	2						624605																																														28																
+GSE25160	EX	RA-00425	1						624605																																														1																
+GSE25160	EX	RA-00425	2						624605																																														28																
+GSE37107	EX	RA-00442	1						452640			1000		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00442	2						257776			2		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00442	3						259320			100		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00442	4						254336			1000		mg		Days 1 and 15		ORAL																																					1																
+GSE37107	EX	RA-00443	1						452640			1000		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00443	2						257776			2		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00443	3						259320			100		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00443	4						254336			1000		mg		Days 1 and 15		ORAL																																					1																
+GSE37107	EX	RA-00444	1						452640			1000		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00444	2						257776			2		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00444	3						259320			100		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00444	4						254336			1000		mg		Days 1 and 15		ORAL																																					1																
+GSE37107	EX	RA-00445	1						452640			1000		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00445	2						257776			2		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00445	3						259320			100		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00445	4						254336			1000		mg		Days 1 and 15		ORAL																																					1																
+GSE37107	EX	RA-00446	1						452640			1000		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00446	2						257776			2		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00446	3						259320			100		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00446	4						254336			1000		mg		Days 1 and 15		ORAL																																					1																
+GSE37107	EX	RA-00447	1						452640			1000		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00447	2						257776			2		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00447	3						259320			100		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00447	4						254336			1000		mg		Days 1 and 15		ORAL																																					1																
+GSE37107	EX	RA-00448	1						452640			1000		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00448	2						257776			2		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00448	3						259320			100		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00448	4						254336			1000		mg		Days 1 and 15		ORAL																																					1																
+GSE37107	EX	RA-00449	1						452640			1000		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00449	2						257776			2		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00449	3						259320			100		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00449	4						254336			1000		mg		Days 1 and 15		ORAL																																					1																
+GSE37107	EX	RA-00450	1						452640			1000		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00450	2						257776			2		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00450	3						259320			100		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00450	4						254336			1000		mg		Days 1 and 15		ORAL																																					1																
+GSE37107	EX	RA-00451	1						452640			1000		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00451	2						257776			2		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00451	3						259320			100		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00451	4						254336			1000		mg		Days 1 and 15		ORAL																																					1																
+GSE37107	EX	RA-00452	1						452640			1000		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00452	2						257776			2		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00452	3						259320			100		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00452	4						254336			1000		mg		Days 1 and 15		ORAL																																					1																
+GSE37107	EX	RA-00453	1						452640			1000		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00453	2						257776			2		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00453	3						259320			100		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00453	4						254336			1000		mg		Days 1 and 15		ORAL																																					1																
+GSE37107	EX	RA-00454	1						452640			1000		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00454	2						257776			2		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00454	3						259320			100		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00454	4						254336			1000		mg		Days 1 and 15		ORAL																																					1																
+GSE37107	EX	RA-00455	1						452640			1000		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00455	2						257776			2		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00455	3						259320			100		mg		Days 1 and 15		INTRAVENOUS																																					1																
+GSE37107	EX	RA-00455	4						254336			1000		mg		Days 1 and 15		ORAL																																					1																
+E-MTAB-11	EX	RA-00540	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00540	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00541	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00541	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00542	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00542	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00542	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00543	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00543	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00543	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00544	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00544	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00544	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00545	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00545	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00545	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00546	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00546	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00546	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00547	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00547	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00547	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00548	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00548	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00548	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00549	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00549	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00549	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00550	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00550	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00550	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00551	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00551	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00551	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00552	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00552	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00552	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00553	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00553	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00553	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00554	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00554	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00554	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00555	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00555	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00555	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00556	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00556	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00556	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00557	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00557	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00557	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00558	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00558	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00558	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00559	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00559	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00559	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00560	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00560	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00560	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00561	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00561	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00561	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00562	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00562	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00562	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00563	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00563	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00563	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00564	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00564	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00564	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00565	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00565	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00565	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00566	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00566	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00566	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00567	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00567	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00567	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00568	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00568	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00568	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																
+E-MTAB-11	EX	RA-00569	1						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					0																
+E-MTAB-11	EX	RA-00569	2						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					3																
+E-MTAB-11	EX	RA-00569	3						2390225			2X25		mg		1 TIME PER WEEK		SUBCUTANEOUS																																					6																

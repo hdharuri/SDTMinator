@@ -1,0 +1,560 @@
+STUDYID	DOMAIN	USUBJID	CESEQ	CEGRPID	CEREFID	CESPID	CETERM	CEDECOD	CECAT	CESCAT	CEPRESP	CEOCCUR	CESTAT	CEREASND	CEBODSYS	CESEV	CEDTC	CESTDTC	CEENDTC	CEDY	CESTRF	CEENRF	CESTRTPT	CESTTPT	CEENRTPT	CEENTPT	CEMODIFY	CELLT	CELLTCD	CEPTCD	CEHLT	CEHLTCD	CEHLGT	CEHLGTCD	CEBDSYCD	CESOC	CESOCCD	CELOC	CELAT	CEDIR	CEPORTOT	CEPARTY	CEPRTYID	CESER	CEACN	CEACNOTH	CEACNDEV	CEREL	CERELNST	CEPATT	CEOUT	CESCAN	CESCONG	CESDISAB	CESDTH	CESHOSP	CESLIFE	CESOD	CESMIE	CECONTRT	CETOX	CETOXGR	EPOCH	CESTDY	CEENDY	CEDUR	POOLID	SPDEVID	CELNKID	CELNKGRP	VISITNUM	VISIT	VISITDY	TAETORD	CETPT	CETPTNUM	CEELTM	CETPTREF	CERFTDTC	CEEVLINT	CEEVINTX	CESTINT	CEENINT
+GSE24080	CE	MM-00801	1				Disease progression/relapse					No								94.33333333																																																															
+GSE24080	CE	MM-00802	1				Disease progression/relapse					No								96.86666667																																																															
+GSE24080	CE	MM-00803	1				Disease progression/relapse					No								88.5																																																															
+GSE24080	CE	MM-00804	1				Disease progression/relapse					Yes					8/21/2006			76.06666667																																																															
+GSE24080	CE	MM-00805	1				Disease progression/relapse					Yes								42.66666667																																																															
+GSE24080	CE	MM-00806	1				Disease progression/relapse					No								90.8																																																															
+GSE24080	CE	MM-00807	1				Disease progression/relapse					Yes					3/21/2003			33.13333333																																																															
+GSE24080	CE	MM-00808	1				Disease progression/relapse					Yes					4/24/2002			21.26666667																																																															
+GSE24080	CE	MM-00809	1				Disease progression/relapse					No								91.9																																																															
+GSE24080	CE	MM-00810	1				Disease progression/relapse					Yes					3/4/2008			92.6																																																															
+GSE24080	CE	MM-00811	1				Disease progression/relapse					Yes					6/5/2003			34.8																																																															
+GSE24080	CE	MM-00812	1				Disease progression/relapse					Yes								7.8																																																															
+GSE24080	CE	MM-00813	1				Disease progression/relapse					No								84.7																																																															
+GSE24080	CE	MM-00814	1				Disease progression/relapse					Yes					10/7/2004			50.13333333																																																															
+GSE24080	CE	MM-00815	1				Disease progression/relapse					Yes								8.866666667																																																															
+GSE24080	CE	MM-00816	1				Disease progression/relapse					Yes					8/27/2002			23																																																															
+GSE24080	CE	MM-00817	1				Disease progression/relapse					Yes								20.13333333																																																															
+GSE24080	CE	MM-00818	1				Disease progression/relapse					Yes					3/9/2007			77.96666667																																																															
+GSE24080	CE	MM-00819	1				Disease progression/relapse					Yes								29.2																																																															
+GSE24080	CE	MM-00820	1				Disease progression/relapse					Yes					2/15/2005			52.46666667																																																															
+GSE24080	CE	MM-00821	1				Disease progression/relapse					Yes					1/4/2004			39.06666667																																																															
+GSE24080	CE	MM-00822	1				Disease progression/relapse					No								92.7																																																															
+GSE24080	CE	MM-00823	1				Disease progression/relapse					Yes					4/15/2002			17.63333333																																																															
+GSE24080	CE	MM-00824	1				Disease progression/relapse					No								90.96666667																																																															
+GSE24080	CE	MM-00825	1				Disease progression/relapse					Yes					5/31/2002			18.23333333																																																															
+GSE24080	CE	MM-00826	1				Disease progression/relapse					Yes								39.26666667																																																															
+GSE24080	CE	MM-00827	1				Disease progression/relapse					Yes								1.6																																																															
+GSE24080	CE	MM-00828	1				Disease progression/relapse					No								90.93333333																																																															
+GSE24080	CE	MM-00829	1				Disease progression/relapse					Yes					7/24/2002			18.43333333																																																															
+GSE24080	CE	MM-00830	1				Disease progression/relapse					Yes								44.93333333																																																															
+GSE24080	CE	MM-00831	1				Disease progression/relapse					No								86.5																																																															
+GSE24080	CE	MM-00832	1				Disease progression/relapse					Yes					1/21/2003			21.6																																																															
+GSE24080	CE	MM-00833	1				Disease progression/relapse					Yes					6/7/2006			64.86666667																																																															
+GSE24080	CE	MM-00834	1				Disease progression/relapse					No								81.16666667																																																															
+GSE24080	CE	MM-00835	1				Disease progression/relapse					No								90.63333333																																																															
+GSE24080	CE	MM-00836	1				Disease progression/relapse					Yes					9/25/2002			20.5																																																															
+GSE24080	CE	MM-00837	1				Disease progression/relapse					Yes					2/13/2004			37.7																																																															
+GSE24080	CE	MM-00838	1				Disease progression/relapse					Yes					12/15/2004			46.43333333																																																															
+GSE24080	CE	MM-00839	1				Disease progression/relapse					Yes					5/23/2006			27.03333333																																																															
+GSE24080	CE	MM-00840	1				Disease progression/relapse					Yes					6/13/2002			16.53333333																																																															
+GSE24080	CE	MM-00841	1				Disease progression/relapse					No								52.4																																																															
+GSE24080	CE	MM-00842	1				Disease progression/relapse					No								51.56666667																																																															
+GSE24080	CE	MM-00843	1				Disease progression/relapse					No								50.86666667																																																															
+GSE24080	CE	MM-00844	1				Disease progression/relapse					No								38.7																																																															
+GSE24080	CE	MM-00845	1				Disease progression/relapse					No								48.06666667																																																															
+GSE24080	CE	MM-00846	1				Disease progression/relapse					Yes					10/27/2006			69.63333333																																																															
+GSE24080	CE	MM-00847	1				Disease progression/relapse					No								51.06666667																																																															
+GSE24080	CE	MM-00848	1				Disease progression/relapse					No								50.56666667																																																															
+GSE24080	CE	MM-00849	1				Disease progression/relapse					Yes					6/6/2007			76.36666667																																																															
+GSE24080	CE	MM-00850	1				Disease progression/relapse					Yes					1/23/2007			72.93333333																																																															
+GSE24080	CE	MM-00851	1				Disease progression/relapse					No								51.5																																																															
+GSE24080	CE	MM-00852	1				Disease progression/relapse					No								51.63333333																																																															
+GSE24080	CE	MM-00853	1				Disease progression/relapse					No								51.06666667																																																															
+GSE24080	CE	MM-00854	1				Disease progression/relapse					No								49.66666667																																																															
+GSE24080	CE	MM-00855	1				Disease progression/relapse					No								52.53333333																																																															
+GSE24080	CE	MM-00856	1				Disease progression/relapse					No								46.63333333																																																															
+GSE24080	CE	MM-00857	1				Disease progression/relapse					Yes								1.2																																																															
+GSE24080	CE	MM-00858	1				Disease progression/relapse					Yes					8/12/2004			4.066666667																																																															
+GSE24080	CE	MM-00859	1				Disease progression/relapse					No								51																																																															
+GSE24080	CE	MM-00860	1				Disease progression/relapse					Yes					4/16/2006			25.1																																																															
+GSE24080	CE	MM-00861	1				Disease progression/relapse					No								89.33333333																																																															
+GSE24080	CE	MM-00862	1				Disease progression/relapse					No								49.1																																																															
+GSE24080	CE	MM-00863	1				Disease progression/relapse					No								49.43333333																																																															
+GSE24080	CE	MM-00864	1				Disease progression/relapse					Yes								13.16666667																																																															
+GSE24080	CE	MM-00865	1				Disease progression/relapse					No								49.66666667																																																															
+GSE24080	CE	MM-00866	1				Disease progression/relapse					Yes					11/28/2007			43.1																																																															
+GSE24080	CE	MM-00867	1				Disease progression/relapse					No								49																																																															
+GSE24080	CE	MM-00868	1				Disease progression/relapse					Yes					12/14/2004			7.666666667																																																															
+GSE24080	CE	MM-00869	1				Disease progression/relapse					Yes								21.96666667																																																															
+GSE24080	CE	MM-00870	1				Disease progression/relapse					Yes					8/2/2006			26.36666667																																																															
+GSE24080	CE	MM-00871	1				Disease progression/relapse					Yes								15.6																																																															
+GSE24080	CE	MM-00872	1				Disease progression/relapse					No								47.86666667																																																															
+GSE24080	CE	MM-00873	1				Disease progression/relapse					No								45																																																															
+GSE24080	CE	MM-00874	1				Disease progression/relapse					Yes					11/8/2005			17.7																																																															
+GSE24080	CE	MM-00875	1				Disease progression/relapse					No								49.2																																																															
+GSE24080	CE	MM-00876	1				Disease progression/relapse					No								44.7																																																															
+GSE24080	CE	MM-00877	1				Disease progression/relapse					Yes								14.83333333																																																															
+GSE24080	CE	MM-00878	1				Disease progression/relapse					No								48.23333333																																																															
+GSE24080	CE	MM-00879	1				Disease progression/relapse					No								45.2																																																															
+GSE24080	CE	MM-00880	1				Disease progression/relapse					No								46.13333333																																																															
+GSE24080	CE	MM-00881	1				Disease progression/relapse					No								48.66666667																																																															
+GSE24080	CE	MM-00882	1				Disease progression/relapse					No								40.76666667																																																															
+GSE24080	CE	MM-00883	1				Disease progression/relapse					Yes								4.633333333																																																															
+GSE24080	CE	MM-00884	1				Disease progression/relapse					No								48.16666667																																																															
+GSE24080	CE	MM-00885	1				Disease progression/relapse					No								47.86666667																																																															
+GSE24080	CE	MM-00886	1				Disease progression/relapse					No								48.33333333																																																															
+GSE24080	CE	MM-00887	1				Disease progression/relapse					No								49.83333333																																																															
+GSE24080	CE	MM-00888	1				Disease progression/relapse					No								48.76666667																																																															
+GSE24080	CE	MM-00889	1				Disease progression/relapse					Yes					12/10/2007			43.36666667																																																															
+GSE24080	CE	MM-00890	1				Disease progression/relapse					No								49.86666667																																																															
+GSE24080	CE	MM-00891	1				Disease progression/relapse					No								50.06666667																																																															
+GSE24080	CE	MM-00892	1				Disease progression/relapse					No								49.2																																																															
+GSE24080	CE	MM-00893	1				Disease progression/relapse					No								48.23333333																																																															
+GSE24080	CE	MM-00894	1				Disease progression/relapse					Yes								10.56666667																																																															
+GSE24080	CE	MM-00895	1				Disease progression/relapse					No								47.53333333																																																															
+GSE24080	CE	MM-00896	1				Disease progression/relapse					No								46.7																																																															
+GSE24080	CE	MM-00897	1				Disease progression/relapse					Yes								5.333333333																																																															
+GSE24080	CE	MM-00898	1				Disease progression/relapse					No								47.4																																																															
+GSE24080	CE	MM-00899	1				Disease progression/relapse					Yes					2/12/2008			42.66666667																																																															
+GSE24080	CE	MM-00900	1				Disease progression/relapse					Yes					10/22/2003			33.8																																																															
+GSE24080	CE	MM-00901	1				Disease progression/relapse					No								47.36666667																																																															
+GSE24080	CE	MM-00902	1				Disease progression/relapse					Yes					3/15/2006			20.06666667																																																															
+GSE24080	CE	MM-00903	1				Disease progression/relapse					No								46.66666667																																																															
+GSE24080	CE	MM-00904	1				Disease progression/relapse					No								46.03333333																																																															
+GSE24080	CE	MM-00905	1				Disease progression/relapse					Yes					1/9/2002			17.03333333																																																															
+GSE24080	CE	MM-00906	1				Disease progression/relapse					Yes					7/1/2005			10.96666667																																																															
+GSE24080	CE	MM-00907	1				Disease progression/relapse					No								47.23333333																																																															
+GSE24080	CE	MM-00908	1				Disease progression/relapse					No								43.83333333																																																															
+GSE24080	CE	MM-00909	1				Disease progression/relapse					Yes					3/1/2007			31.46666667																																																															
+GSE24080	CE	MM-00910	1				Disease progression/relapse					No								47.46666667																																																															
+GSE24080	CE	MM-00911	1				Disease progression/relapse					No								46.26666667																																																															
+GSE24080	CE	MM-00912	1				Disease progression/relapse					Yes					4/27/2007			33.23333333																																																															
+GSE24080	CE	MM-00913	1				Disease progression/relapse					Yes								35																																																															
+GSE24080	CE	MM-00914	1				Disease progression/relapse					Yes					12/30/2004			4.533333333																																																															
+GSE24080	CE	MM-00915	1				Disease progression/relapse					Yes					6/7/2006			68.6																																																															
+GSE24080	CE	MM-00916	1				Disease progression/relapse					No								45.86666667																																																															
+GSE24080	CE	MM-00917	1				Disease progression/relapse					No								44.46666667																																																															
+GSE24080	CE	MM-00918	1				Disease progression/relapse					Yes								37.73333333																																																															
+GSE24080	CE	MM-00919	1				Disease progression/relapse					No								47.83333333																																																															
+GSE24080	CE	MM-00920	1				Disease progression/relapse					Yes					2/17/2004			38.66666667																																																															
+GSE24080	CE	MM-00921	1				Disease progression/relapse					No								44.53333333																																																															
+GSE24080	CE	MM-00922	1				Disease progression/relapse					Yes					3/22/2004			39.86666667																																																															
+GSE24080	CE	MM-00923	1				Disease progression/relapse					No								91.26666667																																																															
+GSE24080	CE	MM-00924	1				Disease progression/relapse					Yes								7.233333333																																																															
+GSE24080	CE	MM-00925	1				Disease progression/relapse					No								45.7																																																															
+GSE24080	CE	MM-00926	1				Disease progression/relapse					Yes					10/19/2007			37.8																																																															
+GSE24080	CE	MM-00927	1				Disease progression/relapse					No								40.53333333																																																															
+GSE24080	CE	MM-00928	1				Disease progression/relapse					No								46.16666667																																																															
+GSE24080	CE	MM-00929	1				Disease progression/relapse					Yes					1/22/2008			41.9																																																															
+GSE24080	CE	MM-00930	1				Disease progression/relapse					Yes								15.13333333																																																															
+GSE24080	CE	MM-00931	1				Disease progression/relapse					No								45																																																															
+GSE24080	CE	MM-00932	1				Disease progression/relapse					Yes					12/15/2003			35.9																																																															
+GSE24080	CE	MM-00933	1				Disease progression/relapse					No								44.16666667																																																															
+GSE24080	CE	MM-00934	1				Disease progression/relapse					Yes					11/2/2006			25.46666667																																																															
+GSE24080	CE	MM-00935	1				Disease progression/relapse					No								45.43333333																																																															
+GSE24080	CE	MM-00936	1				Disease progression/relapse					Yes					1/9/2002			10.06666667																																																															
+GSE24080	CE	MM-00937	1				Disease progression/relapse					No								43.5																																																															
+GSE24080	CE	MM-00938	1				Disease progression/relapse					No								43.9																																																															
+GSE24080	CE	MM-00939	1				Disease progression/relapse					Yes					3/11/2005			4.666666667																																																															
+GSE24080	CE	MM-00940	1				Disease progression/relapse					Yes					3/3/2005			4.166666667																																																															
+GSE24080	CE	MM-00941	1				Disease progression/relapse					No								43.26666667																																																															
+GSE24080	CE	MM-00942	1				Disease progression/relapse					No								44.13333333																																																															
+GSE24080	CE	MM-00943	1				Disease progression/relapse					Yes								36.73333333																																																															
+GSE24080	CE	MM-00944	1				Disease progression/relapse					Yes					4/2/2007			28.7																																																															
+GSE24080	CE	MM-00945	1				Disease progression/relapse					No								43.16666667																																																															
+GSE24080	CE	MM-00946	1				Disease progression/relapse					Yes								8.2																																																															
+GSE24080	CE	MM-00947	1				Disease progression/relapse					No								88.4																																																															
+GSE24080	CE	MM-00948	1				Disease progression/relapse					Yes								34.4																																																															
+GSE24080	CE	MM-00949	1				Disease progression/relapse					No								41.7																																																															
+GSE24080	CE	MM-00950	1				Disease progression/relapse					No								43.56666667																																																															
+GSE24080	CE	MM-00951	1				Disease progression/relapse					No								43.8																																																															
+GSE24080	CE	MM-00952	1				Disease progression/relapse					No								42.7																																																															
+GSE24080	CE	MM-00953	1				Disease progression/relapse					No								43.76666667																																																															
+GSE24080	CE	MM-00954	1				Disease progression/relapse					No								37.8																																																															
+GSE24080	CE	MM-00955	1				Disease progression/relapse					No								42.7																																																															
+GSE24080	CE	MM-00956	1				Disease progression/relapse					No								41.6																																																															
+GSE24080	CE	MM-00957	1				Disease progression/relapse					No								41.53333333																																																															
+GSE24080	CE	MM-00958	1				Disease progression/relapse					No								42																																																															
+GSE24080	CE	MM-00959	1				Disease progression/relapse					No								40.7																																																															
+GSE24080	CE	MM-00960	1				Disease progression/relapse					No								42.9																																																															
+GSE24080	CE	MM-00961	1				Disease progression/relapse					No								35.66666667																																																															
+GSE24080	CE	MM-00962	1				Disease progression/relapse					No								40.83333333																																																															
+GSE24080	CE	MM-00963	1				Disease progression/relapse					No								37.8																																																															
+GSE24080	CE	MM-00964	1				Disease progression/relapse					No								43.23333333																																																															
+GSE24080	CE	MM-00965	1				Disease progression/relapse					No								42.56666667																																																															
+GSE24080	CE	MM-00966	1				Disease progression/relapse					No								41.9																																																															
+GSE24080	CE	MM-00967	1				Disease progression/relapse					No								40.5																																																															
+GSE24080	CE	MM-00968	1				Disease progression/relapse					Yes								13.43333333																																																															
+GSE24080	CE	MM-00969	1				Disease progression/relapse					Yes								5.5																																																															
+GSE24080	CE	MM-00970	1				Disease progression/relapse					No								41.73333333																																																															
+GSE24080	CE	MM-00971	1				Disease progression/relapse					Yes								5.2																																																															
+GSE24080	CE	MM-00972	1				Disease progression/relapse					No								39.86666667																																																															
+GSE24080	CE	MM-00973	1				Disease progression/relapse					No								38.26666667																																																															
+GSE24080	CE	MM-00974	1				Disease progression/relapse					No								39.56666667																																																															
+GSE24080	CE	MM-00975	1				Disease progression/relapse					No								42.9																																																															
+GSE24080	CE	MM-00976	1				Disease progression/relapse					No								90.5																																																															
+GSE24080	CE	MM-00977	1				Disease progression/relapse					No								40.33333333																																																															
+GSE24080	CE	MM-00978	1				Disease progression/relapse					No								39.63333333																																																															
+GSE24080	CE	MM-00979	1				Disease progression/relapse					No								40.36666667																																																															
+GSE24080	CE	MM-00980	1				Disease progression/relapse					No								39.93333333																																																															
+GSE24080	CE	MM-00981	1				Disease progression/relapse					No								40.66666667																																																															
+GSE24080	CE	MM-00982	1				Disease progression/relapse					No								39.16666667																																																															
+GSE24080	CE	MM-00983	1				Disease progression/relapse					No								39.3																																																															
+GSE24080	CE	MM-00984	1				Disease progression/relapse					No								39.13333333																																																															
+GSE24080	CE	MM-00985	1				Disease progression/relapse					No								39.23333333																																																															
+GSE24080	CE	MM-00986	1				Disease progression/relapse					No								39.66666667																																																															
+GSE24080	CE	MM-00987	1				Disease progression/relapse					Yes								5.1																																																															
+GSE24080	CE	MM-00988	1				Disease progression/relapse					Yes					12/7/2006			20.33333333																																																															
+GSE24080	CE	MM-00989	1				Disease progression/relapse					No								39.83333333																																																															
+GSE24080	CE	MM-00990	1				Disease progression/relapse					No								38.7																																																															
+GSE24080	CE	MM-00991	1				Disease progression/relapse					No								38.63333333																																																															
+GSE24080	CE	MM-00992	1				Disease progression/relapse					No								34																																																															
+GSE24080	CE	MM-00993	1				Disease progression/relapse					No								34.46666667																																																															
+GSE24080	CE	MM-00994	1				Disease progression/relapse					No								38.2																																																															
+GSE24080	CE	MM-00995	1				Disease progression/relapse					No								37.06666667																																																															
+GSE24080	CE	MM-00996	1				Disease progression/relapse					No								36.4																																																															
+GSE24080	CE	MM-00997	1				Disease progression/relapse					No								85.83333333																																																															
+GSE24080	CE	MM-00998	1				Disease progression/relapse					No								36.86666667																																																															
+GSE24080	CE	MM-00999	1				Disease progression/relapse					Yes					11/20/2007			30.5																																																															
+GSE24080	CE	MM-01000	1				Disease progression/relapse					Yes								6.666666667																																																															
+GSE24080	CE	MM-01001	1				Disease progression/relapse					No								37.1																																																															
+GSE24080	CE	MM-01002	1				Disease progression/relapse					No								37.33333333																																																															
+GSE24080	CE	MM-01003	1				Disease progression/relapse					No								33.06666667																																																															
+GSE24080	CE	MM-01004	1				Disease progression/relapse					No								37.33333333																																																															
+GSE24080	CE	MM-01005	1				Disease progression/relapse					No								37.63333333																																																															
+GSE24080	CE	MM-01006	1				Disease progression/relapse					No								38.03333333																																																															
+GSE24080	CE	MM-01007	1				Disease progression/relapse					Yes					11/7/2006			18.33333333																																																															
+GSE24080	CE	MM-01008	1				Disease progression/relapse					Yes					7/18/2007			25.86666667																																																															
+GSE24080	CE	MM-01009	1				Disease progression/relapse					No								34.53333333																																																															
+GSE24080	CE	MM-01010	1				Disease progression/relapse					No								37.13333333																																																															
+GSE24080	CE	MM-01011	1				Disease progression/relapse					No								36.7																																																															
+GSE24080	CE	MM-01012	1				Disease progression/relapse					No								38.36666667																																																															
+GSE24080	CE	MM-01013	1				Disease progression/relapse					Yes								25.66666667																																																															
+GSE24080	CE	MM-01014	1				Disease progression/relapse					No								33.86666667																																																															
+GSE24080	CE	MM-01015	1				Disease progression/relapse					No								36																																																															
+GSE24080	CE	MM-01016	1				Disease progression/relapse					No								35.93333333																																																															
+GSE24080	CE	MM-01017	1				Disease progression/relapse					No								34.93333333																																																															
+GSE24080	CE	MM-01018	1				Disease progression/relapse					No								35																																																															
+GSE24080	CE	MM-01019	1				Disease progression/relapse					No								29.33333333																																																															
+GSE24080	CE	MM-01020	1				Disease progression/relapse					No								33.63333333																																																															
+GSE24080	CE	MM-01021	1				Disease progression/relapse					No								31.93333333																																																															
+GSE24080	CE	MM-01022	1				Disease progression/relapse					No								34.43333333																																																															
+GSE24080	CE	MM-01023	1				Disease progression/relapse					Yes					10/15/2002			19.03333333																																																															
+GSE24080	CE	MM-01024	1				Disease progression/relapse					Yes					11/15/2005			56.6																																																															
+GSE24080	CE	MM-01025	1				Disease progression/relapse					No								35.4																																																															
+GSE24080	CE	MM-01026	1				Disease progression/relapse					No								34.73333333																																																															
+GSE24080	CE	MM-01027	1				Disease progression/relapse					No								34.06666667																																																															
+GSE24080	CE	MM-01028	1				Disease progression/relapse					No								32.2																																																															
+GSE24080	CE	MM-01029	1				Disease progression/relapse					No								88.1																																																															
+GSE24080	CE	MM-01030	1				Disease progression/relapse					No								31.26666667																																																															
+GSE24080	CE	MM-01031	1				Disease progression/relapse					No								30.4																																																															
+GSE24080	CE	MM-01032	1				Disease progression/relapse					Yes					12/11/2002			20.76666667																																																															
+GSE24080	CE	MM-01033	1				Disease progression/relapse					No								34.86666667																																																															
+GSE24080	CE	MM-01034	1				Disease progression/relapse					No								34.56666667																																																															
+GSE24080	CE	MM-01035	1				Disease progression/relapse					No								34.03333333																																																															
+GSE24080	CE	MM-01036	1				Disease progression/relapse					No								35.13333333																																																															
+GSE24080	CE	MM-01037	1				Disease progression/relapse					Yes					2/28/2007			16.83333333																																																															
+GSE24080	CE	MM-01038	1				Disease progression/relapse					Yes					11/13/2007			30																																																															
+GSE24080	CE	MM-01039	1				Disease progression/relapse					No								34.6																																																															
+GSE24080	CE	MM-01040	1				Disease progression/relapse					Yes					7/25/2006			12.33333333																																																															
+GSE24080	CE	MM-01041	1				Disease progression/relapse					No								35.06666667																																																															
+GSE24080	CE	MM-01042	1				Disease progression/relapse					No								35.16666667																																																															
+GSE24080	CE	MM-01043	1				Disease progression/relapse					No								33.2																																																															
+GSE24080	CE	MM-01044	1				Disease progression/relapse					No								34.33333333																																																															
+GSE24080	CE	MM-01045	1				Disease progression/relapse					Yes					4/17/2007			20.33333333																																																															
+GSE24080	CE	MM-01046	1				Disease progression/relapse					Yes					10/26/2005			2.333333333																																																															
+GSE24080	CE	MM-01047	1				Disease progression/relapse					No								32.5																																																															
+GSE24080	CE	MM-01048	1				Disease progression/relapse					No								33.4																																																															
+GSE24080	CE	MM-01049	1				Disease progression/relapse					No								32.5																																																															
+GSE24080	CE	MM-01050	1				Disease progression/relapse					No								32.96666667																																																															
+GSE24080	CE	MM-01051	1				Disease progression/relapse					No								32.53333333																																																															
+GSE24080	CE	MM-01052	1				Disease progression/relapse					No								32.1																																																															
+GSE24080	CE	MM-01053	1				Disease progression/relapse					No								32.26666667																																																															
+GSE24080	CE	MM-01054	1				Disease progression/relapse					Yes								12.4																																																															
+GSE24080	CE	MM-01055	1				Disease progression/relapse					No								31.4																																																															
+GSE24080	CE	MM-01056	1				Disease progression/relapse					No								30.96666667																																																															
+GSE24080	CE	MM-01057	1				Disease progression/relapse					No								31.36666667																																																															
+GSE24080	CE	MM-01058	1				Disease progression/relapse					No								31.5																																																															
+GSE24080	CE	MM-01059	1				Disease progression/relapse					No								30.3																																																															
+GSE24080	CE	MM-01060	1				Disease progression/relapse					Yes					12/5/2005			56.66666667																																																															
+GSE24080	CE	MM-01061	1				Disease progression/relapse					No								31.26666667																																																															
+GSE24080	CE	MM-01062	1				Disease progression/relapse					Yes								0.766666667																																																															
+GSE24080	CE	MM-01063	1				Disease progression/relapse					No								30.7																																																															
+GSE24080	CE	MM-01064	1				Disease progression/relapse					No								29.83333333																																																															
+GSE24080	CE	MM-01065	1				Disease progression/relapse					No								29.13333333																																																															
+GSE24080	CE	MM-01066	1				Disease progression/relapse					Yes					4/17/2001			0.133333333																																																															
+GSE24080	CE	MM-01067	1				Disease progression/relapse					Yes								19																																																															
+GSE24080	CE	MM-01068	1				Disease progression/relapse					Yes								0																																																															
+GSE24080	CE	MM-01069	1				Disease progression/relapse					No								87																																																															
+GSE24080	CE	MM-01070	1				Disease progression/relapse					Yes					2/5/2003			21.66666667																																																															
+GSE24080	CE	MM-01071	1				Disease progression/relapse					Yes								39.8																																																															
+GSE24080	CE	MM-01072	1				Disease progression/relapse					Yes								72.83333333																																																															
+GSE24080	CE	MM-01073	1				Disease progression/relapse					No								86.1																																																															
+GSE24080	CE	MM-01074	1				Disease progression/relapse					No								83.03333333																																																															
+GSE24080	CE	MM-01075	1				Disease progression/relapse					No								82.03333333																																																															
+GSE24080	CE	MM-01076	1				Disease progression/relapse					No								85.06666667																																																															
+GSE24080	CE	MM-01077	1				Disease progression/relapse					Yes					11/16/2005			54.1																																																															
+GSE24080	CE	MM-01078	1				Disease progression/relapse					Yes					3/3/2005			45.73333333																																																															
+GSE24080	CE	MM-01079	1				Disease progression/relapse					Yes								73.36666667																																																															
+GSE24080	CE	MM-01080	1				Disease progression/relapse					No								74.7																																																															
+GSE24080	CE	MM-01081	1				Disease progression/relapse					No								78.93333333																																																															
+GSE24080	CE	MM-01082	1				Disease progression/relapse					No								84.83333333																																																															
+GSE24080	CE	MM-01083	1				Disease progression/relapse					Yes								15.1																																																															
+GSE24080	CE	MM-01084	1				Disease progression/relapse					Yes					2/17/2005			44.4																																																															
+GSE24080	CE	MM-01085	1				Disease progression/relapse					Yes					4/4/2007			70.4																																																															
+GSE24080	CE	MM-01086	1				Disease progression/relapse					Yes					6/2/2005			47.93333333																																																															
+GSE24080	CE	MM-01087	1				Disease progression/relapse					No								84.23333333																																																															
+GSE24080	CE	MM-01088	1				Disease progression/relapse					Yes					1/31/2005			43.6																																																															
+GSE24080	CE	MM-01089	1				Disease progression/relapse					Yes								21.6																																																															
+GSE24080	CE	MM-01090	1				Disease progression/relapse					Yes								7.5																																																															
+GSE24080	CE	MM-01091	1				Disease progression/relapse					Yes								23.8																																																															
+GSE24080	CE	MM-01092	1				Disease progression/relapse					Yes					9/26/2001			2.033333333																																																															
+GSE24080	CE	MM-01093	1				Disease progression/relapse					Yes								41.83333333																																																															
+GSE24080	CE	MM-01094	1				Disease progression/relapse					No								84.2																																																															
+GSE24080	CE	MM-01095	1				Disease progression/relapse					Yes								2.766666667																																																															
+GSE24080	CE	MM-01096	1				Disease progression/relapse					Yes								1.6																																																															
+GSE24080	CE	MM-01097	1				Disease progression/relapse					Yes								17.8																																																															
+GSE24080	CE	MM-01098	1				Disease progression/relapse					Yes					6/20/2002			10.33333333																																																															
+GSE24080	CE	MM-01099	1				Disease progression/relapse					No								83.3																																																															
+GSE24080	CE	MM-01100	1				Disease progression/relapse					No								65.36666667																																																															
+GSE24080	CE	MM-01101	1				Disease progression/relapse					No								83.1																																																															
+GSE24080	CE	MM-01102	1				Disease progression/relapse					Yes					4/17/2008			80.7																																																															
+GSE24080	CE	MM-01103	1				Disease progression/relapse					No								82.26666667																																																															
+GSE24080	CE	MM-01104	1				Disease progression/relapse					Yes								14.76666667																																																															
+GSE24080	CE	MM-01105	1				Disease progression/relapse					Yes					6/7/2004			32.76666667																																																															
+GSE24080	CE	MM-01106	1				Disease progression/relapse					Yes					1/22/2007			64.33333333																																																															
+GSE24080	CE	MM-01107	1				Disease progression/relapse					No								81.4																																																															
+GSE24080	CE	MM-01108	1				Disease progression/relapse					Yes					7/25/2002			9.366666667																																																															
+GSE24080	CE	MM-01109	1				Disease progression/relapse					No								80.03333333																																																															
+GSE24080	CE	MM-01110	1				Disease progression/relapse					Yes					7/6/2006			56.26666667																																																															
+GSE24080	CE	MM-01111	1				Disease progression/relapse					Yes					2/5/2007			62.4																																																															
+GSE24080	CE	MM-01112	1				Disease progression/relapse					Yes					12/1/2004			35.63333333																																																															
+GSE24080	CE	MM-01113	1				Disease progression/relapse					Yes								1.933333333																																																															
+GSE24080	CE	MM-01114	1				Disease progression/relapse					No								78																																																															
+GSE24080	CE	MM-01115	1				Disease progression/relapse					Yes								33.06666667																																																															
+GSE24080	CE	MM-01116	1				Disease progression/relapse					No								72.76666667																																																															
+GSE24080	CE	MM-01117	1				Disease progression/relapse					Yes								15.06666667																																																															
+GSE24080	CE	MM-01118	1				Disease progression/relapse					Yes					8/31/2004			31.63333333																																																															
+GSE24080	CE	MM-01119	1				Disease progression/relapse					Yes					7/18/2005			42.23333333																																																															
+GSE24080	CE	MM-01120	1				Disease progression/relapse					Yes								10.73333333																																																															
+GSE24080	CE	MM-01121	1				Disease progression/relapse					Yes					10/29/2003			20.76666667																																																															
+GSE24080	CE	MM-01122	1				Disease progression/relapse					Yes								62.83333333																																																															
+GSE24080	CE	MM-01123	1				Disease progression/relapse					Yes					11/14/2005			45.2																																																															
+GSE24080	CE	MM-01124	1				Disease progression/relapse					Yes					12/31/2002			10.03333333																																																															
+GSE24080	CE	MM-01125	1				Disease progression/relapse					No								75.9																																																															
+GSE24080	CE	MM-01126	1				Disease progression/relapse					Yes					6/9/2006			53.7																																																															
+GSE24080	CE	MM-01127	1				Disease progression/relapse					Yes					8/3/2005			40.83333333																																																															
+GSE24080	CE	MM-01128	1				Disease progression/relapse					No								74.6																																																															
+GSE24080	CE	MM-01129	1				Disease progression/relapse					Yes					4/20/2005			36.8																																																															
+GSE24080	CE	MM-01130	1				Disease progression/relapse					No								74.73333333																																																															
+GSE24080	CE	MM-01131	1				Disease progression/relapse					No								57.16666667																																																															
+GSE24080	CE	MM-01132	1				Disease progression/relapse					Yes					6/26/2007			63.03333333																																																															
+GSE24080	CE	MM-01133	1				Disease progression/relapse					Yes					5/15/2003			8.866666667																																																															
+GSE24080	CE	MM-01134	1				Disease progression/relapse					Yes					2/9/2004			21.66666667																																																															
+GSE24080	CE	MM-01135	1				Disease progression/relapse					Yes					3/29/2003			10.66666667																																																															
+GSE24080	CE	MM-01136	1				Disease progression/relapse					No								69.43333333																																																															
+GSE24080	CE	MM-01137	1				Disease progression/relapse					No								74.1																																																															
+GSE24080	CE	MM-01138	1				Disease progression/relapse					Yes								34.33333333																																																															
+GSE24080	CE	MM-01139	1				Disease progression/relapse					Yes					3/19/2008			70.93333333																																																															
+GSE24080	CE	MM-01140	1				Disease progression/relapse					No								73.93333333																																																															
+GSE24080	CE	MM-01141	1				Disease progression/relapse					No								72.36666667																																																															
+GSE24080	CE	MM-01142	1				Disease progression/relapse					No								64.86666667																																																															
+GSE24080	CE	MM-01143	1				Disease progression/relapse					No								72.53333333																																																															
+GSE24080	CE	MM-01144	1				Disease progression/relapse					Yes					11/4/2003			16.73333333																																																															
+GSE24080	CE	MM-01145	1				Disease progression/relapse					No								72.53333333																																																															
+GSE24080	CE	MM-01146	1				Disease progression/relapse					No								47.6																																																															
+GSE24080	CE	MM-01147	1				Disease progression/relapse					No								72.16666667																																																															
+GSE24080	CE	MM-01148	1				Disease progression/relapse					No								71.63333333																																																															
+GSE24080	CE	MM-01149	1				Disease progression/relapse					Yes					11/30/2006			52.96666667																																																															
+GSE24080	CE	MM-01150	1				Disease progression/relapse					Yes					12/1/2005			40.9																																																															
+GSE24080	CE	MM-01151	1				Disease progression/relapse					Yes					4/19/2005			33.36666667																																																															
+GSE24080	CE	MM-01152	1				Disease progression/relapse					No								70.8																																																															
+GSE24080	CE	MM-01153	1				Disease progression/relapse					Yes					12/28/2006			53.46666667																																																															
+GSE24080	CE	MM-01154	1				Disease progression/relapse					Yes								36.93333333																																																															
+GSE24080	CE	MM-01155	1				Disease progression/relapse					Yes					9/18/2006			48.86666667																																																															
+GSE24080	CE	MM-01156	1				Disease progression/relapse					No								71.03333333																																																															
+GSE24080	CE	MM-01157	1				Disease progression/relapse					Yes								7.033333333																																																															
+GSE24080	CE	MM-01158	1				Disease progression/relapse					Yes								10.66666667																																																															
+GSE24080	CE	MM-01159	1				Disease progression/relapse					No								70																																																															
+GSE24080	CE	MM-01160	1				Disease progression/relapse					Yes								5.833333333																																																															
+GSE24080	CE	MM-01161	1				Disease progression/relapse					Yes					5/6/2003			7.166666667																																																															
+GSE24080	CE	MM-01162	1				Disease progression/relapse					No								68.36666667																																																															
+GSE24080	CE	MM-01163	1				Disease progression/relapse					Yes								4.866666667																																																															
+GSE24080	CE	MM-01164	1				Disease progression/relapse					No								67.76666667																																																															
+GSE24080	CE	MM-01165	1				Disease progression/relapse					Yes					3/15/2005			26.63333333																																																															
+GSE24080	CE	MM-01166	1				Disease progression/relapse					Yes					11/15/2005			35.4																																																															
+GSE24080	CE	MM-01167	1				Disease progression/relapse					Yes					8/16/2006			43.43333333																																																															
+GSE24080	CE	MM-01168	1				Disease progression/relapse					No								63.5																																																															
+GSE24080	CE	MM-01169	1				Disease progression/relapse					Yes								5.366666667																																																															
+GSE24080	CE	MM-01170	1				Disease progression/relapse					No								66.53333333																																																															
+GSE24080	CE	MM-01171	1				Disease progression/relapse					No								65.8																																																															
+GSE24080	CE	MM-01172	1				Disease progression/relapse					Yes					12/16/2002			0.433333333																																																															
+GSE24080	CE	MM-01173	1				Disease progression/relapse					No								66.3																																																															
+GSE24080	CE	MM-01174	1				Disease progression/relapse					No								66.16666667																																																															
+GSE24080	CE	MM-01175	1				Disease progression/relapse					No								66.03333333																																																															
+GSE24080	CE	MM-01176	1				Disease progression/relapse					No								66																																																															
+GSE24080	CE	MM-01177	1				Disease progression/relapse					Yes								38.43333333																																																															
+GSE24080	CE	MM-01178	1				Disease progression/relapse					No								61.23333333																																																															
+GSE24080	CE	MM-01179	1				Disease progression/relapse					Yes					12/12/2006			48.7																																																															
+GSE24080	CE	MM-01180	1				Disease progression/relapse					No								65.3																																																															
+GSE24080	CE	MM-01181	1				Disease progression/relapse					No								61.76666667																																																															
+GSE24080	CE	MM-01182	1				Disease progression/relapse					Yes					2/9/2005			25.26666667																																																															
+GSE24080	CE	MM-01183	1				Disease progression/relapse					No								65.53333333																																																															
+GSE24080	CE	MM-01184	1				Disease progression/relapse					No								64.66666667																																																															
+GSE24080	CE	MM-01185	1				Disease progression/relapse					Yes								23.13333333																																																															
+GSE24080	CE	MM-01186	1				Disease progression/relapse					Yes					4/11/2006			39.13333333																																																															
+GSE24080	CE	MM-01187	1				Disease progression/relapse					Yes					7/19/2007			54.8																																																															
+GSE24080	CE	MM-01188	1				Disease progression/relapse					Yes					9/25/2003			7.266666667																																																															
+GSE24080	CE	MM-01189	1				Disease progression/relapse					No								60.5																																																															
+GSE24080	CE	MM-01190	1				Disease progression/relapse					No								64.36666667																																																															
+GSE24080	CE	MM-01191	1				Disease progression/relapse					No								64.5																																																															
+GSE24080	CE	MM-01192	1				Disease progression/relapse					Yes								6.533333333																																																															
+GSE24080	CE	MM-01193	1				Disease progression/relapse					No								27.76666667																																																															
+GSE24080	CE	MM-01194	1				Disease progression/relapse					Yes					4/14/2005			24.6																																																															
+GSE24080	CE	MM-01195	1				Disease progression/relapse					Yes								5.066666667																																																															
+GSE24080	CE	MM-01196	1				Disease progression/relapse					No								60.7																																																															
+GSE24080	CE	MM-01197	1				Disease progression/relapse					No								63.9																																																															
+GSE24080	CE	MM-01198	1				Disease progression/relapse					No								63.2																																																															
+GSE24080	CE	MM-01199	1				Disease progression/relapse					No								60.63333333																																																															
+GSE24080	CE	MM-01200	1				Disease progression/relapse					Yes								48.16666667																																																															
+GSE24080	CE	MM-01201	1				Disease progression/relapse					No								57.63333333																																																															
+GSE24080	CE	MM-01202	1				Disease progression/relapse					No								61.4																																																															
+GSE24080	CE	MM-01203	1				Disease progression/relapse					Yes								36.6																																																															
+GSE24080	CE	MM-01204	1				Disease progression/relapse					No								61.16666667																																																															
+GSE24080	CE	MM-01205	1				Disease progression/relapse					No								61.86666667																																																															
+GSE24080	CE	MM-01206	1				Disease progression/relapse					No								59.2																																																															
+GSE24080	CE	MM-01207	1				Disease progression/relapse					No								56.53333333																																																															
+GSE24080	CE	MM-01208	1				Disease progression/relapse					No								61.6																																																															
+GSE24080	CE	MM-01209	1				Disease progression/relapse					No								60.86666667																																																															
+GSE24080	CE	MM-01210	1				Disease progression/relapse					No								55.3																																																															
+GSE24080	CE	MM-01211	1				Disease progression/relapse					No								59.73333333																																																															
+GSE24080	CE	MM-01212	1				Disease progression/relapse					No								58.6																																																															
+GSE24080	CE	MM-01213	1				Disease progression/relapse					Yes					3/8/2006			30.86666667																																																															
+GSE24080	CE	MM-01214	1				Disease progression/relapse					Yes					2/21/2007			45.43333333																																																															
+GSE24080	CE	MM-01215	1				Disease progression/relapse					Yes								7.333333333																																																															
+GSE24080	CE	MM-01216	1				Disease progression/relapse					Yes					1/25/2006			32.96666667																																																															
+GSE24080	CE	MM-01217	1				Disease progression/relapse					Yes					6/16/2005			23.13333333																																																															
+GSE24080	CE	MM-01218	1				Disease progression/relapse					No								55.93333333																																																															
+GSE24080	CE	MM-01219	1				Disease progression/relapse					Yes					8/25/2005			25.06666667																																																															
+GSE24080	CE	MM-01220	1				Disease progression/relapse					No								58.83333333																																																															
+GSE24080	CE	MM-01221	1				Disease progression/relapse					No								61.16666667																																																															
+GSE24080	CE	MM-01222	1				Disease progression/relapse					Yes					4/16/2007			45.43333333																																																															
+GSE24080	CE	MM-01223	1				Disease progression/relapse					No								57.9																																																															
+GSE24080	CE	MM-01224	1				Disease progression/relapse					No								60.73333333																																																															
+GSE24080	CE	MM-01225	1				Disease progression/relapse					No								58.33333333																																																															
+GSE24080	CE	MM-01226	1				Disease progression/relapse					Yes					9/15/2003			1.333333333																																																															
+GSE24080	CE	MM-01227	1				Disease progression/relapse					Yes					1/5/2005			16.8																																																															
+GSE24080	CE	MM-01228	1				Disease progression/relapse					No								56.63333333																																																															
+GSE24080	CE	MM-01229	1				Disease progression/relapse					No								58.03333333																																																															
+GSE24080	CE	MM-01230	1				Disease progression/relapse					Yes					8/29/2006			36.06666667																																																															
+GSE24080	CE	MM-01231	1				Disease progression/relapse					No								57.4																																																															
+GSE24080	CE	MM-01232	1				Disease progression/relapse					Yes								23																																																															
+GSE24080	CE	MM-01233	1				Disease progression/relapse					No								57.26666667																																																															
+GSE24080	CE	MM-01234	1				Disease progression/relapse					Yes					2/22/2006			29.2																																																															
+GSE24080	CE	MM-01235	1				Disease progression/relapse					Yes					11/7/2005			26																																																															
+GSE24080	CE	MM-01236	1				Disease progression/relapse					Yes					8/2/2004			10																																																															
+GSE24080	CE	MM-01237	1				Disease progression/relapse					No								50.93333333																																																															
+GSE24080	CE	MM-01238	1				Disease progression/relapse					Yes					12/12/2006			37.6																																																															
+GSE24080	CE	MM-01239	1				Disease progression/relapse					No								56.23333333																																																															
+GSE24080	CE	MM-01240	1				Disease progression/relapse					No								54.33333333																																																															
+GSE24080	CE	MM-01241	1				Disease progression/relapse					No								57.8																																																															
+GSE24080	CE	MM-01242	1				Disease progression/relapse					No								55.96666667																																																															
+GSE24080	CE	MM-01243	1				Disease progression/relapse					No								59																																																															
+GSE24080	CE	MM-01244	1				Disease progression/relapse					No								54.13333333																																																															
+GSE24080	CE	MM-01245	1				Disease progression/relapse					No								54.76666667																																																															
+GSE24080	CE	MM-01246	1				Disease progression/relapse					Yes								10.26666667																																																															
+GSE24080	CE	MM-01247	1				Disease progression/relapse					No								56.26666667																																																															
+GSE24080	CE	MM-01248	1				Disease progression/relapse					No								56.43333333																																																															
+GSE24080	CE	MM-01249	1				Disease progression/relapse					No								54.86666667																																																															
+GSE24080	CE	MM-01250	1				Disease progression/relapse					No								53.36666667																																																															
+GSE24080	CE	MM-01251	1				Disease progression/relapse					No								51.46666667																																																															
+GSE24080	CE	MM-01252	1				Disease progression/relapse					No								55.13333333																																																															
+GSE24080	CE	MM-01253	1				Disease progression/relapse					Yes					5/20/2004			5.9																																																															
+GSE24080	CE	MM-01254	1				Disease progression/relapse					Yes					5/7/2004			4.2																																																															
+GSE24080	CE	MM-01255	1				Disease progression/relapse					Yes					8/7/2006			32.43333333																																																															
+GSE24080	CE	MM-01256	1				Disease progression/relapse					Yes					12/15/2005			25.76666667																																																															
+GSE24080	CE	MM-01257	1				Disease progression/relapse					No								52.6																																																															
+GSE24080	CE	MM-01258	1				Disease progression/relapse					No								52.53333333																																																															
+GSE24080	CE	MM-01259	1				Disease progression/relapse					No								50.8																																																															
+GSE24080	CE	MM-01260	1				Disease progression/relapse					No								57.86666667																																																															
+GSE24080	CE	MM-01261	1				Disease progression/relapse					Yes					9/12/2006			32.6																																																															
+GSE24080	CE	MM-01262	1				Disease progression/relapse					Yes					11/3/2004			9.833333333																																																															
+GSE24080	CE	MM-01263	1				Disease progression/relapse					No								53.33333333																																																															
+GSE24080	CE	MM-01264	1				Disease progression/relapse					No								52.4																																																															
+GSE24080	CE	MM-01265	1				Disease progression/relapse					No								51.53333333																																																															
+GSE24080	CE	MM-01266	1				Disease progression/relapse					No								50.93333333																																																															
+GSE24080	CE	MM-01267	1				Disease progression/relapse					Yes					11/28/2005			20.5																																																															
+GSE24080	CE	MM-01268	1				Disease progression/relapse					No								51.36666667																																																															
+GSE24080	CE	MM-01269	1				Disease progression/relapse					Yes					11/8/2004			16.33333333																																																															
+GSE24080	CE	MM-01270	1				Disease progression/relapse					Yes								41.23333333																																																															
+GSE24080	CE	MM-01271	1				Disease progression/relapse					No								64.13333333																																																															
+GSE24080	CE	MM-01272	1				Disease progression/relapse					No								60.93333333																																																															
+GSE24080	CE	MM-01273	1				Disease progression/relapse					Yes					6/3/2004			43.23333333																																																															
+GSE24080	CE	MM-01274	1				Disease progression/relapse					Yes								76.23333333																																																															
+GSE24080	CE	MM-01275	1				Disease progression/relapse					Yes					9/21/2006			65.63333333																																																															
+GSE24080	CE	MM-01276	1				Disease progression/relapse					Yes								30.3																																																															
+GSE24080	CE	MM-01277	1				Disease progression/relapse					No								84.63333333																																																															
+GSE24080	CE	MM-01278	1				Disease progression/relapse					Yes					7/14/2003			14.83333333																																																															
+GSE24080	CE	MM-01279	1				Disease progression/relapse					Yes					9/3/2003			28.4																																																															
+GSE24080	CE	MM-01280	1				Disease progression/relapse					Yes								47.43333333																																																															
+GSE24080	CE	MM-01281	1				Disease progression/relapse					Yes								3.2																																																															
+GSE24080	CE	MM-01282	1				Disease progression/relapse					Yes					3/24/2004			32.63333333																																																															
+GSE24080	CE	MM-01283	1				Disease progression/relapse					No								82.06666667																																																															
+GSE24080	CE	MM-01284	1				Disease progression/relapse					Yes								36.13333333																																																															
+GSE24080	CE	MM-01285	1				Disease progression/relapse					Yes					8/8/2003			24.3																																																															
+GSE24080	CE	MM-01286	1				Disease progression/relapse					Yes					11/8/2005			51.6																																																															
+GSE24080	CE	MM-01287	1				Disease progression/relapse					No								77.7																																																															
+GSE24080	CE	MM-01288	1				Disease progression/relapse					Yes					8/18/2005			47.93333333																																																															
+GSE24080	CE	MM-01289	1				Disease progression/relapse					Yes								3.5																																																															
+GSE24080	CE	MM-01290	1				Disease progression/relapse					Yes					9/11/2002			10.8																																																															
+GSE24080	CE	MM-01291	1				Disease progression/relapse					Yes					5/10/2002			6.433333333																																																															
+GSE24080	CE	MM-01292	1				Disease progression/relapse					Yes					2/25/2008			76.86666667																																																															
+GSE24080	CE	MM-01293	1				Disease progression/relapse					No								75.13333333																																																															
+GSE24080	CE	MM-01294	1				Disease progression/relapse					Yes					11/28/2005			47.96666667																																																															
+GSE24080	CE	MM-01295	1				Disease progression/relapse					Yes								31.9																																																															
+GSE24080	CE	MM-01296	1				Disease progression/relapse					Yes					10/23/2002			9.4																																																															
+GSE24080	CE	MM-01297	1				Disease progression/relapse					No								74																																																															
+GSE24080	CE	MM-01298	1				Disease progression/relapse					Yes					3/30/2007			62.36666667																																																															
+GSE24080	CE	MM-01299	1				Disease progression/relapse					No								76.53333333																																																															
+GSE24080	CE	MM-01300	1				Disease progression/relapse					Yes					3/7/2005			36.8																																																															
+GSE24080	CE	MM-01301	1				Disease progression/relapse					No								75.23333333																																																															
+GSE24080	CE	MM-01302	1				Disease progression/relapse					Yes								20.73333333																																																															
+GSE24080	CE	MM-01303	1				Disease progression/relapse					No								63.16666667																																																															
+GSE24080	CE	MM-01304	1				Disease progression/relapse					No								75.8																																																															
+GSE24080	CE	MM-01305	1				Disease progression/relapse					Yes								19.63333333																																																															
+GSE24080	CE	MM-01306	1				Disease progression/relapse					No								52.26666667																																																															
+GSE24080	CE	MM-01307	1				Disease progression/relapse					No								67.46666667																																																															
+GSE24080	CE	MM-01308	1				Disease progression/relapse					No								0.633333333																																																															
+GSE24080	CE	MM-01309	1				Disease progression/relapse					Yes					4/27/2004			24.73333333																																																															
+GSE24080	CE	MM-01310	1				Disease progression/relapse					Yes					5/8/2003			12.83333333																																																															
+GSE24080	CE	MM-01311	1				Disease progression/relapse					No								73.33333333																																																															
+GSE24080	CE	MM-01312	1				Disease progression/relapse					Yes					10/12/2004			28.43333333																																																															
+GSE24080	CE	MM-01313	1				Disease progression/relapse					Yes					3/18/2005			33.46666667																																																															
+GSE24080	CE	MM-01314	1				Disease progression/relapse					Yes					11/22/2004			29.36666667																																																															
+GSE24080	CE	MM-01315	1				Disease progression/relapse					No								72.1																																																															
+GSE24080	CE	MM-01316	1				Disease progression/relapse					Yes					5/6/2003			10.3																																																															
+GSE24080	CE	MM-01317	1				Disease progression/relapse					No								71.23333333																																																															
+GSE24080	CE	MM-01318	1				Disease progression/relapse					No								70.43333333																																																															
+GSE24080	CE	MM-01319	1				Disease progression/relapse					No								70.33333333																																																															
+GSE24080	CE	MM-01320	1				Disease progression/relapse					Yes					4/6/2004			19.33333333																																																															
+GSE24080	CE	MM-01321	1				Disease progression/relapse					No								68.96666667																																																															
+GSE24080	CE	MM-01322	1				Disease progression/relapse					Yes					9/11/2006			47.5																																																															
+GSE24080	CE	MM-01323	1				Disease progression/relapse					Yes					3/14/2007			50.16666667																																																															
+GSE24080	CE	MM-01324	1				Disease progression/relapse					No								66.36666667																																																															
+GSE24080	CE	MM-01325	1				Disease progression/relapse					No								65.23333333																																																															
+GSE24080	CE	MM-01326	1				Disease progression/relapse					Yes					7/26/2004			18.06666667																																																															
+GSE24080	CE	MM-01327	1				Disease progression/relapse					No								63.33333333																																																															
+GSE24080	CE	MM-01328	1				Disease progression/relapse					No								62.03333333																																																															
+GSE24080	CE	MM-01329	1				Disease progression/relapse					No								61.46666667																																																															
+GSE24080	CE	MM-01330	1				Disease progression/relapse					Yes					7/9/2007			51.43333333																																																															
+GSE24080	CE	MM-01331	1				Disease progression/relapse					Yes					6/26/2003			1.666666667																																																															
+GSE24080	CE	MM-01332	1				Disease progression/relapse					No								61.53333333																																																															
+GSE24080	CE	MM-01333	1				Disease progression/relapse					Yes								11.86666667																																																															
+GSE24080	CE	MM-01334	1				Disease progression/relapse					No								60.16666667																																																															
+GSE24080	CE	MM-01335	1				Disease progression/relapse					Yes					1/7/2005			18.46666667																																																															
+GSE24080	CE	MM-01336	1				Disease progression/relapse					Yes					4/30/2007			46.63333333																																																															
+GSE24080	CE	MM-01337	1				Disease progression/relapse					Yes					9/1/2004			13.5																																																															
+GSE24080	CE	MM-01338	1				Disease progression/relapse					No								54.76666667																																																															
+GSE24080	CE	MM-01339	1				Disease progression/relapse					No								53.36666667																																																															
+GSE24080	CE	MM-01340	1				Disease progression/relapse					Yes					4/11/2005			16.8																																																															
+GSE24080	CE	MM-01341	1				Disease progression/relapse					Yes								12.6																																																															
+GSE24080	CE	MM-01342	1				Disease progression/relapse					Yes								46.9																																																															
+GSE24080	CE	MM-01343	1				Disease progression/relapse					Yes					7/19/2005			19.3																																																															
+GSE24080	CE	MM-01344	1				Disease progression/relapse					No								54.16666667																																																															
+GSE24080	CE	MM-01345	1				Disease progression/relapse					Yes					5/7/2007			40.8																																																															
+GSE24080	CE	MM-01346	1				Disease progression/relapse					Yes					8/11/2006			31.83333333																																																															
+GSE24080	CE	MM-01347	1				Disease progression/relapse					No								52.73333333																																																															
+GSE24080	CE	MM-01348	1				Disease progression/relapse					No								53.43333333																																																															
+GSE24080	CE	MM-01349	1				Disease progression/relapse					Yes					11/12/2004			10.33333333																																																															
+GSE24080	CE	MM-01350	1				Disease progression/relapse					No								53.83333333																																																															
+GSE24080	CE	MM-01351	1				Disease progression/relapse					Yes					11/22/2006			34.7																																																															
+GSE24080	CE	MM-01352	1				Disease progression/relapse					No								53.1																																																															
+GSE24080	CE	MM-01353	1				Disease progression/relapse					No								53.46666667																																																															
+GSE24080	CE	MM-01354	1				Disease progression/relapse					Yes					2/15/2005			12.8																																																															
+GSE24080	CE	MM-01355	1				Disease progression/relapse					No								52.1																																																															
+GSE24080	CE	MM-01356	1				Disease progression/relapse					No								52.76666667																																																															
+GSE24080	CE	MM-01357	1				Disease progression/relapse					Yes								2.266666667																																																															
+GSE24080	CE	MM-01358	1				Disease progression/relapse					Yes					10/17/2006			25.93333333																																																															
+GSE24080	CE	MM-01359	1				Disease progression/relapse					Yes								7.133333333																																																															

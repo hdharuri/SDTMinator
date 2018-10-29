@@ -1,0 +1,21 @@
+STUDYID	DOMAIN	APID	MHSEQ	RSUBJID	RDEVID	SREL	MHGRPID	MHREFID	MHSPID	MHTERM	MHMODIFY	MHDECOD	MHCAT	MHSCAT	MHPRESP	MHOCCUR	MHSTAT	MHREASND	MHBODSYS	MHDTC	MHSTDTC	MHENDTC	MHDY	MHENRF	MHENRTPT	MHENTPT	MHELTM	MHTPTREF	MHRFTDTC	MHLOC	MHLLT	MHLLTCD	MHPTCD	MHHLT	MHHLTCD	MHHLGT	MHHLGTCD	MHSOC	MHSOCCD	MHLAT	MHDIR	MHPORTOT	MHPARTY	MHPRTYID	MHSEV	MHSER	MHACN	MHACNOTH	MHACNDEV	MHREL	MHRELNST	MHPATT	MHOUT	MHSCAN	MHSCONG	MHSDISAB	MHSDTH	MHSHOSP	MHSLIFE	MHSOD	MHSMIE	MHCONTRT	MHTOX	MHTOXGR	EPOCH	MHSTDY	MHENDY	MHSTRF	MHDUR	MHSTTPT	POOLID	SPDEVID	MHLNKID	MHLNKGRP	VISITNUM	VISIT	VISITDY	TAETORD	MHTPT	MHTPTNUM	MHEVLINT	MHEVINTX	MHSTINT	MHENINT
+GSE1402	APMH	AP-102	1	RA-00101		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-239	1	RA-00082		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-267	1	RA-00093		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-272	1	RA-00097		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-284	1	RA-00091		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-331	1	RA-00119		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-465	1	RA-00088		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-486	1	RA-00099		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-520	1	RA-00085		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-563	1	RA-00121		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-582	1	RA-00090		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-631	1	RA-00118		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-667	1	RA-00120		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-795	1	RA-00095		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-796	1	RA-00087		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-836	1	RA-00115		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-841	1	RA-00114		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-939	1	RA-00117		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-947	1	RA-00116		Family member				Psoriasis						Negative																																																																				
+GSE1402	APMH	AP-970	1	RA-00084		Family member				Psoriasis						Negative																																																																				

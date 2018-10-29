@@ -1,0 +1,10 @@
+STUDYID	DOMAIN	IETESTCD	IETEST	IECAT	IESCAT	TIRL	TIVERS
+GSE12051	TI		Fulfilment of revised 1987 ARA criteria 	Inclusion			
+GSE12051	TI		Naive to anti-TNF apha treatment	Inclusion			
+GSE12051	TI		Receiving concomitant MTX treatment of = 20 mg/week or maximum tolerable	Inclusion			
+GSE12051	TI		Concomitant therapy with prednisolone (GC, dose = 10mg/day or equivalent) and NSAID	Inclusion			
+GSE12051	TI		Stable MTX, GC and NSAID doses 4 weeks prior to inclusion in study	Inclusion			
+GSE12051	TI		Discontinued previous DMARDs 4 weeks prior to inclusion in study	Inclusion			
+GSE12051	TI		Fulfilment of all standard inclusion criteria defined for infliximab treatment 	Inclusion			
+GSE12051	TI		Positive for hepatiis B or C virus	Exclusion			
+GSE12051	TI		Fulfilment of all standard exclusion criteria defined for infliximab treatment 	Exclusion			

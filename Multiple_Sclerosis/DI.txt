@@ -1,0 +1,69 @@
+STUDYID	DOMAIN	SPDEVID	DISEQ	DIPARMCD	DIPARM	DIVAL
+GSE20334	DI	GPL10049	1	MANUF	Manufacturer	Agilent
+GSE20334	DI	GPL10049	2	TYPE	Type of device	Array
+GSE33464	DI	GPL14837	1	MANUF	Manufacturer	Affymetrix
+GSE33464	DI	GPL14837	2	TYPE	Type of device	Array
+GSE32645	DI	GPL4133	1	MANUF	Manufacturer	Agilent
+GSE32645	DI	GPL4133	2	TYPE	Type of device	Array
+GSE5574	DI	GPL4191	1	MANUF	Manufacturer	Amersham
+GSE5574	DI	GPL4191	2	TYPE	Type of device	Array
+GSE3447	DI	GPL538	1	MANUF	Manufacturer	Invitrogen
+GSE3447	DI	GPL538	2	TYPE	Type of device	Array
+GSE16461	DI	GPL570	1	MANUF	Manufacturer	Affymetrix
+GSE23205	DI	GPL570	2	MANUF	Manufacturer	Affymetrix
+GSE26104	DI	GPL570	3	MANUF	Manufacturer	Affymetrix
+GSE26484	DI	GPL570	4	MANUF	Manufacturer	Affymetrix
+E-MTAB-69	DI	GPL570	5	MANUF	Manufacturer	Affymetrix
+GSE13732	DI	GPL570	6	MANUF	Manufacturer	Affymetrix
+GSE21942	DI	GPL570	7	MANUF	Manufacturer	Affymetrix
+GSE16461	DI	GPL570	8	TYPE	Type of device	Array
+GSE23205	DI	GPL570	9	TYPE	Type of device	Array
+GSE26104	DI	GPL570	10	TYPE	Type of device	Array
+GSE26484	DI	GPL570	11	TYPE	Type of device	Array
+E-MTAB-69	DI	GPL570	12	TYPE	Type of device	Array
+GSE13732	DI	GPL570	13	TYPE	Type of device	Array
+GSE21942	DI	GPL570	14	TYPE	Type of device	Array
+GSE15245	DI	GPL571	1	MANUF	Manufacturer	Affymetrix
+GSE14895	DI	GPL571	2	MANUF	Manufacturer	Affymetrix
+GSE17449	DI	GPL571	3	MANUF	Manufacturer	Affymetrix
+GSE15245	DI	GPL571	4	TYPE	Type of device	Array
+GSE14895	DI	GPL571	5	TYPE	Type of device	Array
+GSE17449	DI	GPL571	6	TYPE	Type of device	Array
+E-MTAB-380	DI	GPL6104	1	MANUF	Manufacturer	Illumina
+E-MTAB-380	DI	GPL6104	2	TYPE	Type of device	Array
+GSE26927	DI	GPL6255	1	MANUF	Manufacturer	Illumina
+GSE26927	DI	GPL6255	2	TYPE	Type of device	Array
+GSE10655	DI	GPL6534	1	MANUF	Manufacturer	Stanford School of Medicine
+GSE10655	DI	GPL6534	2	TYPE	Type of device	Array
+phs000275	DI	GPL6801	1	MANUF	Manufacturer	Affymetrix
+phs000275	DI	GPL6801	2	TYPE	Type of device	Array
+E-MTAB-358	DI	GPL6947	1	MANUF	Manufacturer	Illumina
+GSE17048	DI	GPL6947	2	MANUF	Manufacturer	Illumina
+E-MTAB-358	DI	GPL6947	3	TYPE	Type of device	Array
+GSE17048	DI	GPL6947	4	TYPE	Type of device	Array
+GSE21079	DI	GPL8178	1	MANUF	Manufacturer	Illumina
+GSE21079	DI	GPL8178	2	TYPE	Type of device	Array
+E-MTAB-359	DI	GPL8179	1	MANUF	Manufacturer	Illumina
+E-MTAB-359	DI	GPL8179	2	TYPE	Type of device	Array
+GSE17846	DI	GPL9040	1	MANUF	Manufacturer	febit biomed
+GSE31568	DI	GPL9040	2	MANUF	Manufacturer	febit biomed
+GSE17846	DI	GPL9040	3	TYPE	Type of device	Array
+GSE31568	DI	GPL9040	4	TYPE	Type of device	Array
+GSE24427	DI	GPL96	1	MANUF	Manufacturer	Affymetrix
+GSE15245	DI	GPL96	2	MANUF	Manufacturer	Affymetrix
+GSE14895	DI	GPL96	3	MANUF	Manufacturer	Affymetrix
+GSE5839	DI	GPL96	4	MANUF	Manufacturer	Affymetrix
+GSE2361	DI	GPL96	5	MANUF	Manufacturer	Affymetrix
+GSE24427	DI	GPL96	6	TYPE	Type of device	Array
+GSE15245	DI	GPL96	7	TYPE	Type of device	Array
+GSE14895	DI	GPL96	8	TYPE	Type of device	Array
+GSE5839	DI	GPL96	9	TYPE	Type of device	Array
+GSE2361	DI	GPL96	10	TYPE	Type of device	Array
+GSE24427	DI	GPL97	1	MANUF	Manufacturer	Affymetrix
+GSE24427	DI	GPL97	2	TYPE	Type of device	Array
+GSE19285	DI	GPL9741	1	MANUF	Manufacturer	Affymetrix
+GSE19285	DI	GPL9741	2	TYPE	Type of device	Array
+GSE19285	DI	GPL9742	1	MANUF	Manufacturer	Affymetrix
+GSE19285	DI	GPL9742	2	TYPE	Type of device	Array
+PHS00139	DI	Mapping250K_Nsp_Sty	1	MANUF	Manufacturer	Affymetrix
+PHS00139	DI	Mapping250K_Nsp_Sty	2	TYPE	Type of device	Array

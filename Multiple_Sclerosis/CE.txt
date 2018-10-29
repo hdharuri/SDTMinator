@@ -1,0 +1,482 @@
+STUDYID	DOMAIN	USUBJID	CESEQ	CEGRPID	CEREFID	CESPID	CETERM	CEDECOD	CECAT	CESCAT	CEPRESP	CEOCCUR	CESTAT	CEREASND	CEBODSYS	CESEV	CEDTC	CESTDTC	CEENDTC	CEDY	CESTRF	CEENRF	CESTRTPT	CESTTPT	CEENRTPT	CEENTPT	CEMODIFY	CELLT	CELLTCD	CEPTCD	CEHLT	CEHLTCD	CEHLGT	CEHLGTCD	CEBDSYCD	CESOC	CESOCCD	CELOC	CELAT	CEDIR	CEPORTOT	CEPARTY	CEPRTYID	CESER	CEACN	CEACNOTH	CEACNDEV	CEREL	CERELNST	CEPATT	CEOUT	CESCAN	CESCONG	CESDISAB	CESDTH	CESHOSP	CESLIFE	CESOD	CESMIE	CECONTRT	CETOX	CETOXGR	EPOCH	CESTDY	CEENDY	CEDUR	POOLID	SPDEVID	CELNKID	CELNKGRP	VISITNUM	VISIT	VISITDY	TAETORD	CETPT	CETPTNUM	CEELTM	CETPTREF	CERFTDTC	CEEVLINT	CEEVINTX	CESTINT	CEENINT
+GSE19285	CE	MS-00001	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE19285	CE	MS-00001	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00001	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00001	4				Relapse					Y											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00001	5				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00001	6				Relapse					Y								210																																																										Start of treatment					
+GSE19285	CE	MS-00002	1				Duration from MS diagnosis to therapy initiation																																																											P2M																	
+GSE19285	CE	MS-00002	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00002	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00002	4				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00002	5				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00002	6				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00002	7				Relapse					Y								>1800																																																										Start of treatment					
+GSE19285	CE	MS-00003	1				Duration from MS diagnosis to therapy initiation																																																											P4M																	
+GSE19285	CE	MS-00003	2				Relapse					N											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00003	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00003	4				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00003	5				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00003	6				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00003	7				Relapse					Y								>1800																																																										Start of treatment					
+GSE19285	CE	MS-00004	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE19285	CE	MS-00004	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00004	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00004	4				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00004	5				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00004	6				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00004	7				Relapse					Y								>1800																																																										Start of treatment					
+GSE19285	CE	MS-00005	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE19285	CE	MS-00005	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00005	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00005	4				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00005	5				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00005	6				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00005	7				Relapse					Y								>1800																																																										Start of treatment					
+GSE19285	CE	MS-00006	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE19285	CE	MS-00006	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00006	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00006	4				Relapse					Y											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00006	5				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00006	6				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00006	7				Relapse					Y								150																																																										Start of treatment					
+GSE19285	CE	MS-00007	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE19285	CE	MS-00007	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00007	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00007	4				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00007	5				Relapse					Y								>1800																																																										Start of treatment					
+GSE19285	CE	MS-00008	1				Duration from MS diagnosis to therapy initiation																																																											P2M																	
+GSE19285	CE	MS-00008	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00008	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00008	4				Relapse					Y											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00008	5				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00008	6				Relapse					Y								150																																																										Start of treatment					
+GSE19285	CE	MS-00009	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE19285	CE	MS-00009	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00009	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00009	4				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00009	5				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00009	6				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00009	7				Relapse					Y								>1800																																																										Start of treatment					
+GSE19285	CE	MS-00010	1				Duration from MS diagnosis to therapy initiation																																																											P2M																	
+GSE19285	CE	MS-00010	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00010	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00010	4				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00010	5				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00010	6				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00010	7				Relapse					Y								>1800																																																										Start of treatment					
+GSE19285	CE	MS-00011	1				Duration from MS diagnosis to therapy initiation																																																											P3M																	
+GSE19285	CE	MS-00011	2				Relapse					N											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00011	3				Relapse					Y											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00011	4				Relapse					Y											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00011	5				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00011	6				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00011	7				Relapse					Y								60																																																										Start of treatment					
+GSE19285	CE	MS-00012	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE19285	CE	MS-00012	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00012	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00012	4				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00012	5				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00012	6				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00012	7				Relapse					Y								>1800																																																										Start of treatment					
+GSE19285	CE	MS-00013	1				Duration from MS diagnosis to therapy initiation																																																											P2M																	
+GSE19285	CE	MS-00013	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00013	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00013	4				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00013	5				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00013	6				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00013	7				Relapse					Y								>1800																																																										Start of treatment					
+GSE19285	CE	MS-00014	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE19285	CE	MS-00014	2				Relapse					N											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00014	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00014	4				Relapse					Y											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00014	5				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00014	6				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00014	7				Relapse					Y								180																																																										Start of treatment					
+GSE19285	CE	MS-00015	1				Duration from MS diagnosis to therapy initiation																																																											P6M																	
+GSE19285	CE	MS-00015	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00015	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00015	4				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00015	5				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00015	6				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00015	7				Relapse					Y								1290																																																										Start of treatment					
+GSE19285	CE	MS-00016	1				Duration from MS diagnosis to therapy initiation																																																											P36M																	
+GSE19285	CE	MS-00016	2				Relapse					N											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00016	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00016	4				Relapse					Y											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00016	5				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00016	6				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00016	7				Relapse					Y								210																																																										Start of treatment					
+GSE19285	CE	MS-00017	1				Duration from MS diagnosis to therapy initiation																																																											P134M																	
+GSE19285	CE	MS-00017	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00017	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00017	4				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00017	5				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00017	6				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00017	7				Relapse					Y								1650																																																										Start of treatment					
+GSE19285	CE	MS-00018	1				Duration from MS diagnosis to therapy initiation																																																											P8M																	
+GSE19285	CE	MS-00018	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00018	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00018	4				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00018	5				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00018	6				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00018	7				Relapse					Y								>1800																																																										Start of treatment					
+GSE19285	CE	MS-00019	1				Duration from MS diagnosis to therapy initiation																																																											P2M																	
+GSE19285	CE	MS-00019	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00019	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00019	4				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00019	5				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00019	6				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00019	7				Relapse					Y								450																																																										Start of treatment					
+GSE19285	CE	MS-00020	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE19285	CE	MS-00020	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00020	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00020	4				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00020	5				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00020	6				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00020	7				Relapse					Y								390																																																										Start of treatment					
+GSE19285	CE	MS-00021	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE19285	CE	MS-00021	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00021	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00021	4				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00021	5				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00021	6				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00021	7				Relapse					Y								>1800																																																										Start of treatment					
+GSE19285	CE	MS-00022	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE19285	CE	MS-00022	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00022	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00022	4				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00022	5				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00022	6				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00022	7				Relapse					Y								840																																																										Start of treatment					
+GSE19285	CE	MS-00023	1				Duration from MS diagnosis to therapy initiation																																																											P96M																	
+GSE19285	CE	MS-00023	2				Relapse					N											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00023	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00023	4				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00023	5				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00023	6				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00023	7				Relapse					Y								>1800																																																										Start of treatment					
+GSE19285	CE	MS-00024	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE19285	CE	MS-00024	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE19285	CE	MS-00024	3				Relapse					N											AFTER	Start of Treatment																																																			3 months following treatment		P3M	Start of Treatment					
+GSE19285	CE	MS-00024	4				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE19285	CE	MS-00024	5				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE19285	CE	MS-00024	6				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE19285	CE	MS-00024	7				Relapse					Y								>1800																																																										Start of treatment					
+GSE24427	CE	MS-00025	1				Duration from MS diagnosis to therapy initiation																																																											P6M																	
+GSE24427	CE	MS-00025	2				Relapse					N											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00025	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00025	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00025	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00025	6				Relapse					Y								840																																																										Start of treatment					
+GSE24427	CE	MS-00026	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE24427	CE	MS-00026	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00026	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00026	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00026	5				Relapse					Y								>1800																																																										Start of treatment					
+GSE24427	CE	MS-00027	1				Duration from MS diagnosis to therapy initiation																																																											P0M																	
+GSE24427	CE	MS-00027	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00027	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00027	4				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00027	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00027	6				Relapse					Y								480																																																										Start of treatment					
+GSE24427	CE	MS-00028	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE24427	CE	MS-00028	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00028	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00028	4				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00028	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00028	6				Relapse					Y								390																																																										Start of treatment					
+GSE24427	CE	MS-00029	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE24427	CE	MS-00029	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00029	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00029	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00029	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00029	6				Relapse					Y								1680																																																										Start of treatment					
+GSE24427	CE	MS-00030	1				Duration from MS diagnosis to therapy initiation																																																											P96M																	
+GSE24427	CE	MS-00030	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00030	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00030	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00030	5				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00030	6				Relapse					Y								>1800																																																										Start of treatment					
+GSE24427	CE	MS-00031	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE24427	CE	MS-00031	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00031	3				Relapse					Y											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00031	4				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00031	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00031	6				Relapse					Y								180																																																										Start of treatment					
+GSE24427	CE	MS-00032	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE24427	CE	MS-00032	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00032	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00032	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00032	5				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00032	6				Relapse					Y								>1800																																																										Start of treatment					
+GSE24427	CE	MS-00033	1				Duration from MS diagnosis to therapy initiation																																																											P6M																	
+GSE24427	CE	MS-00033	2				Relapse					N											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00033	3				Relapse					Y											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00033	4				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00033	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00033	6				Relapse					Y								60																																																										Start of treatment					
+GSE24427	CE	MS-00034	1				Duration from MS diagnosis to therapy initiation																																																											P8M																	
+GSE24427	CE	MS-00034	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00034	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00034	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00034	5				Relapse					Y								>1800																																																										Start of treatment					
+GSE24427	CE	MS-00035	1				Duration from MS diagnosis to therapy initiation																																																											P0M																	
+GSE24427	CE	MS-00035	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00035	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00035	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00035	5				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00035	6				Relapse					Y								>1800																																																										Start of treatment					
+GSE24427	CE	MS-00036	1				Duration from MS diagnosis to therapy initiation																																																											P2M																	
+GSE24427	CE	MS-00036	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00036	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00036	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00036	5				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00036	6				Relapse					Y								>1800																																																										Start of treatment					
+GSE24427	CE	MS-00037	1				Duration from MS diagnosis to therapy initiation																																																											P3M																	
+GSE24427	CE	MS-00037	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00037	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00037	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00037	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00037	6				Relapse					Y								1050																																																										Start of treatment					
+GSE24427	CE	MS-00038	1				Duration from MS diagnosis to therapy initiation																																																											P7M																	
+GSE24427	CE	MS-00038	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00038	3				Relapse					Y											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00038	4				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00038	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00038	6				Relapse					Y								300																																																										Start of treatment					
+GSE24427	CE	MS-00039	1				Duration from MS diagnosis to therapy initiation																																																											P8M																	
+GSE24427	CE	MS-00039	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00039	3				Relapse					Y											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00039	4				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00039	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00039	6				Relapse					Y								360																																																										Start of treatment					
+GSE24427	CE	MS-00040	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE24427	CE	MS-00040	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00040	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00040	4				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00040	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00040	6				Relapse					Y								720																																																										Start of treatment					
+GSE24427	CE	MS-00041	1				Duration from MS diagnosis to therapy initiation																																																											P29M																	
+GSE24427	CE	MS-00041	2				Relapse					N											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00041	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00041	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00041	5				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00041	6				Relapse					Y								>1800																																																										Start of treatment					
+GSE24427	CE	MS-00042	1				Duration from MS diagnosis to therapy initiation																																																											P5M																	
+GSE24427	CE	MS-00042	2				Relapse					N											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00042	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00042	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00042	5				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00042	6				Relapse					Y								>1800																																																										Start of treatment					
+GSE24427	CE	MS-00043	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE24427	CE	MS-00043	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00043	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00043	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00043	5				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00043	6				Relapse					Y								>1800																																																										Start of treatment					
+GSE24427	CE	MS-00044	1				Duration from MS diagnosis to therapy initiation																																																											P2M																	
+GSE24427	CE	MS-00044	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00044	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00044	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00044	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00044	6				Relapse					Y								780																																																										Start of treatment					
+GSE24427	CE	MS-00045	1				Duration from MS diagnosis to therapy initiation																																																											P27M																	
+GSE24427	CE	MS-00045	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00045	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00045	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00045	5				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00045	6				Relapse					Y								>1800																																																										Start of treatment					
+GSE24427	CE	MS-00046	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE24427	CE	MS-00046	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00046	3				Relapse					Y											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00046	4				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00046	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00046	6				Relapse					Y								300																																																										Start of treatment					
+GSE24427	CE	MS-00047	1				Duration from MS diagnosis to therapy initiation																																																											P0M																	
+GSE24427	CE	MS-00047	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00047	3				Relapse					Y											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00047	4				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00047	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00047	6				Relapse					Y								330																																																										Start of treatment					
+GSE24427	CE	MS-00048	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE24427	CE	MS-00048	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00048	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00048	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00048	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00048	6				Relapse					Y								1080																																																										Start of treatment					
+GSE24427	CE	MS-00049	1				Duration from MS diagnosis to therapy initiation																																																											P2M																	
+GSE24427	CE	MS-00049	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE24427	CE	MS-00049	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE24427	CE	MS-00049	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE24427	CE	MS-00049	5				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE24427	CE	MS-00049	6				Relapse					Y								>1800																																																										Start of treatment					
+GSE15245	CE	MS-00050	1				Relapse					Y								142																																																															
+GSE15245	CE	MS-00051	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00052	1				Relapse					Y								1259																																																															
+GSE15245	CE	MS-00053	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00054	1				Relapse					Y								315																																																															
+GSE15245	CE	MS-00055	1				Relapse					Y								215																																																															
+GSE15245	CE	MS-00056	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00057	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00058	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00059	1				Relapse					Y								546																																																															
+GSE15245	CE	MS-00060	1				Relapse					Y								657																																																															
+GSE15245	CE	MS-00061	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00062	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00063	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00064	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00065	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00066	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00067	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00068	1				Relapse					Y								180																																																															
+GSE15245	CE	MS-00069	1				Relapse					Y								184																																																															
+GSE15245	CE	MS-00070	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00071	1				Relapse					Y								471																																																															
+GSE15245	CE	MS-00072	1				Relapse					Y								361																																																															
+GSE15245	CE	MS-00073	1				Relapse					Y								269																																																															
+GSE15245	CE	MS-00074	1				Relapse					Y								357																																																															
+GSE15245	CE	MS-00075	1				Relapse					Y								427																																																															
+GSE15245	CE	MS-00076	1				Relapse					Y								722																																																															
+GSE15245	CE	MS-00077	1				Relapse					Y								237																																																															
+GSE15245	CE	MS-00078	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00079	1				Relapse					Y								1132																																																															
+GSE15245	CE	MS-00080	1				Relapse					Y								132																																																															
+GSE15245	CE	MS-00081	1				Relapse					Y								67																																																															
+GSE15245	CE	MS-00082	1				Relapse					Y								45																																																															
+GSE15245	CE	MS-00083	1				Relapse					Y								123																																																															
+GSE15245	CE	MS-00084	1				Relapse					Y								455																																																															
+GSE15245	CE	MS-00085	1				Relapse					Y								216																																																															
+GSE15245	CE	MS-00086	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00087	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00088	1				Relapse					Y								1072																																																															
+GSE15245	CE	MS-00089	1				Relapse					Y								693																																																															
+GSE15245	CE	MS-00090	1				Relapse					Y								111																																																															
+GSE15245	CE	MS-00091	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00092	1				Relapse					Y								724																																																															
+GSE15245	CE	MS-00093	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00094	1				Relapse					Y								92																																																															
+GSE15245	CE	MS-00095	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00096	1				Relapse					Y								964																																																															
+GSE15245	CE	MS-00097	1				Relapse					Y								369																																																															
+GSE15245	CE	MS-00098	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00099	1				Relapse					Y								359																																																															
+GSE15245	CE	MS-00100	1				Relapse					Y								228																																																															
+GSE15245	CE	MS-00101	1				Relapse					Y								906																																																															
+GSE15245	CE	MS-00102	1				Relapse					Y								1077																																																															
+GSE15245	CE	MS-00103	1				Relapse					Y								715																																																															
+GSE15245	CE	MS-00104	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00105	1				Relapse					Y								955																																																															
+GSE15245	CE	MS-00106	1				Relapse					Y								75																																																															
+GSE15245	CE	MS-00107	1				Relapse					Y								221																																																															
+GSE15245	CE	MS-00108	1				Relapse					Y								543																																																															
+GSE15245	CE	MS-00109	1				Relapse					Y								628																																																															
+GSE15245	CE	MS-00110	1				Relapse					Y								321																																																															
+GSE15245	CE	MS-00111	1				Relapse					Y								183																																																															
+GSE15245	CE	MS-00112	1				Relapse					Y								858																																																															
+GSE15245	CE	MS-00113	1				Relapse					Y								84																																																															
+GSE15245	CE	MS-00114	1				Relapse					Y								449																																																															
+GSE15245	CE	MS-00115	1				Relapse					Y								267																																																															
+GSE15245	CE	MS-00116	1				Relapse					Y								432																																																															
+GSE15245	CE	MS-00117	1				Relapse					Y								552																																																															
+GSE15245	CE	MS-00118	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00119	1				Relapse					Y								179																																																															
+GSE15245	CE	MS-00120	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00121	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00122	1				Relapse					Y								1195																																																															
+GSE15245	CE	MS-00123	1				Relapse					Y								1240																																																															
+GSE15245	CE	MS-00124	1				Relapse					Y								51																																																															
+GSE15245	CE	MS-00125	1				Relapse					Y								83																																																															
+GSE15245	CE	MS-00126	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00127	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00128	1				Relapse					Y								417																																																															
+GSE15245	CE	MS-00129	1				Relapse					Y								54																																																															
+GSE15245	CE	MS-00130	1				Relapse					Y								121																																																															
+GSE15245	CE	MS-00131	1				Relapse					Y								677																																																															
+GSE15245	CE	MS-00132	1				Relapse					Y								842																																																															
+GSE15245	CE	MS-00133	1				Relapse					Y								1265																																																															
+GSE15245	CE	MS-00134	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00135	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00136	1				Relapse					Y								307																																																															
+GSE15245	CE	MS-00137	1				Relapse					Y								356																																																															
+GSE15245	CE	MS-00138	1				Relapse					N								1265																																																															
+GSE15245	CE	MS-00139	1				Relapse					Y								936																																																															
+GSE15245	CE	MS-00140	1				Relapse					Y								564																																																															
+GSE15245	CE	MS-00141	1				Relapse					Y								147																																																															
+GSE15245	CE	MS-00142	1				Relapse					Y								134																																																															
+GSE15245	CE	MS-00143	1				Relapse					N								1265																																																															
+GSE33464	CE	MS-00180	1				Duration from MS diagnosis to therapy initiation																																																											P33M																	
+GSE33464	CE	MS-00180	2				Relapse					N											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE33464	CE	MS-00180	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE33464	CE	MS-00180	4				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE33464	CE	MS-00180	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE33464	CE	MS-00181	1				Duration from MS diagnosis to therapy initiation																																																											P5M																	
+GSE33464	CE	MS-00181	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE33464	CE	MS-00181	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE33464	CE	MS-00181	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE33464	CE	MS-00181	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE33464	CE	MS-00182	1				Duration from MS diagnosis to therapy initiation																																																											P0M																	
+GSE33464	CE	MS-00182	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE33464	CE	MS-00182	3				Relapse					Y											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE33464	CE	MS-00182	4				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE33464	CE	MS-00182	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE33464	CE	MS-00183	1				Duration from MS diagnosis to therapy initiation																																																											P4M																	
+GSE33464	CE	MS-00183	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE33464	CE	MS-00183	3				Relapse					Y											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE33464	CE	MS-00183	4				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE33464	CE	MS-00183	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE33464	CE	MS-00184	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE33464	CE	MS-00184	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE33464	CE	MS-00184	3				Relapse					Y											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE33464	CE	MS-00184	4				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE33464	CE	MS-00184	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE33464	CE	MS-00185	1				Duration from MS diagnosis to therapy initiation																																																											P25M																	
+GSE33464	CE	MS-00185	2				Relapse					N											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE33464	CE	MS-00185	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE33464	CE	MS-00185	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE33464	CE	MS-00185	5				Relapse					N											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE33464	CE	MS-00186	1				Duration from MS diagnosis to therapy initiation																																																											P2M																	
+GSE33464	CE	MS-00186	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE33464	CE	MS-00186	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE33464	CE	MS-00186	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE33464	CE	MS-00186	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE33464	CE	MS-00187	1				Duration from MS diagnosis to therapy initiation																																																											P2M																	
+GSE33464	CE	MS-00187	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE33464	CE	MS-00187	3				Relapse					Y											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE33464	CE	MS-00187	4				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE33464	CE	MS-00187	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE33464	CE	MS-00188	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE33464	CE	MS-00188	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE33464	CE	MS-00188	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE33464	CE	MS-00188	4				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE33464	CE	MS-00188	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE33464	CE	MS-00189	1				Duration from MS diagnosis to therapy initiation																																																											P8M																	
+GSE33464	CE	MS-00189	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE33464	CE	MS-00189	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE33464	CE	MS-00189	4				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE33464	CE	MS-00189	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE33464	CE	MS-00190	1				Duration from MS diagnosis to therapy initiation																																																											P5M																	
+GSE33464	CE	MS-00190	2				Relapse					N											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE33464	CE	MS-00190	3				Relapse					Y											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE33464	CE	MS-00190	4				Relapse					Y											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE33464	CE	MS-00190	5				Relapse					Y											AFTER	Start of treatment																																																			5 years following treatment		P5Y	Start of treatment					
+GSE33464	CE	MS-00191	1				Duration from MS diagnosis to therapy initiation																																																											P1M																	
+GSE33464	CE	MS-00191	2				Relapse					Y											BEFORE	Start of treatment																																																			1 year prior to treatment		-P1Y	Start of treatment					
+GSE33464	CE	MS-00191	3				Relapse					N											AFTER	Start of treatment																																																			1 year following treatment		P1Y	Start of treatment					
+GSE33464	CE	MS-00191	4				Relapse					N											AFTER	Start of treatment																																																			2 years following treatment		P2Y	Start of treatment					
+GSE10655	CE	MS-00322	1				Relapse																																																																												
+GSE10655	CE	MS-00323	1				Relapse																																																																												
+GSE10655	CE	MS-00324	1				Relapse																																																																												
+GSE10655	CE	MS-00325	1				Relapse																																																																												
+GSE10655	CE	MS-00326	1				Relapse																																																																												
+GSE10655	CE	MS-00327	1				Relapse																																																																												
+GSE10655	CE	MS-00328	1				Relapse																																																																												
+GSE10655	CE	MS-00329	1				Relapse																																																																												
+GSE10655	CE	MS-00330	1				Relapse																																																																												
+GSE10655	CE	MS-00331	1				Relapse																																																																												
+GSE10655	CE	MS-00332	1				Relapse																																																																												
+GSE10655	CE	MS-00333	1				Relapse																																																																												
+GSE10655	CE	MS-00334	1				Relapse																																																																												
+GSE10655	CE	MS-00335	1				Relapse																																																																												
+GSE10655	CE	MS-00336	1				Relapse																																																																												
+GSE10655	CE	MS-00337	1				Relapse																																																																												

@@ -1,0 +1,1771 @@
+STUDYID	DOMAIN	USUBJID	AGE	AGEU	SEX	RACE	ETHNIC	ARMCD	ARM	ACTARMCD	ACTARM	DMDY	AGETXT
+GSE13355	DM	GSE13355-PS-00225				WHITE						1	
+GSE54456	DM	GSE13355-PS-00225				WHITE						1	
+GSE13355	DM	GSE13355-PS-00226				WHITE						1	
+GSE13355	DM	GSE13355-PS-00227				WHITE						1	
+GSE54456	DM	GSE13355-PS-00227				WHITE						1	
+GSE13355	DM	GSE13355-PS-00228				WHITE						1	
+GSE13355	DM	GSE13355-PS-00229				WHITE						1	
+GSE13355	DM	GSE13355-PS-00230				WHITE						1	
+GSE13355	DM	GSE13355-PS-00231				WHITE						1	
+GSE13355	DM	GSE13355-PS-00232				WHITE						1	
+GSE13355	DM	GSE13355-PS-00233				WHITE						1	
+GSE13355	DM	GSE13355-PS-00234				WHITE						1	
+GSE13355	DM	GSE13355-PS-00235				WHITE						1	
+GSE13355	DM	GSE13355-PS-00236				WHITE						1	
+GSE54456	DM	GSE13355-PS-00236				WHITE						1	
+GSE13355	DM	GSE13355-PS-00237				WHITE						1	
+GSE13355	DM	GSE13355-PS-00238				WHITE						1	
+GSE13355	DM	GSE13355-PS-00239				WHITE						1	
+GSE54456	DM	GSE13355-PS-00239				WHITE						1	
+GSE13355	DM	GSE13355-PS-00240				WHITE						1	
+GSE13355	DM	GSE13355-PS-00241				WHITE						1	
+GSE54456	DM	GSE13355-PS-00241				WHITE						1	
+GSE13355	DM	GSE13355-PS-00242				WHITE						1	
+GSE13355	DM	GSE13355-PS-00243				WHITE						1	
+GSE54456	DM	GSE13355-PS-00243				WHITE						1	
+GSE13355	DM	GSE13355-PS-00244				WHITE						1	
+GSE13355	DM	GSE13355-PS-00245				WHITE						1	
+GSE54456	DM	GSE13355-PS-00245				WHITE						1	
+GSE13355	DM	GSE13355-PS-00246				WHITE						1	
+GSE54456	DM	GSE13355-PS-00246				WHITE						1	
+GSE13355	DM	GSE13355-PS-00247				WHITE						1	
+GSE13355	DM	GSE13355-PS-00248				WHITE						1	
+GSE54456	DM	GSE13355-PS-00248				WHITE						1	
+GSE13355	DM	GSE13355-PS-00249				WHITE						1	
+GSE13355	DM	GSE13355-PS-00250				WHITE						1	
+GSE54456	DM	GSE13355-PS-00250				WHITE						1	
+GSE13355	DM	GSE13355-PS-00251				WHITE						1	
+GSE54456	DM	GSE13355-PS-00251				WHITE						1	
+GSE13355	DM	GSE13355-PS-00252				WHITE						1	
+GSE54456	DM	GSE13355-PS-00252				WHITE						1	
+GSE13355	DM	GSE13355-PS-00253				WHITE						1	
+GSE54456	DM	GSE13355-PS-00253				WHITE						1	
+GSE13355	DM	GSE13355-PS-00254				WHITE						1	
+GSE54456	DM	GSE13355-PS-00254				WHITE						1	
+GSE13355	DM	GSE13355-PS-00255				WHITE						1	
+GSE54456	DM	GSE13355-PS-00255				WHITE						1	
+GSE13355	DM	GSE13355-PS-00256				WHITE						1	
+GSE13355	DM	GSE13355-PS-00257				WHITE						1	
+GSE54456	DM	GSE13355-PS-00257				WHITE						1	
+GSE13355	DM	GSE13355-PS-00258				WHITE						1	
+GSE13355	DM	GSE13355-PS-00259				WHITE						1	
+GSE54456	DM	GSE13355-PS-00259				WHITE						1	
+GSE13355	DM	GSE13355-PS-00260				WHITE						1	
+GSE54456	DM	GSE13355-PS-00260				WHITE						1	
+GSE13355	DM	GSE13355-PS-00261				WHITE						1	
+GSE13355	DM	GSE13355-PS-00262				WHITE						1	
+GSE13355	DM	GSE13355-PS-00263				WHITE						1	
+GSE54456	DM	GSE13355-PS-00263				WHITE						1	
+GSE13355	DM	GSE13355-PS-00264				WHITE						1	
+GSE13355	DM	GSE13355-PS-00265				WHITE						1	
+GSE13355	DM	GSE13355-PS-00266				WHITE						1	
+GSE13355	DM	GSE13355-PS-00267				WHITE						1	
+GSE13355	DM	GSE13355-PS-00268				WHITE						1	
+GSE13355	DM	GSE13355-PS-00269				WHITE						1	
+GSE13355	DM	GSE13355-PS-00270				WHITE						1	
+GSE13355	DM	GSE13355-PS-00271				WHITE						1	
+GSE13355	DM	GSE13355-PS-00272				WHITE						1	
+GSE13355	DM	GSE13355-PS-00273				WHITE						1	
+GSE13355	DM	GSE13355-PS-00274				WHITE						1	
+GSE13355	DM	GSE13355-PS-00275				WHITE						1	
+GSE13355	DM	GSE13355-PS-00276				WHITE						1	
+GSE13355	DM	GSE13355-PS-00277				WHITE						1	
+GSE13355	DM	GSE13355-PS-00278				WHITE						1	
+GSE13355	DM	GSE13355-PS-00279				WHITE						1	
+GSE54456	DM	GSE13355-PS-00279				WHITE						1	
+GSE13355	DM	GSE13355-PS-00280				WHITE						1	
+GSE54456	DM	GSE13355-PS-00280				WHITE						1	
+GSE13355	DM	GSE13355-PS-00281				WHITE						1	
+GSE13355	DM	GSE13355-PS-00282				WHITE						1	
+GSE54456	DM	GSE13355-PS-00282				WHITE						1	
+GSE54456	DM	GSE54456-PS-01811										1	
+GSE54456	DM	GSE54456-PS-01812										1	
+GSE54456	DM	GSE54456-PS-01813										1	
+GSE54456	DM	GSE54456-PS-01814										1	
+GSE54456	DM	GSE54456-PS-01816										1	
+GSE54456	DM	GSE54456-PS-01817										1	
+GSE54456	DM	GSE54456-PS-01819										1	
+GSE54456	DM	GSE54456-PS-01820										1	
+GSE54456	DM	GSE54456-PS-01822										1	
+GSE54456	DM	GSE54456-PS-01823										1	
+GSE54456	DM	GSE54456-PS-01825										1	
+GSE54456	DM	GSE54456-PS-01826										1	
+GSE54456	DM	GSE54456-PS-01827										1	
+GSE54456	DM	GSE54456-PS-01828										1	
+GSE54456	DM	GSE54456-PS-01829										1	
+GSE54456	DM	GSE54456-PS-01830										1	
+GSE54456	DM	GSE54456-PS-01836										1	
+GSE54456	DM	GSE54456-PS-01837										1	
+GSE54456	DM	GSE54456-PS-01838										1	
+GSE54456	DM	GSE54456-PS-01839										1	
+GSE54456	DM	GSE54456-PS-01840										1	
+GSE54456	DM	GSE54456-PS-01841										1	
+GSE54456	DM	GSE54456-PS-01843										1	
+GSE54456	DM	GSE54456-PS-01844										1	
+GSE54456	DM	GSE54456-PS-01845										1	
+GSE54456	DM	GSE54456-PS-01846										1	
+GSE54456	DM	GSE54456-PS-01847										1	
+GSE54456	DM	GSE54456-PS-01848										1	
+GSE54456	DM	GSE54456-PS-01849										1	
+GSE54456	DM	GSE54456-PS-01850										1	
+GSE54456	DM	GSE54456-PS-01851										1	
+GSE54456	DM	GSE54456-PS-01852										1	
+GSE54456	DM	GSE54456-PS-01853										1	
+GSE54456	DM	GSE54456-PS-01854										1	
+GSE54456	DM	GSE54456-PS-01857										1	
+GSE54456	DM	GSE54456-PS-01890										1	
+GSE54456	DM	GSE54456-PS-01891										1	
+GSE54456	DM	GSE54456-PS-01892										1	
+GSE54456	DM	GSE54456-PS-01893										1	
+GSE54456	DM	GSE54456-PS-01894										1	
+GSE54456	DM	GSE54456-PS-01896										1	
+GSE54456	DM	GSE54456-PS-01897										1	
+GSE54456	DM	GSE54456-PS-01898										1	
+GSE54456	DM	GSE54456-PS-01899										1	
+GSE54456	DM	GSE54456-PS-01900										1	
+GSE54456	DM	GSE54456-PS-01902										1	
+GSE54456	DM	GSE54456-PS-01903										1	
+GSE54456	DM	GSE54456-PS-01904										1	
+GSE54456	DM	GSE54456-PS-01905										1	
+GSE54456	DM	GSE54456-PS-01906										1	
+GSE54456	DM	GSE54456-PS-01907										1	
+GSE54456	DM	GSE54456-PS-01908										1	
+GSE54456	DM	GSE54456-PS-01909										1	
+GSE54456	DM	GSE54456-PS-01910										1	
+GSE54456	DM	GSE54456-PS-01911										1	
+GSE54456	DM	GSE54456-PS-01912										1	
+GSE54456	DM	GSE54456-PS-01913										1	
+GSE54456	DM	GSE54456-PS-01914										1	
+GSE54456	DM	GSE54456-PS-01915										1	
+GSE54456	DM	GSE54456-PS-01917										1	
+GSE54456	DM	GSE54456-PS-01918										1	
+GSE54456	DM	GSE54456-PS-01919										1	
+GSE54456	DM	GSE54456-PS-01921										1	
+GSE54456	DM	GSE54456-PS-01923										1	
+GSE54456	DM	GSE54456-PS-01924										1	
+GSE54456	DM	GSE54456-PS-01925										1	
+GSE54456	DM	GSE54456-PS-01926										1	
+GSE54456	DM	GSE54456-PS-01937										1	
+GSE54456	DM	GSE54456-PS-01938										1	
+GSE54456	DM	GSE54456-PS-01939										1	
+GSE18948	DM	PS-00001	49	YEARS	M		HISPANIC OR LATINO	ALEF	Alefacept	ALEF	Alefacept	1	
+GSE18948	DM	PS-00002	36	YEARS	M	ASIAN		ALEF	Alefacept	ALEF	Alefacept	1	
+GSE18948	DM	PS-00003	29	YEARS	F		HISPANIC OR LATINO	ALEF	Alefacept	ALEF	Alefacept	1	
+GSE18948	DM	PS-00004	43	YEARS	M	WHITE		ALEF	Alefacept	ALEF	Alefacept	1	
+GSE18948	DM	PS-00005	59	YEARS	M	WHITE		ALEF	Alefacept	ALEF	Alefacept	1	
+GSE18948	DM	PS-00006	44	YEARS	M		HISPANIC OR LATINO	ALEF	Alefacept	ALEF	Alefacept	1	
+GSE18948	DM	PS-00007	38	YEARS	M	WHITE		ALEF	Alefacept	ALEF	Alefacept	1	
+GSE18948	DM	PS-00008	62	YEARS	M	WHITE		ALEF	Alefacept	ALEF	Alefacept	1	
+GSE18948	DM	PS-00009	68	YEARS	M	WHITE		ALEF	Alefacept	ALEF	Alefacept	1	
+GSE18948	DM	PS-00010	59	YEARS	M	WHITE		ALEF	Alefacept	ALEF	Alefacept	1	
+GSE18948	DM	PS-00011	52	YEARS	M	WHITE		ALEF	Alefacept	ALEF	Alefacept	1	
+GSE18948	DM	PS-00012	55	YEARS	M	WHITE		ALEF	Alefacept	ALEF	Alefacept	1	
+GSE18948	DM	PS-00013	41	YEARS	M	WHITE		ALEF	Alefacept	ALEF	Alefacept	1	
+GSE18948	DM	PS-00014	45	YEARS	M	BLACK OR AFRICAN AMERICAN		ALEF	Alefacept	ALEF	Alefacept	1	
+GSE18948	DM	PS-00015	33	YEARS	M	WHITE		ALEF	Alefacept	ALEF	Alefacept	1	
+GSE18948	DM	PS-00016	49	YEARS	M	WHITE		ALEF	Alefacept	ALEF	Alefacept	1	
+GSE26952	DM	PS-00022		YEARS	M	BLACK OR AFRICAN AMERICAN						1	30-39
+GSE26952	DM	PS-00023		YEARS	M	WHITE						1	20-29
+GSE26952	DM	PS-00024		YEARS	F	WHITE						1	30-39
+GSE26952	DM	PS-00025		YEARS	F	WHITE						1	30-39
+GSE6710	DM	PS-00031	34	YEARS	M							1	
+GSE6710	DM	PS-00032	32	YEARS	M							1	
+GSE6710	DM	PS-00033	61	YEARS	M							1	
+GSE6710	DM	PS-00034	51	YEARS	M							1	
+GSE6710	DM	PS-00035	47	YEARS	M							1	
+GSE6710	DM	PS-00036	40	YEARS	M							1	
+GSE6710	DM	PS-00037	54	YEARS	F							1	
+GSE6710	DM	PS-00038	34	YEARS	M							1	
+GSE6710	DM	PS-00039	42	YEARS	F							1	
+GSE6710	DM	PS-00040	40	YEARS	M							1	
+GSE6710	DM	PS-00041	76	YEARS	M							1	
+GSE6710	DM	PS-00042	56	YEARS	M							1	
+GSE6710	DM	PS-00043	47	YEARS	M							1	
+GSE30999	DM	PS-00044										1	
+GSE30999	DM	PS-00045										1	
+GSE30999	DM	PS-00046										1	
+GSE30999	DM	PS-00047										1	
+GSE30999	DM	PS-00048										1	
+GSE30999	DM	PS-00049										1	
+GSE30999	DM	PS-00050										1	
+GSE30999	DM	PS-00051										1	
+GSE30999	DM	PS-00052										1	
+GSE30999	DM	PS-00053										1	
+GSE30999	DM	PS-00054										1	
+GSE30999	DM	PS-00055										1	
+GSE30999	DM	PS-00056										1	
+GSE30999	DM	PS-00057										1	
+GSE30999	DM	PS-00058										1	
+GSE30999	DM	PS-00059										1	
+GSE30999	DM	PS-00060										1	
+GSE30999	DM	PS-00061										1	
+GSE30999	DM	PS-00062										1	
+GSE30999	DM	PS-00063										1	
+GSE30999	DM	PS-00064										1	
+GSE30999	DM	PS-00065										1	
+GSE30999	DM	PS-00066										1	
+GSE30999	DM	PS-00067										1	
+GSE30999	DM	PS-00068										1	
+GSE30999	DM	PS-00069										1	
+GSE30999	DM	PS-00070										1	
+GSE30999	DM	PS-00071										1	
+GSE30999	DM	PS-00072										1	
+GSE30999	DM	PS-00073										1	
+GSE30999	DM	PS-00074										1	
+GSE30999	DM	PS-00075										1	
+GSE30999	DM	PS-00076										1	
+GSE30999	DM	PS-00077										1	
+GSE30999	DM	PS-00078										1	
+GSE30999	DM	PS-00079										1	
+GSE30999	DM	PS-00080										1	
+GSE30999	DM	PS-00081										1	
+GSE30999	DM	PS-00082										1	
+GSE30999	DM	PS-00083										1	
+GSE30999	DM	PS-00084										1	
+GSE30999	DM	PS-00085										1	
+GSE30999	DM	PS-00086										1	
+GSE30999	DM	PS-00087										1	
+GSE30999	DM	PS-00088										1	
+GSE30999	DM	PS-00089										1	
+GSE30999	DM	PS-00090										1	
+GSE30999	DM	PS-00091										1	
+GSE30999	DM	PS-00092										1	
+GSE30999	DM	PS-00093										1	
+GSE30999	DM	PS-00094										1	
+GSE30999	DM	PS-00095										1	
+GSE30999	DM	PS-00096										1	
+GSE30999	DM	PS-00097										1	
+GSE30999	DM	PS-00098										1	
+GSE30999	DM	PS-00099										1	
+GSE30999	DM	PS-00100										1	
+GSE30999	DM	PS-00101										1	
+GSE30999	DM	PS-00102										1	
+GSE30999	DM	PS-00103										1	
+GSE30999	DM	PS-00104										1	
+GSE30999	DM	PS-00105										1	
+GSE30999	DM	PS-00106										1	
+GSE30999	DM	PS-00107										1	
+GSE30999	DM	PS-00108										1	
+GSE30999	DM	PS-00109										1	
+GSE30999	DM	PS-00110										1	
+GSE30999	DM	PS-00111										1	
+GSE30999	DM	PS-00112										1	
+GSE30999	DM	PS-00113										1	
+GSE30999	DM	PS-00114										1	
+GSE30999	DM	PS-00115										1	
+GSE30999	DM	PS-00116										1	
+GSE30999	DM	PS-00117										1	
+GSE30999	DM	PS-00118										1	
+GSE30999	DM	PS-00119										1	
+GSE30999	DM	PS-00120										1	
+GSE30999	DM	PS-00121										1	
+GSE30999	DM	PS-00122										1	
+GSE30999	DM	PS-00123										1	
+GSE30999	DM	PS-00124										1	
+GSE30999	DM	PS-00125										1	
+GSE30999	DM	PS-00126										1	
+GSE30999	DM	PS-00127										1	
+GSE30999	DM	PS-00128										1	
+GSE30999	DM	PS-00129										1	
+GSE31652	DM	PS-00130						IXEKIZ	Ixekizumab	IXEKIZ	Ixekizumab	1	
+GSE31652	DM	PS-00131						IXEKIZ	Ixekizumab	IXEKIZ	Ixekizumab	1	
+GSE31652	DM	PS-00132						IXEKIZ	Ixekizumab	IXEKIZ	Ixekizumab	1	
+GSE31652	DM	PS-00133						IXEKIZ	Ixekizumab	IXEKIZ	Ixekizumab	1	
+GSE31652	DM	PS-00134						IXEKIZ	Ixekizumab	IXEKIZ	Ixekizumab	1	
+GSE31652	DM	PS-00135						IXEKIZ	Ixekizumab	IXEKIZ	Ixekizumab	1	
+GSE31652	DM	PS-00136						IXEKIZ	Ixekizumab	IXEKIZ	Ixekizumab	1	
+GSE31652	DM	PS-00137						PLACEBO	Placebo	PLACEBO	Placebo	1	
+GSE31652	DM	PS-00138						PLACEBO	Placebo	PLACEBO	Placebo	1	
+GSE31652	DM	PS-00139						PLACEBO	Placebo	PLACEBO	Placebo	1	
+GSE31652	DM	PS-00140						PLACEBO	Placebo	PLACEBO	Placebo	1	
+GSE31652	DM	PS-00141						PLACEBO	Placebo	PLACEBO	Placebo	1	
+GSE31652	DM	PS-00142						PLACEBO	Placebo	PLACEBO	Placebo	1	
+GSE31652	DM	PS-00143						PLACEBO	Placebo	PLACEBO	Placebo	1	
+GSE31652	DM	PS-00144						PLACEBO	Placebo	PLACEBO	Placebo	1	
+GSE31652	DM	PS-00145						PLACEBO	Placebo	PLACEBO	Placebo	1	
+GSE11903	DM	GSE11903-PS-00146						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE41663	DM	GSE11903-PS-00146						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE11903	DM	GSE11903-PS-00147						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE41663	DM	GSE11903-PS-00147						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE11903	DM	GSE11903-PS-00148						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE41663	DM	GSE11903-PS-00148						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE11903	DM	GSE11903-PS-00149						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE41663	DM	GSE11903-PS-00149						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE11903	DM	GSE11903-PS-00150						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE41663	DM	GSE11903-PS-00150						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE11903	DM	GSE11903-PS-00151						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE41663	DM	GSE11903-PS-00151						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE11903	DM	GSE11903-PS-00152						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE41663	DM	GSE11903-PS-00152						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE11903	DM	GSE11903-PS-00153						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE41663	DM	GSE11903-PS-00153						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE14905	DM	PS-00304										1	
+GSE14905	DM	PS-00305										1	
+GSE14905	DM	PS-00306										1	
+GSE14905	DM	PS-00307										1	
+GSE14905	DM	PS-00308										1	
+GSE14905	DM	PS-00309										1	
+GSE14905	DM	PS-00310										1	
+GSE14905	DM	PS-00311										1	
+GSE14905	DM	PS-00312										1	
+GSE14905	DM	PS-00313										1	
+GSE14905	DM	PS-00314										1	
+GSE14905	DM	PS-00315										1	
+GSE14905	DM	PS-00316										1	
+GSE14905	DM	PS-00317										1	
+GSE14905	DM	PS-00318										1	
+GSE14905	DM	PS-00319										1	
+GSE14905	DM	PS-00320										1	
+GSE14905	DM	PS-00321										1	
+GSE14905	DM	PS-00322										1	
+GSE14905	DM	PS-00323										1	
+GSE14905	DM	PS-00324										1	
+GSE14905	DM	PS-00325										1	
+GSE14905	DM	PS-00326										1	
+GSE14905	DM	PS-00327										1	
+GSE14905	DM	PS-00328										1	
+GSE14905	DM	PS-00329										1	
+GSE14905	DM	PS-00330										1	
+GSE14905	DM	PS-00331										1	
+GSE14905	DM	PS-00332										1	
+GSE14905	DM	PS-00333										1	
+GSE14905	DM	PS-00334										1	
+GSE14905	DM	PS-00335										1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00336	48	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00337	55	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00338	53	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00339	61	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00340	33	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00341	64	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00342	65	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00343	66	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00344	44	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00345	27	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00346	52	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00347	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00348	52	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00349	36	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00350	66	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00351	58	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00352	34	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00353	36	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00354	22	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00355	53	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00356	28	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00357	62	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00358	36	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00359	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00360	22	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00361	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00362	50	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00363	37	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00364	75	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00365	71	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00366	38	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00367	35	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00368	39	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00369	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00370	59	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00371	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00372	34	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00373	54	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00374	53	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00375	52	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00376	26	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00377	59	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00378	46	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00379	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00380	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00381	36	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00382	34	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00383	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00384	46	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00385	42	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00386	82	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00387	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00388	32	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00389	20	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00390	78	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00391	50	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00392	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00393	41	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00394	74	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00395	50	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00396	60	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00397	61	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00398	4	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00399	5	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00400	8	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00401	10	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00402	11	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00403	14	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00404	15	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00405	15	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00406	17	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00407	17	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00408	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00409	18	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00410	18	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00411	20	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00412	20	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00413	21	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00414	21	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00415	23	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00416	24	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00417	25	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00418	25	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00419	56	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00420	26	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00421	27	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00422	27	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00423	27	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00424	28	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00425	28	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00426	29	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00427	29	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00428	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00429	30	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00430	30	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00431	30	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00432	31	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00433	31	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00434	32	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00435	33	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00436	33	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00437	33	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00438	69	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00439	34	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00440	34	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00441	34	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00442	35	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00443	35	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00444	35	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00445	35	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00446	36	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00447	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00448	37	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00449	37	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00450	37	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00451	37	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00452	38	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00453	38	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00454	38	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00455	38	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00456	38	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00457	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00458	53	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00459	39	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00460	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00461	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00462	39	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00463	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00464	40	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00465	40	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00466	40	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00467	41	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00468	40	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00469	41	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00470	41	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00471	41	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00472	41	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00473	41	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00474	41	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00475	41	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00476	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00477	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00478	54	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00479	43	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00480	43	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00481	43	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00482	43	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00483	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00484	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00485	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00486	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00487	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00488	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00489	80	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00490	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00491	46	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00492	46	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00493	47	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00494	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00495	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00496	47	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00497	47	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00498	73	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00499	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00500	49	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00501	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00502	50	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00503	50	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00504	50	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00505	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00506	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00507	52	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00508	52	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00509	53	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00510	53	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00511	55	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00512	55	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00513	56	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00514	56	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00515	56	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00516	56	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00517	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00518	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00519	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00520	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00521	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00522	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00523	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00524	58	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00525	58	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00526	59	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00527	59	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00528	36	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00529	59	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00530	59	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00531	60	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00532	60	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00533	60	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00534	60	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00535	60	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00536	60	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00537	60	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00538	49	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00539	61	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00540	61	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00541	61	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00542	62	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00543	62	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00544	62	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00545	62	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00546	62	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00547	63	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00548	63	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00549	22	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00550	63	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00551	63	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00552	65	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00553	65	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00554	65	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00555	65	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00556	65	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00557	66	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00558	66	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00559	66	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00560	43	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00561	67	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00562	67	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00563	68	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00564	70	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00565	70	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00566	70	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00567	70	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00568	71	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00569	73	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00570	64	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00571	78	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00572	81	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00573	32	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00574	47	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00575	60	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00576	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00577	29	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00578	34	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00579	65	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00580	66	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00581	71	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00582	52	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00583	41	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00584	64	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00585	60	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00586	41	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00587	52	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00588	54	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00589	33	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00590	62	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00591	32	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00592	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00593	46	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00594	30	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00595	42	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00596	67	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00597	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00598	52	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00599	48	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00600	35	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00601	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00602	54	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00603	33	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00604	58	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00605	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00606	46	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00607	69	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00608	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00609	61	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00610	56	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00611	52	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00612	54	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00613	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00614	68	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00615	41	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00616	56	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00617	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00618	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00619	50	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00620	46	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00621	63	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00622	39	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00623	49	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00624	34	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00625	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00626	62	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00627	34	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00628	33	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00629	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00630	68	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00631	34	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00632	59	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00633	34	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00634	36	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00635	56	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00636	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00637	53	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00638	62	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00639	50	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00640	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00641	39	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00642	31	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00643	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00644	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00645	46	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00646	59	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00647	26	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00648	38	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00649	49	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00650	20	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00651	43	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00652	55	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00653	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00654	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00655	30	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00656	75	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00657	62	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00658	50	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00659	26	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00660	36	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00661	27	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00662	43	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00663	70	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00664	28	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00665	46	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00666	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00667	48	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00668	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00669	21	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00670	32	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00671	40	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00672	18	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00673	46	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00674	34	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00675	81	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00676	31	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00677	39	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00678	27	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00679	54	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00680	32	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00681	44	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00682	41	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00683	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00684	54	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00685	61	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00686	38	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00687	48	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00688	50	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00689	66	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00690	66	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00691	71	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00692	55	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00693	84	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00694	20	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00695	48	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00696	26	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00697	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00698	38	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00699	29	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00700	74	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00701	63	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00702	36	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00703	28	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00704	50	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00705	47	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00706	49	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00707	41	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00708	31	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00709	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00710	74	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00711	13	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00712	55	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00713	37	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00714	42	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00715	54	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00716	37	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00717	38	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00718	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00719	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00720	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00721	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00722	50	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00723	47	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00724	37	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00725	61	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00726	25	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00727	24	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00728	53	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00729	60	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00730	36	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00731	65	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00732	49	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00733	60	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00734	41	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00735	48	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00736	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00737	43	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00738	19	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00739	41	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00740	52	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00741	37	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00742	53	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00743	65	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00744	61	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00745	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00746	23	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00747	36	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00748	41	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00749	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00750	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00751	53	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00752	25	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00753	56	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00754	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00755	33	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00756	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00757	56	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00758	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00759	65	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00760	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00761	46	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00762	79	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00763	30	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00764	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00765	38	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00766	30	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00767	32	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00768	36	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00769	59	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00770	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00771	47	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00772	52	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00773	40	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00774	55	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00775	67	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00776	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00777	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00778	34	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00779	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00780	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00781	40	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00782	17	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00783	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00784	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00785	53	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00786	40	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00787	43	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00788	37	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00789	46	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00790	42	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00791	40	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00792	38	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00793	24	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00794	59	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00795	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00796	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00797	38	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00798	73	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00799	29	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00800	42	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00801	40	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00802	52	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00803	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00804	62	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00805	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00806	48	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00807	58	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00808	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00809	32	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00810	37	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00811	79	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00812	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00813	58	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00814	26	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00815	23	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00816	73	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00817	54	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00818	37	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00819	52	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00820	58	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00821	43	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00822	29	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00823	36	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00824	30	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00825	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00826	87	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00827	38	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00828	54	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00829	29	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00830	50	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00831	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00832	26	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00833	28	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00834	30	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00835	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00836	47	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00837	32	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00838	68	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00839	64	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00840	74	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00841	62	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00842	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00843	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00844	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00845	27	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00846	70	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00847	70	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00848	22	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00849	65	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00850	44	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00851	46	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00852	65	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00853	54	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00854	85	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00855	55	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00856	55	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00857	65	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00858	77	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00859	65	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00860	34	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00861	55	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00862	42	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00863		YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00864	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00865	41	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00866	68	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00867	38	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00868	52	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00869	59	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00870	75	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00871	28	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00872	37	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00873	48	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00874	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00875	28	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00876	63	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00877	35	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00878	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00879	61	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00880	59	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00881	36	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00882	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00883	50	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00884	66	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00885	25	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00886	69	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00887	29	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00888	55	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00889	34	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00890	66	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00891	48	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00892	55	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00893	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00894	28	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00895	69	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00896	19	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00897	56	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00898	18	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00899	56	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00900	79	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00901	67	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00902	24	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00903	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00904	61	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00905	30	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00906	80	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00907	56	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00908	52	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00909	61	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00910	60	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00911	78	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00912	41	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00913	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00914	74	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00915	79	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00916	76	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00917	77	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00918		YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00919	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00920	28	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00921	56	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00922	65	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00923	20	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00924	61	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00925	89	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00926	22	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00927	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00928	48	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00929	40	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00930	50	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00931	54	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00932	20	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00933	53	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00934	31	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00935	24	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00936	73	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00937	54	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00938	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00939	48	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00940	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00941	53	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00942	41	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00943	78	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00944	36	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00945	41	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00946	52	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00947	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00948	22	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00949	68	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00950	60	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00951	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00952	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00953	47	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00954	67	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00955	69	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00956	29	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00957	66	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00958	23	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00959	66	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00960	70	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00961	52	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00962	35	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00963	30	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00964	62	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00965	54	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00966	44	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00967	44	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00968	29	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00969	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00970	23	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00971	60	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00972	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00973	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00974	39	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00975	33	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00976	48	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00977	54	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00978	31	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00979	26	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00980	58	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00981	62	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00982	26	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00983	52	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00984	54	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00985	25	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00986	56	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00987	44	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00988	61	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00989	56	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00990	29	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00991	48	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00992	61	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00993	64	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00994	50	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00995	70	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00996	37	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00997	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00998	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-00999	42	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01000	52	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01001	60	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01002	63	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01003	33	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01004	28	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01005	30	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01006	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01007	68	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01008	39	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01009	68	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01010	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01011	81	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01012	23	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01013	44	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01014	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01015	64	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01016	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01017	84	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01018	84	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01019	56	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01020	60	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01021	61	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01022	24	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01023	73	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01024	65	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01025	63	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01026	22	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01027	19	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01028	43	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01029	36	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01030	31	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01031	53	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01032	53	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01033	73	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01034	82	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01035	55	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01036	70	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01037	29	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01038	67	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01039	71	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01040	67	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01041	31	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01042	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01043	43	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01044	41	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01045	21	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01046	55	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01047	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01048	73	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01049	63	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01050	55	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01051	36	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01052	59	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01053	46	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01054	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01055	43	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01056	65	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01057	35	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01058	56	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01059	43	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01060	32	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01061	31	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01062	31	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01063	65	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01064	48	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01065	89	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01066	79	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01067	59	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01068	60	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01069	49	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01070	52	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01071	35	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01072	78	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01073	18	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01074	50	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01075	21	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01076	55	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01077	40	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01078	40	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01079	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01080	52	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01081	69	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01082	68	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01083	29	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01084	70	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01085	53	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01086	18	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01087	31	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01088	48	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01089	53	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01090	49	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01091	49	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01092	22	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01093	69	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01094	43	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01095	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01096	24	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01097	25	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01098	39	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01099	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01100	40	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01101	40	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01102	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01103	42	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01104	53	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01105	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01106	54	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01107	28	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01108	56	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01109	29	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01110	34	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01111	33	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01112	25	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01113	64	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01114	65	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01115	58	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01116	78	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01117	40	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01118	65	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01119	48	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01120	37	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01121	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01122	22	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01123	73	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01124	43	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01125	30	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01126	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01127	52	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01128	75	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01129	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01130	50	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01131	29	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01132	41	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01133	62	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01134	36	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01135	73	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01136	62	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01137	37	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01138	32	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01139	62	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01140	37	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01141	67	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01142	61	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01143	64	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01144	59	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01145	27	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01146	46	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01147	20	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01148	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01149	84	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01150	84	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01151	73	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01152	71	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01153	50	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01154	78	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01155	27	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01156	55	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01157	71	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01158	73	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01159	27	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01160	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01161	24	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01162	70	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01163	46	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01164	79	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01165	62	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01166	71	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01167	42	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01168	53	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01169	24	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01170	36	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01171	60	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01172	55	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01173	43	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01174	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01175	61	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01176	38	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01177	40	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01178	60	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01179	61	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01180	47	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01181	30	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01182	73	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01183	25	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01184	18	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01185	38	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01186	35	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01187	36	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01188	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01189	60	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01190	46	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01191	23	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01192	49	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01193	25	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01194	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01195	76	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01196	68	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01197	78	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01198	79	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01199	61	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01200	33	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01201	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01202	18	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01203	26	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01204	52	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01205	64	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01206	55	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01207	52	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01208	33	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01209	54	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01210	56	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01211	75	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01212	42	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01213	37	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01214	54	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01215	22	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01216	32	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01217	41	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01218	37	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01219	46	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01220	60	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01221	53	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01222	75	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01223	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01224	48	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01225		YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01226	54	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01227	68	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01228	29	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01229	85	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01230	87	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01231	66	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01232	80	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01233	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01234	63	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01235	48	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01236	80	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01237	56	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01238	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01239	56	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01240	52	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01241	78	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01242	64	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01243	26	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01244	63	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01245	61	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01246	68	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01247	60	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01248	27	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01249	41	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01250	24	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01251	70	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01252	31	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01253	66	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01254	34	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01255	54	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01256	50	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01257	49	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01258	80	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01259	40	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01260	21	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01261	60	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01262	20	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01263	36	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01264	62	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01265	56	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01266	63	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01267	33	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01268	73	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01269	59	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01270	22	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01271	18	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01272	32	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01273	21	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01274	48	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01275	75	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01276	67	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01277	21	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01278	18	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01279	38	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01280	41	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01281	60	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01282	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01283	35	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01284	80	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01285	31	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01286	58	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01287	68	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01288	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01289	59	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01290	55	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01291	63	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01292	76	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01293	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01294	53	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01295	46	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01296	55	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01297	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01298	53	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01299	31	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01300	63	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01301	58	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01302	60	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01303	53	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01304	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01305	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01306	55	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01307	19	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01308	63	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01309	27	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01310			F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01311	59	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01312	54	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01313	48	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01314	71	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01315	26	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01316	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01317	53	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01318	23	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01319	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01320	64	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01321	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01322	41	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01323	17	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01324	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01325	55	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01326	41	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01327	38	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01328	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01329	58	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01330	52	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01331	24	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01332	38	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01333	12	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01334	53	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01335	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01336	47	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01337	52	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01338	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01339	59	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01340	30	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01341	50	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01342	65	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01343	42	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01344	63	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01345	62	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01346	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01347	59	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01348	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01349	59	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01350	18	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01351	35	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01352	71	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01353	54	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01354	32	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01355	74	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01356	65	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01357	18	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01358	67	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01359	82	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01360	32	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01361	68	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01362	34	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01363	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01364	61	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01365	58	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01366	37	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01367	46	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01368	23	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01369	38	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01370	55	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01371	18	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01372	35	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01373	53	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01374	47	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01375	46	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01376	32	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01377	60	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01378	48	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01379	62	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01380	43	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01381	74	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01382	46	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01383	44	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01384	69	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01385	46	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01386	76	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01387	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01388	52	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01389	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01390	75	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01391	29	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01392	32	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01393	59	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01394	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01395	29	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01396	67	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01397	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01398	73	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01399	53	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01400	66	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01401	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01402	27	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01403			M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01404	62	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01405	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01406	72	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01407	52	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01408	34	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01409	43	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01410	56	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01411	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01412	66	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01413	43	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01414	76	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01415	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01416	49	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01417	48	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01418			F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01419	38	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01420	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01421	62	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01422	48	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01423	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01424	22	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01425	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01426	17	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01427	64	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01428	50	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01429	52	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01430	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01431	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01432	62	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01433	21	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01434	61	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01435	26	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01436	31	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01437										1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01438	52	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01439	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01440	43	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01441	34	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01442	37	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01443	77	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01444	43	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01445	28	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01446	75	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01447	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01448	78	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01449	48	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01450	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01451	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01452	65	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01453	58	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01454	70	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01455	50	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01456	75	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01457	88	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01458										1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01459	63	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01460										1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01461	56	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01462	66	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01463	56	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01464	81	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01465	57	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01466	27	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01467	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01468	61	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01469	48	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01470	56	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01471	58	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01472	32	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01473	49	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01474	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01475	24	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01476	60	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01477	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01478	84	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01479	82	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01480	63	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01481			M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01482	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01483	26	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01484	43	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01485	56	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01486	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01487	63	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01488	40	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01489	54	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01490	58	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01491			M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01492	52	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01493	52	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01494	58	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01495	30	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01496	36	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01497	49	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01498	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01499	70	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01500	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01501	54	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01502	82	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01503	38	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01504	46	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01505	69	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01506	59	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01507	66	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01508	71	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01509	55	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01510	62	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01511	41	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01512	66	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01513	74	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01514	34	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01515	71	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01516	73	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01517	63	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01518	60	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01519	64	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01520	42	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01521	54	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01522	67	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01523			M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01524	61	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01525	70	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01526	58	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01527	71	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01528	40	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01529	23	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01530	50	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01531	49	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01532	39	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01533	38	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01534	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01535	55	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01536	55	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01537	50	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01538	35	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01539	55	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01540	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01541	50	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01542	63	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01543	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01544	64	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01545	61	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01546	75	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01547	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01548	71	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01549	41	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01550	58	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01551	44	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01552	43	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01553	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01554	37	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01555	24	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01556	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01557	49	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01558	53	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01559	31	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01560	72	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01561	28	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01562	33	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01563	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01564	27	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01565	33	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01566	20	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01567			F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01568	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01569	36	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01570	59	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01571	42	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01572	54	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01573	53	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01574										1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01575	53	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01576	70	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01577	53	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01578	38	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01579	73	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01580	72	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01581	42	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01582	54	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01583	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01584	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01585	74	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01586	66	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01587	39	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01588			M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01589	69	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01590	32	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01591	29	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01592	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01593	38	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01594	32	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01595	61	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01596	65	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01597	49	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01598	38	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01599	32	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01600	58	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01601	58	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01602	50	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01603	47	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01604	66	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01605	65	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01606	70	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01607	56	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01608	30	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01609	68	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01610	31	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01611	59	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01612	29	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01613	59	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01614	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01615	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01616	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01617	33	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01618	59	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01619	64	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01620	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01621	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01622	59	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01623	79	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01624	64	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01625	49	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01626	56	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01627	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01628	48	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01629	50	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01630	38	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01631	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01632	63	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01633	34	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01634	62	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01635	60	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01636	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01637	38	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01638	64	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01639	62	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01640	47	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01641	75	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01642	60	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01643	18	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01644	47	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01645	65	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01646	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01647	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01648	33	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01649	84	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01650	61	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01651			F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01652	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01653	43	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01654	46	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01655	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01656	34	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01657	58	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01658	48	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01659	29	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01660	64	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01661	53	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01662	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01663	88	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01664	68	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01665	82	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01666	73	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01667	48	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01668	40	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01669	54	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01670	45	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01671	48	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01672	37	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01673	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01674	67	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01675	76	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01676	81	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01677	77	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01678	37	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01679	64	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01680	20	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01681	36	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01682	52	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01683	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01684	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01685	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01686	64	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01687	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01688	41	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01689	53	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01690	71	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01691	78	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01692	46	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01693	34	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01694	67	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01695	43	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01696	25	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01697	29	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01698	42	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01699	31	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01700	12	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01701	28	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01702	39	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01703	13	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01704	27	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01705	51	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01706	20	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01707	54	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01708	62	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01709	43	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01710	61	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01711	59	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01712	51	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01713	35	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01714	57	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01715	47	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01716	42	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01717			M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01718	49	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01719	59	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01720	75	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01721	43	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01722	53	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01723	60	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01724	56	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01725	75	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01726	33	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01727	54	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01728	44	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01729	45	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01730	44	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01731	53	YEARS	M							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01732	76	YEARS	F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01733			F							1	
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DM	PS-01734			F							1	
+GSE32407	DM	PS-01735						ARM1	Arm 1	ARM1	Arm 1	1	
+GSE32407	DM	PS-01736						ARM1	Arm 1	ARM1	Arm 1	1	
+GSE32407	DM	PS-01737						ARM1	Arm 1	ARM1	Arm 1	1	
+GSE32407	DM	PS-01738						ARM1	Arm 1	ARM1	Arm 1	1	
+GSE32407	DM	PS-01739						ARM1	Arm 1	ARM1	Arm 1	1	
+GSE32407	DM	PS-01740						ARM1	Arm 1	ARM1	Arm 1	1	
+GSE32407	DM	PS-01741						ARM1	Arm 1	ARM1	Arm 1	1	
+GSE32407	DM	PS-01742						ARM1	Arm 1	ARM1	Arm 1	1	
+GSE32407	DM	PS-01743						ARM1	Arm 1	ARM1	Arm 1	1	
+GSE32407	DM	PS-01744						ARM1	Arm 1	ARM1	Arm 1	1	
+GSE2737	DM	PS-01755	40	YEARS	M	ASIAN	NOT HISPANIC OR LATINO					1	
+GSE2737	DM	PS-01756	40	YEARS	M	ASIAN	NOT HISPANIC OR LATINO					1	
+GSE2737	DM	PS-01757	40	YEARS	M	ASIAN	NOT HISPANIC OR LATINO					1	
+GSE2737	DM	PS-01758	40	YEARS	M	ASIAN	NOT HISPANIC OR LATINO					1	
+GSE30768	DM	PS-01793						RAPTIVA	Raptiva	RAPTIVA	Raptiva	1	
+GSE30768	DM	PS-01794						RAPTIVA	Raptiva	RAPTIVA	Raptiva	1	
+GSE30768	DM	PS-01795						RAPTIVA	Raptiva	RAPTIVA	Raptiva	1	
+GSE30768	DM	PS-01796						RAPTIVA	Raptiva	RAPTIVA	Raptiva	1	
+GSE36387	DM	PS-01797	1	YEARS	M	WHITE						1	
+GSE36387	DM	PS-01798	3	YEARS	F		NOT HISPANIC OR LATINO					1	
+GSE30999	DM	PS-01801										1	
+GSE30999	DM	PS-01802										1	
+GSE30999	DM	PS-01803										1	
+GSE31652	DM	PS-01804						IXEKIZ	Ixekizumab	IXEKIZ	Ixekizumab	1	
+GSE11903	DM	GSE11903-PS-00154						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE41663	DM	GSE11903-PS-00154						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE11903	DM	GSE11903-PS-00155						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE41663	DM	GSE11903-PS-00155						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE11903	DM	GSE11903-PS-00156						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE41663	DM	GSE11903-PS-00156						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE11903	DM	GSE11903-PS-00157						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE41663	DM	GSE11903-PS-00157						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE11903	DM	GSE11903-PS-00158						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE41663	DM	GSE11903-PS-00158						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE11903	DM	GSE11903-PS-00159						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE41663	DM	GSE11903-PS-00159						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE11903	DM	GSE11903-PS-00160						ETAN	Etanercept	ETAN	Etanercept	1	
+GSE41663	DM	GSE11903-PS-00160						ETAN	Etanercept	ETAN	Etanercept	1	

@@ -1,0 +1,354 @@
+STUDYID	DOMAIN	USUBJID	RSSEQ	RSGRPID	RSREFID	RSSPID	RSLNKID	RSLNKGRP	RSTESTCD	RSTEST	RSCAT	RSORRES	RSSTRESC	RSSTAT	RSREASND	RSNAM	RSEVAL	RSEVALID	RSACPTFL	VISITNUM	VISIT	VISITDY	EPOCH	RSDTC	RSDY	RSMODIFY	RSTSTDTL	RSSCAT	RSPOS	RSBODSYS	RSORRESU	RSORNRLO	RSORNRHI	RSSTRESN	RSSTRESU	RSRESCAT	RSSTNRLO	RSSTNRHI	RSSTNRC	RSNRIND	RSXFN	RSLOINC	RSSPEC	RSANTREG	RSSPCCND	RSSPCUFL	RSLOC	RSLAT	RSDIR	RSPORTOT	RSMETHOD	RSRUNID	RSANMETH	RSLEAD	RSCSTATE	RSFAST	RSBLFL	RSDRVFL	RSTOX	RSTOXGR	RSSEV	RSDTHREL	RSLLOQ	RSULOQ	RSENDTC	RSRFTDTC	RSTPT	RSTPTNUM	RSELTM	RSTPTREF	RSEVLINT	RSSTINT	RSENINT	RSEXCLFL	RSREASEX	POOLID	SPDEVID	TAETORD	RSSTDTC	RSSTDY	RSENDY	RSDUR	RSEVINTX	RSSTRTPT	RSSTTPT	RSENRTPT	RSENTPT
+GSE12051	RS	RA-00038	1						OARESP	Overall response	EULAR response	Non-responder									Week 14																																																																		
+GSE12051	RS	RA-00039	1						OARESP	Overall response	EULAR response	Non-responder									Week 14																																																																		
+GSE12051	RS	RA-00040	1						OARESP	Overall response	EULAR response	Non-responder									Week 14																																																																		
+GSE12051	RS	RA-00041	1						OARESP	Overall response	EULAR response	Non-responder									Week 14																																																																		
+GSE12051	RS	RA-00042	1						OARESP	Overall response	EULAR response	Non-responder									Week 14																																																																		
+GSE12051	RS	RA-00043	1						OARESP	Overall response	EULAR response	Non-responder									Week 14																																																																		
+GSE12051	RS	RA-00044	1						OARESP	Overall response	EULAR response	Non-responder									Week 14																																																																		
+GSE12051	RS	RA-00045	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00046	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00047	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00048	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00049	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00050	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00051	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00052	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00053	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00054	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00055	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00056	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00057	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00058	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00059	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00060	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00061	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00062	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00063	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00064	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00065	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00066	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00067	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00068	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00069	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00070	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00071	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00072	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00073	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00074	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00075	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00076	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00077	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00078	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00079	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00080	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE12051	RS	RA-00081	1						OARESP	Overall response	EULAR response	Responder									Week 14																																																																		
+GSE1402	RS	RA-00082	1						OARESP	Overall response	EULAR response	Responder																																																																											
+GSE1402	RS	RA-00084	1						OARESP	Overall response	EULAR response	Responder																																																																											
+GSE1402	RS	RA-00085	1						OARESP	Overall response	EULAR response	Responder																																																																											
+GSE1402	RS	RA-00087	1						OARESP	Overall response	EULAR response	Responder																																																																											
+GSE1402	RS	RA-00088	1						OARESP	Overall response	EULAR response	Responder																																																																											
+GSE1402	RS	RA-00090	1						OARESP	Overall response	EULAR response	Responder																																																																											
+GSE1402	RS	RA-00091	1						OARESP	Overall response	EULAR response	Responder																																																																											
+GSE1402	RS	RA-00093	1						OARESP	Overall response	EULAR response	Responder																																																																											
+GSE1402	RS	RA-00095	1						OARESP	Overall response	EULAR response	Responder																																																																											
+GSE15258	RS	RA-00122	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00123	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00124	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00125	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00126	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00127	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00128	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00129	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00130	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00131	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00132	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00133	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00134	1						OARESP	Overall response	EULAR response	Not available									Week 14																																																																		
+GSE15258	RS	RA-00135	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00136	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00137	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00138	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00139	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00140	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00141	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00142	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00143	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00144	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00145	1						OARESP	Overall response	EULAR response	Not available									Week 14																																																																		
+GSE15258	RS	RA-00146	1						OARESP	Overall response	EULAR response	Not available									Week 14																																																																		
+GSE15258	RS	RA-00147	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00148	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00149	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00150	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00151	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00152	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00153	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00154	1						OARESP	Overall response	EULAR response	Not available									Week 14																																																																		
+GSE15258	RS	RA-00155	1						OARESP	Overall response	EULAR response	Not available									Week 14																																																																		
+GSE15258	RS	RA-00156	1						OARESP	Overall response	EULAR response	Not available									Week 14																																																																		
+GSE15258	RS	RA-00157	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00158	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00159	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00160	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00161	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00162	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00163	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00164	1						OARESP	Overall response	EULAR response	Not available									Week 14																																																																		
+GSE15258	RS	RA-00165	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00166	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00167	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00168	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00169	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00170	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00171	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00172	1						OARESP	Overall response	EULAR response	Not available									Week 14																																																																		
+GSE15258	RS	RA-00173	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00174	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00175	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00176	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00177	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00178	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00179	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00180	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00181	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00182	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00183	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00184	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00185	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00186	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00187	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00188	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00189	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00190	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00191	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00192	1						OARESP	Overall response	EULAR response	Poor responder									Week 14																																																																		
+GSE15258	RS	RA-00193	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00194	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00195	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00196	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00197	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00198	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00199	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00200	1						OARESP	Overall response	EULAR response	Not available									Week 14																																																																		
+GSE15258	RS	RA-00201	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00202	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00203	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15258	RS	RA-00204	1						OARESP	Overall response	EULAR response	Moderate responder									Week 14																																																																		
+GSE15258	RS	RA-00205	1						OARESP	Overall response	EULAR response	Not available									Week 14																																																																		
+GSE15258	RS	RA-00206	1						OARESP	Overall response	EULAR response	Not available									Week 14																																																																		
+GSE15258	RS	RA-00207	1						OARESP	Overall response	EULAR response	Good responder									Week 14																																																																		
+GSE15316	RS	RA-00208	1						OARESP	Overall response	DAS score	Non-responder									Week 24																																																																		
+GSE15316	RS	RA-00209	1						OARESP	Overall response	DAS score	Non-responder									Week 24																																																																		
+GSE15316	RS	RA-00210	1						OARESP	Overall response	DAS score	Non-responder									Week 24																																																																		
+GSE15316	RS	RA-00211	1						OARESP	Overall response	DAS score	Non-responder									Week 24																																																																		
+GSE15316	RS	RA-00212	1						OARESP	Overall response	DAS score	Non-responder									Week 24																																																																		
+GSE15316	RS	RA-00213	1						OARESP	Overall response	DAS score	Responder									Week 24																																																																		
+GSE15316	RS	RA-00214	1						OARESP	Overall response	DAS score	Responder									Week 24																																																																		
+GSE15316	RS	RA-00215	1						OARESP	Overall response	DAS score	Responder									Week 24																																																																		
+GSE15316	RS	RA-00216	1						OARESP	Overall response	DAS score	Responder									Week 24																																																																		
+GSE15602	RS	RA-00250	1						OARESP	Overall response	EULAR response	Moderate responder									Week 12																																																																		
+GSE15602	RS	RA-00251	1						OARESP	Overall response	EULAR response	Moderate responder									Week 12																																																																		
+GSE15602	RS	RA-00252	1						OARESP	Overall response	EULAR response	Moderate responder									Week 12																																																																		
+GSE15602	RS	RA-00253	1						OARESP	Overall response	EULAR response	Moderate responder									Week 12																																																																		
+GSE15602	RS	RA-00254	1						OARESP	Overall response	EULAR response	Moderate responder									Week 12																																																																		
+GSE15602	RS	RA-00255	1						OARESP	Overall response	EULAR response	Good responder									Week 12																																																																		
+GSE15602	RS	RA-00256	1						OARESP	Overall response	EULAR response	Good responder									Week 12																																																																		
+GSE15602	RS	RA-00257	1						OARESP	Overall response	EULAR response	Good responder									Week 12																																																																		
+GSE15602	RS	RA-00258	1						OARESP	Overall response	EULAR response	Poor responder									Week 12																																																																		
+GSE15602	RS	RA-00259	1						OARESP	Overall response	EULAR response	Poor responder									Week 12																																																																		
+GSE15602	RS	RA-00260	1						OARESP	Overall response	EULAR response	Poor responder									Week 12																																																																		
+GSE20690	RS	RA-00333	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00334	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00335	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00336	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00337	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00338	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00339	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00340	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00341	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00342	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00343	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00344	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00345	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00346	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00347	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00348	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00349	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00350	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00351	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00352	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00353	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00354	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00355	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00356	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00357	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00358	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00359	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00360	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00361	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00362	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00363	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00364	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00365	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00366	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00367	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00368	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00369	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00370	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00371	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00372	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00373	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00374	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00375	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00376	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00377	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00378	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00379	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00380	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00381	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00382	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00383	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00384	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00385	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00386	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00387	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00388	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00389	1						OARESP	Overall response	EULAR response	No inflammation																																																																											
+GSE20690	RS	RA-00390	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00391	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00392	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00393	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00394	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00395	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00396	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00397	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00398	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00399	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE20690	RS	RA-00400	1						OARESP	Overall response	EULAR response	Residual inflammation																																																																											
+GSE24742	RS	RA-00401	1						OARESP	Overall response	EULAR response	Good responder									Baseline (0 weeks)																																																																		
+GSE24742	RS	RA-00401	2						OARESP	Overall response	EULAR response	Good responder									12 weeks																																																																		
+GSE24742	RS	RA-00402	1						OARESP	Overall response	EULAR response	Good responder									Baseline (0 weeks)																																																																		
+GSE24742	RS	RA-00402	2						OARESP	Overall response	EULAR response	Good responder									12 weeks																																																																		
+GSE24742	RS	RA-00403	1						OARESP	Overall response	EULAR response	Good responder									Baseline (0 weeks)																																																																		
+GSE24742	RS	RA-00403	2						OARESP	Overall response	EULAR response	Good responder									12 weeks																																																																		
+GSE24742	RS	RA-00404	1						OARESP	Overall response	EULAR response	Moderate responder									Baseline (0 weeks)																																																																		
+GSE24742	RS	RA-00404	2						OARESP	Overall response	EULAR response	Moderate responder									12 weeks																																																																		
+GSE24742	RS	RA-00405	1						OARESP	Overall response	EULAR response	Moderate responder									Baseline (0 weeks)																																																																		
+GSE24742	RS	RA-00405	2						OARESP	Overall response	EULAR response	Moderate responder									12 weeks																																																																		
+GSE24742	RS	RA-00406	1						OARESP	Overall response	EULAR response	Moderate responder									Baseline (0 weeks)																																																																		
+GSE24742	RS	RA-00406	2						OARESP	Overall response	EULAR response	Moderate responder									12 weeks																																																																		
+GSE24742	RS	RA-00407	1						OARESP	Overall response	EULAR response	Moderate responder									Baseline (0 weeks)																																																																		
+GSE24742	RS	RA-00407	2						OARESP	Overall response	EULAR response	Moderate responder									12 weeks																																																																		
+GSE24742	RS	RA-00408	1						OARESP	Overall response	EULAR response	Moderate responder									Baseline (0 weeks)																																																																		
+GSE24742	RS	RA-00408	2						OARESP	Overall response	EULAR response	Moderate responder									12 weeks																																																																		
+GSE24742	RS	RA-00409	1						OARESP	Overall response	EULAR response	Moderate responder									Baseline (0 weeks)																																																																		
+GSE24742	RS	RA-00409	2						OARESP	Overall response	EULAR response	Moderate responder									12 weeks																																																																		
+GSE24742	RS	RA-00410	1						OARESP	Overall response	EULAR response	Poor responder									Baseline (0 weeks)																																																																		
+GSE24742	RS	RA-00410	2						OARESP	Overall response	EULAR response	Poor responder									12 weeks																																																																		
+GSE24742	RS	RA-00411	1						OARESP	Overall response	EULAR response	Poor responder									Baseline (0 weeks)																																																																		
+GSE24742	RS	RA-00411	2						OARESP	Overall response	EULAR response	Poor responder									12 weeks																																																																		
+GSE24742	RS	RA-00412	1						OARESP	Overall response	EULAR response	Poor responder									Baseline (0 weeks)																																																																		
+GSE24742	RS	RA-00412	2						OARESP	Overall response	EULAR response	Poor responder									12 weeks																																																																		
+GSE37107	RS	RA-00442	1						OARESP	Overall response	EULAR response	Non-responder																																																																											
+GSE37107	RS	RA-00443	1						OARESP	Overall response	EULAR response	Responder																																																																											
+GSE37107	RS	RA-00444	1						OARESP	Overall response	EULAR response	Non-responder																																																																											
+GSE37107	RS	RA-00445	1						OARESP	Overall response	EULAR response	Non-responder																																																																											
+GSE37107	RS	RA-00446	1						OARESP	Overall response	EULAR response	Responder																																																																											
+GSE37107	RS	RA-00447	1						OARESP	Overall response	EULAR response	Non-responder																																																																											
+GSE37107	RS	RA-00448	1						OARESP	Overall response	EULAR response	Non-responder																																																																											
+GSE37107	RS	RA-00449	1						OARESP	Overall response	EULAR response	Non-responder																																																																											
+GSE37107	RS	RA-00450	1						OARESP	Overall response	EULAR response	Responder																																																																											
+GSE37107	RS	RA-00451	1						OARESP	Overall response	EULAR response	Responder																																																																											
+GSE37107	RS	RA-00452	1						OARESP	Overall response	EULAR response	Responder																																																																											
+GSE37107	RS	RA-00453	1						OARESP	Overall response	EULAR response	Responder																																																																											
+GSE37107	RS	RA-00454	1						OARESP	Overall response	EULAR response	Responder																																																																											
+GSE37107	RS	RA-00455	1						OARESP	Overall response	EULAR response	Responder																																																																											
+E-MTAB-11	RS	RA-00540	1						OARESP	Overall response	EULAR response	Responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00540	2						OARESP	Overall response	EULAR response	Responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00541	1						OARESP	Overall response	EULAR response	Responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00541	2						OARESP	Overall response	EULAR response	Responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00542	1						OARESP	Overall response	EULAR response	Non-responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00542	2						OARESP	Overall response	EULAR response	Non-responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00542	3						OARESP	Overall response	EULAR response	Non-responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00543	1						OARESP	Overall response	EULAR response	Responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00543	2						OARESP	Overall response	EULAR response	Responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00543	3						OARESP	Overall response	EULAR response	Responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00544	1						OARESP	Overall response	EULAR response	Responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00544	2						OARESP	Overall response	EULAR response	Responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00544	3						OARESP	Overall response	EULAR response	Responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00545	1						OARESP	Overall response	EULAR response	Non-responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00545	2						OARESP	Overall response	EULAR response	Non-responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00545	3						OARESP	Overall response	EULAR response	Non-responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00546	1						OARESP	Overall response	EULAR response	Non-responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00546	2						OARESP	Overall response	EULAR response	Non-responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00546	3						OARESP	Overall response	EULAR response	Non-responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00547	1						OARESP	Overall response	EULAR response	Non-responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00547	2						OARESP	Overall response	EULAR response	Non-responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00547	3						OARESP	Overall response	EULAR response	Non-responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00548	1						OARESP	Overall response	EULAR response	Non-responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00548	2						OARESP	Overall response	EULAR response	Non-responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00548	3						OARESP	Overall response	EULAR response	Non-responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00549	1						OARESP	Overall response	EULAR response	Non-responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00549	2						OARESP	Overall response	EULAR response	Non-responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00549	3						OARESP	Overall response	EULAR response	Non-responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00550	1						OARESP	Overall response	EULAR response	Responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00550	2						OARESP	Overall response	EULAR response	Responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00550	3						OARESP	Overall response	EULAR response	Responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00551	1						OARESP	Overall response	EULAR response	Responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00551	2						OARESP	Overall response	EULAR response	Responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00551	3						OARESP	Overall response	EULAR response	Responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00552	1						OARESP	Overall response	EULAR response	Responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00552	2						OARESP	Overall response	EULAR response	Responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00552	3						OARESP	Overall response	EULAR response	Responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00553	1						OARESP	Overall response	EULAR response	Responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00553	2						OARESP	Overall response	EULAR response	Responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00553	3						OARESP	Overall response	EULAR response	Responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00554	1						OARESP	Overall response	EULAR response	Non-responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00554	2						OARESP	Overall response	EULAR response	Non-responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00554	3						OARESP	Overall response	EULAR response	Non-responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00555	1						OARESP	Overall response	EULAR response	Responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00555	2						OARESP	Overall response	EULAR response	Responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00555	3						OARESP	Overall response	EULAR response	Responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00556	1						OARESP	Overall response	EULAR response	Non-responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00556	2						OARESP	Overall response	EULAR response	Non-responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00556	3						OARESP	Overall response	EULAR response	Non-responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00557	1						OARESP	Overall response	EULAR response	Non-responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00557	2						OARESP	Overall response	EULAR response	Non-responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00557	3						OARESP	Overall response	EULAR response	Non-responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00558	1						OARESP	Overall response	EULAR response	Non-responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00558	2						OARESP	Overall response	EULAR response	Non-responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00558	3						OARESP	Overall response	EULAR response	Non-responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00559	1						OARESP	Overall response	EULAR response	Non-responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00559	2						OARESP	Overall response	EULAR response	Non-responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00559	3						OARESP	Overall response	EULAR response	Non-responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00560	1						OARESP	Overall response	EULAR response	Responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00560	2						OARESP	Overall response	EULAR response	Responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00560	3						OARESP	Overall response	EULAR response	Responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00561	1						OARESP	Overall response	EULAR response	Responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00561	2						OARESP	Overall response	EULAR response	Responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00561	3						OARESP	Overall response	EULAR response	Responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00562	1						OARESP	Overall response	EULAR response	Responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00562	2						OARESP	Overall response	EULAR response	Responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00562	3						OARESP	Overall response	EULAR response	Responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00563	1						OARESP	Overall response	EULAR response	Responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00563	2						OARESP	Overall response	EULAR response	Responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00563	3						OARESP	Overall response	EULAR response	Responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00564	1						OARESP	Overall response	EULAR response	Non-responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00564	2						OARESP	Overall response	EULAR response	Non-responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00564	3						OARESP	Overall response	EULAR response	Non-responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00565	1						OARESP	Overall response	EULAR response	Non-responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00565	2						OARESP	Overall response	EULAR response	Non-responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00565	3						OARESP	Overall response	EULAR response	Non-responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00566	1						OARESP	Overall response	EULAR response	Non-responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00566	2						OARESP	Overall response	EULAR response	Non-responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00566	3						OARESP	Overall response	EULAR response	Non-responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00567	1						OARESP	Overall response	EULAR response	Non-responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00567	2						OARESP	Overall response	EULAR response	Non-responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00567	3						OARESP	Overall response	EULAR response	Non-responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00568	1						OARESP	Overall response	EULAR response	Responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00568	2						OARESP	Overall response	EULAR response	Responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00568	3						OARESP	Overall response	EULAR response	Responder									Before third Enbrel injection (144hrs)				6																																																														
+E-MTAB-11	RS	RA-00569	1						OARESP	Overall response	EULAR response	Non-responder									Before first Enbrel injection (0hrs)				0																																																														
+E-MTAB-11	RS	RA-00569	2						OARESP	Overall response	EULAR response	Non-responder									Before second Enbrel injection (72hrs)				3																																																														
+E-MTAB-11	RS	RA-00569	3						OARESP	Overall response	EULAR response	Non-responder									Before third Enbrel injection (144hrs)				6																																																														

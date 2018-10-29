@@ -1,0 +1,458 @@
+STUDYID	DOMAIN	USUBJID	SUBJID	RFSTDTC	RFENDTC	RFXSTDTC	RFXENDTC	RFICDTC	RFPENDTC	DTHDTC	DTHFL	SITEID	INVID	INVNAM	BRTHDTC	AGE	AGEU	SEX	RACE	ETHNIC	ARMCD	ARM	ACTARMCD	ACTARM	DMDTC	DMDY	AGETXT	SETCD	COUNTRY
+GSE22619	DM	GSE22619-IBD-03620														70		M								1			
+GSE22619	DM	GSE22619-IBD-03621														18		F								1			
+GSE2461	DM	IBD-00005																M								1			
+GSE4183	DM	IBD-00022														39		F								1			
+GSE4183	DM	IBD-00023														73		F								1			
+GSE4183	DM	IBD-00024														45		M								1			
+GSE4183	DM	IBD-00025														43		M								1			
+GSE4183	DM	IBD-00026														24		F								1			
+GSE4183	DM	IBD-00027														35		F								1			
+GSE4183	DM	IBD-00028														35		F								1			
+GSE4183	DM	IBD-00029														66		M								1			
+GSE4183	DM	IBD-00030														34		F								1			
+GSE10714	DM	IBD-00038																											
+GSE10714	DM	IBD-00039																											
+GSE10714	DM	IBD-00040																											
+GSE11499	DM	IBD-00046																											
+GSE11499	DM	IBD-00047																											
+GSE11499	DM	IBD-00048																											
+GSE11499	DM	IBD-00049																											
+GSE11499	DM	IBD-00050																											
+GSE11499	DM	IBD-00051																											
+GSE6731	DM	IBD-00096														82		F								1			
+GSE6731	DM	IBD-00097														40		F								1			
+GSE6731	DM	IBD-00098														60		M								1			
+GSE6731	DM	IBD-00099														64		F								1			
+GSE6731	DM	IBD-00100														54		M								1			
+GSE23597	DM	IBD-00124																											
+GSE23597	DM	IBD-00125																											
+GSE23597	DM	IBD-00126																											
+GSE23597	DM	IBD-00127																											
+GSE23597	DM	IBD-00128																											
+GSE23597	DM	IBD-00129																											
+GSE1710	DM	IBD-00184														29		M								1			
+GSE1710	DM	IBD-00185														38		M								1			
+GSE1710	DM	IBD-00186														27		M								1			
+GSE1710	DM	IBD-00187														31		M								1			
+GSE1710	DM	IBD-00188														29		M								1			
+GSE1710	DM	IBD-00189														38		F								1			
+GSE1710	DM	IBD-00190														33		M								1			
+GSE1710	DM	IBD-00191														51		M								1			
+GSE1710	DM	IBD-00192														29		F								1			
+GSE1710	DM	IBD-00193														43		M								1			
+GSE3365	DM	IBD-00295														55		F	BLACK OR AFRICAN AMERICAN							1			
+GSE3365	DM	IBD-00296														47		M	WHITE							1			
+GSE3365	DM	IBD-00297														55		F	WHITE							1			
+GSE3365	DM	IBD-00298														60		M	WHITE							1			
+GSE3365	DM	IBD-00299														49		F	WHITE							1			
+GSE3365	DM	IBD-00300														37		F	WHITE							1			
+GSE3365	DM	IBD-00301														41		F	BLACK OR AFRICAN AMERICAN							1			
+E-MEXP-2083	DM	IBD-00302														48		M								1			
+GSE3365	DM	IBD-00303														25		F	WHITE							1			
+E-MEXP-2083	DM	IBD-00304														56		M								1			
+GSE3365	DM	IBD-00305														45		M	WHITE							1			
+E-MEXP-2083	DM	IBD-00306														45		F								1			
+GSE3365	DM	IBD-00307														30		F	BLACK OR AFRICAN AMERICAN							1			
+GSE3365	DM	IBD-00309														65		M	WHITE							1			
+E-MEXP-2083	DM	IBD-00310														36		M								1			
+GSE3365	DM	IBD-00311														40		F	WHITE							1			
+GSE3365	DM	IBD-00313														27		F	WHITE							1			
+E-MEXP-2083	DM	IBD-00314														53		F								1			
+GSE3365	DM	IBD-00315														57		F	WHITE							1			
+GSE3365	DM	IBD-00317														59		F	WHITE							1			
+GSE3365	DM	IBD-00319														27		F	WHITE							1			
+GSE3365	DM	IBD-00321														33		F		HISPANIC OR LATINO						1			
+E-MEXP-2083	DM	IBD-00322														49		M								1			
+GSE3365	DM	IBD-00323														62		F	WHITE							1			
+GSE3365	DM	IBD-00325														41		F	WHITE							1			
+GSE3365	DM	IBD-00326														41		F	WHITE							1			
+GSE3365	DM	IBD-00327														53		M	WHITE							1			
+GSE3365	DM	IBD-00328														42		M	WHITE							1			
+GSE3365	DM	IBD-00329														57		M	WHITE							1			
+E-MTAB-184	DM	IBD-00330																M								1			
+GSE3365	DM	IBD-00331														29		F	WHITE							1			
+GSE3365	DM	IBD-00332														73		M	WHITE							1			
+GSE3365	DM	IBD-00333														63		F	WHITE							1			
+E-MTAB-184	DM	IBD-00334																F								1			
+E-MTAB-184	DM	IBD-00337																M								1			
+E-MTAB-184	DM	IBD-00342																M								1			
+E-MTAB-184	DM	IBD-00345																F								1			
+E-MTAB-184	DM	IBD-00406																F								1			
+E-MTAB-184	DM	IBD-00409																M								1			
+E-MTAB-184	DM	IBD-00410																M								1			
+E-MTAB-184	DM	IBD-00411																M								1			
+E-MTAB-184	DM	IBD-00412																M								1			
+E-MTAB-184	DM	IBD-00413																M								1			
+E-MTAB-184	DM	IBD-00414																F								1			
+E-MTAB-184	DM	IBD-00415																F								1			
+E-MTAB-184	DM	IBD-00416																M								1			
+E-MTAB-184	DM	IBD-00417																M								1			
+E-MTAB-184	DM	IBD-00418																F								1			
+E-MTAB-184	DM	IBD-00419																M								1			
+E-MTAB-184	DM	IBD-00420																M								1			
+E-MTAB-184	DM	IBD-00421																F								1			
+E-MTAB-184	DM	IBD-00422																F								1			
+E-MTAB-184	DM	IBD-00423																M								1			
+E-MTAB-184	DM	IBD-00424																F								1			
+E-MTAB-184	DM	IBD-00425																M								1			
+E-MTAB-184	DM	IBD-00427																F								1			
+E-MTAB-184	DM	IBD-00429																F								1			
+E-MTAB-184	DM	IBD-00431																F								1			
+E-MTAB-184	DM	IBD-00434																M								1			
+E-MTAB-184	DM	IBD-00436																M								1			
+E-MTAB-184	DM	IBD-00437																M								1			
+E-MTAB-184	DM	IBD-00438																M								1			
+E-MTAB-184	DM	IBD-00439																F								1			
+E-MTAB-184	DM	IBD-00440																M								1			
+E-MTAB-184	DM	IBD-00441																M								1			
+E-MTAB-184	DM	IBD-00442																F								1			
+E-MTAB-184	DM	IBD-00443																F								1			
+E-MTAB-184	DM	IBD-00444																M								1			
+E-MTAB-184	DM	IBD-00445																M								1			
+E-MTAB-184	DM	IBD-00446																M								1			
+E-MTAB-184	DM	IBD-00447																											
+E-MTAB-184	DM	IBD-00448																											
+E-MTAB-184	DM	IBD-00449																F								1			
+E-MTAB-184	DM	IBD-00450																M								1			
+E-MTAB-184	DM	IBD-00451																M								1			
+E-MTAB-184	DM	IBD-00452																M								1			
+E-MTAB-184	DM	IBD-00453																M								1			
+E-MTAB-184	DM	IBD-00454																F								1			
+E-MTAB-184	DM	IBD-00455																F								1			
+E-MTAB-184	DM	IBD-00456																M								1			
+E-MTAB-184	DM	IBD-00457																M								1			
+E-MTAB-184	DM	IBD-00458																M								1			
+E-MTAB-184	DM	IBD-00460																F								1			
+E-MTAB-184	DM	IBD-00461																F								1			
+E-MTAB-184	DM	IBD-00462																F								1			
+E-MTAB-184	DM	IBD-00463																F								1			
+E-MTAB-184	DM	IBD-00464																M								1			
+E-MTAB-184	DM	IBD-00465																F								1			
+E-MTAB-184	DM	IBD-00466																M								1			
+E-MTAB-184	DM	IBD-00467																F								1			
+E-MTAB-184	DM	IBD-00468																M								1			
+GSE37283	DM	IBD-00469																											
+E-MTAB-184	DM	IBD-00470																M								1			
+GSE37283	DM	IBD-00471																											
+E-MTAB-184	DM	IBD-00472																F								1			
+GSE37283	DM	IBD-00473																											
+GSE37283	DM	IBD-00474																											
+E-MTAB-184	DM	IBD-00476																F								1			
+GSE37283	DM	IBD-00481																											
+GSE37283	DM	IBD-00482																											
+GSE37283	DM	IBD-00483																											
+GSE37283	DM	IBD-00484																											
+GSE37283	DM	IBD-00485																											
+GSE37283	DM	IBD-00486																											
+GSE37283	DM	IBD-00487																											
+GSE37283	DM	IBD-00488																											
+GSE37283	DM	IBD-00489																											
+GSE37283	DM	IBD-00490																											
+GSE37283	DM	IBD-00491																											
+GSE3629	DM	IBD-00499																											
+GSE3629	DM	IBD-00500																											
+GSE3629	DM	IBD-00501																											
+GSE3629	DM	IBD-00502																											
+GSE3629	DM	IBD-00503																											
+GSE3629	DM	IBD-00504																											
+GSE3629	DM	IBD-00505																											
+GSE3629	DM	IBD-00506																											
+GSE3629	DM	IBD-00507																											
+GSE3629	DM	IBD-00508																											
+GSE3629	DM	IBD-00509																											
+GSE3629	DM	IBD-00510																											
+GSE3629	DM	IBD-00511																											
+GSE3629	DM	IBD-00512																											
+GSE3629	DM	IBD-00513																											
+GSE3629	DM	IBD-00514																											
+GSE3629	DM	IBD-00515																											
+GSE3629	DM	IBD-00516																											
+GSE3629	DM	IBD-00517																											
+GSE3629	DM	IBD-00518																											
+GSE3629	DM	IBD-00519																											
+GSE3629	DM	IBD-00520																											
+GSE3629	DM	IBD-00521																											
+GSE3629	DM	IBD-00522																											
+GSE3629	DM	IBD-00523																											
+GSE3629	DM	IBD-00524																											
+GSE3629	DM	IBD-00525																											
+GSE3629	DM	IBD-00526																											
+GSE3629	DM	IBD-00527																											
+GSE3629	DM	IBD-00528																											
+GSE3629	DM	IBD-00529																											
+GSE3629	DM	IBD-00530																											
+GSE3629	DM	IBD-00531																											
+GSE3629	DM	IBD-00532																											
+GSE3629	DM	IBD-00533																											
+GSE3629	DM	IBD-00534																											
+GSE3629	DM	IBD-00535																											
+GSE3629	DM	IBD-00536																											
+GSE3629	DM	IBD-00537																											
+GSE3629	DM	IBD-00539																											
+GSE3629	DM	IBD-00540																											
+GSE3629	DM	IBD-00541																											
+GSE3629	DM	IBD-00542																											
+GSE3629	DM	IBD-00543																											
+GSE3629	DM	IBD-00544																											
+GSE3629	DM	IBD-00545																											
+GSE3629	DM	IBD-00546																											
+GSE3629	DM	IBD-00547																											
+GSE3629	DM	IBD-00548																											
+GSE3629	DM	IBD-00549																											
+E-MTAB-331	DM	IBD-00550														55		M								1			
+GSE3629	DM	IBD-00551																											
+GSE3629	DM	IBD-00552																											
+GSE3629	DM	IBD-00553																											
+GSE21231	DM	IBD-00554														10										1			
+GSE21231	DM	IBD-00555														13										1			
+GSE21231	DM	IBD-00556														13										1			
+GSE21231	DM	IBD-00557														15										1			
+GSE21231	DM	IBD-00558														17										1			
+GSE21231	DM	IBD-00559														11										1			
+GSE21231	DM	IBD-00560														13										1			
+GSE21231	DM	IBD-00561														15										1			
+GSE21231	DM	IBD-00562														15										1			
+GSE21231	DM	IBD-00563														17										1			
+GSE21231	DM	IBD-00564														11										1			
+GSE21231	DM	IBD-00565														9										1			
+GSE21231	DM	IBD-00566														15										1			
+GSE21231	DM	IBD-00567														15										1			
+GSE21231	DM	IBD-00568														13										1			
+GSE21231	DM	IBD-00569														12										1			
+GSE21231	DM	IBD-00570														11										1			
+GSE21231	DM	IBD-00571														17										1			
+GSE21231	DM	IBD-00572														10										1			
+GSE21231	DM	IBD-00573														9										1			
+GSE21231	DM	IBD-00574														10										1			
+GSE21231	DM	IBD-00575														13										1			
+GSE21231	DM	IBD-00576														14										1			
+GSE21231	DM	IBD-00577														16										1			
+GSE21231	DM	IBD-00578														17										1			
+GSE21231	DM	IBD-00579														12										1			
+GSE21231	DM	IBD-00580														14										1			
+GSE21231	DM	IBD-00581														14										1			
+GSE21231	DM	IBD-00582														15										1			
+GSE21231	DM	IBD-00583														17										1			
+GSE21231	DM	IBD-00584														16										1			
+GSE21231	DM	IBD-00585														14										1			
+GSE21231	DM	IBD-00586														14										1			
+GSE21231	DM	IBD-00587														13										1			
+GSE21231	DM	IBD-00588														13										1			
+GSE21231	DM	IBD-00589														11										1			
+GSE21231	DM	IBD-00590														15										1			
+GSE21231	DM	IBD-00591														17										1			
+GSE21231	DM	IBD-00592														17										1			
+GSE21231	DM	IBD-00593														10										1			
+GSE22619	DM	IBD-00595														52		M								1			
+GSE22619	DM	IBD-00597														49		F								1			
+GSE22619	DM	IBD-00599														21		M								1			
+GSE22619	DM	IBD-00601														26		F								1			
+GSE22619	DM	IBD-00603														42		M								1			
+GSE22619	DM	IBD-00605														18		F								1			
+GSE22619	DM	IBD-00607														21		F								1			
+GSE22619	DM	IBD-00609														23		M								1			
+GSE13367	DM	IBD-00610																											
+GSE13367	DM	IBD-00611																											
+GSE13367	DM	IBD-00612																											
+GSE13367	DM	IBD-00613																											
+GSE13367	DM	IBD-00614																											
+GSE13367	DM	IBD-00615																											
+GSE13367	DM	IBD-00616																											
+GSE13367	DM	IBD-00617																											
+GSE13367	DM	IBD-00630																											
+GSE13367	DM	IBD-00632																											
+GSE13367	DM	IBD-00633																											
+GSE13367	DM	IBD-00635																											
+GSE13367	DM	IBD-00636																											
+GSE13367	DM	IBD-00638																											
+GSE13367	DM	IBD-00639																											
+GSE13367	DM	IBD-00641																											
+GSE13367	DM	IBD-00643																											
+GSE9452	DM	IBD-00672														80		M								1			
+GSE9452	DM	IBD-00674														22		M								1			
+GSE9452	DM	IBD-00676														22		F								1			
+GSE9452	DM	IBD-00678														35		F								1			
+GSE9452	DM	IBD-00680														50		M								1			
+GSE9452	DM	IBD-00682														42		M								1			
+GSE9452	DM	IBD-00684														32		M								1			
+GSE9452	DM	IBD-00686														67		M								1			
+GSE9452	DM	IBD-00688														60		F								1			
+GSE9452	DM	IBD-00690														22		F								1			
+GSE9452	DM	IBD-00692														44		M								1			
+GSE9452	DM	IBD-00694														50		M								1			
+GSE9452	DM	IBD-00695														42		M								1			
+GSE9452	DM	IBD-00697														32		M								1			
+GSE9452	DM	IBD-00698														54		F								1			
+GSE9452	DM	IBD-00700														69		F								1			
+GSE9452	DM	IBD-00701														60		F								1			
+GSE9452	DM	IBD-00703														35		F								1			
+GSE9452	DM	IBD-00705														42		F								1			
+GSE9452	DM	IBD-00707														49		M								1			
+GSE9452	DM	IBD-00709														31		M								1			
+GSE10616	DM	IBD-00710																											
+GSE10616	DM	IBD-00711																											
+GSE10616	DM	IBD-00713																											
+GSE10616	DM	IBD-00714																											
+GSE10616	DM	IBD-00715																											
+GSE10616	DM	IBD-00717																											
+GSE10616	DM	IBD-00718																											
+GSE10616	DM	IBD-00719																											
+GSE10616	DM	IBD-00721																											
+GSE10616	DM	IBD-00722																											
+GSE2461	DM	IBD-00830																F								1			
+GSE2461	DM	IBD-00834																M								1			
+GSE23597	DM	IBD-00859																											
+GSE23597	DM	IBD-00860																											
+GSE23597	DM	IBD-00861																											
+GSE23597	DM	IBD-00862																											
+GSE23597	DM	IBD-00863																											
+GSE23597	DM	IBD-00864																											
+GSE23597	DM	IBD-00865																											
+GSE23597	DM	IBD-00866																											
+GSE23597	DM	IBD-00867																											
+GSE23597	DM	IBD-00868																											
+GSE23597	DM	IBD-00869																											
+GSE23597	DM	IBD-00870																											
+GSE23597	DM	IBD-00871																											
+GSE23597	DM	IBD-00872																											
+GSE23597	DM	IBD-00873																											
+GSE23597	DM	IBD-00874																											
+GSE23597	DM	IBD-00875																											
+GSE23597	DM	IBD-00876																											
+GSE23597	DM	IBD-00877																											
+GSE23597	DM	IBD-00878																											
+GSE23597	DM	IBD-00879																											
+GSE23597	DM	IBD-00880																											
+GSE23597	DM	IBD-00881																											
+GSE23597	DM	IBD-00882																											
+GSE23597	DM	IBD-00883																											
+GSE23597	DM	IBD-00884																											
+GSE23597	DM	IBD-00885																											
+GSE23597	DM	IBD-00886																											
+GSE23597	DM	IBD-00887																											
+GSE23597	DM	IBD-00888																											
+GSE23597	DM	IBD-00889																											
+GSE23597	DM	IBD-00890																											
+GSE23597	DM	IBD-00891																											
+GSE23597	DM	IBD-00892																											
+GSE23597	DM	IBD-00893																											
+GSE23597	DM	IBD-00894																											
+GSE23597	DM	IBD-00895																											
+GSE23597	DM	IBD-00896																											
+GSE23597	DM	IBD-00897																											
+GSE23597	DM	IBD-00898																											
+GSE23597	DM	IBD-00899																											
+GSE23597	DM	IBD-00900																											
+E-MTAB-184	DM	IBD-00904																F								1			
+E-MTAB-184	DM	IBD-00905																F								1			
+E-MTAB-184	DM	IBD-00906																M								1			
+E-MTAB-184	DM	IBD-00908																M								1			
+E-MTAB-184	DM	IBD-00909																M								1			
+E-MTAB-184	DM	IBD-00910																M								1			
+E-MTAB-184	DM	IBD-00911																F								1			
+E-MTAB-184	DM	IBD-00912																M								1			
+E-MTAB-184	DM	IBD-00913																F								1			
+E-MTAB-184	DM	IBD-00914																M								1			
+E-MTAB-184	DM	IBD-00915																M								1			
+E-MTAB-184	DM	IBD-00916																F								1			
+E-MTAB-184	DM	IBD-00917																M								1			
+E-MTAB-184	DM	IBD-00918																F								1			
+E-MTAB-184	DM	IBD-00919																F								1			
+E-MTAB-184	DM	IBD-00920																F								1			
+GSE16879	DM	IBD-00921																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00922																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+E-MTAB-184	DM	IBD-00923																F								1			
+GSE16879	DM	IBD-00924																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+E-MTAB-184	DM	IBD-00925																M								1			
+GSE16879	DM	IBD-00926																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00927																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00928																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00929																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00930																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+E-MTAB-184	DM	IBD-00931																F								1			
+GSE16879	DM	IBD-00932																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00933																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+E-MTAB-184	DM	IBD-00934																M								1			
+GSE16879	DM	IBD-00935																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00936																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00937																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00938																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00939																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00940																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00941																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00942																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+E-MTAB-184	DM	IBD-00943																F								1			
+GSE16879	DM	IBD-00944																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00945																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00946																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00947																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00948																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+GSE16879	DM	IBD-00949																			INFLIX	Infliximab	INFLIX	Infliximab		1			
+E-MTAB-184	DM	IBD-00950																F								1			
+E-MTAB-184	DM	IBD-00951																M								1			
+E-MTAB-184	DM	IBD-00952																M								1			
+E-MTAB-184	DM	IBD-00953																F								1			
+E-MTAB-184	DM	IBD-00954																F								1			
+E-MTAB-184	DM	IBD-00955																M								1			
+E-MTAB-184	DM	IBD-00956																F								1			
+E-MTAB-184	DM	IBD-00957																F								1			
+E-MTAB-184	DM	IBD-00959																M								1			
+E-MTAB-184	DM	IBD-00961																M								1			
+E-MTAB-184	DM	IBD-00963																F								1			
+E-MTAB-184	DM	IBD-00965																F								1			
+E-MTAB-184	DM	IBD-00967																M								1			
+E-MTAB-184	DM	IBD-00970																F								1			
+E-MTAB-184	DM	IBD-00971																M								1			
+E-MTAB-184	DM	IBD-00973																M								1			
+E-MTAB-184	DM	IBD-00974																F								1			
+E-MTAB-184	DM	IBD-00977																F								1			
+E-MTAB-184	DM	IBD-00979																F								1			
+E-MTAB-184	DM	IBD-00982																M								1			
+E-MTAB-184	DM	IBD-00984																M								1			
+E-MTAB-184	DM	IBD-00987																F								1			
+E-MTAB-184	DM	IBD-00990																F								1			
+E-MTAB-184	DM	IBD-00991																F								1			
+E-MTAB-184	DM	IBD-00992																F								1			
+E-MTAB-331	DM	IBD-01028														64		M								1			
+E-MTAB-331	DM	IBD-01030														52		F								1			
+E-MTAB-331	DM	IBD-01031														26		F								1			
+E-MTAB-331	DM	IBD-01033														43		F								1			
+E-MTAB-331	DM	IBD-01034														48		M								1			
+E-MTAB-331	DM	IBD-01036														84		F								1			
+E-MTAB-331	DM	IBD-01037														36		F								1			
+E-MTAB-331	DM	IBD-01039														27		M								1			
+E-MTAB-331	DM	IBD-01040														50		M								1			
+E-MTAB-331	DM	IBD-01042														22		M								1			
+E-MTAB-331	DM	IBD-01043														41		F								1			
+E-MTAB-331	DM	IBD-01045														38		M								1			
+E-MTAB-331	DM	IBD-01047														46		F								1			
+E-MTAB-331	DM	IBD-01048														50		M								1			
+E-MTAB-331	DM	IBD-01050														45		F								1			
+E-MTAB-331	DM	IBD-01051														18		M								1			
+E-MTAB-331	DM	IBD-01053														70		F								1			
+E-MTAB-331	DM	IBD-01054														40		M								1			
+E-MTAB-331	DM	IBD-01056														43		F								1			
+E-MTAB-331	DM	IBD-01057														34		F								1			
+E-MTAB-331	DM	IBD-01059														51		F								1			
+E-MTAB-331	DM	IBD-01060														31		M								1			
+E-MTAB-331	DM	IBD-01062														65		M								1			
+E-MTAB-331	DM	IBD-01063														22		F								1			
+E-MTAB-331	DM	IBD-01065														24		F								1			
+E-MTAB-331	DM	IBD-01066														38		F								1			
+E-MTAB-331	DM	IBD-01067														56		M								1			
+E-MTAB-331	DM	IBD-01068														50		F								1			
+E-MTAB-331	DM	IBD-01069														43		F								1			
+E-MTAB-331	DM	IBD-01070														40		F								1			
+E-MTAB-331	DM	IBD-01075														23		F								1			
+GSE32148	DM	IBD-01225														60		F								1			
+GSE32148	DM	IBD-01226																M								1			
+GSE32148	DM	IBD-01227														76		F								1			
+GSE32148	DM	IBD-01228														10		F								1			
+GSE32148	DM	IBD-01229														14		M								1			
+GSE32148	DM	IBD-01230														10		F								1			
+GSE32148	DM	IBD-01231														9		M								1			
+GSE32148	DM	IBD-01232														17		M								1			
+GSE32148	DM	IBD-01233														13		M								1			
+GSE32148	DM	IBD-01234														15		M								1			
+GSE32148	DM	IBD-01235														15		F								1			

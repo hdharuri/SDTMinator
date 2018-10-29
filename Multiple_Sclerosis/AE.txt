@@ -1,0 +1,21 @@
+STUDYID	DOMAIN	USUBJID	AESEQ	AEGRPID	AEREFID	AESPID	AETERM	AEMODIFY	AELLT	AELLTCD	AEDECOD	AEPTCD	AEHLT	AEHLTCD	AEHLGT	AEHLGTCD	AECAT	AESCAT	AEPRESP	AEBODSYS	AEBDSYCD	AESOC	AESOCCD	AELOC	AESEV	AESER	AEACN	AEACNOTH	AEREL	AERELNST	AEPATT	AEOUT	AESCAN	AESCONG	AESDISAB	AESDTH	AESHOSP	AESLIFE	AESOD	AESMIE	AECONTRT	AETOXGR	AESTDTC	AEENDTC	AESTDY	AEENDY	AEDUR	AEENRF	AEENRTPT	AEENTPT	AELAT	AEDIR	AEPORTOT	AEPARTY	AEPRTYID	AEACNDEV	AETOX	EPOCH	AEDTC	AESTRF	AESTRTPT	AESTTPT	POOLID	SPDEVID	AELNKID	AELNKGRP	VISITNUM	VISIT	VISITDY	TAETORD	AETPT	AETPTNUM	AEELTM	AETPTREF	AERFTDTC	AEEVLINT	AEEVINTX	AESTINT	AEENINT
+GSE19285	AE	MS-00002	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00003	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00006	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00007	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00008	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00009	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00010	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00011	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00012	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00013	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00014	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00015	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00016	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00017	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00018	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00019	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00021	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00022	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00023	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
+GSE19285	AE	MS-00024	1				Side effects with flu-like symptoms during first 3 months				Influenza-like symptoms																																				P3M																																
