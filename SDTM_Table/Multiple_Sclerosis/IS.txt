@@ -1,0 +1,15 @@
+STUDYID	DOMAIN	USUBJID	ISSEQ	ISGRPID	ISREFID	ISSPID	ISTESTCD	ISTEST	ISCAT	ISSCAT	ISORRES	ISORRESU	ISSTRESC	ISSTRESN	ISSTRESU	ISSTAT	ISREASND	ISNAM	ISSPEC	ISMETHOD	ISBLFL	ISLLOQ	VISITNUM	VISIT	VISITDY	ISDTC	ISDY	ISLNKID	ISLNKGRP	ISMODIFY	ISTSTDTL	ISPOS	ISBODSYS	ISORNRLO	ISORNRHI	ISRESCAT	ISSTNRLO	ISSTNRHI	ISSTNRC	ISNRIND	ISXFN	ISLOINC	ISANTREG	ISSPCCND	ISSPCUFL	ISLOC	ISLAT	ISDIR	ISPORTOT	ISRUNID	ISANMETH	ISLEAD	ISCSTATE	ISFAST	ISDRVFL	ISTOX	ISTOXGR	ISEVAL	ISEVALID	ISACPTFL	ISSEV	ISDTHREL	ISULOQ	EPOCH	ISENDTC	ISRFTDTC	ISTPT	ISTPTNUM	ISELTM	ISTPTREF	ISEVLINT	ISSTINT	ISENINT	ISEXCLFL	ISREASEX	POOLID	SPDEVID	TAETORD	ISSTDTC	ISSTDY	ISENDY	ISDUR	ISSTRF	ISENRF	ISEVINTX	ISSTRTPT	ISSTTPT	ISENRTPT	ISENTPT
+GSE26104	IS	MS-00162	1				IFN-NAB	IFN Neutralizing antibodies	SEROLOGY		N																																																																														
+GSE26104	IS	MS-00163	1				IFN-NAB	IFN Neutralizing antibodies	SEROLOGY		N																																																																														
+GSE26104	IS	MS-00164	1				IFN-NAB	IFN Neutralizing antibodies	SEROLOGY		N																																																																														
+GSE26104	IS	MS-00165	1				IFN-NAB	IFN Neutralizing antibodies	SEROLOGY		N																																																																														
+GSE26104	IS	MS-00166	1				IFN-NAB	IFN Neutralizing antibodies	SEROLOGY		Y																																																																														
+GSE26104	IS	MS-00167	1				IFN-NAB	IFN Neutralizing antibodies	SEROLOGY		Y																																																																														
+GSE26104	IS	MS-00168	1				IFN-NAB	IFN Neutralizing antibodies	SEROLOGY		Y																																																																														
+GSE26104	IS	MS-00169	1				IFN-NAB	IFN Neutralizing antibodies	SEROLOGY		Y																																																																														
+GSE26484	IS	MS-00170	1				Sema4A	Serum Sema4A	SEROLOGY		High									ELISA																				High																																																	
+GSE26484	IS	MS-00171	1				Sema4A	Serum Sema4A	SEROLOGY		High									ELISA																				High																																																	
+GSE26484	IS	MS-00172	1				Sema4A	Serum Sema4A	SEROLOGY		High									ELISA																				High																																																	
+GSE26484	IS	MS-00173	1				Sema4A	Serum Sema4A	SEROLOGY		Low									ELISA																				Low																																																	
+GSE26484	IS	MS-00174	1				Sema4A	Serum Sema4A	SEROLOGY		Low									ELISA																				Low																																																	
+GSE26484	IS	MS-00175	1				Sema4A	Serum Sema4A	SEROLOGY		Low									ELISA																				Low																																																	

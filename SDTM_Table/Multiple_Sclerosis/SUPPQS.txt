@@ -1,0 +1,16 @@
+STUDYID	RDOMAIN	USUBJID	IDVAR	IDVARVAL	QNAM	QLABEL	QVAL	QORIG	QEVAL
+GSE20334	QS	MS-00839	QSSEQ	1	MSSS	Multiple Sclerosis Severity Score	0.25	Public source	
+GSE20334	QS	MS-00840	QSSEQ	1	MSSS	Multiple Sclerosis Severity Score	3.34	Public source	
+GSE20334	QS	MS-00841	QSSEQ	1	MSSS	Multiple Sclerosis Severity Score	8.17	Public source	
+GSE20334	QS	MS-00842	QSSEQ	1	MSSS	Multiple Sclerosis Severity Score	1.45	Public source	
+GSE20334	QS	MS-00843	QSSEQ	1	MSSS	Multiple Sclerosis Severity Score	3.34	Public source	
+GSE20334	QS	MS-00844	QSSEQ	1	MSSS	Multiple Sclerosis Severity Score	0.88	Public source	
+GSE20334	QS	MS-00845	QSSEQ	1	MSSS	Multiple Sclerosis Severity Score	4.82	Public source	
+GSE20334	QS	MS-00846	QSSEQ	1	MSSS	Multiple Sclerosis Severity Score	3.34	Public source	
+GSE20334	QS	MS-00847	QSSEQ	1	MSSS	Multiple Sclerosis Severity Score	1.13	Public source	
+GSE20334	QS	MS-00848	QSSEQ	1	MSSS	Multiple Sclerosis Severity Score	0.64	Public source	
+GSE20334	QS	MS-00849	QSSEQ	1	MSSS	Multiple Sclerosis Severity Score	4.82	Public source	
+GSE20334	QS	MS-00850	QSSEQ	1	MSSS	Multiple Sclerosis Severity Score	1.45	Public source	
+GSE20334	QS	MS-00851	QSSEQ	1	MSSS	Multiple Sclerosis Severity Score	5.09	Public source	
+GSE20334	QS	MS-00852	QSSEQ	1	MSSS	Multiple Sclerosis Severity Score	2.6	Public source	
+GSE20334	QS	MS-00853	QSSEQ	1	MSSS	Multiple Sclerosis Severity Score	1.03	Public source	
