@@ -1,0 +1,4 @@
+STUDYID	DOMAIN	SPDEVID	DISEQ	DIPARMCD	DIPARM	DIVAL
+phs000100.v3.p1, The Finland-United States Investigation of NIDDM Genetics (FUSION) Study	DI	GPL5677	1	MANUF	Manufacturer	Illumina
+phs000100.v3.p1, The Finland-United States Investigation of NIDDM Genetics (FUSION) Study	DI	GPL5677	2	MODEL	Model	HumanHap300
+phs000100.v3.p1, The Finland-United States Investigation of NIDDM Genetics (FUSION) Study	DI	GPL5677	3	TYPE	Device Type	Whole Genome Genotyping
