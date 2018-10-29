@@ -1,0 +1,46 @@
+STUDYID	DOMAIN	SPDEVID	DISEQ	DIPARMCD	DIPARM	DIVAL
+GSE26952	DI	GPL2700	1	TYPE	Device Type	Array
+GSE26952	DI	GPL2700	2	MANUF	Manufacturer	Illumina
+GSE26952	DI	GPL2700	3	MODEL	Model	HumanRef-8 Expression BeadChip
+GSE13355	DI	GPL570	1	TYPE	Device Type	Array
+GSE14905	DI	GPL570	2	TYPE	Device Type	Array
+GSE30999	DI	GPL570	3	TYPE	Device Type	Array
+GSE31652	DI	GPL570	4	TYPE	Device Type	Array
+GSE41663	DI	GPL570	5	TYPE	Device Type	Array
+GSE13355	DI	GPL570	6	MANUF	Manufacturer	Affymetrix
+GSE14905	DI	GPL570	7	MANUF	Manufacturer	Affymetrix
+GSE30999	DI	GPL570	8	MANUF	Manufacturer	Affymetrix
+GSE31652	DI	GPL570	9	MANUF	Manufacturer	Affymetrix
+GSE41663	DI	GPL570	10	MANUF	Manufacturer	Affymetrix
+GSE13355	DI	GPL570	11	MODEL	Model	Human Genome U133 Plus 2.0 Array
+GSE14905	DI	GPL570	12	MODEL	Model	Human Genome U133 Plus 2.0 Array
+GSE30999	DI	GPL570	13	MODEL	Model	Human Genome U133 Plus 2.0 Array
+GSE31652	DI	GPL570	14	MODEL	Model	Human Genome U133 Plus 2.0 Array
+GSE41663	DI	GPL570	15	MODEL	Model	Human Genome U133 Plus 2.0 Array
+GSE11903	DI	GPL571	1	TYPE	Device Type	Array
+GSE30768	DI	GPL571	2	TYPE	Device Type	Array
+GSE32407	DI	GPL571	3	TYPE	Device Type	Array
+GSE36387	DI	GPL571	4	TYPE	Device Type	Array
+GSE11903	DI	GPL571	5	MANUF	Manufacturer	Affymetrix
+GSE30768	DI	GPL571	6	MANUF	Manufacturer	Affymetrix
+GSE32407	DI	GPL571	7	MANUF	Manufacturer	Affymetrix
+GSE36387	DI	GPL571	8	MANUF	Manufacturer	Affymetrix
+GSE11903	DI	GPL571	9	MODEL	Model	Human Genome U133A 2.0 Array
+GSE30768	DI	GPL571	10	MODEL	Model	Human Genome U133A 2.0 Array
+GSE32407	DI	GPL571	11	MODEL	Model	Human Genome U133A 2.0 Array
+GSE36387	DI	GPL571	12	MODEL	Model	Human Genome U133A 2.0 Array
+GSE18948	DI	GPL8300	1	TYPE	Device Type	Array
+GSE18948	DI	GPL8300	2	MANUF	Manufacturer	Affymetrix
+GSE18948	DI	GPL8300	3	MODEL	Model	Human Genome U95 Av2 Array
+GSE54456	DI	GPL9052	1	TYPE	Device Type	RNA-seq
+GSE54456	DI	GPL9052	2	MANUF	Manufacturer	Illumina
+GSE54456	DI	GPL9052	3	MODEL	Model	Genome Analyzer
+GSE2737	DI	GPL91	1	TYPE	Device Type	Array
+GSE2737	DI	GPL91	2	MANUF	Manufacturer	Affymetrix
+GSE2737	DI	GPL91	3	MODEL	Model	Human Genome U95A
+GSE6710	DI	GPL96	1	TYPE	Device Type	Array
+GSE6710	DI	GPL96	2	MANUF	Manufacturer	Affymetrix
+GSE6710	DI	GPL96	3	MODEL	Model	Human Genome U133A
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DI	PERLEGEN-600K	1	TYPE	Device Type	Whole genome genotyping
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DI	PERLEGEN-600K	2	MANUF	Manufacturer	Perlegen Sciences
+phs000019.v1.p1, Collaborative Association Study of Psoriasis	DI	PERLEGEN-600K	3	MODEL	Model	PERLEGEN-600K
