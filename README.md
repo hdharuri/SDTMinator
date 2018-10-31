@@ -16,3 +16,5 @@ Special-purpose domains
 *	Subject Visits
 
 
+![Alt text](/sdtm_domain.png?raw=true "Title")
+
