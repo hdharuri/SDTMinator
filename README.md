@@ -21,4 +21,5 @@ The following image displays the various classes and the domains within these cl
 
 
 ## Strategy to map raw clinical dataset to the SDTM format
+![Alt text](/certical_to_horizontal.png?raw=true "Title")
 
