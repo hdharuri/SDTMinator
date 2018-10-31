@@ -28,4 +28,8 @@ The following image displays the various classes and the domains within these cl
 
 ![Alt text](/maintain_association_of_columns.png?raw=true "Title")
 
+###	The mapper file
+
+![Alt text](/what_is_a_mapper_file.png?raw=true "Title")
+
 
