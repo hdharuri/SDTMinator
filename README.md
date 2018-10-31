@@ -22,14 +22,14 @@ The following image displays the various classes and the domains within these cl
 
 ###	Strategy to map raw clinical dataset to the SDTM format
 ####	Scenario 1
-![Alt text](/certical_to_horizontal.png?raw=true "Title")
+![Alt text](/Images/certical_to_horizontal.png?raw=true "Title")
 
 ####	Scenario 2
 
-![Alt text](/maintain_association_of_columns.png?raw=true "Title")
+![Alt text](/Images/maintain_association_of_columns.png?raw=true "Title")
 
 ###	The mapper file
 
-![Alt text](/what_is_mapper_file.png?raw=true "Title")
+![Alt text](/Images/what_is_mapper_file.png?raw=true "Title")
 
 
