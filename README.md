@@ -30,6 +30,6 @@ The following image displays the various classes and the domains within these cl
 
 ###	The mapper file
 
-![Alt text](/what_is_a_mapper_file.png?raw=true "Title")
+![Alt text](/what_is_mapper_file.png?raw=true "Title")
 
 
