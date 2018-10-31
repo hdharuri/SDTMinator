@@ -15,6 +15,7 @@ Special-purpose domains
 *	Subject Elements
 *	Subject Visits
 
+The following image displays the various classes and the domains within these classes:
 
 ![Alt text](/sdtm_domains.png?raw=true "Title")
 
