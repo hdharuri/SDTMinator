@@ -1,24 +1,23 @@
 library(data.table)
-#source("C:/Users/HDHARURI/Desktop/SDTM-Scripts/R-Scripts/SDTMinator/helper.R")
-source("/Users/harishdharuri/Documents/SDTM-Scripts/R-Scripts/SDTMinator/helper.R")
+
+source("./helper.R")
 fileName <- vector(mode="character",length=0)
 fileName_base <- vector(mode="character",length=0)
 tableNames <- vector(mode="character",length=0)
 metaData <- data.frame(matrix(NA,nrow=0,ncol=4),stringsAsFactors=FALSE)
 colnames(metaData) <- c("Working_directory","Annotation_table","Mapper_file","Domains")
 
-mainScript <- "/Users/harishdharuri/Documents/SDTM-Scripts/R-Scripts/SDTMinator/main.R"
+mainScript <- "./main.R"
 server <- shinyServer(function(input, output,session) {
   
   inFile <- reactive({
     mfile <- input$file
-    print("This is mfile")
-    print(mfile)
+    #print("This is mfile")
+    #print(mfile)
     if (is.null(mfile)){return(NULL)}
     metaData_raw <- data.table(read.table(mfile$datapath,fill=TRUE,header=TRUE,sep="\t",comment.char = "",row.names=NULL,quote="\"",colClasses="character",check.names=TRUE))
     metaData <<- metaDataNATOR(metaData_raw)
-    
-    
+   
     fileName <<- unique(as.character(metaData[,1]))
     fileName_base <<- basename(fileName)
     metaData
@@ -40,7 +39,7 @@ server <- shinyServer(function(input, output,session) {
     if (input$submit > 0) {
       
       
-      #source("/Users/harishdharuri/Documents/SDTM-Scripts/R-Scripts/SDTMinator/main.R",local=TRUE)
+      
       source(mainScript,local = TRUE)
       output$varselect <- renderUI({
         radioButtons("var", "File Type", choices = c("MetaData",fileName_base), select = "MetaData")
@@ -65,21 +64,19 @@ server <- shinyServer(function(input, output,session) {
       fy <- fileName[grep(paste0("^.*",fy,"$"),fileName)]
       dirname <- paste0(fy,"/Tables")
       f <- reactive({list.files(dirname)})
-      
       filePath <- reactive({paste(dirname,f(),sep="/")})
       domainTabName <- filePath()
       tableNames <<- filePath()
+      
+      
       tabs <- lapply(filePath(), function(nm) {
         domainTabName <- gsub("\\.txt$","",basename(nm))
-        
         tabPanel(title=span(strong(domainTabName),style="color:#0099FF"),dataTableOutput(domainTabName)) #style='background-color:#DC143C'
       }    
       )
       do.call(tabsetPanel, c(tabs))
     }
-    
-    
-    
+  
   })
   observe({
     if (is.null(input$var)) {return(NULL)}
@@ -96,13 +93,10 @@ server <- shinyServer(function(input, output,session) {
         ## This is to test if empty columns can be removed before rendering
         tableItself <- read.table(g,fill=TRUE,header=TRUE,sep="\t",comment.char = "",row.names=NULL,quote="\"",colClasses="character",check.names=FALSE)
         tableItself <- tableItself[,colSums(tableItself=="")<nrow(tableItself)]
-        # output[[domainTab]] <- renderDataTable(read.table(g,fill=TRUE,header=TRUE,sep="\t",comment.char = "",row.names=NULL,quote="\"",colClasses="character",check.names=FALSE))
         output[[domainTab]] <- renderDataTable(tableItself)
       })
     }
     
   })
-  
-  
-  
+
 })

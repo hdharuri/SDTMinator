@@ -1,0 +1,6 @@
+original attribute	Domain	Mapping function
+STUDYID		STUDYID;
+PlatformID		SPDEVID;
+Technology	DI	Rename:DIVAL;Insert:DIPARMCD,Val=TYPE;Insert:DIPARM,Val=Device Type;
+MANUF	DI	Rename:DIVAL;Insert:DIPARMCD,Val=MANUF;Insert:DIPARM,Val=Manufacturer;
+MODEL	DI	Rename:DIVAL;Insert:DIPARMCD,Val=MODEL;Insert:DIPARM,Val=Model;

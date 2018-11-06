@@ -1,0 +1,21 @@
+STUDYID	PlatformID	Technology	MANUF	MODEL
+E-MEXP-2083	GPL570	Array	Affymetrix	Human Genome U133 Plus 2.0 Array
+E-MTAB-184	GPL6947	Array	Illumina	HumanHT-12 v3 Expression BeadChip
+GSE10616	GPL570	Array	Affymetrix	Human Genome U133 Plus 2.0 Array
+GSE10714	GPL570	Array	Affymetrix	Human Genome U133 Plus 2.0 Array
+GSE11499	GPL570	Array	Affymetrix	Human Genome U133 Plus 2.0 Array
+GSE13367	GPL570	Array	Affymetrix	Human Genome U133 Plus 2.0 Array
+GSE16879	GPL570	Array	Affymetrix	Human Genome U133 Plus 2.0 Array
+GSE1710	GPL284	Array	RZPD	Human UniGene Set RZPD 1
+GSE21231	GPL6244	Array	Affymetrix	Human Gene 1.0 ST Array
+GSE22619	GPL570	Array	Affymetrix	Human Genome U133 Plus 2.0 Array
+GSE23597	GPL570	Array	Affymetrix	Human Genome U133 Plus 2.0 Array
+GSE2461	GPL96	Array	Affymetrix	Human Genome U133A
+GSE32148	GPL13534	Array	Illumina	HumanMethylation450 BeadChip
+GSE3365	GPL96	Array	Affymetrix	Human Genome U133A
+GSE3629	GPL570	Array	Affymetrix	Human Genome U133 Plus 2.0 Array
+GSE37283	GPL13158	Array	Affymetrix	GeneChip HT HG-U133+ PM Array Plate
+GSE4183	GPL570	Array	Affymetrix	Human Genome U133 Plus 2.0 Array
+GSE6731	GPL8300	Array	Affymetrix	Human Genome U95 Av2 Array
+GSE9452	GPL570	Array	Affymetrix	Human Genome U133 Plus 2.0 Array
+E-MTAB-331	GPL6244	Array	Affymetrix	Human Gene 1.0 ST Array

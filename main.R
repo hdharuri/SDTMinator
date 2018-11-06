@@ -1,20 +1,21 @@
 ###############################################################################################
 library(data.table)
 # cdisc variables
-#cdisc_variables <- "C:/Users/HDHARURI/Desktop/SDTM-Scripts/R-Scripts/SDTMinator/cdisc_domains_150301.txt"
-cdisc_variables <- "/Users/harishdharuri/Documents/SDTM-Scripts/R-Scripts/SDTMinator/cdisc_domains_150301.txt"
+cdisc_variables <- "cdisc_domains_150301.txt"
+#bring in the cdisc variables
+cdisc <- read.table(cdisc_variables,sep="\t",header=TRUE,colClasses="character",fill=TRUE)
+
 ## LOOP THROUGH THE METADATA FILE
 for (mRow in 1:dim(metaData)[1]) {
   # Extract information for a particular row from the metaData file
   workingDirectory <- metaData$Working_directory[mRow]
-  print("This is the workingDirectory")
-  print(workingDirectory)
-  #workingDirectoryTemp <- "C:/Users/HDHARURI/Desktop/SVN_Harish2/CDISC_conversion/ToConvert"
-  data_file <- metaData$Annotation_table[mRow]
-  mapper_file <- metaData$Mapper_file[mRow]
+  
+  data_file <- paste(workingDirectory,metaData$Annotation_table[mRow],sep = "/")
+  mapper_file <- paste(workingDirectory,metaData$Mapper_file[mRow],sep = "/")
   domainToConsider <- metaData$Domains[mRow]
+  
   # read in the data
-  setwd(workingDirectory)
+  #setwd(workingDirectory)
   data <- read.table(data_file,fill=TRUE,header=TRUE,sep="\t",comment.char = "",row.names=NULL,quote="\"",colClasses="character",check.names=FALSE)
   mapper <- read.table(mapper_file,sep="\t",header=TRUE,quote="\"",colClasses="character")
   
@@ -57,7 +58,7 @@ for (mRow in 1:dim(metaData)[1]) {
   }
   
   #bring in the cdisc variables
-  cdisc <- read.table(cdisc_variables,sep="\t",header=TRUE,colClasses="character",fill=TRUE)
+  #cdisc <- read.table(cdisc_variables,sep="\t",header=TRUE,colClasses="character",fill=TRUE)
   
   my.list <- list() # list of tables that will hold all the cdisc domains
   
@@ -107,7 +108,7 @@ for (mRow in 1:dim(metaData)[1]) {
       if (!length(which(associatedColumns_df[,2]==mapper[row,1]))==0) { # end the for loop if the variable is present in the second column of the associatedColumns df
         next;
       }
-      print(row)
+      #print(row)
       associatedColumns <- ""
       if(!length(which(associatedColumns_df[,1]==mapper[row,1]))==0) {
         associatedColumns <- associatedColumns_df[which(associatedColumns_df[,1]==mapper[row,1]),2]
@@ -130,8 +131,8 @@ for (mRow in 1:dim(metaData)[1]) {
   my.list <- remove_NA_values(my.list)
   my.list <- insert_subjID(data,mapper,my.list,domains)
  # my.list <- populate_decod_for_condition(my.list,domains)
-  #outputFile <- paste0(workingDirectory,"/Tables")
-  #write_tables_to_folder(my.list,folder=outputFile) 
+  outputFile <- paste0(workingDirectory,"/Tables")
+  write_tables_to_folder(my.list,folder=outputFile) 
   
   
 }

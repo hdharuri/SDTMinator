@@ -1,0 +1,235 @@
+STUDYID	DOMAIN	USUBJID	CMSEQ	CMGRPID	CMSPID	CMTRT	CMMODIFY	CMDECOD	CMCAT	CMSCAT	CMPRESP	CMOCCUR	CMSTAT	CMREASND	CMINDC	CMCLAS	CMCLASCD	CMDOSE	CMDOSTXT	CMDOSU	CMDOSFRM	CMDOSFRQ	CMDOSTOT	CMDOSRGM	CMROUTE	CMSTDTC	CMENDTC	CMSTDY	CMENDY	CMDUR	CMSTRF	CMENRF	CMSTRTPT	CMSTTPT	CMENRTPT	CMENTPT	CMELTM	CMTPTREF	CMRFTDTC	CMREFID	CMLNKID	CMLNKGRP	CMMOOD	CMLOT	CMLOC	CMLAT	CMDIR	CMPORTOT	CMFAST	CMPSTRG	CMPSTRGU	CMADJ	EPOCH	VISITNUM	VISIT	VISITDY	CMTPT	CMTPTNUM	CMTRTV	CMVAMT	CMVAMTU	POOLID	SPDEVID	TAETORD	CMDTC	CMDY	CMEVLINT	CMEVINTX	CMSTINT	CMENINT	CMDETECT
+GSE6731	CM	IBD-00096	1			MESALAMINE						Y																														W1																								1					
+GSE6731	CM	IBD-00097	1			CORTICOSTEROIDS						Y																														W1																								1					
+GSE6731	CM	IBD-00097	2			IMMUNOMODULATOR						Y																														W1																								1					
+GSE6731	CM	IBD-00098	1			CORTICOSTEROIDS						Y																														W1																								1					
+GSE6731	CM	IBD-00098	2			MESALAMINE						Y																														W1																								1					
+GSE6731	CM	IBD-00099	1			IMMUNOMODULATOR						Y																														W1																								1					
+GSE6731	CM	IBD-00099	2			MESALAMINE						Y																														W1																								1					
+GSE6731	CM	IBD-00100	1			MESALAMINE						Y																														W1																								1					
+E-MEXP-2083	CM	IBD-00304	1			MESALAMINE						Y																													A1																									1					
+E-MEXP-2083	CM	IBD-00310	1			MESALAMINE						Y																													A1																									1					
+E-MEXP-2083	CM	IBD-00314	1			MESALAMINE						Y																													A1																									1					
+E-MTAB-184	CM	IBD-00411	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00413	1			CORTICOSTEROIDS						Y																																																						1					
+E-MTAB-184	CM	IBD-00414	1			CORTICOSTEROIDS						Y																																																						1					
+E-MTAB-184	CM	IBD-00416	1			MESALAMINE						Y																																																						1					
+E-MTAB-184	CM	IBD-00416	2			SULFASALAZINE						Y																																																						1					
+E-MTAB-184	CM	IBD-00417	1			MESALAMINE						Y																																																						1					
+E-MTAB-184	CM	IBD-00417	2			SULFASALAZINE						Y																																																						1					
+E-MTAB-184	CM	IBD-00422	1			CORTICOSTEROIDS						Y																																																						1					
+E-MTAB-184	CM	IBD-00423	1			MESALAMINE						Y																																																						1					
+E-MTAB-184	CM	IBD-00423	2			SULFASALAZINE						Y																																																						1					
+E-MTAB-184	CM	IBD-00423	3			CORTICOSTEROIDS						Y																																																						1					
+E-MTAB-184	CM	IBD-00424	1			CORTICOSTEROIDS						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00425	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00425	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00425	3			CORTICOSTEROIDS						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00431	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00431	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00437	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00437	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00437	3			CORTICOSTEROIDS						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00438	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00438	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00439	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00439	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00440	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00440	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00441	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00441	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00442	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00442	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00444	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00444	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00445	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00445	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00446	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00446	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00446	3			CORTICOSTEROIDS						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00450	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00450	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00451	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00451	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00452	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00452	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00453	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00453	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00456	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00456	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00458	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00458	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00458	3			CORTICOSTEROIDS						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00460	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00460	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00460	3			CORTICOSTEROIDS						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00461	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00461	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00463	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00463	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00463	3			CORTICOSTEROIDS						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00465	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00465	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00466	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00466	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00466	3			CORTICOSTEROIDS						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00470	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00470	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00472	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00472	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00476	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00476	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-331	CM	IBD-00550	1			CORTICOSTEROIDS						Y													INTRAVENOUS																																									1					
+E-MTAB-331	CM	IBD-00550	2			AZATHIOPRINE						Y						2		mg/kg																																														60					
+E-MTAB-331	CM	IBD-00550	3			CYCLOSPORIN						Y																																																											
+GSE22619	CM	IBD-00595	1			CORTICOSTEROIDS						Y																														N1																								1					
+GSE22619	CM	IBD-00595	2			MESALAMINE						Y																														N1																								1					
+GSE22619	CM	IBD-00597	1			AZATHIOPRINE						Y																														N1																								1					
+GSE22619	CM	IBD-00597	2			MESALAMINE						Y																														N1																								1					
+GSE22619	CM	IBD-00599	1			CORTICOSTEROIDS						Y																														N1																								1					
+GSE22619	CM	IBD-00599	2			MESALAMINE						Y																														N1																								1					
+GSE22619	CM	IBD-00601	1			MESALAMINE						Y																														N1																								1					
+GSE22619	CM	IBD-00605	1			MESALAMINE						Y																														N1																								1					
+GSE22619	CM	IBD-00607	1			AZATHIOPRINE						Y																														N1																								1					
+GSE22619	CM	IBD-00607	2			MESALAMINE						Y																														N1																								1					
+GSE22619	CM	IBD-00609	1			CORTICOSTEROIDS						Y																														N1																								1					
+GSE22619	CM	IBD-00609	2			MESALAMINE						Y																														N1																								1					
+GSE9452	CM	IBD-00672	1			MESALAMINE						Y																														Y1																								1					
+GSE9452	CM	IBD-00674	1			MESALAMINE						Y																														Y1																								1					
+GSE9452	CM	IBD-00676	1			CORTICOSTEROIDS						Y													SYSTEMIC																	Y1																								1					
+GSE9452	CM	IBD-00678	1			MESALAMINE						Y																														Y1																								1					
+GSE9452	CM	IBD-00680	1			MESALAMINE						Y																														Y1																								1					
+GSE9452	CM	IBD-00682	1			MESALAMINE						Y																														Y1																								1					
+GSE9452	CM	IBD-00684	1			CORTICOSTEROIDS						Y													SYSTEMIC																	Y1																								1					
+GSE9452	CM	IBD-00686	1			CORTICOSTEROIDS						Y													SYSTEMIC																	Y1																								1					
+GSE9452	CM	IBD-00690	1			CORTICOSTEROIDS						Y													SYSTEMIC																	Y1																								1					
+GSE9452	CM	IBD-00692	1			MESALAMINE						Y																														Y1																								1					
+GSE9452	CM	IBD-00695	1			MESALAMINE						Y																														Y1																								1					
+GSE9452	CM	IBD-00697	1			CORTICOSTEROIDS						Y													SYSTEMIC																	Y1																								1					
+GSE9452	CM	IBD-00698	1			MESALAMINE						Y																														Y1																								1					
+GSE9452	CM	IBD-00700	1			MESALAMINE						Y																														Y1																								1					
+GSE9452	CM	IBD-00703	1			MESALAMINE						Y																														Y1																								1					
+GSE9452	CM	IBD-00707	1			CORTICOSTEROIDS						Y													SYSTEMIC																	Y1																								1					
+GSE9452	CM	IBD-00707	2			MESALAMINE						Y																														Y1																								1					
+GSE9452	CM	IBD-00709	1			CORTICOSTEROIDS						Y													SYSTEMIC																	Y1																								1					
+GSE9452	CM	IBD-00709	2			MESALAMINE						Y																														Y1																								1					
+E-MTAB-184	CM	IBD-00909	1			MESALAMINE						Y																																																						1					
+E-MTAB-184	CM	IBD-00909	2			SULFASALAZINE						Y																																																						1					
+E-MTAB-184	CM	IBD-00910	1			MESALAMINE						Y																																																						1					
+E-MTAB-184	CM	IBD-00910	2			SULFASALAZINE						Y																																																						1					
+E-MTAB-184	CM	IBD-00910	3			CORTICOSTEROIDS						Y																																																						1					
+E-MTAB-184	CM	IBD-00912	1			CORTICOSTEROIDS						Y																																																						1					
+E-MTAB-184	CM	IBD-00913	1			CORTICOSTEROIDS						Y																																																						1					
+E-MTAB-184	CM	IBD-00917	1			MESALAMINE						Y																																																						1					
+E-MTAB-184	CM	IBD-00917	2			SULFASALAZINE						Y																																																						1					
+E-MTAB-184	CM	IBD-00917	3			CORTICOSTEROIDS						Y																																																						1					
+E-MTAB-184	CM	IBD-00923	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00923	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00925	1			MESALAMINE						Y																																																						1					
+E-MTAB-184	CM	IBD-00925	2			SULFASALAZINE						Y																																																						1					
+E-MTAB-184	CM	IBD-00925	3			CORTICOSTEROIDS						Y																																																						1					
+E-MTAB-184	CM	IBD-00931	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00931	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00934	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00934	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00943	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00943	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00952	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00952	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00952	3			CORTICOSTEROIDS						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00953	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00953	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00954	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00954	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00954	3			CORTICOSTEROIDS						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00956	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00956	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00957	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00957	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00965	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00965	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00967	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00967	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00971	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00971	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00974	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00974	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00982	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00982	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00990	1			MESALAMINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00990	2			SULFASALAZINE						Y																													B1																									1					
+E-MTAB-184	CM	IBD-00992	1			CORTICOSTEROIDS						Y																													B1																									1					
+E-MTAB-331	CM	IBD-01028	1			MESALAMINE						Y																																																						1					
+E-MTAB-331	CM	IBD-01030	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01031	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01031	2			PREDNISOLONE						Y																																																						78					
+E-MTAB-331	CM	IBD-01031	3			AZATHIOPRINE						Y						2		mg/kg																																														78					
+E-MTAB-331	CM	IBD-01033	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01033	2			CORTICOSTEROIDS						Y													INTRAVENOUS																																														
+E-MTAB-331	CM	IBD-01033	3			PREDNISOLONE						Y																																																						43					
+E-MTAB-331	CM	IBD-01033	4			METHOTREXATE						Y																																																						43					
+E-MTAB-331	CM	IBD-01034	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01034	2			CYCLOSPORIN						Y																																																											
+E-MTAB-331	CM	IBD-01034	3			CORTICOSTEROIDS						Y													INTRAVENOUS																																														
+E-MTAB-331	CM	IBD-01034	4			AZATHIOPRINE						Y						2		mg/kg																																														55					
+E-MTAB-331	CM	IBD-01036	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01037	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01039	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01039	2			PREDNISOLONE						Y																																																						64					
+E-MTAB-331	CM	IBD-01039	3			AZATHIOPRINE						Y						2		mg/kg																																														64					
+E-MTAB-331	CM	IBD-01039	4			AZATHIOPRINE						Y						2.5		mg/kg																																														238					
+E-MTAB-331	CM	IBD-01040	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01040	2			PREDNISOLONE						Y																																																						212					
+E-MTAB-331	CM	IBD-01040	3			AZATHIOPRINE						Y						2		mg/kg																																														212					
+E-MTAB-331	CM	IBD-01040	4			PREDNISOLONE						Y																																																						463					
+E-MTAB-331	CM	IBD-01040	5			METHOTREXATE						Y																																																						463					
+E-MTAB-331	CM	IBD-01042	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01043	1			MESALAMINE						Y																																																						1					
+E-MTAB-331	CM	IBD-01045	1			TOPICAL THERAPY						Y																																																						1					
+E-MTAB-331	CM	IBD-01047	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01047	2			6-MERCAPTOPURINE						Y																																																						1					
+E-MTAB-331	CM	IBD-01048	1			TOPICAL THERAPY						Y																																																						1					
+E-MTAB-331	CM	IBD-01050	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01050	2			PREDNISOLONE						Y																																																						403					
+E-MTAB-331	CM	IBD-01050	3			AZATHIOPRINE						Y						2		mg/kg																																														403					
+E-MTAB-331	CM	IBD-01051	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01053	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01053	2			PREDNISOLONE						Y																																																						127					
+E-MTAB-331	CM	IBD-01053	3			AZATHIOPRINE						Y						2		mg/kg																																														127					
+E-MTAB-331	CM	IBD-01054	1			BUDESONIDE						Y																																																						1					
+E-MTAB-331	CM	IBD-01054	2			PREDNISOLONE						Y																																																											
+E-MTAB-331	CM	IBD-01056	1			MESALAMINE						Y																																																						1					
+E-MTAB-331	CM	IBD-01056	2			PREDNISOLONE						Y																																																						373					
+E-MTAB-331	CM	IBD-01056	3			6-MERCAPTOPURINE						Y						1		mg/kg																																														373					
+E-MTAB-331	CM	IBD-01057	1			TOPICAL THERAPY						Y																																																						1					
+E-MTAB-331	CM	IBD-01059	1			TOPICAL THERAPY						Y																																																						1					
+E-MTAB-331	CM	IBD-01059	2			PREDNISOLONE						Y																																																						124					
+E-MTAB-331	CM	IBD-01059	3			ACETARSOL						Y									SUPPOSITORY																																													124					
+E-MTAB-331	CM	IBD-01059	4			PREDNISOLONE						Y																																																						404					
+E-MTAB-331	CM	IBD-01059	5			ACETARSOL						Y									SUPPOSITORY																																													404					
+E-MTAB-331	CM	IBD-01059	6			METHOTREXATE						Y																																																						404					
+E-MTAB-331	CM	IBD-01059	7			AZATHIOPRINE						N																																																						124					
+E-MTAB-331	CM	IBD-01060	1			CORTICOSTEROIDS						Y													INTRAVENOUS																																									1					
+E-MTAB-331	CM	IBD-01060	2			CORTICOSTEROIDS						Y													INTRAVENOUS																																									158					
+E-MTAB-331	CM	IBD-01060	3			AZATHIOPRINE						Y						2		mg/kg					INTRAVENOUS																																									158					
+E-MTAB-331	CM	IBD-01062	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01062	2			PREDNISOLONE						Y																																																						96					
+E-MTAB-331	CM	IBD-01062	3			AZATHIOPRINE						Y						2		mg/kg																																														96					
+E-MTAB-331	CM	IBD-01063	1			MESALAMINE						Y																																																						1					
+E-MTAB-331	CM	IBD-01065	1			BUDESONIDE						Y																																																						1					
+E-MTAB-331	CM	IBD-01065	2			AZATHIOPRINE						Y																																																						1					
+E-MTAB-331	CM	IBD-01066	1			TOPICAL THERAPY						Y																																																						1					
+E-MTAB-331	CM	IBD-01067	1			CORTICOSTEROIDS						Y													INTRAVENOUS																																									1					
+E-MTAB-331	CM	IBD-01067	2			AZATHIOPRINE						Y																																																						1					
+E-MTAB-331	CM	IBD-01068	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01068	2			PREDNISOLONE						Y																																																						212					
+E-MTAB-331	CM	IBD-01068	3			6-MERCAPTOPURINE						Y						1		mg/kg																																														212					
+E-MTAB-331	CM	IBD-01068	4			MESALAMINE						Y																																																						284					
+E-MTAB-331	CM	IBD-01068	5			6-MERCAPTOPURINE						Y						1.5		mg/kg																																														284					
+E-MTAB-331	CM	IBD-01069	1			PREDNISOLONE						Y																																																						1					
+E-MTAB-331	CM	IBD-01070	1			TOPICAL THERAPY						Y																																																						1					
+E-MTAB-331	CM	IBD-01075	1			TOPICAL THERAPY						Y																																																						1					
+GSE22619	CM	IBD-03620	1			CORTICOSTEROIDS						Y																														N1																								1					
+GSE22619	CM	IBD-03620	2			IMMUNOMODULATOR						Y																														N1																								1					
+GSE22619	CM	IBD-03621	1			CORTICOSTEROIDS						Y																														N1																								1					
+GSE22619	CM	IBD-03621	2			IMMUNOMODULATOR						Y																														N1																								1					
