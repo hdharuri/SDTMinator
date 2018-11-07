@@ -1,4 +1,4 @@
-library(data.table)
+#library(data.table)
 
 source("./helper.R")
 fileName <- vector(mode="character",length=0)
@@ -37,22 +37,15 @@ server <- shinyServer(function(input, output,session) {
   observe({
     if (is.null(input$submit)) {return()}
     if (input$submit > 0) {
-      
-      
-      
       source(mainScript,local = TRUE)
       output$varselect <- renderUI({
         radioButtons("var", "File Type", choices = c("MetaData",fileName_base), select = "MetaData")
       })
-      
     }
-    
   })
   
   output$twotabs <- renderUI({
-    
     if (is.null(input$var)) {return(NULL)
-      
     } else if (input$var=='MetaData') {
       
       tabsetPanel (
@@ -67,8 +60,7 @@ server <- shinyServer(function(input, output,session) {
       filePath <- reactive({paste(dirname,f(),sep="/")})
       domainTabName <- filePath()
       tableNames <<- filePath()
-      
-      
+     
       tabs <- lapply(filePath(), function(nm) {
         domainTabName <- gsub("\\.txt$","",basename(nm))
         tabPanel(title=span(strong(domainTabName),style="color:#0099FF"),dataTableOutput(domainTabName)) #style='background-color:#DC143C'
@@ -76,7 +68,6 @@ server <- shinyServer(function(input, output,session) {
       )
       do.call(tabsetPanel, c(tabs))
     }
-  
   })
   observe({
     if (is.null(input$var)) {return(NULL)}
@@ -96,7 +87,5 @@ server <- shinyServer(function(input, output,session) {
         output[[domainTab]] <- renderDataTable(tableItself)
       })
     }
-    
   })
-
 })

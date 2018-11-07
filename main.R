@@ -1,5 +1,5 @@
 ###############################################################################################
-library(data.table)
+#library(data.table)
 # cdisc variables
 cdisc_variables <- "cdisc_domains_150301.txt"
 #bring in the cdisc variables

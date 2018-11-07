@@ -1,9 +1,4 @@
 library(data.table)
-#dfdata <- data
-#mapper_file <- mapper
-#associated <- associatedColumns
-#row_number <- row
-#MyList <- my.list
 
 rename_and_insert_with_associated_columns <- function (dfdata,mapper_file,associated,row_number,MyList,drop=TRUE) {
   
