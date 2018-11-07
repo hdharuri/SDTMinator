@@ -16,4 +16,4 @@ An application architecture for React
 
 ---
 
-![Flux Explained](https://github.com/hdharuri/SDTMinator/blob/master/Images/maintain_association_of_columns.png)
+![Alt text](/Images/maintain_association_of_columns.png?raw=true "Title")
