@@ -1,2 +1,0 @@
-Working_directory	Annotation_table	Mapper_file
-C:/Users/HDHARURI/Desktop/SVN_Harish2/CDISC_conversion/Converted/UC_public	UC_public_studies_patient.txt;UC_public_studies_surgery.txt;UC_public_studies_therapies.txt	UC_public_studies_MappingFile.txt
