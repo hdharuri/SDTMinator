@@ -10,6 +10,15 @@ getPrediction <- function(ptest) {
   
   p
 }
+
+getChiSqStatistic <- function(ptest1,ptest2) {
+  tab<- matrix(c(275,68,600,50),ncol=2,byrow=TRUE)
+  colnames(tab) <- c("control","case")
+  rownames(tab) <- c("hasVariant","doesNot")
+  test_result <- chisq.test(tab)
+  test_result
+}
+
 fileName <- vector(mode="character",length=0)
 fileName_base <- vector(mode="character",length=0)
 tableNames <- vector(mode="character",length=0)
