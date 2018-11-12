@@ -1,6 +1,15 @@
 #library(data.table)
-
+library(ggplot2)
 source("./helper.R")
+getPrediction <- function(ptest) {
+  pred <- unlist(strsplit(ptest,";"))
+  for (i in 1:length(pred)) {
+    eval(parse(text = pred[i]))
+  }
+  p <- eval(parse(text = pred[length(pred)]))
+  
+  p
+}
 fileName <- vector(mode="character",length=0)
 fileName_base <- vector(mode="character",length=0)
 tableNames <- vector(mode="character",length=0)
@@ -11,16 +20,22 @@ mainScript <- "./main.R"
 server <- shinyServer(function(input, output,session) {
   
   inFile <- reactive({
-    mfile <- input$file
-    #print("This is mfile")
-    #print(mfile)
+    #mfile <- input$file
+    mfile <- input$select
+    print("This is mfile")
+    print(mfile)
     if (is.null(mfile)){return(NULL)}
-    metaData_raw <- data.table(read.table(mfile$datapath,fill=TRUE,header=TRUE,sep="\t",comment.char = "",row.names=NULL,quote="\"",colClasses="character",check.names=TRUE))
-    metaData <<- metaDataNATOR(metaData_raw)
-   
-    fileName <<- unique(as.character(metaData[,1]))
-    fileName_base <<- basename(fileName)
-    metaData
+    #metaData_raw <- data.table(read.table(mfile$datapath,fill=TRUE,header=TRUE,sep="\t",comment.char = "",row.names=NULL,quote="\"",colClasses="character",check.names=TRUE))
+    if (mfile == "2") {
+      metaData_raw <- data.table(read.table("metaData.txt",fill=TRUE,header=TRUE,sep="\t",comment.char = "",row.names=NULL,quote="\"",colClasses="character",check.names=TRUE))
+      
+      metaData <<- metaDataNATOR(metaData_raw)
+      
+      fileName <<- unique(as.character(metaData[,1]))
+      fileName_base <<- basename(fileName)
+      metaData
+    }
+    
     
   })
   
@@ -88,4 +103,27 @@ server <- shinyServer(function(input, output,session) {
       })
     }
   })
+##*************************************************************************************************#  
+  h <- eventReactive(input$actionButton,{
+    req(input$actionButton)
+    getPrediction(input$caption)
+  })
+  
+  output$plot <- renderPlot({
+    #d <- as.numeric(lenCaption())
+    # d
+    h()
+  })
+  
+  ##*************************************************************************************************# 
+  
+  num <- eventReactive(input$action3,{
+    req(input$e2)
+    getChiSqStatistic(input$e0,input$e2)
+  })
+  output$ex_out <- renderPrint({
+    testResult <- paste0("ChiSq statistic: ",num()$statistic,"  ","p-value: ",num()$p.value)
+    testResult
+  })
+  
 })
