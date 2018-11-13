@@ -3,12 +3,14 @@
 Application suite to facilitate Precision Medicine
 
 ---?color=linear-gradient(to right, #cc4f50, #f0cb35)
-# @size[1.5em](OK)
-### Background
 
+
+### Background
+@size[1.0em](
 - Precision medicine: personalized treatment and prevention strategies by considering genetics, environment, and lifestyle of a patient
 - Structured clinical data will play a large role in the success or failure of precision medicine
 - Preprocessing of data will likely have as much importance if not more than algorithmic development
+)
 
 ---
 ---?color=linear-gradient(to right, #c02425, #f0cb35)
