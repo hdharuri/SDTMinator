@@ -17,7 +17,7 @@ Application suite to facilitate Precision Medicine
 - @color[#2a1560](Phewa-zer:) Combines genomics and clinical data to drive insights into genetic basis of disease
 
 ---?color=linear-gradient(to right, #d97b7c, #f9eaae)
-![Alt text](/Images/sdtm_domain_3.png?)
+![Alt text](/Images/sdtm_domain_4.png?)
 
 ---?color=linear-gradient(to right, #d97b7c, #f9eaae)
 ![Alt text](/Images/mapper_file_2.png?raw=true "Title")
