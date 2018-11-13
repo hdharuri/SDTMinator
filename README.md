@@ -29,6 +29,6 @@ The following image displays the various classes and the domains within these cl
 ![Alt text](/Images/maintain_association_of_columns.png?raw=true "Title")
 
 ###	The mapper file
-![Alt text](/Images/mapper_file.png?raw=true "Title")
+![Alt text](/Images/mapper_file_2.png?raw=true "Title")
 
 
