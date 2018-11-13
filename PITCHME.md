@@ -1,8 +1,9 @@
 ---?color=linear-gradient(to right, #d97b7c, #f9eaae)
-## Clinical-Next
+# Clinical-Next
 Application suite to facilitate Precision Medicine
 
 ---?color=linear-gradient(to right, #cc4f50, #f0cb35)
+# @size[1.5em](OK)
 ### Background
 
 - Precision medicine: personalized treatment and prevention strategies by considering genetics, environment, and lifestyle of a patient
