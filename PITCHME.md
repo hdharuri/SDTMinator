@@ -18,4 +18,4 @@ Application suite to facilitate Precision Medicine
 
 ---?color=linear-gradient(to right, #d97b7c, #f9eaae)
 
-![Alt text](/Images/mapper_file.png?raw=true "Title")
+![Alt text](/Images/mapper_file_2.png?raw=true "Title")
