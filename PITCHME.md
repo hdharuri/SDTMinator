@@ -6,15 +6,15 @@ Application suite to facilitate Precision Medicine
 ---?color=linear-gradient(to right, #d97b7c, #f9eaae)
 @size[2.0em](Background)
 
-- Precision medicine: personalized treatment and prevention strategies by considering genetics, environment, and lifestyle of a patient
+- Precision medicine: strategy that combines genetics, environment, and lifestyle towards personalized treatment & diagnosis
 - Structured clinical data will play a large role in the success or failure of precision medicine
-- Preprocessing of data will likely have as much importance if not more than algorithmic development
+- Data preprocessing of equal if not more important than algorithmic development
 
 ---?color=linear-gradient(to right, #d97b7c, #f9eaae)
 @size[2.0em](What does Clinical-Next do?)
-- SDTMinator: Maps legacy clinical datasets to the SDTM format using a rule-based system designed as part of this project
+- SDTMinator: Maps legacy clinical datasets to the SDTM format
 - Pheno-Analyzer:Language agnostic clinical data query interface
-- Phewa-zer:Combines genomics and clinical data to drive insights into genetic basis of disease
+- @color[#351a78](Phewa-zer:) Combines genomics and clinical data to drive insights into genetic basis of disease
 
 ---?color=linear-gradient(to right, #d97b7c, #f9eaae)
 
