@@ -6,8 +6,8 @@ Application suite to facilitate Precision Medicine
 
 
 ### Background
-# @size[1.0em]()
-- Precision medicine: personalized treatment and prevention strategies by considering genetics, environment, and lifestyle of a patient
+
+- @size[3.0em](Precision medicine: personalized treatment and prevention strategies by considering genetics, environment, and lifestyle of a patient)
 - Structured clinical data will play a large role in the success or failure of precision medicine
 - Preprocessing of data will likely have as much importance if not more than algorithmic development
 
