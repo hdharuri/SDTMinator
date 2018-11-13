@@ -3,7 +3,7 @@
 
 Application suite to facilitate Precision Medicine
 
----?color=linear-gradient(to right, #c02425, #f0cb35)
+---?color=linear-gradient(to right, #cc4f50, #f0cb35)
 ### Background
 
 - Precision medicine: personalized treatment and prevention strategies by considering genetics, environment, and lifestyle of a patient
