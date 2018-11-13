@@ -1,25 +1,18 @@
-https://www.youtube.com/watch?v=0h9VOQZX6QM
-
 sudo apt-get update
 sudo apt-get install r-base
-sudo su - \
--c "R -e \"install.packages('shiny', repos='https://cran.rstudio.com/')\""
-
 sudo su - -c "R -e \"install.packages(c('shiny','ggplot2', 'data.table','shinythemes'), repos='http://cran.rstudio.com/')\""
-
 sudo apt-get install gdebi-core
-
-
 wget https://download3.rstudio.org/ubuntu-14.04/x86_64/shiny-server-1.5.9.923-amd64.deb
-
 sudo gdebi shiny-server-1.5.9.923-amd64.deb
+sudo git clone https://github.com/hdharuri/SDTMinator.git
+sudo mv SDTMinator /srv/shiny-server/.
 
-
-# shiny server will be here; therefore move SDTMinator in this folder
-Cd /srv/shiny-server/
-
-EC2 Configuration
+########################################################################
+#####. EC2 Configuration
 Storage
 Default is 8 GiB, change this to 16GiB
 Configure security Group:
 Ssh; http (anywhere), https (anywhere), CustomTCP 3838 Anywhere Default R Shiny port
+
+################################# Miscellaneous
+https://www.youtube.com/watch?v=0h9VOQZX6QM
