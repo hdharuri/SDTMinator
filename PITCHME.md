@@ -1,14 +1,22 @@
-# Flux 
+# Clinical-Next 
 
-An application architecture for React
+Application suite to facilitate Precision Medicine
 
 ---
 
-### Flux Design
+### Background
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- Precision medicine: personalized treatment and prevention strategies by considering genetics, environment, and lifestyle of a patient
+- Structured clinical data will play a large role in the success or failure of precision medicine
+- Preprocessing of data will likely have as much importance if not more than algorithmic development
+
+---
+
+### What does Clinical-Next do?
+
+- SDTMinator: 
+- Pheno-Analyzer:
+- Phewa-zer:
 
 ---
 
