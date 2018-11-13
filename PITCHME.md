@@ -4,7 +4,7 @@
 Application suite to facilitate Precision Medicine
 
 ---
-
+---?color=linear-gradient(to right, #c02425, #f0cb35)
 ### Background
 
 - Precision medicine: personalized treatment and prevention strategies by considering genetics, environment, and lifestyle of a patient
@@ -12,7 +12,7 @@ Application suite to facilitate Precision Medicine
 - Preprocessing of data will likely have as much importance if not more than algorithmic development
 
 ---
-
+---?color=linear-gradient(to right, #c02425, #f0cb35)
 ### What does Clinical-Next do?
 
 - SDTMinator: 
