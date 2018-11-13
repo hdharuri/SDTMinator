@@ -1,4 +1,4 @@
----?color=linear-gradient(to right, #d97b7c, #f0cb35)
+---?color=linear-gradient(to right, #d97b7c, #f4da71)
 # Clinical-Next 
 
 Application suite to facilitate Precision Medicine
