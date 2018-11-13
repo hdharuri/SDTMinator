@@ -11,10 +11,10 @@ Application suite to facilitate Precision Medicine
 - Data preprocessing of equal if not more important than algorithmic development
 
 ---?color=linear-gradient(to right, #d97b7c, #f9eaae)
-@size[2.0em](What does Clinical-Next do?)
-- SDTMinator: Maps legacy clinical datasets to the SDTM format
-- Pheno-Analyzer:Language agnostic clinical data query interface
-- @color[#351a78](Phewa-zer:) Combines genomics and clinical data to drive insights into genetic basis of disease
+@size[2.0em](What is Clinical-Next?)
+- @color[#2a1560](SDTMinator:) Maps legacy clinical datasets to the SDTM format
+- @color[#2a1560](Pheno-Analyzer:) Language agnostic clinical data query interface
+- @color[#2a1560](Phewa-zer:) Combines genomics and clinical data to drive insights into genetic basis of disease
 
 ---?color=linear-gradient(to right, #d97b7c, #f9eaae)
 
