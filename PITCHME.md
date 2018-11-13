@@ -3,7 +3,6 @@
 
 Application suite to facilitate Precision Medicine
 
----
 ---?color=linear-gradient(to right, #c02425, #f0cb35)
 ### Background
 
