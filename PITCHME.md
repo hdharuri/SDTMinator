@@ -18,8 +18,4 @@ Application suite to facilitate Precision Medicine
 
 ---?color=linear-gradient(to right, #d97b7c, #f9eaae)
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
-
----?color=linear-gradient(to right, #d97b7c, #f9eaae)
-
-![Alt text](/Images/maintain_association_of_columns.png?raw=true "Title")
+![Alt text](/Images/mapper_file.png?raw=true "Title")
