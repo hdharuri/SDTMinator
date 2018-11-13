@@ -1,5 +1,5 @@
 ---?color=linear-gradient(to right, #d97b7c, #f9eaae)
-# @size[1.0em](Clinical-Next)
+@size[2.0em](Clinical-Next)
 Application suite to facilitate Precision Medicine
 
 ---?color=linear-gradient(to right, #cc4f50, #f0cb35)
