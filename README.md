@@ -17,7 +17,7 @@ Special-purpose domains
 
 The following image displays the various classes and the domains within these classes:
 
-![Alt text](/Images/sdtm_domains_4.png?raw=true "Title")
+![Alt text](/Images/sdtm_domain_4.png?raw=true "Title")
 
 
 ###	Strategy to map raw clinical dataset to the SDTM format
