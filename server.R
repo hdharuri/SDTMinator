@@ -31,21 +31,15 @@ server <- shinyServer(function(input, output,session) {
   inFile <- reactive({
     #mfile <- input$file
     mfile <- input$select
-    print("This is mfile")
-    print(mfile)
     if (is.null(mfile)){return(NULL)}
     #metaData_raw <- data.table(read.table(mfile$datapath,fill=TRUE,header=TRUE,sep="\t",comment.char = "",row.names=NULL,quote="\"",colClasses="character",check.names=TRUE))
     if (mfile == "2") {
       metaData_raw <- data.table(read.table("metaData.txt",fill=TRUE,header=TRUE,sep="\t",comment.char = "",row.names=NULL,quote="\"",colClasses="character",check.names=TRUE))
-      
       metaData <<- metaDataNATOR(metaData_raw)
-      
       fileName <<- unique(as.character(metaData[,1]))
       fileName_base <<- basename(fileName)
       metaData
     }
-    
-    
   })
   
   output$varselect <- renderUI({

@@ -1,10 +1,8 @@
 library(data.table)
 
 rename_and_insert_with_associated_columns <- function (dfdata,mapper_file,associated,row_number,MyList,drop=TRUE) {
-  
   data_copy <- dfdata
   mapper <- mapper_file
-  
   Study.ID <- mapper[grep("^STUDYID",mapper[,3]),1]
   name_of_domain <- mapper[row_number,2]
   
@@ -38,8 +36,6 @@ rename_and_insert_with_associated_columns <- function (dfdata,mapper_file,associ
   ## BEWARE, if fixedColumn* is empty do the needful
   
   domains_withOut_Identifier <- c("TV","TD","TI","PB")
-  
-  
   
   if (name_of_domain %in% domains_withOut_Identifier) {
     fixedColumnNames <- c("STUDYID")
@@ -184,8 +180,6 @@ rename_and_insert_with_associated_columns <- function (dfdata,mapper_file,associ
       }
       
     }
-    
-    
     ## Take care of the FA table
     ascertainFAisPopulated <- vector(mode="character",length=length(myListFA)) # this will contain TRUE/FALSE values, TRUE if it has value, FALSE if it is empty
     for (l in 1:length(myListFA)) {ascertainFAisPopulated[l] <- !length(myListFA[[l]])==0}
@@ -246,49 +240,33 @@ determine_associated_columns <- function(mapperFile) {
 ######################################################################################################
 ## Insert transformed data into SDTM table
 insert_into_sdtm_table <- function (df_temp,MYList,mapper_file,row_number,drop=TRUE) {
-  
   data_copy <- df_temp
   mapper <- mapper_file
   name_of_domain <- mapper[row_number,2]
   testList <- MYList
   domainIndc <- which(names(testList)==name_of_domain)
-  
   ## temporary sdtm table
   df_sdtm_temp <- data.frame(matrix(NA,nrow=dim(data_copy)[1],ncol=dim(testList[[domainIndc]])[2]),stringsAsFactors=FALSE)
   colnames(df_sdtm_temp) <- colnames(testList[[domainIndc]])
-  
   df_sdtm_temp[colnames(data_copy)] <- data_copy
-  
-  
   t1 <- testList[[domainIndc]] # t1 contains the domain table, could be empty/populated already
-  
-  
-  
+
   if (length(unique(colnames(data_copy) %in% colnames(t1))) > 1) { ## this is a boolean test, if there is both TRUE and FALSE, the length will be greater than 1 which is not right
     test1 <-  colnames(data_copy)[!colnames(data_copy) %in% colnames(t1)]
-    
     print(test1)
     stop("ERROR: VARIABLE NAME NOT DEFINED IN CDISC!!!")
-    
   }
   ascertain_if_columns_are_na <- as.data.frame(unique(is.na(t1[colnames(data_copy)])))
-  
   ascertain_if_columns_are_na <- ascertain_if_columns_are_na[!c(colnames(ascertain_if_columns_are_na) %in% c("STUDYID","USUBJID"))] # if the column has already been populated this will have a dim[1] of 1 and a value of TRUE
-  
   if (dim(t1)[1]==0) {
     testList[[domainIndc]] <- df_sdtm_temp
-    
   }
-  
   else if (length(unique(as.character(ascertain_if_columns_are_na[1,])))==1  && unique(as.character(ascertain_if_columns_are_na[1,]))==TRUE) {
-    
     t1[colnames(data_copy)] <- data_copy
     testList[[domainIndc]] <- t1
   }
   else {testList[[domainIndc]] <- rbind(testList[[domainIndc]],df_sdtm_temp)}
-  
   return(testList[[domainIndc]])
-  
 }
 ##########################################
 remove_empty_or_null_and_duplicate_rows <- function(populatedList) {
@@ -322,50 +300,37 @@ remove_empty_or_null_and_duplicate_rows <- function(populatedList) {
 #####################################################################
 create_seq <- function (populatedList) {
   testList <- populatedList
-  
   for (j in 1:length(testList)) { 
     domainName <- names(testList[j])
     if (!dim(testList[[j]])[1]==0 & !domainName %in% c("DM","TV","TD","TI","RELSUB")) { # These domains do not contain SEQ (for future work store these somewhere and read it in)
-      
       t1 <- testList[[j]]
       ## to build the SEQ the USUBJID has to be ordered first, some domains that do not have USUBJID have to be ordered based on another variable
       ## these are provided below
-      
       if (domainName %in% c("DI","DO","DT")) {
         t1 <- t1[with(t1, order(SPDEVID)), ]
         colNumberForIdentifier <- which(colnames(t1)=="SPDEVID")
-        
       } else if (domainName=="TS") {
         t1 <- t1[with(t1, order(TSPARMCD)), ]
         colNumberForIdentifier <- which(colnames(t1)=="TSPARMCD")
-        
       }else if (!length(grep("^AP..$",domainName))==0) {
         t1 <- t1[with(t1, order(APID)), ]
         colNumberForIdentifier <- which(colnames(t1)=="APID")
-        
       }else {
         t1 <- t1[with(t1, order(USUBJID)), ]
         colNumberForIdentifier <- which(colnames(t1)=="USUBJID")
       }
-      
-      
       row.names(t1) <- NULL
       
       # if t1 is an AP domain, we need to consider the parent domain for SEQ purposes, for example, the domainName should be MH for APMH
       if (!length(grep("^AP..$",domainName))==0) {
         domainName <- gsub("AP(..)$","\\1",domainName)
       }
-      
       colName_astSeq <- paste(domainName,"SEQ",sep="") # For example LB + SEQ = LBSEQ
-      
-      
-      
       for(i in unique(t1[,colNumberForIdentifier])) {
         t1[which(t1[,colNumberForIdentifier]==i),which(colnames(t1)==colName_astSeq)] <- seq(1:length(which(t1[,colNumberForIdentifier]==i))) 
       }
       testList[[j]] <- t1
     }
-    
   }
   return(testList) 
 }
@@ -498,18 +463,13 @@ generate_supplementary_tables <- function(MetaTable,MyList) {
         supp_table_temp <- supp_table_temp[-which((supp_table_temp$IDVAR=="" | is.na(supp_table_temp$IDVAR)) & (supp_table_temp$QNAM=="" | is.na(supp_table_temp$QNAM))),]
       }
       
-      
       testList[[domainIndcSupp]] <- supp_table_temp
       names(testList)[domainIndcSupp] <-  name_of_supp_domain
       ## re-insert the changed parent domain
       testList[[domainIndc]] <- parentDomain
-      
-      
     }
     
     return(testList)
-    
-    
   }
   
 }
@@ -526,8 +486,6 @@ suppTableForAssociated <- function(ListSUPP,elements_in_notes,data,domainName,ma
   if (!domainName=="DM") {
     pivot_attribute_value[indc_na_or_empty] <- data[indc_na_or_empty,colnames(data) %in% mainVariableName]
   }
-  
-  
   if (length(ListSUPP[[which(names(ListSUPP)==rename_header_to_AC )]])==0) {
     ListSUPP[[which(names(ListSUPP)==rename_header_to_AC )]] <- pivot_attribute_value
   } else {
@@ -537,9 +495,7 @@ suppTableForAssociated <- function(ListSUPP,elements_in_notes,data,domainName,ma
   ## Now the Inserts
   insertion_header_AC <-   gsub("^Insert:(.*),Val.*$", "\\1", elements_in_notes[grep("Insert",elements_in_notes)], perl=T)
   insertion_value_AC <-   gsub("^Insert:.*,Val=(.*)$", "\\1", elements_in_notes[grep("Insert",elements_in_notes)], perl=T)
-  
-  
-  
+
   if (!length(insertion_header_AC)==0) {
     for (j in 1:length(insertion_header_AC)) {
       
@@ -609,27 +565,17 @@ split_semicolon_values_recreate_dataframe <- function(MyList) {
         if (!length(which(numberOfEmptyElements==length(colNamesToBeConsidered)))==0) {
           supp_SemiColon_temp <- supp_SemiColon_temp[-which(numberOfEmptyElements==length(colNamesToBeConsidered)),]
         }
-        
-        
-        
         ## Now bring together the two data frames (rows without semicolons and reshaped rows with semicolons)
         suppDM_rowsWithOUTSemiColon <- suppDM[-rowsWithSemiColon,]
-        
         colnames(supp_SemiColon_temp) <- colnames(suppDM_rowsWithOUTSemiColon)
-        
         suppDM_Final <- rbind(suppDM_rowsWithOUTSemiColon,supp_SemiColon_temp)
-        
         suppDM_Final <- suppDM_Final[with(suppDM_Final, order(USUBJID,IDVARVAL)), ]
         
         # remove duplicate values
         if (!length(which(duplicated(suppDM_Final)))==0) {
           suppDM_Final <- suppDM_Final[-which(duplicated(suppDM_Final)),]
-          
         }
-        
         testList[[suppDomainIndc[j]]] <- suppDM_Final
-        
-        
       }
       
     }

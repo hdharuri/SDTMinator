@@ -131,8 +131,8 @@ for (mRow in 1:dim(metaData)[1]) {
   my.list <- remove_NA_values(my.list)
   my.list <- insert_subjID(data,mapper,my.list,domains)
  # my.list <- populate_decod_for_condition(my.list,domains)
-  outputFile <- paste0(workingDirectory,"/Tables")
-  write_tables_to_folder(my.list,folder=outputFile) 
+  #outputFile <- paste0(workingDirectory,"/Tables")
+  #write_tables_to_folder(my.list,folder=outputFile) 
   
   
 }
