@@ -6,9 +6,9 @@ Application suite to facilitate Precision Medicine
 ---?color=linear-gradient(to right, #d97b7c, #f9eaae)
 @size[2.0em](Background)
 
-- Precision medicine: strategy that combines genetics, environment, and lifestyle towards personalized treatment & diagnosis
+- @color[#2a1560](Precision medicine:) strategy that combines genetics, environment, and lifestyle towards personalized treatment & diagnosis
 - Structured clinical data will play a large role in the success or failure of precision medicine
-- Data preprocessing of equal if not more important than algorithmic development
+- Data preprocessing as important as algorithmic development
 
 ---?color=linear-gradient(to right, #d97b7c, #f9eaae)
 @size[2.0em](What is Clinical-Next?)
