@@ -34,7 +34,7 @@ fluidPage(
 )
 
 ),
-tabPanel(div(strong(h3("PhenoAnalyzer")),style="color:darkblue"), 
+tabPanel(div(strong(h3("Pheno-Analyzer")),style="color:darkblue"), 
          
          fluidPage(
            # App title ----
@@ -89,7 +89,7 @@ p4 +  labs(title="Query: Non-protocol driven medication across studies",subtitle
          
          ),
 
-tabPanel(div(strong(h3("PheGen-Analyzer")),style="color:darkblue"), 
+tabPanel(div(strong(h3("Phewa-zer")),style="color:darkblue"), 
          # App title ----
          titlePanel(span(strong("PheGen-Analyzer"),style="color:orange")),
          
