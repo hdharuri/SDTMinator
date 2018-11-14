@@ -18,7 +18,9 @@ Application suite to facilitate Precision Medicine
 
 ---?color=linear-gradient(to right, #d97b7c, #f9eaae)
 @size[2.0em](Data sources)
-- 
+- Gene Expression OmniBus (GEO)
+- Unified Medical Language Systems(UMLS)
+- Clinical Data Interchange Standards Consortium (CDISC)
 
 ---?color=linear-gradient(to right, #d97b7c, #f9eaae)
 ![Alt text](/Images/sdtm_domain_4.png?)
